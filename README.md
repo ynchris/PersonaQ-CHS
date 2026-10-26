@@ -18,7 +18,7 @@
 
 详见补丁包内的 `说明.txt`。需要 Windows 和至少 6 GB 硬盘空间。
 
-## 仓库内容
+## Repo内容
 - `scripts/`：提取、编译、字库、贴图、封包和补丁制作脚本（Python）。
 - `translation/text/`：译文（仅中文）。`messages/` 按原始资源文件分开，`tables.json` 为菜单表格。
 - `translation/docs/`：工作记录、术语表、复用约定等文档。
