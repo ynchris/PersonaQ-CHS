@@ -2,7 +2,7 @@
 
 作者：ynChris（汉化老兵）
 
-《女神异闻录Q 暗影迷宫》（ペルソナQ シャドウ オブ ザ ラビリンス，3DS 日版）的简体中文汉化，包含本体、2.3.0 更新和全部 DLC。
+《女神异闻录Q 暗影迷宫》的简体中文汉化，包含本体、2.3.0 更新和全部 DLC。
 
 **当前为测试版 589**：文本已基本译完，尚未完整通关验证。欢迎在 Issues 反馈排版、漏译和错字。
 
@@ -29,10 +29,4 @@
 ## 字体
 游戏内中文字形使用 [方正FW轻吟体B](https://www.foundertype.com/index.php/FontInfo/index/id/4985) 生成。字体文件不包含在本仓库中，请自行获取授权。
 
-## 致谢
-- [女神异闻录Q2 汉化](https://github.com/Qi-Busiyi-Hanhuazu/PersonaQ2ChsLocalization)（奇-不思议汉化组）：部分译名与译文参考、复用二代汉化，并参考其字库和工具方案
-- [3dstool](https://github.com/dnasdw/3dstool)，作者：Sun Daowen
-- [Project_CTR](https://github.com/3DSGuy/Project_CTR)（ctrtool / makerom），作者：3DSGuy
-- [xdelta](https://github.com/jmacd/xdelta)，作者：Joshua MacDonald
-- [Atlus-Script-Tools](https://github.com/tge-was-taken/Atlus-Script-Tools)，作者：tge-was-taken
-- CRI File System Tools
+
