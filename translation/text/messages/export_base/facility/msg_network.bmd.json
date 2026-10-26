@@ -1,0 +1,297 @@
+[
+ {
+  "key": "export_base/facility/msg_network.bmd.json:0:0",
+  "message_id": "FCL_NETWORK_MSG_YN",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:0:1",
+  "message_id": "FCL_NETWORK_MSG_YN",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:1:0",
+  "message_id": "FCL_NETWORK_SETTING",
+  "translation": "{F2 05 FF FF}{F1 41}＞登记擦肩通信后，\n　就能与擦肩而过的玩家\n　“交换擦肩手册”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:1:1",
+  "message_id": "FCL_NETWORK_SETTING",
+  "translation": "{F2 05 FF FF}{F1 41}＞要在任天堂３ＤＳ主机上\n　登记《女神异闻录Ｑ》的\n　擦肩通信吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:2:0",
+  "message_id": "FCL_NETWORK_SETTING_SUCC",
+  "translation": "{F2 05 FF FF}{F1 41}＞已在任天堂３ＤＳ主机上\n　登记《女神异闻录Ｑ》的擦肩通信。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:2:1",
+  "message_id": "FCL_NETWORK_SETTING_SUCC",
+  "translation": "{F2 05 FF FF}{F1 41}＞即使结束游戏，\n　擦肩通信也会自动进行。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:2:2",
+  "message_id": "FCL_NETWORK_SETTING_SUCC",
+  "translation": "{F2 05 FF FF}{F1 41}＞在ＨＯＭＥ菜单选择“主机设置”，\n　进入“数据管理”的“擦肩通信管理”，\n　即可停用擦肩通信。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:3:0",
+  "message_id": "FCL_NETWORK_SETTING_EXIS",
+  "translation": "{F2 05 FF FF}{F1 41}＞《女神异闻录Ｑ》的擦肩通信\n　已经登记过了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:3:1",
+  "message_id": "FCL_NETWORK_SETTING_EXIS",
+  "translation": "{F2 05 FF FF}{F1 41}＞若要停用擦肩通信，\n　请在ＨＯＭＥ菜单选择“主机设置”，\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:3:2",
+  "message_id": "FCL_NETWORK_SETTING_EXIS",
+  "translation": "{F2 05 FF FF}{F1 41}＞进入“数据管理”的“擦肩通信管理”，\n　即可停用。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:4:0",
+  "message_id": "FCL_NETWORK_SETTING_FULL",
+  "translation": "{F2 05 FF FF}{F1 41}＞任天堂３ＤＳ主机已无法\n　登记更多擦肩通信。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:4:1",
+  "message_id": "FCL_NETWORK_SETTING_FULL",
+  "translation": "{F2 05 FF FF}{F1 41}＞请在“主机设置”的“擦肩通信管理”中，\n　停用其他软件的\n　擦肩通信。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:5:0",
+  "message_id": "FCL_NETWORK_SETTING_EULA",
+  "translation": "{F2 05 FF FF}{F1 41}＞要使用擦肩通信，\n　需要同意\n　最新的使用条款。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:5:1",
+  "message_id": "FCL_NETWORK_SETTING_EULA",
+  "translation": "{F2 05 FF FF}{F1 41}＞请在主机设置中选择“互联网设置”⇒\n　“其他信息”⇒“确认使用条款”，\n　同意最新的使用条款。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:6:0",
+  "message_id": "FCL_NETWORK_SETTING_PARE",
+  "translation": "{F2 05 FF FF}{F1 41}＞由于家长限制了\n　“与其他用户的擦肩通信”，\n　无法使用擦肩通信。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:7:0",
+  "message_id": "FCL_NETWORK_QR_ALERT",
+  "translation": "{F2 05 FF FF}{F1 41}＞请勿将令人不快、侵犯他人权利的文字，\n　或涉及自己与他人的私人信息，\n　发送给他人或公开发布\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:8:0",
+  "message_id": "FCL_NETWORK_QR_MAKE",
+  "translation": "{F2 05 FF FF}{F1 41}＞将自己的擦肩手册ＱＲ码及\n　图像数据输出到ＳＤ卡。\n　若已有数据，将覆盖原有数据。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:8:1",
+  "message_id": "FCL_NETWORK_QR_MAKE",
+  "translation": "{F2 05 FF FF}{F1 41}＞确定输出到ＳＤ卡吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:9:0",
+  "message_id": "FCL_NETWORK_QR_SD_WRITIN",
+  "translation": "{F2 05 FF FF}{F1 41}＞正在写入ＳＤ卡\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:10:0",
+  "message_id": "FCL_NETWORK_QR_SD_NONE",
+  "translation": "{F2 05 FF FF}{F1 41}＞未插入ＳＤ卡。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:11:0",
+  "message_id": "FCL_NETWORK_QR_SD_SHORTA",
+  "translation": "{F2 05 FF FF}{F1 41}＞ＳＤ卡剩余容量不足。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:12:0",
+  "message_id": "FCL_NETWORK_QR_SD_PHOTO_",
+  "translation": "{F2 05 FF FF}{F1 41}＞ＳＤ卡中的照片数量已满，\n　无法保存。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:13:0",
+  "message_id": "FCL_NETWORK_QR_SD_ERROR",
+  "translation": "{F2 05 FF FF}{F1 41}＞无法识别ＳＤ卡。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:14:0",
+  "message_id": "FCL_NETWORK_QR_MAKE_SUCC",
+  "translation": "{F2 05 FF FF}{F1 41}＞ＱＲ码图像数据已输出至\n　ＤＣＩＭ／１００ＮＩＮ０３。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:15:0",
+  "message_id": "FCL_NETWORK_QR_LOAD",
+  "translation": "{F2 05 FF FF}{F1 41}＞请用外侧摄像头拍摄\n　《女神异闻录Ｑ》的ＱＲ码。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:16:0",
+  "message_id": "FCL_NETWORK_QR_LOAD_SUCC",
+  "translation": "{F2 05 FF FF}{F1 41}＞要登记这本擦肩手册吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:17:0",
+  "message_id": "FCL_NETWORK_QR_SAVING",
+  "translation": "{F2 05 FF FF}{F1 41}＞正在保存读取的擦肩手册\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:18:0",
+  "message_id": "FCL_NETWORK_QR_INVALID_D",
+  "translation": "{F2 05 FF FF}{F1 41}＞这不是《女神异闻录Ｑ》\n　的ＱＲ码。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:19:0",
+  "message_id": "FCL_NETWORK_QR_DECODE_ER",
+  "translation": "{F2 05 FF FF}{F1 41}＞无法识别ＱＲ码。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:20:0",
+  "message_id": "FCL_NETWORK_INBOX_RECEIV",
+  "translation": "{F2 05 FF FF}{F1 41}＞要接收新的擦肩手册吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:21:0",
+  "message_id": "FCL_NETWORK_INBOX_CHECKI",
+  "translation": "{F2 05 FF FF}{F1 41}＞正在确认\n　擦肩通信的数据。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:22:0",
+  "message_id": "FCL_NETWORK_PERSONA_DELE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 19 01}这本擦肩手册，丢掉可以吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:23:0",
+  "message_id": "FCL_NETWORK_PERSONA_DELE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 0A 01}要处理掉这本擦肩手册，\n可以吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:24:0",
+  "message_id": "FCL_NETWORK_PERSONA_SUMM",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 19 01}召唤这个人格面具，\n需要{F2 44 01 01}日元，\n可以吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:25:0",
+  "message_id": "FCL_NETWORK_PERSONA_SUMM",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 0A 01}召唤这个人格面具，\n需要{F2 44 01 01}日元。\n可以吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:26:0",
+  "message_id": "FCL_NETWORK_PERSONA_SUMM",
+  "translation": "{F2 05 FF FF}{F1 41}＞召唤了人格面具\n　“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:27:0",
+  "message_id": "FCL_NETWORK_PERSONA_EXIS",
+  "translation": "{F2 05 FF FF}{F1 41}这个人格面具你已经有了哦。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:28:0",
+  "message_id": "FCL_NETWORK_PERSONA_EXIS",
+  "translation": "{F2 05 FF FF}{F1 41}这个人格面具，\n您已经拥有了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:29:0",
+  "message_id": "FCL_NETWORK_PERSONA_MONE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 1B 01}想召唤这个人格面具，\n你的钱不够哦。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:30:0",
+  "message_id": "FCL_NETWORK_PERSONA_MONE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 0C 01}要召唤这个人格面具，\n您的钱似乎还不够…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:31:0",
+  "message_id": "FCL_NETWORK_PERSONA_STOC",
+  "translation": "{F2 05 FF FF}{F1 41}你拿不下更多人格面具了哦。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:32:0",
+  "message_id": "FCL_NETWORK_PERSONA_STOC",
+  "translation": "{F2 05 FF FF}{F1 41}似乎无法再持有\n更多人格面具了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:33:0",
+  "message_id": "FCL_NETWORK_PERSONA_LV_M",
+  "translation": "{F2 05 FF FF}{F1 41}想召唤这个人格面具，\n你的等级不够哦。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:34:0",
+  "message_id": "FCL_NETWORK_PERSONA_LV_E",
+  "translation": "{F2 05 FF FF}{F1 41}若要创造这个人格面具，\n您的等级似乎\n还不够呢。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:35:0",
+  "message_id": "FCL_NETWORK_ATTACH_M",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 19 01}确定选这个人格面具？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:36:0",
+  "message_id": "FCL_NETWORK_ATTACH_E",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 02 01}确定选择这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:37:0",
+  "message_id": "FCL_NETWORK_INPUT_ATTENT",
+  "translation": "{F2 05 FF FF}{F1 41}＞请勿填写个人信息，\n　或令收到的人感到不快的内容。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:38:0",
+  "message_id": "FCL_NETWORK_INPUT_NGWORD",
+  "translation": "{F2 05 FF FF}{F1 41}＞内容不恰当。\n　请重新输入。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:39:0",
+  "message_id": "FCL_NETWORK_INPUT_NUMBER",
+  "translation": "{F2 05 FF FF}{F1 41}＞最多只能输入５个数字。\n　请重新输入。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:40:0",
+  "message_id": "FCL_NETWORK_NAME_OPEN",
+  "translation": "{F2 05 FF FF}{F1 41}＞要公开主角的名字吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:41:0",
+  "message_id": "FCL_NETWORK_NAME_OPEN_SE",
+  "translation": "{F2 05 FF FF}{F1 41}公开{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:41:1",
+  "message_id": "FCL_NETWORK_NAME_OPEN_SE",
+  "translation": "{F2 05 FF FF}{F1 41}不公开{00}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:42:0",
+  "message_id": "FCL_NETWORK_EDIT_SAVE",
+  "translation": "{F2 05 FF FF}{F1 41}＞擦肩手册的内容\n　已更新。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:42:1",
+  "message_id": "FCL_NETWORK_EDIT_SAVE",
+  "translation": "{F2 05 FF FF}{F1 41}＞要保存游戏，\n　将更新应用于擦肩通信吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:43:0",
+  "message_id": "FCL_NETWORK_EDIT_CANCEL",
+  "translation": "{F2 05 FF FF}{F1 41}＞将不把更新内容应用于擦肩通信，\n　并结束编辑。\n　可以吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:44:0",
+  "message_id": "FCL_NETWORK_NOT_EDIT_PER",
+  "translation": "{F2 05 FF FF}{F1 41}这个人格面具是你们独有的哦。\n好像不能用于和\n“不在这里的世界”通信。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:44:1",
+  "message_id": "FCL_NETWORK_NOT_EDIT_PER",
+  "translation": "{F2 05 FF FF}{F1 41}重新选一个人格面具吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:45:0",
+  "message_id": "FCL_NETWORK_NOT_EDIT_PER",
+  "translation": "{F2 05 FF FF}{F1 41}这个人格面具十分特殊…\n似乎不能用于和\n“不在这里的世界”通信。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_network.bmd.json:45:1",
+  "message_id": "FCL_NETWORK_NOT_EDIT_PER",
+  "translation": "{F2 05 FF FF}{F1 41}请选择其他人格面具。\n{F1 21}{00}"
+ }
+]

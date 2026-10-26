@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_base/event/e800/e829_997.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 39 05}啊，对了！\n伊丽莎白小姐有话要我转告！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e829_997.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}她说限时委托里，\n是不是还有\n没完成的？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e829_997.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}如果要回来做准备，\n记得顺便确认一下哦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e829_997.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞回到校内后，\n　去保健室确认一下吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

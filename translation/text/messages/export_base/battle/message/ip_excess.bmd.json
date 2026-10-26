@@ -1,0 +1,47 @@
+[
+ {
+  "key": "export_base/battle/message/ip_excess.bmd.json:0:0",
+  "message_id": "IP_EXCESS_YESNO",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/battle/message/ip_excess.bmd.json:0:1",
+  "message_id": "IP_EXCESS_YESNO",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/battle/message/ip_excess.bmd.json:1:0",
+  "message_id": "IP_EXCESS_ITEM",
+  "translation": "{F2 05 FF FF}{F1 41}＞丢弃选中的道具。\n　确定吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/ip_excess.bmd.json:2:0",
+  "message_id": "IP_EXCESS_PERSONA",
+  "translation": "{F2 05 FF FF}{F1 41}＞将会消灭“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”。\n　确定吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/ip_excess.bmd.json:3:0",
+  "message_id": "IP_EXCESS_PERSONA_BUSY",
+  "translation": "{F2 05 FF FF}{F1 41}＞将会消灭正在装备中的\n　人格面具“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”。\n　确定吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/ip_excess.bmd.json:4:0",
+  "message_id": "IP_EXCESS_PERSONA_END",
+  "translation": "{F2 05 FF FF}{F1 41}＞人格面具“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”\n　从意识中消失了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/ip_excess.bmd.json:5:0",
+  "message_id": "IP_EXCESS_PERSONA_MULTI",
+  "translation": "{F2 05 FF FF}{F1 41}＞将会消灭选中的人格面具。\n　确定吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/ip_excess.bmd.json:6:0",
+  "message_id": "IP_EXCESS_PERSONA_BUSY_M",
+  "translation": "{F2 05 FF FF}{F1 41}＞将消除选中的人格面具。\n　其中包含正在装备的人格面具。\n　确定吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/ip_excess.bmd.json:7:0",
+  "message_id": "IP_EXCESS_PERSONA_END_MU",
+  "translation": "{F2 05 FF FF}{F1 41}＞选中的人格面具\n　从意识中消失了。\n{F1 21}{00}"
+ }
+]

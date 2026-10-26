@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/event/e100/e120_331.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞现在可以在天鹅绒房间\n　进行{F2 01 03 01}“三角合体”{F2 01 01 01}了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e120_331.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞现在可以在保健室\n　接受{F2 01 03 01}“委托”{F2 01 01 01}了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e120_331.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞菜单中追加了\n　{F2 01 03 01}“文化祭”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

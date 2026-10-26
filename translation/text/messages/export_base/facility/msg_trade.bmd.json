@@ -1,0 +1,467 @@
+[
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:0:0",
+  "message_id": "TSHOP_MSG_EITHER",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}是{F2 03 01 FF}的{F2 03 01 FF}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:0:1",
+  "message_id": "TSHOP_MSG_EITHER",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}不{F2 03 01 FF}需{F2 03 01 FF}要{F2 03 01 FF}{00}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:1:0",
+  "message_id": "TSHOP_ITEM_TRADE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}{F4 45 04 01 00 00 01 01}{F2 03 01 FF}，{F2 03 01 FF}要{F2 03 01 FF}换{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:8:0",
+  "message_id": "TSHOP_ADDNEW",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}哎{F2 03 01 FF}呀{F2 03 01 FF}，{F2 03 01 FF}欢{F2 03 01 FF}迎{F2 03 01 FF}光{F2 03 01 FF}临{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:8:1",
+  "message_id": "TSHOP_ADDNEW",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}进{F2 03 01 FF}了{F2 03 01 FF}新{F2 03 01 FF}商{F2 03 01 FF}品{F2 03 01 FF}哦{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:9:0",
+  "message_id": "TSHOP_HELLO",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}哎{F2 03 01 FF}呀{F2 03 01 FF}，{F2 03 01 FF}欢{F2 03 01 FF}迎{F2 03 01 FF}光{F2 03 01 FF}临{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:10:0",
+  "message_id": "SPECIAL_SELL",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}哎{F2 03 01 FF}呀{F2 03 01 FF}，{F2 03 01 FF}欢{F2 03 01 FF}迎{F2 03 01 FF}光{F2 03 01 FF}临{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:10:1",
+  "message_id": "SPECIAL_SELL",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}冒{F2 03 01 FF}着{F2 03 01 FF}雨{F2 03 01 FF}还{F2 03 01 FF}来{F2 03 01 FF}光{F2 03 01 FF}顾{F2 03 01 FF}，{F2 03 01 FF}真{F2 03 01 FF}谢{F2 03 01 FF}谢{F2 03 01 FF}你{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:11:0",
+  "message_id": "TSHOP_ARBEIT_NG",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}＞{F2 03 01 FF}今{F2 03 01 FF}天{F2 03 01 FF}已{F2 03 01 FF}经{F2 03 01 FF}很{F2 03 01 FF}晚{F2 03 01 FF}了{F2 03 01 FF}。{F2 03 01 FF}\n{F2 03 01 FF}　{F2 03 01 FF}没{F2 03 01 FF}什{F2 03 01 FF}么{F2 03 01 FF}事{F2 03 01 FF}就{F2 03 01 FF}回{F2 03 01 FF}去{F2 03 01 FF}吧{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:18:0",
+  "message_id": "TSHOP_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}哎{F2 03 01 FF}呀{F2 03 01 FF}，{F2 03 01 FF}小{F2 03 01 FF}伙{F2 03 01 FF}子{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}咱{F2 03 01 FF}们{F2 03 01 FF}是{F2 03 01 FF}头{F2 03 01 FF}一{F2 03 01 FF}次{F2 03 01 FF}见{F2 03 01 FF}吧{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:18:1",
+  "message_id": "TSHOP_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}你{F2 03 01 FF}从{F2 03 01 FF}城{F2 03 01 FF}里{F2 03 01 FF}来{F2 03 01 FF}的{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}哎{F2 03 01 FF}哟{F2 03 01 FF}，{F2 03 01 FF}那{F2 03 01 FF}可{F2 03 01 FF}真{F2 03 01 FF}辛{F2 03 01 FF}苦{F2 03 01 FF}啊{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:18:2",
+  "message_id": "TSHOP_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}店{F2 03 01 FF}里{F2 03 01 FF}虽{F2 03 01 FF}然{F2 03 01 FF}乱{F2 03 01 FF}糟{F2 03 01 FF}糟{F2 03 01 FF}的{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}还{F2 03 01 FF}是{F2 03 01 FF}慢{F2 03 01 FF}慢{F2 03 01 FF}坐{F2 03 01 FF}坐{F2 03 01 FF}吧{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:19:0",
+  "message_id": "TSHOP_TALK002",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}来{F2 03 01 FF}来{F2 03 01 FF}来{F2 03 01 FF}，{F2 03 01 FF}瞧{F2 03 01 FF}一{F2 03 01 FF}瞧{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}小{F2 03 01 FF}伙{F2 03 01 FF}子{F2 03 01 FF}，{F2 03 01 FF}仔{F2 03 01 FF}细{F2 03 01 FF}挑{F2 03 01 FF}挑{F2 03 01 FF}吧{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:19:1",
+  "message_id": "TSHOP_TALK002",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}这{F2 03 01 FF}些{F2 03 01 FF}可{F2 03 01 FF}都{F2 03 01 FF}是{F2 03 01 FF}大{F2 03 01 FF}婶{F2 03 01 FF}引{F2 03 01 FF}以{F2 03 01 FF}为{F2 03 01 FF}豪{F2 03 01 FF}的{F2 03 01 FF}货{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}尽{F2 03 01 FF}管{F2 03 01 FF}放{F2 03 01 FF}心{F2 03 01 FF}买{F2 03 01 FF}吧{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:19:2",
+  "message_id": "TSHOP_TALK002",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}女{F2 03 01 FF}人{F2 03 01 FF}靠{F2 03 01 FF}胆{F2 03 01 FF}量{F2 03 01 FF}，{F2 03 01 FF}男{F2 03 01 FF}人{F2 03 01 FF}靠{F2 03 01 FF}讨{F2 03 01 FF}喜{F2 03 01 FF}嘛{F2 03 01 FF}。{F2 03 01 FF}\n{F2 03 01 FF}帅{F2 03 01 FF}小{F2 03 01 FF}伙{F2 03 01 FF}还{F2 03 01 FF}能{F2 03 01 FF}有{F2 03 01 FF}赠{F2 03 01 FF}品{F2 03 01 FF}哦{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}啊{F2 03 01 FF}哈{F2 03 01 FF}哈{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:20:0",
+  "message_id": "TSHOP_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}想{F2 03 01 FF}在{F2 03 01 FF}咱{F2 03 01 FF}们{F2 03 01 FF}这{F2 03 01 FF}儿{F2 03 01 FF}卖{F2 03 01 FF}东{F2 03 01 FF}西{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:20:1",
+  "message_id": "TSHOP_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}不{F2 03 01 FF}好{F2 03 01 FF}意{F2 03 01 FF}思{F2 03 01 FF}啊{F2 03 01 FF}…{F2 03 01 FF}\n{F2 03 01 FF}咱{F2 03 01 FF}们{F2 03 01 FF}店{F2 03 01 FF}不{F2 03 01 FF}收{F2 03 01 FF}东{F2 03 01 FF}西{F2 03 01 FF}哦{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:20:2",
+  "message_id": "TSHOP_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}这{F2 03 01 FF}样{F2 03 01 FF}吧{F2 03 01 FF}…{F2 03 01 FF}去{F2 03 01 FF}隔{F2 03 01 FF}两{F2 03 01 FF}间{F2 03 01 FF}的{F2 03 01 FF}“{F2 03 01 FF}达{F2 03 01 FF}伊{F2 03 01 FF}达{F2 03 01 FF}拉{F2 03 01 FF}”{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}问{F2 03 01 FF}问{F2 03 01 FF}如{F2 03 01 FF}何{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:21:0",
+  "message_id": "TSHOP_TALK004",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}哎{F2 03 01 FF}呀{F2 03 01 FF}…{F2 03 01 FF}好{F2 03 01 FF}久{F2 03 01 FF}没{F2 03 01 FF}见{F2 03 01 FF}巽{F2 03 01 FF}屋{F2 03 01 FF}的{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}完{F2 03 01 FF}二{F2 03 01 FF}了{F2 03 01 FF}呢{F2 03 01 FF}。{F2 03 01 FF}身{F2 03 01 FF}体{F2 03 01 FF}不{F2 03 01 FF}舒{F2 03 01 FF}服{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:21:1",
+  "message_id": "TSHOP_TALK004",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}前{F2 03 01 FF}阵{F2 03 01 FF}子{F2 03 01 FF}在{F2 03 01 FF}电{F2 03 01 FF}视{F2 03 01 FF}上{F2 03 01 FF}见{F2 03 01 FF}过{F2 03 01 FF}他{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}难{F2 03 01 FF}道{F2 03 01 FF}当{F2 03 01 FF}上{F2 03 01 FF}艺{F2 03 01 FF}人{F2 03 01 FF}了{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:21:2",
+  "message_id": "TSHOP_TALK004",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}大{F2 03 01 FF}婶{F2 03 01 FF}很{F2 03 01 FF}担{F2 03 01 FF}心{F2 03 01 FF}他{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}帮{F2 03 01 FF}忙{F2 03 01 FF}转{F2 03 01 FF}告{F2 03 01 FF}哦{F2 03 01 FF}。{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:22:0",
+  "message_id": "TSHOP_TALK005",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}最{F2 03 01 FF}近{F2 03 01 FF}没{F2 03 01 FF}见{F2 03 01 FF}到{F2 03 01 FF}完{F2 03 01 FF}二{F2 03 01 FF}呢{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}以{F2 03 01 FF}前{F2 03 01 FF}常{F2 03 01 FF}来{F2 03 01 FF}买{F2 03 01 FF}零{F2 03 01 FF}食{F2 03 01 FF}的{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:22:1",
+  "message_id": "TSHOP_TALK005",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}还{F2 03 01 FF}会{F2 03 01 FF}教{F2 03 01 FF}训{F2 03 01 FF}想{F2 03 01 FF}偷{F2 03 01 FF}东{F2 03 01 FF}西{F2 03 01 FF}的{F2 03 01 FF}孩{F2 03 01 FF}子{F2 03 01 FF}…{F2 03 01 FF}\n{F2 03 01 FF}真{F2 03 01 FF}是{F2 03 01 FF}个{F2 03 01 FF}好{F2 03 01 FF}孩{F2 03 01 FF}子{F2 03 01 FF}啊{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:22:2",
+  "message_id": "TSHOP_TALK005",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}买{F2 03 01 FF}远{F2 03 01 FF}足{F2 03 01 FF}带{F2 03 01 FF}的{F2 03 01 FF}零{F2 03 01 FF}食{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}也{F2 03 01 FF}严{F2 03 01 FF}格{F2 03 01 FF}遵{F2 03 01 FF}守{F2 03 01 FF}预{F2 03 01 FF}算{F2 03 01 FF}呢{F2 03 01 FF}…{F2 03 01 FF}啊{F2 03 01 FF}哈{F2 03 01 FF}哈{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:23:0",
+  "message_id": "TSHOP_TALK006",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}说{F2 03 01 FF}起{F2 03 01 FF}来{F2 03 01 FF}，{F2 03 01 FF}完{F2 03 01 FF}二{F2 03 01 FF}来{F2 03 01 FF}买{F2 03 01 FF}过{F2 03 01 FF}东{F2 03 01 FF}西{F2 03 01 FF}呢{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:23:1",
+  "message_id": "TSHOP_TALK006",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}他{F2 03 01 FF}说{F2 03 01 FF}交{F2 03 01 FF}到{F2 03 01 FF}了{F2 03 01 FF}很{F2 03 01 FF}帅{F2 03 01 FF}气{F2 03 01 FF}的{F2 03 01 FF}前{F2 03 01 FF}辈{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}笑{F2 03 01 FF}得{F2 03 01 FF}可{F2 03 01 FF}高{F2 03 01 FF}兴{F2 03 01 FF}了{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:23:2",
+  "message_id": "TSHOP_TALK006",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}之{F2 03 01 FF}前{F2 03 01 FF}一{F2 03 01 FF}直{F2 03 01 FF}闷{F2 03 01 FF}闷{F2 03 01 FF}不{F2 03 01 FF}乐{F2 03 01 FF}的{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}大{F2 03 01 FF}婶{F2 03 01 FF}这{F2 03 01 FF}下{F2 03 01 FF}可{F2 03 01 FF}放{F2 03 01 FF}心{F2 03 01 FF}了{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:24:0",
+  "message_id": "TSHOP_TALK007",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}那{F2 03 01 FF}么{F2 03 01 FF}，{F2 03 01 FF}今{F2 03 01 FF}天{F2 03 01 FF}要{F2 03 01 FF}买{F2 03 01 FF}什{F2 03 01 FF}么{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:24:1",
+  "message_id": "TSHOP_TALK007",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}小{F2 03 01 FF}伙{F2 03 01 FF}子{F2 03 01 FF}，{F2 03 01 FF}你{F2 03 01 FF}老{F2 03 01 FF}买{F2 03 01 FF}些{F2 03 01 FF}奇{F2 03 01 FF}怪{F2 03 01 FF}的{F2 03 01 FF}东{F2 03 01 FF}西{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}大{F2 03 01 FF}婶{F2 03 01 FF}有{F2 03 01 FF}点{F2 03 01 FF}担{F2 03 01 FF}心{F2 03 01 FF}啊{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:24:2",
+  "message_id": "TSHOP_TALK007",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}去{F2 03 01 FF}林{F2 03 01 FF}间{F2 03 01 FF}学{F2 03 01 FF}校{F2 03 01 FF}带{F2 03 01 FF}多{F2 03 01 FF}余{F2 03 01 FF}的{F2 03 01 FF}东{F2 03 01 FF}西{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}会{F2 03 01 FF}被{F2 03 01 FF}老{F2 03 01 FF}师{F2 03 01 FF}骂{F2 03 01 FF}哦{F2 03 01 FF}。{F2 03 01 FF}啊{F2 03 01 FF}哈{F2 03 01 FF}哈{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:25:0",
+  "message_id": "TSHOP_TALK008",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}对{F2 03 01 FF}了{F2 03 01 FF}，{F2 03 01 FF}你{F2 03 01 FF}们{F2 03 01 FF}去{F2 03 01 FF}林{F2 03 01 FF}间{F2 03 01 FF}学{F2 03 01 FF}校{F2 03 01 FF}了{F2 03 01 FF}吧{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}好{F2 03 01 FF}多{F2 03 01 FF}孩{F2 03 01 FF}子{F2 03 01 FF}提{F2 03 01 FF}着{F2 03 01 FF}行{F2 03 01 FF}李{F2 03 01 FF}走{F2 03 01 FF}过{F2 03 01 FF}呢{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:25:1",
+  "message_id": "TSHOP_TALK008",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}哎{F2 03 01 FF}…{F2 03 01 FF}被{F2 03 01 FF}推{F2 03 01 FF}下{F2 03 01 FF}瀑{F2 03 01 FF}布{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}从{F2 03 01 FF}高{F2 03 01 FF}处{F2 03 01 FF}跳{F2 03 01 FF}下{F2 03 01 FF}去{F2 03 01 FF}了{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:25:2",
+  "message_id": "TSHOP_TALK008",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}真{F2 03 01 FF}淘{F2 03 01 FF}气{F2 03 01 FF}啊{F2 03 01 FF}～{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}啊{F2 03 01 FF}哈{F2 03 01 FF}哈{F2 03 01 FF}哈{F2 03 01 FF}哈{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:26:0",
+  "message_id": "TSHOP_TALK009",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}最{F2 03 01 FF}近{F2 03 01 FF}有{F2 03 01 FF}些{F2 03 01 FF}怪{F2 03 01 FF}人{F2 03 01 FF}来{F2 03 01 FF}打{F2 03 01 FF}听{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}理{F2 03 01 FF}世{F2 03 01 FF}的{F2 03 01 FF}各{F2 03 01 FF}种{F2 03 01 FF}事{F2 03 01 FF}情{F2 03 01 FF}呢{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:26:1",
+  "message_id": "TSHOP_TALK009",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}问{F2 03 01 FF}她{F2 03 01 FF}以{F2 03 01 FF}前{F2 03 01 FF}是{F2 03 01 FF}什{F2 03 01 FF}么{F2 03 01 FF}样{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}有{F2 03 01 FF}没{F2 03 01 FF}有{F2 03 01 FF}照{F2 03 01 FF}片{F2 03 01 FF}之{F2 03 01 FF}类{F2 03 01 FF}的{F2 03 01 FF}…{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:26:2",
+  "message_id": "TSHOP_TALK009",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}理{F2 03 01 FF}世{F2 03 01 FF}退{F2 03 01 FF}出{F2 03 01 FF}演{F2 03 01 FF}艺{F2 03 01 FF}圈{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}有{F2 03 01 FF}那{F2 03 01 FF}么{F2 03 01 FF}罪{F2 03 01 FF}大{F2 03 01 FF}恶{F2 03 01 FF}极{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:26:3",
+  "message_id": "TSHOP_TALK009",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}丸{F2 03 01 FF}久{F2 03 01 FF}家{F2 03 01 FF}也{F2 03 01 FF}得{F2 03 01 FF}做{F2 03 01 FF}生{F2 03 01 FF}意{F2 03 01 FF}啊{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}他{F2 03 01 FF}们{F2 03 01 FF}说{F2 03 01 FF}真{F2 03 01 FF}是{F2 03 01 FF}难{F2 03 01 FF}办{F2 03 01 FF}呢{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:27:0",
+  "message_id": "TSHOP_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}丸{F2 03 01 FF}久{F2 03 01 FF}家{F2 03 01 FF}的{F2 03 01 FF}理{F2 03 01 FF}世{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}最{F2 03 01 FF}近{F2 03 01 FF}没{F2 03 01 FF}见{F2 03 01 FF}到{F2 03 01 FF}了{F2 03 01 FF}呢{F2 03 01 FF}。{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:27:1",
+  "message_id": "TSHOP_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}不{F2 03 01 FF}当{F2 03 01 FF}艺{F2 03 01 FF}人{F2 03 01 FF}了{F2 03 01 FF}，{F2 03 01 FF}也{F2 03 01 FF}还{F2 03 01 FF}是{F2 03 01 FF}很{F2 03 01 FF}辛{F2 03 01 FF}苦{F2 03 01 FF}吧{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}连{F2 03 01 FF}咱{F2 03 01 FF}们{F2 03 01 FF}这{F2 03 01 FF}儿{F2 03 01 FF}都{F2 03 01 FF}有{F2 03 01 FF}怪{F2 03 01 FF}记{F2 03 01 FF}者{F2 03 01 FF}来{F2 03 01 FF}呢{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:27:2",
+  "message_id": "TSHOP_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}是{F2 03 01 FF}不{F2 03 01 FF}是{F2 03 01 FF}该{F2 03 01 FF}进{F2 03 01 FF}点{F2 03 01 FF}防{F2 03 01 FF}身{F2 03 01 FF}用{F2 03 01 FF}品{F2 03 01 FF}了{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:27:3",
+  "message_id": "TSHOP_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}小{F2 03 01 FF}伙{F2 03 01 FF}子{F2 03 01 FF}，{F2 03 01 FF}你{F2 03 01 FF}们{F2 03 01 FF}见{F2 03 01 FF}到{F2 03 01 FF}理{F2 03 01 FF}世{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}帮{F2 03 01 FF}我{F2 03 01 FF}问{F2 03 01 FF}问{F2 03 01 FF}她{F2 03 01 FF}要{F2 03 01 FF}不{F2 03 01 FF}要{F2 03 01 FF}吧{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:28:0",
+  "message_id": "TSHOP_TALK011",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}来{F2 03 01 FF}来{F2 03 01 FF}，{F2 03 01 FF}今{F2 03 01 FF}天{F2 03 01 FF}要{F2 03 01 FF}买{F2 03 01 FF}什{F2 03 01 FF}么{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}哎{F2 03 01 FF}呀{F2 03 01 FF}，{F2 03 01 FF}还{F2 03 01 FF}拿{F2 03 01 FF}不{F2 03 01 FF}定{F2 03 01 FF}主{F2 03 01 FF}意{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:28:1",
+  "message_id": "TSHOP_TALK011",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}要{F2 03 01 FF}不{F2 03 01 FF}学{F2 03 01 FF}学{F2 03 01 FF}隔{F2 03 01 FF}壁{F2 03 01 FF}的{F2 03 01 FF}理{F2 03 01 FF}世{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}大{F2 03 01 FF}婶{F2 03 01 FF}也{F2 03 01 FF}给{F2 03 01 FF}你{F2 03 01 FF}现{F2 03 01 FF}场{F2 03 01 FF}示{F2 03 01 FF}范{F2 03 01 FF}推{F2 03 01 FF}销{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:28:2",
+  "message_id": "TSHOP_TALK011",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}啊{F2 03 01 FF}哈{F2 03 01 FF}哈{F2 03 01 FF}，{F2 03 01 FF}开{F2 03 01 FF}玩{F2 03 01 FF}笑{F2 03 01 FF}的{F2 03 01 FF}！{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}慢{F2 03 01 FF}慢{F2 03 01 FF}挑{F2 03 01 FF}吧{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:29:0",
+  "message_id": "TSHOP_TALK012",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}哎{F2 03 01 FF}呀{F2 03 01 FF}…{F2 03 01 FF}小{F2 03 01 FF}伙{F2 03 01 FF}子{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}…{F2 03 01 FF}可{F2 03 01 FF}怜{F2 03 01 FF}见{F2 03 01 FF}的{F2 03 01 FF}，{F2 03 01 FF}受{F2 03 01 FF}苦{F2 03 01 FF}了{F2 03 01 FF}吧{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:29:1",
+  "message_id": "TSHOP_TALK012",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}你{F2 03 01 FF}们{F2 03 01 FF}班{F2 03 01 FF}主{F2 03 01 FF}任{F2 03 01 FF}被{F2 03 01 FF}杀{F2 03 01 FF}了{F2 03 01 FF}吧{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}…{F2 03 01 FF}我{F2 03 01 FF}听{F2 03 01 FF}别{F2 03 01 FF}的{F2 03 01 FF}孩{F2 03 01 FF}子{F2 03 01 FF}说{F2 03 01 FF}了{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:29:2",
+  "message_id": "TSHOP_TALK012",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}真{F2 03 01 FF}是{F2 03 01 FF}的{F2 03 01 FF}…{F2 03 01 FF}怎{F2 03 01 FF}么{F2 03 01 FF}会{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}这{F2 03 01 FF}么{F2 03 01 FF}不{F2 03 01 FF}太{F2 03 01 FF}平{F2 03 01 FF}呢{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:30:0",
+  "message_id": "TSHOP_TALK013",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}暑{F2 03 01 FF}假{F2 03 01 FF}过{F2 03 01 FF}得{F2 03 01 FF}开{F2 03 01 FF}心{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:30:1",
+  "message_id": "TSHOP_TALK013",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}…{F2 03 01 FF}每{F2 03 01 FF}天{F2 03 01 FF}都{F2 03 01 FF}很{F2 03 01 FF}忙{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}上{F2 03 01 FF}了{F2 03 01 FF}高{F2 03 01 FF}中{F2 03 01 FF}，{F2 03 01 FF}也{F2 03 01 FF}真{F2 03 01 FF}不{F2 03 01 FF}容{F2 03 01 FF}易{F2 03 01 FF}啊{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:30:2",
+  "message_id": "TSHOP_TALK013",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}觉{F2 03 01 FF}得{F2 03 01 FF}热{F2 03 01 FF}了{F2 03 01 FF}，{F2 03 01 FF}随{F2 03 01 FF}时{F2 03 01 FF}来{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}乘{F2 03 01 FF}凉{F2 03 01 FF}啊{F2 03 01 FF}。{F2 03 01 FF}啊{F2 03 01 FF}哈{F2 03 01 FF}哈{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:31:0",
+  "message_id": "TSHOP_TALK014",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}最{F2 03 01 FF}近{F2 03 01 FF}夜{F2 03 01 FF}里{F2 03 01 FF}也{F2 03 01 FF}能{F2 03 01 FF}听{F2 03 01 FF}到{F2 03 01 FF}铃{F2 03 01 FF}虫{F2 03 01 FF}叫{F2 03 01 FF}了{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}夏{F2 03 01 FF}天{F2 03 01 FF}快{F2 03 01 FF}结{F2 03 01 FF}束{F2 03 01 FF}了{F2 03 01 FF}呢{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:31:1",
+  "message_id": "TSHOP_TALK014",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}小{F2 03 01 FF}伙{F2 03 01 FF}子{F2 03 01 FF}，{F2 03 01 FF}作{F2 03 01 FF}业{F2 03 01 FF}和{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}图{F2 03 01 FF}画{F2 03 01 FF}日{F2 03 01 FF}记{F2 03 01 FF}都{F2 03 01 FF}写{F2 03 01 FF}好{F2 03 01 FF}了{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:31:2",
+  "message_id": "TSHOP_TALK014",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}…{F2 03 01 FF}没{F2 03 01 FF}有{F2 03 01 FF}图{F2 03 01 FF}画{F2 03 01 FF}日{F2 03 01 FF}记{F2 03 01 FF}？{F2 03 01 FF}\n{F2 03 01 FF}哎{F2 03 01 FF}呀{F2 03 01 FF}，{F2 03 01 FF}真{F2 03 01 FF}是{F2 03 01 FF}的{F2 03 01 FF}～{F2 03 01 FF}啊{F2 03 01 FF}哈{F2 03 01 FF}哈{F2 03 01 FF}哈{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:32:0",
+  "message_id": "TSHOP_TALK015",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}哎{F2 03 01 FF}呀{F2 03 01 FF}，{F2 03 01 FF}看{F2 03 01 FF}着{F2 03 01 FF}很{F2 03 01 FF}开{F2 03 01 FF}心{F2 03 01 FF}嘛{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}要{F2 03 01 FF}去{F2 03 01 FF}哪{F2 03 01 FF}儿{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:32:1",
+  "message_id": "TSHOP_TALK015",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}修{F2 03 01 FF}学{F2 03 01 FF}旅{F2 03 01 FF}行{F2 03 01 FF}…{F2 03 01 FF}去{F2 03 01 FF}城{F2 03 01 FF}里{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}…{F2 03 01 FF}哎{F2 03 01 FF}哟{F2 03 01 FF}，{F2 03 01 FF}真{F2 03 01 FF}不{F2 03 01 FF}错{F2 03 01 FF}啊{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:32:2",
+  "message_id": "TSHOP_TALK015",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}大{F2 03 01 FF}婶{F2 03 01 FF}不{F2 03 01 FF}了{F2 03 01 FF}解{F2 03 01 FF}城{F2 03 01 FF}里{F2 03 01 FF}的{F2 03 01 FF}事{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}真{F2 03 01 FF}羡{F2 03 01 FF}慕{F2 03 01 FF}你{F2 03 01 FF}们{F2 03 01 FF}呢{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:32:3",
+  "message_id": "TSHOP_TALK015",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}等{F2 03 01 FF}着{F2 03 01 FF}你{F2 03 01 FF}的{F2 03 01 FF}伴{F2 03 01 FF}手{F2 03 01 FF}礼{F2 03 01 FF}哦{F2 03 01 FF}！{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}啊{F2 03 01 FF}哈{F2 03 01 FF}哈{F2 03 01 FF}哈{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:33:0",
+  "message_id": "TSHOP_TALK016",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}城{F2 03 01 FF}里{F2 03 01 FF}怎{F2 03 01 FF}么{F2 03 01 FF}样{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}久{F2 03 01 FF}违{F2 03 01 FF}地{F2 03 01 FF}回{F2 03 01 FF}去{F2 03 01 FF}玩{F2 03 01 FF}得{F2 03 01 FF}开{F2 03 01 FF}心{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:33:1",
+  "message_id": "TSHOP_TALK016",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}城{F2 03 01 FF}里{F2 03 01 FF}的{F2 03 01 FF}便{F2 03 01 FF}利{F2 03 01 FF}店{F2 03 01 FF}…{F2 03 01 FF}是{F2 03 01 FF}２{F2 03 01 FF}４{F2 03 01 FF}小{F2 03 01 FF}时{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}营{F2 03 01 FF}业{F2 03 01 FF}的{F2 03 01 FF}吧{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:33:2",
+  "message_id": "TSHOP_TALK016",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}店{F2 03 01 FF}员{F2 03 01 FF}可{F2 03 01 FF}真{F2 03 01 FF}辛{F2 03 01 FF}苦{F2 03 01 FF}啊{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:33:3",
+  "message_id": "TSHOP_TALK016",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}对{F2 03 01 FF}了{F2 03 01 FF}，{F2 03 01 FF}有{F2 03 01 FF}没{F2 03 01 FF}有{F2 03 01 FF}卖{F2 03 01 FF}什{F2 03 01 FF}么{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}有{F2 03 01 FF}趣{F2 03 01 FF}的{F2 03 01 FF}东{F2 03 01 FF}西{F2 03 01 FF}啊{F2 03 01 FF}？{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:34:0",
+  "message_id": "TSHOP_TALK017",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}这{F2 03 01 FF}就{F2 03 01 FF}是{F2 03 01 FF}“{F2 03 01 FF}侦{F2 03 01 FF}探{F2 03 01 FF}王{F2 03 01 FF}子{F2 03 01 FF}”{F2 03 01 FF}的{F2 03 01 FF}效{F2 03 01 FF}应{F2 03 01 FF}吗{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}前{F2 03 01 FF}阵{F2 03 01 FF}子{F2 03 01 FF}电{F2 03 01 FF}视{F2 03 01 FF}台{F2 03 01 FF}来{F2 03 01 FF}采{F2 03 01 FF}访{F2 03 01 FF}了{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:34:1",
+  "message_id": "TSHOP_TALK017",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}说{F2 03 01 FF}想{F2 03 01 FF}把{F2 03 01 FF}咱{F2 03 01 FF}们{F2 03 01 FF}店{F2 03 01 FF}放{F2 03 01 FF}进{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}“{F2 03 01 FF}王{F2 03 01 FF}子{F2 03 01 FF}走{F2 03 01 FF}访{F2 03 01 FF}店{F2 03 01 FF}铺{F2 03 01 FF}百{F2 03 01 FF}选{F2 03 01 FF}”{F2 03 01 FF}…{F2 03 01 FF}我{F2 03 01 FF}当{F2 03 01 FF}然{F2 03 01 FF}拒{F2 03 01 FF}绝{F2 03 01 FF}了{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:34:2",
+  "message_id": "TSHOP_TALK017",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}比{F2 03 01 FF}起{F2 03 01 FF}游{F2 03 01 FF}客{F2 03 01 FF}，{F2 03 01 FF}我{F2 03 01 FF}更{F2 03 01 FF}想{F2 03 01 FF}招{F2 03 01 FF}待{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}你{F2 03 01 FF}们{F2 03 01 FF}这{F2 03 01 FF}样{F2 03 01 FF}的{F2 03 01 FF}孩{F2 03 01 FF}子{F2 03 01 FF}嘛{F2 03 01 FF}…{F2 03 01 FF}啊{F2 03 01 FF}哈{F2 03 01 FF}哈{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:35:0",
+  "message_id": "TSHOP_TALK018",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}最{F2 03 01 FF}近{F2 03 01 FF}，{F2 03 01 FF}朱{F2 03 01 FF}尼{F2 03 01 FF}斯{F2 03 01 FF}一{F2 03 01 FF}个{F2 03 01 FF}叫{F2 03 01 FF}熊{F2 03 01 FF}田{F2 03 01 FF}的{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}可{F2 03 01 FF}爱{F2 03 01 FF}孩{F2 03 01 FF}子{F2 03 01 FF}经{F2 03 01 FF}常{F2 03 01 FF}来{F2 03 01 FF}买{F2 03 01 FF}东{F2 03 01 FF}西{F2 03 01 FF}呢{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:35:1",
+  "message_id": "TSHOP_TALK018",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}说{F2 03 01 FF}是{F2 03 01 FF}你{F2 03 01 FF}们{F2 03 01 FF}推{F2 03 01 FF}荐{F2 03 01 FF}了{F2 03 01 FF}这{F2 03 01 FF}家{F2 03 01 FF}店{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}然{F2 03 01 FF}后{F2 03 01 FF}就{F2 03 01 FF}成{F2 03 01 FF}了{F2 03 01 FF}忠{F2 03 01 FF}实{F2 03 01 FF}顾{F2 03 01 FF}客{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:35:2",
+  "message_id": "TSHOP_TALK018",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}大{F2 03 01 FF}婶{F2 03 01 FF}可{F2 03 01 FF}高{F2 03 01 FF}兴{F2 03 01 FF}了{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}谢{F2 03 01 FF}谢{F2 03 01 FF}你{F2 03 01 FF}们{F2 03 01 FF}啊{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:36:0",
+  "message_id": "TSHOP_TALK019",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}入{F2 03 01 FF}秋{F2 03 01 FF}了{F2 03 01 FF}，{F2 03 01 FF}差{F2 03 01 FF}不{F2 03 01 FF}多{F2 03 01 FF}该{F2 03 01 FF}在{F2 03 01 FF}店{F2 03 01 FF}里{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}摆{F2 03 01 FF}些{F2 03 01 FF}新{F2 03 01 FF}米{F2 03 01 FF}了{F2 03 01 FF}吧{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:36:1",
+  "message_id": "TSHOP_TALK019",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}还{F2 03 01 FF}是{F2 03 01 FF}说{F2 03 01 FF}…{F2 03 01 FF}柿{F2 03 01 FF}饼{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}不{F2 03 01 FF}对{F2 03 01 FF}…{F2 03 01 FF}松{F2 03 01 FF}茸{F2 03 01 FF}呢{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:36:2",
+  "message_id": "TSHOP_TALK019",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}别{F2 03 01 FF}看{F2 03 01 FF}大{F2 03 01 FF}婶{F2 03 01 FF}这{F2 03 01 FF}样{F2 03 01 FF}，{F2 03 01 FF}也{F2 03 01 FF}有{F2 03 01 FF}想{F2 03 01 FF}过{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}改{F2 03 01 FF}变{F2 03 01 FF}风{F2 03 01 FF}格{F2 03 01 FF}哦{F2 03 01 FF}。{F2 03 01 FF}啊{F2 03 01 FF}哈{F2 03 01 FF}哈{F2 03 01 FF}哈{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:37:0",
+  "message_id": "TSHOP_TALK020",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}哎{F2 03 01 FF}呀{F2 03 01 FF}…{F2 03 01 FF}小{F2 03 01 FF}伙{F2 03 01 FF}子{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}今{F2 03 01 FF}天{F2 03 01 FF}看{F2 03 01 FF}起{F2 03 01 FF}来{F2 03 01 FF}很{F2 03 01 FF}忙{F2 03 01 FF}啊{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:37:1",
+  "message_id": "TSHOP_TALK020",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}…{F2 03 01 FF}准{F2 03 01 FF}备{F2 03 01 FF}文{F2 03 01 FF}化{F2 03 01 FF}祭{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}是{F2 03 01 FF}啊{F2 03 01 FF}，{F2 03 01 FF}又{F2 03 01 FF}到{F2 03 01 FF}这{F2 03 01 FF}个{F2 03 01 FF}时{F2 03 01 FF}候{F2 03 01 FF}了{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:37:2",
+  "message_id": "TSHOP_TALK020",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}大{F2 03 01 FF}婶{F2 03 01 FF}每{F2 03 01 FF}年{F2 03 01 FF}都{F2 03 01 FF}很{F2 03 01 FF}期{F2 03 01 FF}待{F2 03 01 FF}呢{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}有{F2 03 01 FF}海{F2 03 01 FF}报{F2 03 01 FF}的{F2 03 01 FF}话{F2 03 01 FF}，{F2 03 01 FF}随{F2 03 01 FF}时{F2 03 01 FF}拿{F2 03 01 FF}来{F2 03 01 FF}贴{F2 03 01 FF}哦{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:38:0",
+  "message_id": "TSHOP_TALK021",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}我{F2 03 01 FF}去{F2 03 01 FF}看{F2 03 01 FF}文{F2 03 01 FF}化{F2 03 01 FF}祭{F2 03 01 FF}了{F2 03 01 FF}哦{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}小{F2 03 01 FF}伙{F2 03 01 FF}子{F2 03 01 FF}，{F2 03 01 FF}你{F2 03 01 FF}穿{F2 03 01 FF}女{F2 03 01 FF}装{F2 03 01 FF}了{F2 03 01 FF}吧{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:38:1",
+  "message_id": "TSHOP_TALK021",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}啊{F2 03 01 FF}哈{F2 03 01 FF}哈{F2 03 01 FF}，{F2 03 01 FF}大{F2 03 01 FF}婶{F2 03 01 FF}我{F2 03 01 FF}啊{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}还{F2 03 01 FF}给{F2 03 01 FF}你{F2 03 01 FF}投{F2 03 01 FF}票{F2 03 01 FF}了{F2 03 01 FF}呢{F2 03 01 FF}！{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:38:2",
+  "message_id": "TSHOP_TALK021",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}下{F2 03 01 FF}次{F2 03 01 FF}叫{F2 03 01 FF}上{F2 03 01 FF}街{F2 03 01 FF}坊{F2 03 01 FF}邻{F2 03 01 FF}居{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}一{F2 03 01 FF}起{F2 03 01 FF}去{F2 03 01 FF}看{F2 03 01 FF}吧{F2 03 01 FF}。{F2 03 01 FF}啊{F2 03 01 FF}哈{F2 03 01 FF}哈{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:39:0",
+  "message_id": "TSHOP_TALK022",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}…{F2 03 01 FF}小{F2 03 01 FF}伙{F2 03 01 FF}子{F2 03 01 FF}，{F2 03 01 FF}看{F2 03 01 FF}着{F2 03 01 FF}不{F2 03 01 FF}舒{F2 03 01 FF}服{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}没{F2 03 01 FF}事{F2 03 01 FF}吧{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:39:1",
+  "message_id": "TSHOP_TALK022",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}有{F2 03 01 FF}什{F2 03 01 FF}么{F2 03 01 FF}烦{F2 03 01 FF}心{F2 03 01 FF}事{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}\n{F2 03 01 FF}有{F2 03 01 FF}好{F2 03 01 FF}好{F2 03 01 FF}睡{F2 03 01 FF}觉{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:39:2",
+  "message_id": "TSHOP_TALK022",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}身{F2 03 01 FF}体{F2 03 01 FF}才{F2 03 01 FF}是{F2 03 01 FF}本{F2 03 01 FF}钱{F2 03 01 FF}啊{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}可{F2 03 01 FF}别{F2 03 01 FF}逞{F2 03 01 FF}强{F2 03 01 FF}哦{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:40:0",
+  "message_id": "TSHOP_TALK023",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}哎{F2 03 01 FF}呀{F2 03 01 FF}，{F2 03 01 FF}小{F2 03 01 FF}伙{F2 03 01 FF}子{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}怎{F2 03 01 FF}么{F2 03 01 FF}了{F2 03 01 FF}？{F2 03 01 FF}脸{F2 03 01 FF}色{F2 03 01 FF}这{F2 03 01 FF}么{F2 03 01 FF}差{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:40:1",
+  "message_id": "TSHOP_TALK023",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}…{F2 03 01 FF}菜{F2 03 01 FF}菜{F2 03 01 FF}子{F2 03 01 FF}的{F2 03 01 FF}情{F2 03 01 FF}况{F2 03 01 FF}不{F2 03 01 FF}好{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:40:2",
+  "message_id": "TSHOP_TALK023",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}虽{F2 03 01 FF}然{F2 03 01 FF}担{F2 03 01 FF}心{F2 03 01 FF}，{F2 03 01 FF}身{F2 03 01 FF}体{F2 03 01 FF}也{F2 03 01 FF}是{F2 03 01 FF}本{F2 03 01 FF}钱{F2 03 01 FF}啊{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}可{F2 03 01 FF}别{F2 03 01 FF}逞{F2 03 01 FF}强{F2 03 01 FF}哦{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:41:0",
+  "message_id": "TSHOP_TALK024",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}…{F2 03 01 FF}大{F2 03 01 FF}婶{F2 03 01 FF}最{F2 03 01 FF}近{F2 03 01 FF}总{F2 03 01 FF}觉{F2 03 01 FF}得{F2 03 01 FF}身{F2 03 01 FF}体{F2 03 01 FF}不{F2 03 01 FF}舒{F2 03 01 FF}服{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:41:1",
+  "message_id": "TSHOP_TALK024",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}小{F2 03 01 FF}伙{F2 03 01 FF}子{F2 03 01 FF}，{F2 03 01 FF}你{F2 03 01 FF}也{F2 03 01 FF}要{F2 03 01 FF}注{F2 03 01 FF}意{F2 03 01 FF}啊{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}这{F2 03 01 FF}雾{F2 03 01 FF}…{F2 03 01 FF}总{F2 03 01 FF}觉{F2 03 01 FF}得{F2 03 01 FF}让{F2 03 01 FF}人{F2 03 01 FF}不{F2 03 01 FF}舒{F2 03 01 FF}服{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:42:0",
+  "message_id": "TSHOP_TALK025",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}啊{F2 03 01 FF}…{F2 03 01 FF}真{F2 03 01 FF}冷{F2 03 01 FF}啊{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}都{F2 03 01 FF}到{F2 03 01 FF}年{F2 03 01 FF}末{F2 03 01 FF}了{F2 03 01 FF}，{F2 03 01 FF}也{F2 03 01 FF}没{F2 03 01 FF}办{F2 03 01 FF}法{F2 03 01 FF}啊{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:42:1",
+  "message_id": "TSHOP_TALK025",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}去{F2 03 01 FF}商{F2 03 01 FF}店{F2 03 01 FF}街{F2 03 01 FF}开{F2 03 01 FF}会{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}好{F2 03 01 FF}多{F2 03 01 FF}人{F2 03 01 FF}都{F2 03 01 FF}感{F2 03 01 FF}冒{F2 03 01 FF}了{F2 03 01 FF}呢{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:42:2",
+  "message_id": "TSHOP_TALK025",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}小{F2 03 01 FF}伙{F2 03 01 FF}子{F2 03 01 FF}，{F2 03 01 FF}你{F2 03 01 FF}也{F2 03 01 FF}要{F2 03 01 FF}注{F2 03 01 FF}意{F2 03 01 FF}哦{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:43:0",
+  "message_id": "TSHOP_TALK026",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}哎{F2 03 01 FF}呀{F2 03 01 FF}，{F2 03 01 FF}好{F2 03 01 FF}久{F2 03 01 FF}不{F2 03 01 FF}见{F2 03 01 FF}了{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}最{F2 03 01 FF}近{F2 03 01 FF}过{F2 03 01 FF}得{F2 03 01 FF}好{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:43:1",
+  "message_id": "TSHOP_TALK026",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}…{F2 03 01 FF}这{F2 03 01 FF}样{F2 03 01 FF}啊{F2 03 01 FF}。{F2 03 01 FF}你{F2 03 01 FF}要{F2 03 01 FF}离{F2 03 01 FF}开{F2 03 01 FF}这{F2 03 01 FF}里{F2 03 01 FF}了{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}真{F2 03 01 FF}舍{F2 03 01 FF}不{F2 03 01 FF}得{F2 03 01 FF}啊{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:43:2",
+  "message_id": "TSHOP_TALK026",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}以{F2 03 01 FF}后{F2 03 01 FF}再{F2 03 01 FF}来{F2 03 01 FF}这{F2 03 01 FF}边{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}记{F2 03 01 FF}得{F2 03 01 FF}来{F2 03 01 FF}店{F2 03 01 FF}里{F2 03 01 FF}看{F2 03 01 FF}看{F2 03 01 FF}哦{F2 03 01 FF}。{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:44:0",
+  "message_id": "TSHOP_TALK027",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 15 01 0B 01 01 01 02 01}{F2 03 01 FF}你{F2 03 01 FF}问{F2 03 01 FF}有{F2 03 01 FF}没{F2 03 01 FF}有{F2 03 01 FF}孩{F2 03 01 FF}子{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}在{F2 03 01 FF}这{F2 03 01 FF}里{F2 03 01 FF}打{F2 03 01 FF}过{F2 03 01 FF}工{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:44:1",
+  "message_id": "TSHOP_TALK027",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}大{F2 03 01 FF}婶{F2 03 01 FF}自{F2 03 01 FF}己{F2 03 01 FF}就{F2 03 01 FF}能{F2 03 01 FF}看{F2 03 01 FF}店{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}所{F2 03 01 FF}以{F2 03 01 FF}没{F2 03 01 FF}雇{F2 03 01 FF}过{F2 03 01 FF}打{F2 03 01 FF}工{F2 03 01 FF}的{F2 03 01 FF}孩{F2 03 01 FF}子{F2 03 01 FF}哦{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_trade.bmd.json:44:2",
+  "message_id": "TSHOP_TALK027",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}不{F2 03 01 FF}好{F2 03 01 FF}意{F2 03 01 FF}思{F2 03 01 FF}啊{F2 03 01 FF}。{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ }
+]

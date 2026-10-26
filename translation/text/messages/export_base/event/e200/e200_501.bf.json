@@ -1,0 +1,117 @@
+[
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 07 01}{F5 C1 04 01 01 01 01 01 04 01}呃……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 03 01 01 01 01 01 0A 01}{F5 C1 04 01 01 01 01 01 04 01}果然是这样啊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 03 01 01 01 01 01 04 01}{F5 C1 04 01 01 01 01 01 04 01}啊，算了，不看了。\n回去回去。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞看来，这似乎是合成照片……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 02 01}{F5 86 0C 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 03 01 01 01 01 01 0A 01}刚才说什么恋人，\n我就觉得不太妙了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 03 01 01 01 01 01 04 01}当你老婆算哪门子酷刑啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:3:0",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}我才不愿意呢{F5 47 02 01 03 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:3:1",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}你该高兴才对{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 07 01}至少反过来还差不多。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:5:0",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 03 01 01 01}{F5 61 02 01 01 01 01 01 08 01}有个可爱的老婆，对吧？\n上班累了一天回到家，\n她就说“你回来啦，亲爱的☆”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:5:1",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}休息日和老婆孩子一起去公园，\n打开亲手做的便当，对吧？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:5:2",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0A 01}然后就想说一句\n“妈妈做的便当真好吃～”嘛！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:6:0",
+  "message_id": "MSG_0043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}可站在那里的，\n绝对不可能是你啊！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:6:1",
+  "message_id": "MSG_0043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0C 01}{F5 C1 03 01 01 01 01 01 03 01}是小千鸟，小千鸟！\n喂喂，别非让我说出口啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:7:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}{F5 C1 03 01 01 01 01 01 01 01}哪里值得高兴！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:8:0",
+  "message_id": "MSG_0052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}啊，也是。\n别看你这样，还挺受欢迎的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:8:1",
+  "message_id": "MSG_0052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0F 01}{F5 C1 03 01 01 01 01 01 04 01}可恶……\n大家到底看上这家伙哪一点啊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:8:2",
+  "message_id": "MSG_0052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 10 01}不过，我才不在乎呢！\n毕竟，我已经领悟真正的爱情了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:9:0",
+  "message_id": "MSG_0053",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 06 01 01 01}{F5 61 02 01 01 01 01 01 11 01}{F5 C1 03 01 01 01 01 01 0A 01}……可不是和你的爱情啊！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:10:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}话说，现在可不是在这里\n悠闲地谈论恋爱的时候啊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:10:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 13 01}为了小千鸟，\n我也得赶快逃出这里！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:10:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 14 01}决定了就赶紧走吧。\n三十六计，前进为上！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_501.bf.json:10:3",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 15 01}{F5 C1 03 01 01 01 01 01 07 01}咦？\n是不是不小心露出我的聪明才智了？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

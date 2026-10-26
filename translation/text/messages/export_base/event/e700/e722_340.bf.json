@@ -1,0 +1,127 @@
+[
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这里似乎只是条死路……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 AA 0C}汪汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞虎狼丸很兴奋……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 65 11}{F5 C1 03 01 01 01 01 01 05 01}怎么了？\n突然这是怎么回事？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}小虎……\n好像和平时不太一样。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 E7 02}果然还是很在意这里啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞虎狼丸静不下心来，\n　四处跑动……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:7:0",
+  "message_id": "SEL_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}交给虎狼丸{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:7:1",
+  "message_id": "SEL_007",
+  "translation": "{F2 05 FF FF}{F1 41}拦住虎狼丸{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞虎狼丸开始用前爪\n　刨墙上的缝隙……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞先观察一会儿吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:9:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞…………\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:10:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞虎狼丸叼着{F4 84 04 01 01 01 4A 04}\n　回来了……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:10:2",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 61 07 01 01 01 01 01 0D 01}＞获得了{F4 84 04 01 01 01 4A 04}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 DC 10}{F5 C1 04 01 01 01 01 01 02 01}哈、哈、哈……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 A0 0B}虎狼丸先生。\n您立下功劳了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 9E 05}真有你的！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}汪汪叫着让人挖宝啊。\n不愧是狗。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 A9 0C}{F5 C1 03 01 01 01 01 01 08 01}{F5 C1 04 01 01 01 01 01 02 01}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞虎狼丸看起来很开心……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:16:1",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞决定继续探索。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 AB 0C}{F5 C1 03 01 01 01 01 01 04 01}呜……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_340.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞虎狼丸看起来很失落。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

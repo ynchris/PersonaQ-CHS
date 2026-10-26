@@ -1,0 +1,37 @@
+[
+ {
+  "key": "export_base/event/e800/e821_050.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 02 01}感谢您配合完成这份委托。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_050.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}这是本次的报酬。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_050.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞收到了{F4 45 04 01 00 00 01 01}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_050.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 04 01}持有此物，便能通过合体\n召唤“某个新的人格面具”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_050.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}请收下。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_050.bf.json:3:0",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 11 01 05 01 02 01}{F5 61 02 01 01 01 01 01 06 01}久违地活动了一番身体……\n感觉实在舒畅。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_050.bf.json:3:1",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0F 01 05 01 02 01}{F5 61 02 01 01 01 01 01 07 01}以后也想当作小小的娱乐活动，\n再请您与我交手。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:0:0",
+  "message_id": "BTL_MES_H125_058_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 78 01}哥哥，你真的中毒了吗？\n菜菜子……该怎么办……？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:1:0",
+  "message_id": "BTL_MES_H125_058_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6F 01}副队长中毒了！\n得快点吃药！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:2:0",
+  "message_id": "BTL_MES_H125_058_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 79 01}不好了，\n阳介哥哥中毒了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:3:0",
+  "message_id": "BTL_MES_H125_058_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7A 01}千枝姐姐中毒了吗？\n没事吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:4:0",
+  "message_id": "BTL_MES_H125_058_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7B 01}雪子姐姐，\n好像中毒了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:6:0",
+  "message_id": "BTL_MES_H125_058_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7C 01}啊，完二哥哥，\n中毒后摇摇晃晃的！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:7:0",
+  "message_id": "BTL_MES_H125_058_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7E 01}怎么办……直斗姐姐，\n中毒了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:8:0",
+  "message_id": "BTL_MES_H125_058_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7D 01}小熊先生中毒了！？\n没事吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:9:0",
+  "message_id": "BTL_MES_H125_058_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 70 01}啊，由加莉姐姐，\n中毒了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:10:0",
+  "message_id": "BTL_MES_H125_058_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 71 01}顺平哥哥中毒了！\n好像很难受……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:11:0",
+  "message_id": "BTL_MES_H125_058_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 72 01}啊，真田哥哥中毒了！\n好像很难受……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:12:0",
+  "message_id": "BTL_MES_H125_058_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 73 01}美鹤姐姐，\n好像中毒了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:14:0",
+  "message_id": "BTL_MES_H125_058_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 76 01}怎么办……\n埃癸斯姐姐中毒了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:15:0",
+  "message_id": "BTL_MES_H125_058_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 74 01}怎么办……\n乾中毒了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:16:0",
+  "message_id": "BTL_MES_H125_058_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 75 01}啊，小虎中毒了……\n谁来救救它！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:17:0",
+  "message_id": "BTL_MES_H125_058_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 77 01}啊，荒垣哥哥，\n好像中毒了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:18:0",
+  "message_id": "BTL_MES_H125_058_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7F 01}善哥哥和玲姐姐，\n中毒后好像很难受……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:19:0",
+  "message_id": "BTL_MES_H125_058_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 80 01}善哥哥中毒后好像很难受……\n怎么办……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:20:0",
+  "message_id": "BTL_MES_H125_058_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6E 01}啊，哥哥中毒了！\n怎么办……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(057).BMD.json:21:0",
+  "message_id": "BTL_MES_H125_058_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6D 01}啊，队长，\n中毒了！\n{F2 26 00 00}{00}"
+ }
+]

@@ -1,0 +1,177 @@
+[
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这里究竟是什么地方……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞“联谊咖啡厅”终成眷属……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 08 01 01 01 02 01}{F5 86 04 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 04 01}疼死了……\n屁股摔裂了……裂成六瓣了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 02 01}{F5 86 04 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 03 01 01 01 01 01 05 01}……啊？\n这什么地方。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 04 01}什么情况……咦？\n这里只有你？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:3:0",
+  "message_id": "MSG_002a",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 04 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 05 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:3:1",
+  "message_id": "MSG_002a",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 03 01 01 01 01 01 0A 01}喂、喂，这该不会是……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 19 01}{F5 C1 04 01 01 01 01 01 03 01}看来，你们已经抵达了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}{F5 C1 03 01 01 01 01 01 07 01}呜哇！\n喂……别吓人啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1A 01}{F5 C1 04 01 01 01 01 01 03 01}这里似乎是一条让邂逅命定伴侣的\n恋人们倾诉爱意的道路。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:6:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1B 01}{F5 C1 04 01 01 01 01 01 03 01}前方究竟有什么在等待呢？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:6:2",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1C 01}{F5 C1 04 01 01 01 01 01 03 01}你们可以手牵着手，\n怀着好奇与恐惧迈出脚步，\n也可以不迈出。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 04 01}恋……恋人！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:7:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}{F5 C1 03 01 01 01 01 01 0B 01}等、等等！\n是刚才那个“命中注定的人”！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:8:0",
+  "message_id": "MSG_0062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 11 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}喂，看得见吗？\n我和搭档都是男生哦！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:9:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1D 01}{F5 C1 04 01 01 01 01 01 03 01}我说，你们可以迈出脚步，\n也可以不迈出。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:9:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1E 01}{F5 C1 04 01 01 01 01 01 03 01}来，迈出脚步吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:10:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞机械语音消失了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:11:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 11 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}听我说啊！拜托！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:12:0",
+  "message_id": "MSG_009a",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 04 01 12 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:13:0",
+  "message_id": "MSG_0092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}{F5 C1 03 01 01 01 01 01 04 01}啊，真是的，这算什么啊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:13:1",
+  "message_id": "MSG_0092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}……不过，幸好是我和你。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:14:0",
+  "message_id": "SEL_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}……我是你的命定之人？{F5 47 02 01 02 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:14:1",
+  "message_id": "SEL_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}我没有那种爱好……{F5 47 02 01 02 01 07 01 01 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:15:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}对对，趁现在只有我们两个，\n我就坦白了，其实我一直觉得\n和搭档有命运的联系……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:15:1",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 10 01}请把你校服上的第２颗纽扣给我！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:15:2",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 11 01}{F5 C1 03 01 01 01 01 01 03 01}……别让我演这种戏啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:16:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}太过分了！\n都把人家弄成这样了……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:16:1",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 13 01}嘴上说着什么搭档，\n其实只是想要人家的身体吧！\n你这禽兽！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:16:2",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 14 01}{F5 C1 03 01 01 01 01 01 04 01}……少啰嗦啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:17:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 02 01}{F5 86 04 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 15 01}我是说，要是女生掉到\n这种莫名其妙的地方，\n不是很可怜吗！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:17:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 16 01}虽然不知道前面会有什么，\n但如果是我和你，总能应付……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:17:2",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 17 01}……所以，刚才说什么来着？\n让我们迈步前进？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_311.bf.json:17:3",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 18 01}{F5 C1 03 01 01 01 01 01 0A 01}……我可没打算\n迈进什么新世界哦？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,57 @@
+[
+ {
+  "key": "export_base/event/e100/e110_123.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 02 01}大家快看！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e110_123.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}那个Ｆ．Ｏ．Ｅ，\n是不是一直在同一个地方绕圈？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_123.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 04 01}这么一说……\n它确实只绕着那个池塘走。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_123.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 05 01}Ｆ．Ｏ．Ｅ或许\n有固定的活动范围。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_123.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 06 01}它似乎对我们没兴趣，\n只要巧妙避开，\n不就不用战斗了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_123.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0F 01 03 01 01 01}{F5 61 02 01 01 01 01 01 07 01}{F5 C1 03 01 01 01 01 01 04 01}唔……一知道对方没兴趣，\n小熊就忍不住想追上去……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_123.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 05 01 01 01 02 01}{F5 61 02 01 01 01 01 01 08 01}{F5 C1 03 01 01 01 01 01 07 01}你是少女吗！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e110_123.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}{F5 C1 03 01 01 01 01 01 0A 01}话说，真和那东西打起来，\n肯定三两下就被收拾了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_123.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}嗯，得绕开Ｆ．Ｏ．Ｅ\n继续前进才行呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_123.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞在对战力有信心之前，\n　{F2 01 03 01}最好还是避开 F.O.E{F2 01 01 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e110_123.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞决定一边观察 F.O.E \n的行动，　一边谨慎前进……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

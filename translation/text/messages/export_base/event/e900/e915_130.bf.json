@@ -1,0 +1,177 @@
+[
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞３楼　摊位街\n　“半生不熟厨房”前……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 02 01 01 01 04 01}{F5 86 04 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 0A 01}鬼屋之后居然是祭典啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 AE 11}早就超出文化祭的范围了吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 4E 09}看来真是什么都能来了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 76 11}{F5 C1 03 01 01 01 01 01 05 01}可为什么偏偏是祭典啊？\n不过……我倒也不讨厌。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 09 01 04 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 01 01}最初是爱丽丝……\n然后是联谊、鬼屋……\n再然后，是祭典……吗。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 03 01 02 01}{F5 61 02 01 01 01 01 01 01 01}看不出有什么规律呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}那就是没什么意义吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3F 06}……现在下这个结论，还为时过早。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 D5 0C}说到底，连这是什么地方\n都还搞不清楚。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:9:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}阴影到处都是，\n又能用人格面具打倒，\n感觉是类似塔尔塔罗斯的地方……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0A 01 04 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 01 01}却不是影时间……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 AB 11}嗯。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:12:0",
+  "message_id": "MSG_0112",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 02 01 01 01 02 01}{F5 86 13 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 01 01}而且，也不是你们说的\n“电视里面”吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 02 01 02 01}{F5 61 02 01 01 01 01 01 A2 02}是啊……\n毕竟谁也没把头伸进电视里。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 03 01 05 01}{F5 61 02 01 01 01 01 01 B9 06}不过，这里还有其他地方\n与电视里的世界相似。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:14:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}如果把这片“和平的文化祭”区域，\n看成进入电视后最先到达的广场……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:14:2",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}那么，那些变成迷宫的展项，\n就像从广场通往的\n各个受害者的空间。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:15:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}原来如此。\n像雪子公主的城堡、完二的桑拿房……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:16:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 DF 01}{F5 C1 03 01 01 01 01 01 05 01}……桑拿房？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:17:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 A2 05}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 0B 01}啊！\n别提那件事了！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:18:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 05 01}与电视里最大的不同，\n是这里没有受害者……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:18:1",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 05 01}电视里的迷宫，\n是在掉进去的人的感情影响下\n形成的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:18:2",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 05 01}而在最深处，\n会有受害者和受害者的阴影……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:19:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 02 01 01 01 02 01}{F5 86 0D 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 90 11}如果相同，这里也应该\n能找到那样的人才对。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:20:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 04 01 03 01 01 01}{F5 61 02 01 01 01 01 01 3C 06}是的。\n可至今找到的并不是人，\n而仅仅是“物品”……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:21:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 03 01 05 01}{F5 86 03 01 0D 01 01 01 04 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 01 01}兔子玩偶、玩具戒指……\n还有头发。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:22:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}总觉得像是小学生的东西。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:23:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 E6 01}可是，关键的孩子却不在。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:24:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 04 01}果然还是不明白呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:25:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}我们不就是在调查这些吗？\n迟早会明白的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:26:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 9E 05}就是啊。这不简单嘛！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:27:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 BB 06}……也请你稍微动动脑子。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:28:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 8A 05}{F5 C1 03 01 01 01 01 01 0B 01}哦？……哦、好！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e915_130.bf.json:29:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞和伙伴们一起度过了一段时光……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

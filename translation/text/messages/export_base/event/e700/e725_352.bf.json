@@ -1,0 +1,42 @@
+[
+ {
+  "key": "export_base/event/e700/e725_352.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞墙壁上下移动了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_352.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 02 01 01 01 02 01}{F5 86 0E 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 0F 0A}呼，原来如此……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e725_352.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}这堵墙的结构类似活塞，\n似乎能用这个按钮\n控制它的升降。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e725_352.bf.json:1:2",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}……真让人捏了把汗。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_352.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 07 01}{F5 61 02 01 01 01 01 01 01 01}以上就是美鹤女士的\n“第一次按按钮”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_352.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 0A 01}这算哪门子的总结啊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e725_352.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}既然升上去了……\n那上面那层可能就会出现一堵墙。\n先记住这点吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_352.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}好……\n那就继续前进吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

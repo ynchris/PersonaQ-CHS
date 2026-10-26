@@ -1,0 +1,152 @@
+[
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这里究竟是什么地方……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞“联谊咖啡厅”终成眷属……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 08 01 01 01 02 01}{F5 86 21 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 04 01}真是的，好痛啊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 03 01}……咦？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 02 01}{F5 86 21 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 04 01}老师，这里是哪儿熊？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 11 01}{F5 C1 04 01 01 01 01 01 03 01}看来，你们已经抵达了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 03 01 01 01 01 01 05 01}嗯……？\n什么意思熊？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 12 01}{F5 C1 04 01 01 01 01 01 03 01}这里似乎是一条让邂逅命定伴侣的\n恋人们倾诉爱意的道路。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 13 01}{F5 C1 04 01 01 01 01 01 03 01}前方究竟有什么在等待呢？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:5:2",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 14 01}{F5 C1 04 01 01 01 01 01 03 01}你们可以手牵着手，\n怀着好奇与恐惧迈出脚步，\n也可以不迈出。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 05 01 03 01 01 01}{F5 61 02 01 01 01 01 01 06 01}命中注定的另一半……恋人……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 05 01 03 01 01 01}{F5 61 02 01 01 01 01 01 07 01}难道……老师和小熊，\n注定要坠入爱河？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 15 01}{F5 C1 04 01 01 01 01 01 03 01}我说，你们可以迈出脚步，\n也可以不迈出。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 16 01}{F5 C1 04 01 01 01 01 01 03 01}来，迈出脚步吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞机械语音消失了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}老师……\n小熊一直相信着。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:9:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}当老师将孤零零待在电视里的小熊\n带出来的时候，\n小熊就明白了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:9:2",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0A 01}{F5 C1 03 01 01 01 01 01 09 01}老师……就是小熊命中注定的人……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:10:0",
+  "message_id": "SEL_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 02 01}你在说什么？{F5 47 02 01 02 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:10:1",
+  "message_id": "SEL_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}我想不是吧{F5 47 02 01 02 01 05 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}真是的，老师\n真是个冷淡的男人呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}呜……\n你……讨厌小熊吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:12:1",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0D 01}{F5 C1 03 01 01 01 01 01 04 01}小熊……只有老师了……\n要是被老师抛弃，小熊……\n心就要碎了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞小熊看起来很伤心……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:14:0",
+  "message_id": "SEL_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 02 01}抱歉{F5 47 02 01 02 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:14:1",
+  "message_id": "SEL_014",
+  "translation": "{F2 05 FF FF}{F1 41}也许真是命运{F5 47 02 01 02 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}{F5 C1 03 01 01 01 01 01 08 01}耶！\n老师，我爱你！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}那么……就来描绘\n我们两人的命运轨迹吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_317.bf.json:16:1",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 10 01}来，走吧！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

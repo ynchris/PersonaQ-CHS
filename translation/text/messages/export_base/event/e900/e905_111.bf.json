@@ -1,0 +1,207 @@
+[
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞２楼　节目走廊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 6B 03}{F5 C1 03 01 01 01 01 01 04 01}啊～刚才真是受够了……\n突然被关起来什么的，\n真是饶了我吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 05 01 05 01 01 01}{F5 61 02 01 01 01 01 01 3D 04}能平安出来真是太好了。\n多亏了玲她们呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 48 06}什么都做不了，只能等待，\n真是难熬……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}只能在旁边看着，\n其实也挺辛苦的呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 02 01}{F5 86 07 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 01 01}就是就是！\n这下明白导航员的辛苦了吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:6:0",
+  "message_id": "SEL_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}深有体会{F5 47 02 01 03 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:6:1",
+  "message_id": "SEL_006",
+  "translation": "{F2 05 FF FF}{F1 41}也没多辛苦{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 F6 04}{F5 C1 03 01 01 01 01 01 08 01}嗯，很好！\n……开玩笑的啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 FC 04}啊～你这么说，\n我就不给你导航了！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……骗你的啦。\n毕竟我可不希望你们受伤。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}怎么了，你们在这里做什么？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞真田从走廊深处走了过来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}我知道了，你们看那座鬼屋\n快到终点了，正在商量\n怎么对付“守卫”吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 03 01 01 01 07 01}{F5 61 02 01 01 01 01 01 48 0B}呵呵，不愧是真田学长。\n始终专注于眼前的事情呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}而且，你还真说中了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:13:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}在大家探索过的地方更深处，\n我感觉到了强大的反应。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:13:2",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}而且不止一个！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 03 01 02 01 01 01 04 01}{F5 86 0D 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 64 09}不止一个啊……不错。\n是不是摩拳擦掌了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:15:0",
+  "message_id": "SEL_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}当然{F5 47 02 01 03 01 03 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:15:1",
+  "message_id": "SEL_015",
+  "translation": "{F2 05 FF FF}{F1 41}无所谓{F5 47 02 01 03 01 0B 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0F 01 02 01 07 01}{F5 61 02 01 01 01 01 01 DE 04}{F5 C1 03 01 01 01 01 01 0A 01}……没想到，你也是真田那一类的？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 06 01 02 01 01 01 04 01}{F5 86 05 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 C0 03}总觉得……很像城里的男生呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}嗯，一般人可说不出这种话！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 03 01 02 01 01 01 04 01}{F5 86 0F 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}队长这句话，我可不信哦？\n你虽然这么说，\n每次都认真做好了准备呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 06 01 02 01 01 01 04 01}{F5 86 05 01 11 01 05 01 02 01}{F5 61 02 01 01 01 01 01 6B 03}{F5 C1 03 01 01 01 01 01 04 01}可是，那种地方的守卫啊……\n呜呜……我根本不想去想！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:21:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 05 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}是啊，比如让人毛骨悚然的怪物、\n堆积如山的日式人偶，\n还有朝人招手的老婆婆呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:22:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 83 03}{F5 C1 03 01 01 01 01 01 0B 01}啊！？\n招什么手啊！\n她是招财猫吗！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:23:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 03 01 07 01}{F5 61 02 01 01 01 01 01 3E 06}{F5 C1 03 01 01 01 01 01 0A 01}……这倒不是重点吧？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:23:1",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}从那种氛围来看，\n更可能是与医院有关的东西……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:24:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 23 04}被封锁的地下病房。\n本不该存在的病室。\n一定会停在太平间的电梯……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:24:1",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}还有，从黑暗的走廊深处\n传来的啜泣声……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:25:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 11 01 04 01 01 01}{F5 61 02 01 01 01 01 01 D9 03}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 02 01}呀啊啊啊！！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:26:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 07 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1C 05}{F5 C1 03 01 01 01 01 01 07 01}呀！\n真是的！千枝学姐的叫声才吓人啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:27:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 02 01 07 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 04 01}呜呜……\n听雪子这么一说，\n总觉得浑身发冷……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:28:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 11 01 02 01 02 01}{F5 61 02 01 01 01 01 01 01 01}我也有点……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:29:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 60 09}{F5 C1 03 01 01 01 01 01 08 01}兴奋得发抖了吗，好事啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:30:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 07 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:31:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 0F 01 0E 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:32:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞气氛似乎变得有些冰冷……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_111.bf.json:33:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞和伙伴们度过了一段愉快的时光……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

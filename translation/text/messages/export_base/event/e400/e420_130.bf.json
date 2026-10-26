@@ -1,0 +1,142 @@
+[
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 02 01 01 01 04 01}{F5 86 2D 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}你的生命时间已经结束。\n因此，必须随我前来。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}无论出于何种理由，\n这一决定都不会改变。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}以上。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 2B 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 05 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 06 01}我，死了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2D 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}是的，时间到了。\n无论谁都无法逃脱。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 2B 01 04 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 2D 01 04 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0A 01}{F5 C1 04 01 01 01 01 01 04 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2D 01 04 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}你不说些什么吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2D 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}几乎所有人都会表示不服。\n其余的人倒会欢迎我的到来。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0D 01}{F5 C1 04 01 01 01 01 01 04 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 2D 01 04 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0F 01}{F5 C1 04 01 01 01 01 01 04 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 10 01}{F5 C1 04 01 01 01 01 01 02 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 11 01}{F5 C1 04 01 01 01 01 01 04 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2D 01 04 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}为什么什么都不说？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 13 01}{F5 C1 04 01 01 01 01 01 04 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 2D 01 04 01 01 01 01 01}{F5 61 02 01 01 01 01 01 14 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 15 01}{F5 C1 04 01 01 01 01 01 04 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 16 01}{F5 C1 04 01 01 01 01 01 02 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 17 01}{F5 C1 04 01 01 01 01 01 04 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2D 01 04 01 01 01 01 01}{F5 61 02 01 01 01 01 01 18 01}这个人类，究竟怎么回事……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 19 01}{F5 C1 04 01 01 01 01 01 04 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 2D 01 04 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1A 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:21:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1B 01}{F5 C1 04 01 01 01 01 01 04 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:22:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1C 01}{F5 C1 04 01 01 01 01 01 02 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_130.bf.json:23:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1D 01}{F5 C1 04 01 01 01 01 01 04 01}……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

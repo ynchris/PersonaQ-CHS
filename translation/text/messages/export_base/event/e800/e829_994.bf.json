@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_base/event/e800/e829_994.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 01 01 05 01 02 01}{F5 61 02 01 01 01 01 01 2D 11}那么……换个话题。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e829_994.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}多亏您的协助，\n我的研究即将\n迎来终章。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e829_994.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}这项研究对您而言，\n也将有着重要的意义。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e829_994.bf.json:0:3",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}希望您务必亲眼\n确认研究的最终成果。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e829_994.bf.json:0:4",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0F 01 05 01 01 01}{F5 61 02 01 01 01 01 01 E3 0E}我已经发布委托了。\n请踊跃接下吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e829_994.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞新增委托\n　{F2 01 03 01}“终幕时刻到了”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

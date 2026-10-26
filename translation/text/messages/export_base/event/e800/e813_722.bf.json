@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_base/event/e800/e813_722.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 09 01 04 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 42 02}这下面应该有张蜘蛛网吧。\n说不定……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e813_722.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 4C 02}……去确认一下吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_722.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这下面应该就是\n　困住蝴蝶的蜘蛛网所在之处。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e813_722.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞去确认一下吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

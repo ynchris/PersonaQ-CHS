@@ -1,0 +1,37 @@
+[
+ {
+  "key": "export_base/dungeon/script/dungeon03f.gsd_dungeon03f.bf.json:1:0",
+  "message_id": "MSG_D03_RABBIT_LID",
+  "translation": "{F2 05 FF FF}{F1 41}＞墙上挂着风景画…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon03f.gsd_dungeon03f.bf.json:2:0",
+  "message_id": "MSG_D03_WATERING_POT",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了{F4 84 04 01 01 01 05 07}！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon03f.gsd_dungeon03f.bf.json:3:0",
+  "message_id": "MSG_D03_ONEWAY",
+  "translation": "{F2 05 FF FF}{F1 41}＞通用提示。要穿过去吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon03f.gsd_dungeon03f.bf.json:4:0",
+  "message_id": "SEL_D03_ONEWAY",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon03f.gsd_dungeon03f.bf.json:4:1",
+  "message_id": "SEL_D03_ONEWAY",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon03f.gsd_dungeon03f.bf.json:5:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}＞似乎无法从这边打开…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon03f.gsd_dungeon03f.bf.json:6:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}＞打开了门锁！\n{F1 21}{00}"
+ }
+]

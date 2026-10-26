@@ -1,0 +1,67 @@
+[
+ {
+  "key": "export_base/event/e700/e724_145.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 2A 04}总算也通过这扇门了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_145.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 01 01 02 01 01 01 02 01}{F5 86 12 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 AA 0C}汪汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_145.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 07 01}{F5 61 02 01 01 01 01 01 87 0B}虎狼丸先生说，您能选出最短路线，\n不让火把熄灭，这份本领\n真让它佩服得舌头都打卷了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e724_145.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……但虎狼丸先生却吐着舌头。\n真不可思议。矛盾了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_145.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}最短路线？也就是说，\n虎狼丸不喜欢走很远去散步啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_145.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 AA 0C}汪汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_145.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 68 0B}它只是想沿合理的路线散步，\n路越长反而越开心。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_145.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 06 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}这样啊。\n果然还是想去\n各种各样的地方呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e724_145.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 05 01 05 01 01 01}{F5 61 02 01 01 01 01 01 3D 04}呐，虎狼丸，\n也陪我一起去散步好吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_145.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 AC 0C}{F5 C1 03 01 01 01 01 01 08 01}汪呜！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_145.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}我也想一起散步……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_145.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 AB 0C}{F5 C1 03 01 01 01 01 01 04 01}呜呜……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_145.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 AB 05}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 0B 01}为什么啊啊啊啊！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

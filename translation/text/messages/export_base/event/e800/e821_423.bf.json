@@ -1,0 +1,42 @@
+[
+ {
+  "key": "export_base/event/e800/e821_423.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞钢琴中传来了音乐……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_423.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 11 01 02 01 02 01}{F5 61 02 01 01 01 01 01 3E 06}……真让人毛骨悚然。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_423.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}委托物品也不在这个房间里，\n还是赶快离开这里……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_423.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 E3 08}小直，难道说……\n你其实有点害怕？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_423.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 66 06}{F5 C1 03 01 01 01 01 01 07 01}才、才不是那样……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_423.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 7E 08}真不坦率呢。\n嗯嗯，年轻真好。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_423.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 65 06}{F5 C1 03 01 01 01 01 01 0B 01}请、请别这样！\n这是性骚扰！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_423.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 03 01 01 01}{F5 61 02 01 01 01 01 01 83 08}{F5 C1 03 01 01 01 01 01 0A 01}啊，这时候倒用起女生的特权了。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

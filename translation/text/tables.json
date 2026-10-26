@@ -1,0 +1,1866 @@
+[
+ {
+  "key": "init/cmptable.bin:0:cmpSkillHelp.ctd:0",
+  "translation": "由谁使用技能？"
+ },
+ {
+  "key": "init/cmptable.bin:0:cmpSkillHelp.ctd:1",
+  "translation": "使用哪个技能？"
+ },
+ {
+  "key": "init/cmptable.bin:0:cmpSkillHelp.ctd:2",
+  "translation": "对谁使用技能？"
+ },
+ {
+  "key": "init/cmptable.bin:0:cmpSkillHelp.ctd:3",
+  "translation": "对哪一列使用技能？"
+ },
+ {
+  "key": "init/cmptable.bin:0:cmpSkillHelp.ctd:4",
+  "translation": "对全体使用技能？"
+ },
+ {
+  "key": "init/cmptable.bin:1:cmpItemHelp.ctd:0",
+  "translation": "无"
+ },
+ {
+  "key": "init/cmptable.bin:1:cmpItemHelp.ctd:1",
+  "translation": "使用哪个道具？"
+ },
+ {
+  "key": "init/cmptable.bin:1:cmpItemHelp.ctd:2",
+  "translation": "对谁使用道具？"
+ },
+ {
+  "key": "init/cmptable.bin:1:cmpItemHelp.ctd:3",
+  "translation": "对全体使用道具？"
+ },
+ {
+  "key": "init/cmptable.bin:1:cmpItemHelp.ctd:4",
+  "translation": "对哪个人格面具使用？"
+ },
+ {
+  "key": "init/cmptable.bin:1:cmpItemHelp.ctd:5",
+  "translation": "查看关键道具"
+ },
+ {
+  "key": "init/cmptable.bin:2:cmpEquipHelp.ctd:0",
+  "translation": "更换谁的装备？"
+ },
+ {
+  "key": "init/cmptable.bin:2:cmpEquipHelp.ctd:1",
+  "translation": "更换哪件装备？"
+ },
+ {
+  "key": "init/cmptable.bin:2:cmpEquipHelp.ctd:2",
+  "translation": "换成哪件装备？"
+ },
+ {
+  "key": "init/cmptable.bin:3:cmpPersonaHelp.ctd:0",
+  "translation": "为谁装备人格面具？"
+ },
+ {
+  "key": "init/cmptable.bin:3:cmpPersonaHelp.ctd:1",
+  "translation": "装备哪个人格面具？"
+ },
+ {
+  "key": "init/cmptable.bin:4:cmpStatusHelp.ctd:0",
+  "translation": "查看谁的状态？"
+ },
+ {
+  "key": "init/cmptable.bin:4:cmpStatusHelp.ctd:1",
+  "translation": "查看状态"
+ },
+ {
+  "key": "init/cmptable.bin:5:cmpSkillHelp.ctd:0",
+  "translation": "由谁使用技能？"
+ },
+ {
+  "key": "init/cmptable.bin:5:cmpSkillHelp.ctd:1",
+  "translation": "使用哪个技能？"
+ },
+ {
+  "key": "init/cmptable.bin:5:cmpSkillHelp.ctd:2",
+  "translation": "对谁使用技能？"
+ },
+ {
+  "key": "init/cmptable.bin:5:cmpSkillHelp.ctd:3",
+  "translation": "对哪一列使用技能？"
+ },
+ {
+  "key": "init/cmptable.bin:5:cmpSkillHelp.ctd:4",
+  "translation": "对全体使用技能？"
+ },
+ {
+  "key": "init/cmptable.bin:16:cmpItemList.ctd:0",
+  "translation": "没有携带任何物品"
+ },
+ {
+  "key": "init/cmptable.bin:17:cmpItemType.ctd:0",
+  "translation": "武器"
+ },
+ {
+  "key": "init/cmptable.bin:17:cmpItemType.ctd:1",
+  "translation": "身体防具"
+ },
+ {
+  "key": "init/cmptable.bin:17:cmpItemType.ctd:2",
+  "translation": "饰品"
+ },
+ {
+  "key": "init/cmptable.bin:17:cmpItemType.ctd:3",
+  "translation": "服装"
+ },
+ {
+  "key": "init/cmptable.bin:17:cmpItemType.ctd:4",
+  "translation": "消耗品"
+ },
+ {
+  "key": "init/cmptable.bin:17:cmpItemType.ctd:5",
+  "translation": "贵重物品"
+ },
+ {
+  "key": "init/cmptable.bin:17:cmpItemType.ctd:6",
+  "translation": "素材"
+ },
+ {
+  "key": "init/cmptable.bin:17:cmpItemType.ctd:7",
+  "translation": "技能卡"
+ },
+ {
+  "key": "init/cmptable.bin:18:cmpEquipHelp.ctd:0",
+  "translation": "更换谁的装备？"
+ },
+ {
+  "key": "init/cmptable.bin:18:cmpEquipHelp.ctd:1",
+  "translation": "更换哪件装备？"
+ },
+ {
+  "key": "init/cmptable.bin:18:cmpEquipHelp.ctd:2",
+  "translation": "换成哪件装备？"
+ },
+ {
+  "key": "init/cmptable.bin:19:cmpEquipParam.ctd:0",
+  "translation": "攻击力"
+ },
+ {
+  "key": "init/cmptable.bin:19:cmpEquipParam.ctd:1",
+  "translation": "命中率"
+ },
+ {
+  "key": "init/cmptable.bin:19:cmpEquipParam.ctd:2",
+  "translation": "防御力"
+ },
+ {
+  "key": "init/cmptable.bin:19:cmpEquipParam.ctd:3",
+  "translation": "回避率"
+ },
+ {
+  "key": "init/cmptable.bin:19:cmpEquipParam.ctd:4",
+  "translation": "附加效果"
+ },
+ {
+  "key": "init/cmptable.bin:20:cmpPersonaParam.ctd:0",
+  "translation": "ＨＰ"
+ },
+ {
+  "key": "init/cmptable.bin:20:cmpPersonaParam.ctd:1",
+  "translation": "ＳＰ"
+ },
+ {
+  "key": "init/cmptable.bin:20:cmpPersonaParam.ctd:2",
+  "translation": "力"
+ },
+ {
+  "key": "init/cmptable.bin:20:cmpPersonaParam.ctd:3",
+  "translation": "魔"
+ },
+ {
+  "key": "init/cmptable.bin:20:cmpPersonaParam.ctd:4",
+  "translation": "耐"
+ },
+ {
+  "key": "init/cmptable.bin:20:cmpPersonaParam.ctd:5",
+  "translation": "速"
+ },
+ {
+  "key": "init/cmptable.bin:20:cmpPersonaParam.ctd:6",
+  "translation": "运"
+ },
+ {
+  "key": "init/cmptable.bin:23:cmpSystemMenu.ctd:0",
+  "translation": "委托"
+ },
+ {
+  "key": "init/cmptable.bin:23:cmpSystemMenu.ctd:1",
+  "translation": "敌人图鉴"
+ },
+ {
+  "key": "init/cmptable.bin:23:cmpSystemMenu.ctd:2",
+  "translation": "设置"
+ },
+ {
+  "key": "init/cmptable.bin:23:cmpSystemMenu.ctd:3",
+  "translation": "读取存档"
+ },
+ {
+  "key": "init/cmptable.bin:23:cmpSystemMenu.ctd:4",
+  "translation": "返回标题"
+ },
+ {
+  "key": "init/cmptable.bin:24:cmpPersonaHelp.ctd:0",
+  "translation": "为谁装备人格面具？"
+ },
+ {
+  "key": "init/cmptable.bin:24:cmpPersonaHelp.ctd:1",
+  "translation": "装备哪个人格面具？"
+ },
+ {
+  "key": "init/cmptable.bin:25:cmpSystemHelp.ctd:0",
+  "translation": "查看委托"
+ },
+ {
+  "key": "init/cmptable.bin:25:cmpSystemHelp.ctd:1",
+  "translation": "查看敌人资料"
+ },
+ {
+  "key": "init/cmptable.bin:25:cmpSystemHelp.ctd:2",
+  "translation": "查看素材资料"
+ },
+ {
+  "key": "init/cmptable.bin:25:cmpSystemHelp.ctd:3",
+  "translation": "调整各项设置"
+ },
+ {
+  "key": "init/cmptable.bin:25:cmpSystemHelp.ctd:4",
+  "translation": "选择并读取存档"
+ },
+ {
+  "key": "init/cmptable.bin:25:cmpSystemHelp.ctd:5",
+  "translation": "结束游戏并返回标题画面"
+ },
+ {
+  "key": "init/cmptable.bin:26:cmpConfigHelp.ctd:0",
+  "translation": "应用更改后的设置并返回"
+ },
+ {
+  "key": "init/cmptable.bin:26:cmpConfigHelp.ctd:1",
+  "translation": "调整背景音乐音量"
+ },
+ {
+  "key": "init/cmptable.bin:26:cmpConfigHelp.ctd:2",
+  "translation": "调整音效音量"
+ },
+ {
+  "key": "init/cmptable.bin:26:cmpConfigHelp.ctd:3",
+  "translation": "调整语音音量"
+ },
+ {
+  "key": "init/cmptable.bin:26:cmpConfigHelp.ctd:4",
+  "translation": "对话时播放语音"
+ },
+ {
+  "key": "init/cmptable.bin:26:cmpConfigHelp.ctd:5",
+  "translation": "根据语音自动推进对话"
+ },
+ {
+  "key": "init/cmptable.bin:26:cmpConfigHelp.ctd:6",
+  "translation": "记住战斗时选择的光标位置"
+ },
+ {
+  "key": "init/cmptable.bin:26:cmpConfigHelp.ctd:7",
+  "translation": "反转镜头上下操作"
+ },
+ {
+  "key": "init/cmptable.bin:26:cmpConfigHelp.ctd:8",
+  "translation": "反转镜头左右操作"
+ },
+ {
+  "key": "init/cmptable.bin:26:cmpConfigHelp.ctd:9",
+  "translation": "移动时自动在地图上绘制墙壁"
+ },
+ {
+  "key": "init/cmptable.bin:26:cmpConfigHelp.ctd:10",
+  "translation": "在地图上显示附近墙壁的参考线"
+ },
+ {
+  "key": "init/cmptable.bin:26:cmpConfigHelp.ctd:11",
+  "translation": "战斗结束后恢复战斗前的队列"
+ },
+ {
+  "key": "init/cmptable.bin:26:cmpConfigHelp.ctd:12",
+  "translation": "调整战斗速度"
+ },
+ {
+  "key": "init/cmptable.bin:26:cmpConfigHelp.ctd:13",
+  "translation": "更改难度"
+ },
+ {
+  "key": "init/cmptable.bin:26:cmpConfigHelp.ctd:14",
+  "translation": "删除存档"
+ },
+ {
+  "key": "init/cmptable.bin:27:cmpConfigItem.ctd:0",
+  "translation": "确定"
+ },
+ {
+  "key": "init/cmptable.bin:27:cmpConfigItem.ctd:1",
+  "translation": "背景音乐音量"
+ },
+ {
+  "key": "init/cmptable.bin:27:cmpConfigItem.ctd:2",
+  "translation": "音效音量"
+ },
+ {
+  "key": "init/cmptable.bin:27:cmpConfigItem.ctd:3",
+  "translation": "对话语音音量"
+ },
+ {
+  "key": "init/cmptable.bin:27:cmpConfigItem.ctd:4",
+  "translation": "对话语音"
+ },
+ {
+  "key": "init/cmptable.bin:27:cmpConfigItem.ctd:5",
+  "translation": "自动推进对话"
+ },
+ {
+  "key": "init/cmptable.bin:27:cmpConfigItem.ctd:6",
+  "translation": "记忆光标位置"
+ },
+ {
+  "key": "init/cmptable.bin:27:cmpConfigItem.ctd:7",
+  "translation": "镜头上下反转"
+ },
+ {
+  "key": "init/cmptable.bin:27:cmpConfigItem.ctd:8",
+  "translation": "镜头左右反转"
+ },
+ {
+  "key": "init/cmptable.bin:27:cmpConfigItem.ctd:9",
+  "translation": "自动绘图"
+ },
+ {
+  "key": "init/cmptable.bin:27:cmpConfigItem.ctd:10",
+  "translation": "显示参考线"
+ },
+ {
+  "key": "init/cmptable.bin:27:cmpConfigItem.ctd:11",
+  "translation": "固定队列"
+ },
+ {
+  "key": "init/cmptable.bin:27:cmpConfigItem.ctd:12",
+  "translation": "战斗速度"
+ },
+ {
+  "key": "init/cmptable.bin:27:cmpConfigItem.ctd:13",
+  "translation": "难度"
+ },
+ {
+  "key": "init/cmptable.bin:27:cmpConfigItem.ctd:14",
+  "translation": "删除存档"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:0",
+  "translation": "想要天使雕像"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:1",
+  "translation": "想要恶魔雕像"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:2",
+  "translation": "屋顶的那个女孩"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:3",
+  "translation": "想要利兹线"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:4",
+  "translation": "想要梦幻美酒"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:5",
+  "translation": "希望能和喜欢的人顺利交往"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:6",
+  "translation": "修理桌子"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:7",
+  "translation": "交换书籍"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:8",
+  "translation": "想要陈旧钥匙"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:9",
+  "translation": "卡门的课外教学・１"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:10",
+  "translation": "想要煤炭"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:11",
+  "translation": "改造桌子"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:12",
+  "translation": "希望能变得讨厌零食"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:13",
+  "translation": "请帮忙喂猫"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:14",
+  "translation": "想要十字架"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:15",
+  "translation": "想要气派的角"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:16",
+  "translation": "请帮忙找妹妹"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:17",
+  "translation": "成为姐姐之路"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:18",
+  "translation": "想要针银矿"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:19",
+  "translation": "寻找小狗"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:20",
+  "translation": "想要驱魔面纱"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:21",
+  "translation": "想要硬皮靴"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:22",
+  "translation": "迷途！谜语学长！"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:23",
+  "translation": "想要灯具"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:24",
+  "translation": "还是很在意猫"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:25",
+  "translation": "想要朋友"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:26",
+  "translation": "想要时髦的盘子"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:27",
+  "translation": "离姐姐只差一步"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:28",
+  "translation": "心灵感应实验"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:29",
+  "translation": "想找回生活的意义"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:30",
+  "translation": "卡门的课外教学・２"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:31",
+  "translation": "想要水晶球"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:32",
+  "translation": "想要煤炭・２"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:33",
+  "translation": "你还记得书的内容吗"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:34",
+  "translation": "送给父亲的礼物"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:35",
+  "translation": "想改掉不善言辞的毛病"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:36",
+  "translation": "想要高速齿轮"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:37",
+  "translation": "告别姐姐的身份"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:38",
+  "translation": "想要演习弹"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:39",
+  "translation": "最后的心灵感应"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:40",
+  "translation": "想习惯和猫相处"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:41",
+  "translation": "寻找掉落的钱"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:42",
+  "translation": "屋顶的那个女孩・２"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:43",
+  "translation": "送给父亲的礼物・２"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:44",
+  "translation": "想要古老矿石"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:45",
+  "translation": "想要灯具・２"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:46",
+  "translation": "觉醒！谜语学长！"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:47",
+  "translation": "想一睹七里海岸鱼王"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:48",
+  "translation": "仍然很在意猫"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:49",
+  "translation": "逆袭！谜语学长！"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:50",
+  "translation": "卡门的课外教学・３"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:51",
+  "translation": "想要一束黄金锁链"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:52",
+  "translation": "学生的本分是学业"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:53",
+  "translation": "柏木老师的特别教学・１"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:54",
+  "translation": "请继承清扫部之魂"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:55",
+  "translation": "复活！谜语学长！"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:56",
+  "translation": "想要稻羽鳟鱼"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:57",
+  "translation": "想要２种玉米"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:58",
+  "translation": "想要鲛川鱼王"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:59",
+  "translation": "非稻羽产卷心菜不可"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:60",
+  "translation": "代理派发纸巾"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:61",
+  "translation": "想了解电影里出现的东西"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:62",
+  "translation": "请找来喜欢的衣服"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:63",
+  "translation": "想看看那件令人心动的衣服"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:64",
+  "translation": "寻找我家的孩子"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:65",
+  "translation": "再次寻找我家的孩子"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:66",
+  "translation": "想看可爱的拖鞋"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:67",
+  "translation": "想看带软软肉球的手套"
+ },
+ {
+  "key": "init/cmptable.bin:29:cmpQuestItem.ctd:68",
+  "translation": "柏木老师的特别教学・２"
+ },
+ {
+  "key": "init/cmptable.bin:30:cmpDifficultHelp.ctd:0",
+  "translation": "SAFTY说明"
+ },
+ {
+  "key": "init/cmptable.bin:30:cmpDifficultHelp.ctd:1",
+  "translation": "EASY说明"
+ },
+ {
+  "key": "init/cmptable.bin:30:cmpDifficultHelp.ctd:2",
+  "translation": "NORMAL说明"
+ },
+ {
+  "key": "init/cmptable.bin:30:cmpDifficultHelp.ctd:3",
+  "translation": "HARD说明"
+ },
+ {
+  "key": "init/cmptable.bin:30:cmpDifficultHelp.ctd:4",
+  "translation": "RISKY说明"
+ },
+ {
+  "key": "init/cmptable.bin:32:cmpRootHelp.ctd:0",
+  "translation": "调整设置及查看各项资料"
+ },
+ {
+  "key": "init/cmptable.bin:32:cmpRootHelp.ctd:1",
+  "translation": "装备和查看副人格面具"
+ },
+ {
+  "key": "init/cmptable.bin:32:cmpRootHelp.ctd:2",
+  "translation": "使用技能"
+ },
+ {
+  "key": "init/cmptable.bin:32:cmpRootHelp.ctd:3",
+  "translation": "使用道具"
+ },
+ {
+  "key": "init/cmptable.bin:32:cmpRootHelp.ctd:4",
+  "translation": "更换和查看装备"
+ },
+ {
+  "key": "init/cmptable.bin:32:cmpRootHelp.ctd:5",
+  "translation": "查看详细状态"
+ },
+ {
+  "key": "init/cmptable.bin:32:cmpRootHelp.ctd:6",
+  "translation": "调整队伍阵型"
+ },
+ {
+  "key": "init/cmptable.bin:33:cmpPartyHelp.ctd:0",
+  "translation": "调整谁的位置？"
+ },
+ {
+  "key": "init/cmptable.bin:33:cmpPartyHelp.ctd:1",
+  "translation": "移动到哪个位置？"
+ },
+ {
+  "key": "init/cmptable.bin:34:cmpPowerSpotHelp.ctd:0",
+  "translation": "恢复ＨＰ"
+ },
+ {
+  "key": "init/cmptable.bin:34:cmpPowerSpotHelp.ctd:1",
+  "translation": "恢复ＳＰ"
+ },
+ {
+  "key": "init/cmptable.bin:34:cmpPowerSpotHelp.ctd:2",
+  "translation": "下个能量点所需步数翻倍"
+ },
+ {
+  "key": "init/cmptable.bin:34:cmpPowerSpotHelp.ctd:3",
+  "translation": "经验值翻倍"
+ },
+ {
+  "key": "init/cmptable.bin:34:cmpPowerSpotHelp.ctd:4",
+  "translation": "稀有敌人遇敌率提升"
+ },
+ {
+  "key": "init/cmptable.bin:34:cmpPowerSpotHelp.ctd:5",
+  "translation": "宝箱等级提升"
+ },
+ {
+  "key": "init/cmptable.bin:34:cmpPowerSpotHelp.ctd:6",
+  "translation": "下个能量点效果翻倍"
+ },
+ {
+  "key": "init/fcltable.bin:0:fclWeaponTypeName.ftd:0",
+  "translation": "双手剑"
+ },
+ {
+  "key": "init/fcltable.bin:0:fclWeaponTypeName.ftd:1",
+  "translation": "双刀"
+ },
+ {
+  "key": "init/fcltable.bin:0:fclWeaponTypeName.ftd:2",
+  "translation": "鞋"
+ },
+ {
+  "key": "init/fcltable.bin:0:fclWeaponTypeName.ftd:3",
+  "translation": "铁扇"
+ },
+ {
+  "key": "init/fcltable.bin:0:fclWeaponTypeName.ftd:4",
+  "translation": "盾"
+ },
+ {
+  "key": "init/fcltable.bin:0:fclWeaponTypeName.ftd:5",
+  "translation": "枪"
+ },
+ {
+  "key": "init/fcltable.bin:0:fclWeaponTypeName.ftd:6",
+  "translation": "爪"
+ },
+ {
+  "key": "init/fcltable.bin:1:fclWeaponSellList.ftd:0",
+  "translation": "没有可出售的物品"
+ },
+ {
+  "key": "init/fcltable.bin:1:fclWeaponSellList.ftd:1",
+  "translation": "持有数"
+ },
+ {
+  "key": "init/fcltable.bin:2:fclWeaponTopMenu.ftd:0",
+  "translation": "购买武器"
+ },
+ {
+  "key": "init/fcltable.bin:2:fclWeaponTopMenu.ftd:1",
+  "translation": "购买防具"
+ },
+ {
+  "key": "init/fcltable.bin:2:fclWeaponTopMenu.ftd:2",
+  "translation": "购买饰品"
+ },
+ {
+  "key": "init/fcltable.bin:2:fclWeaponTopMenu.ftd:3",
+  "translation": "购买道具／出售"
+ },
+ {
+  "key": "init/fcltable.bin:2:fclWeaponTopMenu.ftd:4",
+  "translation": "交谈"
+ },
+ {
+  "key": "init/fcltable.bin:2:fclWeaponTopMenu.ftd:5",
+  "translation": "离开商店"
+ },
+ {
+  "key": "init/fcltable.bin:3:fclWeaponHelp.ftd:0",
+  "translation": "要做什么？"
+ },
+ {
+  "key": "init/fcltable.bin:3:fclWeaponHelp.ftd:1",
+  "translation": "购买谁的装备？"
+ },
+ {
+  "key": "init/fcltable.bin:3:fclWeaponHelp.ftd:2",
+  "translation": "要购买什么？"
+ },
+ {
+  "key": "init/fcltable.bin:3:fclWeaponHelp.ftd:3",
+  "translation": "要出售什么？"
+ },
+ {
+  "key": "init/fcltable.bin:3:fclWeaponHelp.ftd:4",
+  "translation": "要寄存什么？"
+ },
+ {
+  "key": "init/fcltable.bin:3:fclWeaponHelp.ftd:5",
+  "translation": "要取出什么？"
+ },
+ {
+  "key": "init/fcltable.bin:4:fclWeaponCategoryName.ftd:0",
+  "translation": "武器"
+ },
+ {
+  "key": "init/fcltable.bin:4:fclWeaponCategoryName.ftd:1",
+  "translation": "防具"
+ },
+ {
+  "key": "init/fcltable.bin:4:fclWeaponCategoryName.ftd:2",
+  "translation": "饰品"
+ },
+ {
+  "key": "init/fcltable.bin:5:fclMatelialInfo.ftd:0",
+  "translation": "暂无信息。"
+ },
+ {
+  "key": "init/fcltable.bin:6:fclItemTopMenu.ftd:0",
+  "translation": "购买道具"
+ },
+ {
+  "key": "init/fcltable.bin:6:fclItemTopMenu.ftd:1",
+  "translation": "交谈"
+ },
+ {
+  "key": "init/fcltable.bin:6:fclItemTopMenu.ftd:2",
+  "translation": "离开商店"
+ },
+ {
+  "key": "init/fcltable.bin:7:fclItemHelp.ftd:0",
+  "translation": "要做什么？"
+ },
+ {
+  "key": "init/fcltable.bin:7:fclItemHelp.ftd:1",
+  "translation": "要购买什么？"
+ },
+ {
+  "key": "init/fcltable.bin:8:fclSpreadText.ftd:0",
+  "translation": "普通合体"
+ },
+ {
+  "key": "init/fcltable.bin:8:fclSpreadText.ftd:1",
+  "translation": "三角合体"
+ },
+ {
+  "key": "init/fcltable.bin:8:fclSpreadText.ftd:2",
+  "translation": "十字合体"
+ },
+ {
+  "key": "init/fcltable.bin:8:fclSpreadText.ftd:3",
+  "translation": "星形合体"
+ },
+ {
+  "key": "init/fcltable.bin:8:fclSpreadText.ftd:4",
+  "translation": "六芒星合体"
+ },
+ {
+  "key": "init/fcltable.bin:8:fclSpreadText.ftd:5",
+  "translation": "双六芒星合体"
+ },
+ {
+  "key": "init/fcltable.bin:8:fclSpreadText.ftd:6",
+  "translation": "搜索合体"
+ },
+ {
+  "key": "init/fcltable.bin:8:fclSpreadText.ftd:7",
+  "translation": "献祭合体"
+ },
+ {
+  "key": "init/fcltable.bin:8:fclSpreadText.ftd:8",
+  "translation": "抽取技能卡"
+ },
+ {
+  "key": "init/fcltable.bin:8:fclSpreadText.ftd:9",
+  "translation": "听取说明"
+ },
+ {
+  "key": "init/fcltable.bin:8:fclSpreadText.ftd:10",
+  "translation": "取消"
+ },
+ {
+  "key": "init/fcltable.bin:9:fclCombineRootText.ftd:0",
+  "translation": "普通合体"
+ },
+ {
+  "key": "init/fcltable.bin:9:fclCombineRootText.ftd:1",
+  "translation": "听取说明"
+ },
+ {
+  "key": "init/fcltable.bin:9:fclCombineRootText.ftd:2",
+  "translation": "取消"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:1",
+  "translation": "要做什么？"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:2",
+  "translation": "要问什么？"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:3",
+  "translation": "查看人格面具全书"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:4",
+  "translation": "登记人格面具全书"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:5",
+  "translation": "持有人格面具一览"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:6",
+  "translation": "推荐合体"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:7",
+  "translation": "搜索合体"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:8",
+  "translation": "合体预报"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:9",
+  "translation": "购买技能卡"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:10",
+  "translation": "登记技能卡"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:11",
+  "translation": "查看救援记录"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:12",
+  "translation": "救援记录详情"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:13",
+  "translation": "创建消息"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:14",
+  "translation": "选择图标"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:15",
+  "translation": "结束创建"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:16",
+  "translation": "要做什么？"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:17",
+  "translation": "请选择第１张"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:18",
+  "translation": "请选择第２张"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:19",
+  "translation": "请选择第３张"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:20",
+  "translation": "请选择武器。"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:21",
+  "translation": "请选择人格面具。"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:22",
+  "translation": "阅览擦肩笔记"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:23",
+  "translation": "请选择要发送的人格面具。"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:24",
+  "translation": "请选择第１张祭品"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:25",
+  "translation": "请选择第２个祭品"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:26",
+  "translation": "请选择要成长的人格面具。"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:27",
+  "translation": "请选择要成长的人格面具。"
+ },
+ {
+  "key": "init/fcltable.bin:10:fclSimpleHelp.ftd:28",
+  "translation": "抽取技能卡"
+ },
+ {
+  "key": "init/fcltable.bin:11:fclElvGirlText.ftd:0",
+  "translation": "全部登录"
+ },
+ {
+  "key": "init/fcltable.bin:11:fclElvGirlText.ftd:1",
+  "translation": "选择登录"
+ },
+ {
+  "key": "init/fcltable.bin:12:fclHelpTable_COMBINE_ROOT.ftd:0",
+  "translation": "创造人格面具"
+ },
+ {
+  "key": "init/fcltable.bin:12:fclHelpTable_COMBINE_ROOT.ftd:1",
+  "translation": "查看人格面具全书"
+ },
+ {
+  "key": "init/fcltable.bin:12:fclHelpTable_COMBINE_ROOT.ftd:2",
+  "translation": "查看擦肩手册"
+ },
+ {
+  "key": "init/fcltable.bin:12:fclHelpTable_COMBINE_ROOT.ftd:3",
+  "translation": "重置技能"
+ },
+ {
+  "key": "init/fcltable.bin:12:fclHelpTable_COMBINE_ROOT.ftd:4",
+  "translation": "查看持有的人格面具"
+ },
+ {
+  "key": "init/fcltable.bin:12:fclHelpTable_COMBINE_ROOT.ftd:5",
+  "translation": "交谈"
+ },
+ {
+  "key": "init/fcltable.bin:12:fclHelpTable_COMBINE_ROOT.ftd:6",
+  "translation": "挑战最强者"
+ },
+ {
+  "key": "init/fcltable.bin:12:fclHelpTable_COMBINE_ROOT.ftd:7",
+  "translation": "离开天鹅绒房间"
+ },
+ {
+  "key": "init/fcltable.bin:13:fclHelpTable_COMBINE.ftd:0",
+  "translation": "合体基础"
+ },
+ {
+  "key": "init/fcltable.bin:13:fclHelpTable_COMBINE.ftd:1",
+  "translation": "合体法则"
+ },
+ {
+  "key": "init/fcltable.bin:13:fclHelpTable_COMBINE.ftd:2",
+  "translation": "技能继承"
+ },
+ {
+  "key": "init/fcltable.bin:13:fclHelpTable_COMBINE.ftd:3",
+  "translation": "可继承的技能属性"
+ },
+ {
+  "key": "init/fcltable.bin:13:fclHelpTable_COMBINE.ftd:4",
+  "translation": "合体事故"
+ },
+ {
+  "key": "init/fcltable.bin:13:fclHelpTable_COMBINE.ftd:5",
+  "translation": "搜索合体"
+ },
+ {
+  "key": "init/fcltable.bin:13:fclHelpTable_COMBINE.ftd:6",
+  "translation": "三角展开"
+ },
+ {
+  "key": "init/fcltable.bin:13:fclHelpTable_COMBINE.ftd:7",
+  "translation": "祭品展开"
+ },
+ {
+  "key": "init/fcltable.bin:13:fclHelpTable_COMBINE.ftd:8",
+  "translation": "技能卡抽出"
+ },
+ {
+  "key": "init/fcltable.bin:14:fclHelpTable_COMBINE_E.ftd:0",
+  "translation": "合体基础"
+ },
+ {
+  "key": "init/fcltable.bin:14:fclHelpTable_COMBINE_E.ftd:1",
+  "translation": "合体法则"
+ },
+ {
+  "key": "init/fcltable.bin:14:fclHelpTable_COMBINE_E.ftd:2",
+  "translation": "技能继承"
+ },
+ {
+  "key": "init/fcltable.bin:14:fclHelpTable_COMBINE_E.ftd:3",
+  "translation": "可继承的技能属性"
+ },
+ {
+  "key": "init/fcltable.bin:14:fclHelpTable_COMBINE_E.ftd:4",
+  "translation": "合体事故"
+ },
+ {
+  "key": "init/fcltable.bin:14:fclHelpTable_COMBINE_E.ftd:5",
+  "translation": "搜索合体"
+ },
+ {
+  "key": "init/fcltable.bin:15:fclHelpTable_ELVGIRL_ROOT.ftd:0",
+  "translation": "查看人格面具全书"
+ },
+ {
+  "key": "init/fcltable.bin:15:fclHelpTable_ELVGIRL_ROOT.ftd:1",
+  "translation": "登录人格面具全书"
+ },
+ {
+  "key": "init/fcltable.bin:15:fclHelpTable_ELVGIRL_ROOT.ftd:2",
+  "translation": "听取说明"
+ },
+ {
+  "key": "init/fcltable.bin:15:fclHelpTable_ELVGIRL_ROOT.ftd:3",
+  "translation": "取消"
+ },
+ {
+  "key": "init/fcltable.bin:16:fclHelpTable_ELVGIRL.ftd:0",
+  "translation": "查看人格面具全书"
+ },
+ {
+  "key": "init/fcltable.bin:16:fclHelpTable_ELVGIRL.ftd:1",
+  "translation": "登录人格面具全书"
+ },
+ {
+  "key": "init/fcltable.bin:17:fclHelpTable_ELVGIRL_E.ftd:0",
+  "translation": "查看人格面具全书"
+ },
+ {
+  "key": "init/fcltable.bin:17:fclHelpTable_ELVGIRL_E.ftd:1",
+  "translation": "登录人格面具全书"
+ },
+ {
+  "key": "init/fcltable.bin:18:fclHelpTable_NETWORK_ROOT.ftd:0",
+  "translation": "查看擦肩手册"
+ },
+ {
+  "key": "init/fcltable.bin:18:fclHelpTable_NETWORK_ROOT.ftd:1",
+  "translation": "编辑自己的手册"
+ },
+ {
+  "key": "init/fcltable.bin:18:fclHelpTable_NETWORK_ROOT.ftd:2",
+  "translation": "二维码"
+ },
+ {
+  "key": "init/fcltable.bin:18:fclHelpTable_NETWORK_ROOT.ftd:3",
+  "translation": "擦肩通信设置"
+ },
+ {
+  "key": "init/fcltable.bin:18:fclHelpTable_NETWORK_ROOT.ftd:4",
+  "translation": "听取说明"
+ },
+ {
+  "key": "init/fcltable.bin:18:fclHelpTable_NETWORK_ROOT.ftd:5",
+  "translation": "取消"
+ },
+ {
+  "key": "init/fcltable.bin:19:fclHelpTable_NETWORK.ftd:0",
+  "translation": "擦肩手册"
+ },
+ {
+  "key": "init/fcltable.bin:19:fclHelpTable_NETWORK.ftd:1",
+  "translation": "查看擦肩手册"
+ },
+ {
+  "key": "init/fcltable.bin:19:fclHelpTable_NETWORK.ftd:2",
+  "translation": "编辑擦肩手册"
+ },
+ {
+  "key": "init/fcltable.bin:19:fclHelpTable_NETWORK.ftd:3",
+  "translation": "二维码"
+ },
+ {
+  "key": "init/fcltable.bin:20:fclHelpTable_NETWORK_E.ftd:0",
+  "translation": "擦肩手册"
+ },
+ {
+  "key": "init/fcltable.bin:20:fclHelpTable_NETWORK_E.ftd:1",
+  "translation": "查看擦肩手册"
+ },
+ {
+  "key": "init/fcltable.bin:20:fclHelpTable_NETWORK_E.ftd:2",
+  "translation": "编辑擦肩手册"
+ },
+ {
+  "key": "init/fcltable.bin:20:fclHelpTable_NETWORK_E.ftd:3",
+  "translation": "二维码"
+ },
+ {
+  "key": "init/fcltable.bin:21:fclHelpTable_LIVER.ftd:0",
+  "translation": "听玛格丽特的请求"
+ },
+ {
+  "key": "init/fcltable.bin:21:fclHelpTable_LIVER.ftd:1",
+  "translation": "听玛丽的请求"
+ },
+ {
+  "key": "init/fcltable.bin:21:fclHelpTable_LIVER.ftd:2",
+  "translation": "询问玛丽的下落"
+ },
+ {
+  "key": "init/fcltable.bin:21:fclHelpTable_LIVER.ftd:3",
+  "translation": "查看社群完成率"
+ },
+ {
+  "key": "init/fcltable.bin:21:fclHelpTable_LIVER.ftd:4",
+  "translation": "取消"
+ },
+ {
+  "key": "init/fcltable.bin:22:fclHelpTable_NOFFICE.ftd:0",
+  "translation": "治疗"
+ },
+ {
+  "key": "init/fcltable.bin:22:fclHelpTable_NOFFICE.ftd:1",
+  "translation": "委托"
+ },
+ {
+  "key": "init/fcltable.bin:22:fclHelpTable_NOFFICE.ftd:2",
+  "translation": "委托报酬"
+ },
+ {
+  "key": "init/fcltable.bin:22:fclHelpTable_NOFFICE.ftd:3",
+  "translation": "委托期限"
+ },
+ {
+  "key": "init/fcltable.bin:22:fclHelpTable_NOFFICE.ftd:4",
+  "translation": "放弃委托"
+ },
+ {
+  "key": "init/fcltable.bin:23:fclHelpTable_NOFFICE_M.ftd:0",
+  "translation": "治疗"
+ },
+ {
+  "key": "init/fcltable.bin:24:fclHelpTable_NOFFICE_E_BLUE.ftd:0",
+  "translation": "治疗"
+ },
+ {
+  "key": "init/fcltable.bin:25:fclHelpTable_SHOP.ftd:0",
+  "translation": "新增商品"
+ },
+ {
+  "key": "init/fcltable.bin:25:fclHelpTable_SHOP.ftd:1",
+  "translation": "特定条件下获得的素材"
+ },
+ {
+  "key": "init/fcltable.bin:25:fclHelpTable_SHOP.ftd:2",
+  "translation": "武器和防具的附加效果"
+ },
+ {
+  "key": "init/fcltable.bin:25:fclHelpTable_SHOP.ftd:3",
+  "translation": "道具持有数"
+ },
+ {
+  "key": "init/fcltable.bin:25:fclHelpTable_SHOP.ftd:4",
+  "translation": "整理随身物品"
+ },
+ {
+  "key": "init/fcltable.bin:26:fclHelpTable_SHOP_M.ftd:0",
+  "translation": "新增商品"
+ },
+ {
+  "key": "init/fcltable.bin:26:fclHelpTable_SHOP_M.ftd:1",
+  "translation": "特定条件下获得的素材"
+ },
+ {
+  "key": "init/fcltable.bin:26:fclHelpTable_SHOP_M.ftd:2",
+  "translation": "武器和防具的附加效果"
+ },
+ {
+  "key": "init/fcltable.bin:26:fclHelpTable_SHOP_M.ftd:3",
+  "translation": "道具持有数"
+ },
+ {
+  "key": "init/fcltable.bin:26:fclHelpTable_SHOP_M.ftd:4",
+  "translation": "整理随身物品"
+ },
+ {
+  "key": "init/fcltable.bin:27:fclSuggestTypeName.ftd:0",
+  "translation": "等级最高的人格面具"
+ },
+ {
+  "key": "init/fcltable.bin:27:fclSuggestTypeName.ftd:1",
+  "translation": "具有回复技能的人格面具"
+ },
+ {
+  "key": "init/fcltable.bin:27:fclSuggestTypeName.ftd:2",
+  "translation": "未登记于全书的人格面具"
+ },
+ {
+  "key": "init/fcltable.bin:27:fclSuggestTypeName.ftd:3",
+  "translation": "未持有但已建立对应社群的人格面具"
+ },
+ {
+  "key": "init/fcltable.bin:27:fclSuggestTypeName.ftd:4",
+  "translation": "库存中没有的阿尔卡那的人格面具"
+ },
+ {
+  "key": "init/fcltable.bin:28:fclSearchText.ftd:0",
+  "translation": "没有符合条件的人格面具"
+ },
+ {
+  "key": "init/fcltable.bin:28:fclSearchText.ftd:1",
+  "translation": "没有合体候选"
+ },
+ {
+  "key": "init/fcltable.bin:28:fclSearchText.ftd:2",
+  "translation": "未持有人格面具"
+ },
+ {
+  "key": "init/fcltable.bin:29:fclViewTypeText.ftd:0",
+  "translation": "全部人格面具（含未登录）"
+ },
+ {
+  "key": "init/fcltable.bin:29:fclViewTypeText.ftd:1",
+  "translation": "已登录的人格面具"
+ },
+ {
+  "key": "init/fcltable.bin:69:fclFesTopMenu.ftd:0",
+  "translation": "天鹅绒房间"
+ },
+ {
+  "key": "init/fcltable.bin:69:fclFesTopMenu.ftd:1",
+  "translation": "手工工坊"
+ },
+ {
+  "key": "init/fcltable.bin:69:fclFesTopMenu.ftd:2",
+  "translation": "保健室"
+ },
+ {
+  "key": "init/fcltable.bin:69:fclFesTopMenu.ftd:3",
+  "translation": "校内漫步"
+ },
+ {
+  "key": "init/fcltable.bin:69:fclFesTopMenu.ftd:4",
+  "translation": "前往迷宫"
+ },
+ {
+  "key": "init/fcltable.bin:69:fclFesTopMenu.ftd:5",
+  "translation": "编队"
+ },
+ {
+  "key": "init/fcltable.bin:69:fclFesTopMenu.ftd:6",
+  "translation": "保存"
+ },
+ {
+  "key": "init/fcltable.bin:69:fclFesTopMenu.ftd:7",
+  "translation": "前往角色扮演咖啡厅"
+ },
+ {
+  "key": "init/fcltable.bin:70:fclFesDgMenu.ftd:0",
+  "translation": "不可思议之国的你"
+ },
+ {
+  "key": "init/fcltable.bin:70:fclFesDgMenu.ftd:1",
+  "translation": "联谊咖啡厅"
+ },
+ {
+  "key": "init/fcltable.bin:70:fclFesDgMenu.ftd:2",
+  "translation": "放学后恶灵俱乐部"
+ },
+ {
+  "key": "init/fcltable.bin:70:fclFesDgMenu.ftd:3",
+  "translation": "稻羽乡土展"
+ },
+ {
+  "key": "init/fcltable.bin:70:fclFesDgMenu.ftd:4",
+  "translation": "时钟塔"
+ },
+ {
+  "key": "init/fcltable.bin:71:fclFesEvtMenu.ftd:0",
+  "translation": "摊位街"
+ },
+ {
+  "key": "init/fcltable.bin:71:fclFesEvtMenu.ftd:1",
+  "translation": "节目大道"
+ },
+ {
+  "key": "init/fcltable.bin:71:fclFesEvtMenu.ftd:2",
+  "translation": "美食广场"
+ },
+ {
+  "key": "init/fcltable.bin:72:fclFesPartyMenu.ftd:0",
+  "translation": "编组队伍"
+ },
+ {
+  "key": "init/fcltable.bin:72:fclFesPartyMenu.ftd:1",
+  "translation": "登录队伍"
+ },
+ {
+  "key": "init/fcltable.bin:72:fclFesPartyMenu.ftd:2",
+  "translation": "调用已登录队伍"
+ },
+ {
+  "key": "init/fcltable.bin:72:fclFesPartyMenu.ftd:3",
+  "translation": "导航设置"
+ },
+ {
+  "key": "init/fcltable.bin:73:fclFesRootHelp.ftd:0",
+  "translation": "可进行人格面具合体或查看全书"
+ },
+ {
+  "key": "init/fcltable.bin:73:fclFesRootHelp.ftd:1",
+  "translation": "可以买卖武器、防具、道具。"
+ },
+ {
+  "key": "init/fcltable.bin:73:fclFesRootHelp.ftd:2",
+  "translation": "可为队员恢复状态"
+ },
+ {
+  "key": "init/fcltable.bin:73:fclFesRootHelp.ftd:3",
+  "translation": "可前往文化祭游玩"
+ },
+ {
+  "key": "init/fcltable.bin:73:fclFesRootHelp.ftd:4",
+  "translation": "出发探索迷宫"
+ },
+ {
+  "key": "init/fcltable.bin:73:fclFesRootHelp.ftd:5",
+  "translation": "可以编成队伍。"
+ },
+ {
+  "key": "init/fcltable.bin:73:fclFesRootHelp.ftd:6",
+  "translation": "可以保存游戏数据。"
+ },
+ {
+  "key": "init/fcltable.bin:74:fclFesRootHelpEx.ftd:0",
+  "translation": "可进行人格面具合体或查看全书"
+ },
+ {
+  "key": "init/fcltable.bin:74:fclFesRootHelpEx.ftd:1",
+  "translation": "可以买卖武器、防具、物品。"
+ },
+ {
+  "key": "init/fcltable.bin:74:fclFesRootHelpEx.ftd:2",
+  "translation": "可为队员恢复状态或接受委托"
+ },
+ {
+  "key": "init/fcltable.bin:74:fclFesRootHelpEx.ftd:3",
+  "translation": "可在校园内与伙伴共度时光"
+ },
+ {
+  "key": "init/fcltable.bin:74:fclFesRootHelpEx.ftd:4",
+  "translation": "前往探索迷宫"
+ },
+ {
+  "key": "init/fcltable.bin:74:fclFesRootHelpEx.ftd:5",
+  "translation": "可以编成队伍。"
+ },
+ {
+  "key": "init/fcltable.bin:74:fclFesRootHelpEx.ftd:6",
+  "translation": "可以保存游戏数据。"
+ },
+ {
+  "key": "init/fcltable.bin:75:fclFesRootHelpCosplay.ftd:4",
+  "translation": "去cosplay咖啡店。"
+ },
+ {
+  "key": "init/fcltable.bin:75:fclFesRootHelpCosplay.ftd:6",
+  "translation": "可以保存游戏数据。"
+ },
+ {
+  "key": "init/fcltable.bin:76:fclFesEvtDeteailHelp.ftd:0",
+  "translation": "要看哪个？"
+ },
+ {
+  "key": "init/fcltable.bin:77:fclFesDgDeteailHelp.ftd:0",
+  "translation": "前往探索不可思议之国的你"
+ },
+ {
+  "key": "init/fcltable.bin:77:fclFesDgDeteailHelp.ftd:1",
+  "translation": "前往探索联谊咖啡厅"
+ },
+ {
+  "key": "init/fcltable.bin:77:fclFesDgDeteailHelp.ftd:2",
+  "translation": "前往探索放学后的恶灵俱乐部"
+ },
+ {
+  "key": "init/fcltable.bin:77:fclFesDgDeteailHelp.ftd:3",
+  "translation": "前往探索稻羽乡土展"
+ },
+ {
+  "key": "init/fcltable.bin:77:fclFesDgDeteailHelp.ftd:4",
+  "translation": "前往探索时钟塔"
+ },
+ {
+  "key": "init/fcltable.bin:78:fclFesPartyDeteailHelp.ftd:0",
+  "translation": "编成队伍。"
+ },
+ {
+  "key": "init/fcltable.bin:78:fclFesPartyDeteailHelp.ftd:1",
+  "translation": "登记已编辑的队伍。"
+ },
+ {
+  "key": "init/fcltable.bin:78:fclFesPartyDeteailHelp.ftd:2",
+  "translation": "调用已登记的队伍。"
+ },
+ {
+  "key": "init/fcltable.bin:78:fclFesPartyDeteailHelp.ftd:3",
+  "translation": "设置导航。"
+ },
+ {
+  "key": "init/fcltable.bin:81:fclNofficeTopMenu.ftd:0",
+  "translation": "进行治疗"
+ },
+ {
+  "key": "init/fcltable.bin:81:fclNofficeTopMenu.ftd:1",
+  "translation": "查看委托"
+ },
+ {
+  "key": "init/fcltable.bin:81:fclNofficeTopMenu.ftd:2",
+  "translation": "交谈"
+ },
+ {
+  "key": "init/fcltable.bin:81:fclNofficeTopMenu.ftd:3",
+  "translation": "离开房间"
+ },
+ {
+  "key": "init/fcltable.bin:82:fclNofficeQuestTopMenu.ftd:0",
+  "translation": "接受委托"
+ },
+ {
+  "key": "init/fcltable.bin:82:fclNofficeQuestTopMenu.ftd:1",
+  "translation": "报告委托"
+ },
+ {
+  "key": "init/fcltable.bin:82:fclNofficeQuestTopMenu.ftd:2",
+  "translation": "放弃委托"
+ },
+ {
+  "key": "init/fcltable.bin:82:fclNofficeQuestTopMenu.ftd:3",
+  "translation": "取消"
+ },
+ {
+  "key": "init/fcltable.bin:83:fclNofficeAcceptMenu.ftd:0",
+  "translation": "要接受这项委托吗？"
+ },
+ {
+  "key": "init/fcltable.bin:83:fclNofficeAcceptMenu.ftd:1",
+  "translation": "是"
+ },
+ {
+  "key": "init/fcltable.bin:83:fclNofficeAcceptMenu.ftd:2",
+  "translation": "否"
+ },
+ {
+  "key": "init/fcltable.bin:84:fclNofficeCancelConfMenu.ftd:0",
+  "translation": "要放弃这项委托吗？"
+ },
+ {
+  "key": "init/fcltable.bin:84:fclNofficeCancelConfMenu.ftd:1",
+  "translation": "是"
+ },
+ {
+  "key": "init/fcltable.bin:84:fclNofficeCancelConfMenu.ftd:2",
+  "translation": "否"
+ },
+ {
+  "key": "init/fcltable.bin:85:fclNofficeCommandHelp.ftd:0",
+  "translation": "要做什么？"
+ },
+ {
+  "key": "init/fcltable.bin:85:fclNofficeCommandHelp.ftd:1",
+  "translation": "要接受哪项委托？"
+ },
+ {
+  "key": "init/fcltable.bin:85:fclNofficeCommandHelp.ftd:2",
+  "translation": "要报告哪项委托？"
+ },
+ {
+  "key": "init/fcltable.bin:85:fclNofficeCommandHelp.ftd:3",
+  "translation": "要放弃哪项委托？"
+ },
+ {
+  "key": "init/fcltable.bin:85:fclNofficeCommandHelp.ftd:4",
+  "translation": "要问什么？"
+ },
+ {
+  "key": "init/fcltable.bin:90:fclNetWorkStr.ftd:0",
+  "translation": "持有金钱"
+ },
+ {
+  "key": "init/fcltable.bin:90:fclNetWorkStr.ftd:1",
+  "translation": "手册数量"
+ },
+ {
+  "key": "init/fcltable.bin:90:fclNetWorkStr.ftd:2",
+  "translation": "的数量"
+ },
+ {
+  "key": "init/fcltable.bin:90:fclNetWorkStr.ftd:3",
+  "translation": "有新的手册"
+ },
+ {
+  "key": "init/fcltable.bin:90:fclNetWorkStr.ftd:4",
+  "translation": "没有新的手册"
+ },
+ {
+  "key": "init/fcltable.bin:90:fclNetWorkStr.ftd:5",
+  "translation": "游玩时间"
+ },
+ {
+  "key": "init/fcltable.bin:90:fclNetWorkStr.ftd:6",
+  "translation": "最高等级"
+ },
+ {
+  "key": "init/fcltable.bin:90:fclNetWorkStr.ftd:7",
+  "translation": "人格面具全书登录率"
+ },
+ {
+  "key": "init/fcltable.bin:90:fclNetWorkStr.ftd:8",
+  "translation": "击败敌人数"
+ },
+ {
+  "key": "init/fcltable.bin:90:fclNetWorkStr.ftd:9",
+  "translation": "行走步数"
+ },
+ {
+  "key": "init/fcltable.bin:90:fclNetWorkStr.ftd:10",
+  "translation": "获得的金钱"
+ },
+ {
+  "key": "init/fcltable.bin:90:fclNetWorkStr.ftd:11",
+  "translation": "收到的手册数量"
+ },
+ {
+  "key": "init/fcltable.bin:90:fclNetWorkStr.ftd:12",
+  "translation": "Ｐ３主人公"
+ },
+ {
+  "key": "init/fcltable.bin:90:fclNetWorkStr.ftd:13",
+  "translation": "Ｐ４主人公"
+ },
+ {
+  "key": "init/fcltable.bin:91:fclNetWorkEditMenu.ftd:0",
+  "translation": "查看自己的手册"
+ },
+ {
+  "key": "init/fcltable.bin:91:fclNetWorkEditMenu.ftd:1",
+  "translation": "更改分发的人格面具"
+ },
+ {
+  "key": "init/fcltable.bin:91:fclNetWorkEditMenu.ftd:2",
+  "translation": "修改留言"
+ },
+ {
+  "key": "init/fcltable.bin:91:fclNetWorkEditMenu.ftd:3",
+  "translation": "主人公姓名公开设置"
+ },
+ {
+  "key": "init/fcltable.bin:91:fclNetWorkEditMenu.ftd:4",
+  "translation": "修改擦肩姓名"
+ },
+ {
+  "key": "init/fcltable.bin:91:fclNetWorkEditMenu.ftd:5",
+  "translation": "取消"
+ },
+ {
+  "key": "init/fcltable.bin:92:fclNetWorkQRCodeMenu.ftd:0",
+  "translation": "读取二维码"
+ },
+ {
+  "key": "init/fcltable.bin:92:fclNetWorkQRCodeMenu.ftd:1",
+  "translation": "生成二维码"
+ },
+ {
+  "key": "init/fcltable.bin:92:fclNetWorkQRCodeMenu.ftd:2",
+  "translation": "取消"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:1",
+  "translation": "击败扑克牌士兵"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:2",
+  "translation": "帮忙参加以物易物对决"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:3",
+  "translation": "取得箭的样品"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:4",
+  "translation": "抓住偷食物的小偷"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:5",
+  "translation": "查明传闻的真假"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:6",
+  "translation": "想调配梦幻药水"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:7",
+  "translation": "调查不可思议之国的你"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:8",
+  "translation": "来自Mr. X的委托"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:9",
+  "translation": "取得魅惑剂"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:10",
+  "translation": "小试身手的时间到了"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:11",
+  "translation": "我也想玩"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:12",
+  "translation": "来吧，与阴影过招"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:13",
+  "translation": "解开音乐教室之谜"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:14",
+  "translation": "取得地狱的奶嘴"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:15",
+  "translation": "救救我的胃！"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:16",
+  "translation": "谁才是真正的吉祥物！？"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:17",
+  "translation": "调查联谊咖啡厅"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:18",
+  "translation": "取得邪眼"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:19",
+  "translation": "创造獬豸"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:20",
+  "translation": "帮我拿泻药"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:21",
+  "translation": "一试身手的时间到了"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:22",
+  "translation": "想传达秘密留言"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:23",
+  "translation": "请为我们护航"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:24",
+  "translation": "虎狼丸的散步时间"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:25",
+  "translation": "问问善想要什么！"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:26",
+  "translation": "分享祭典的气氛"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:27",
+  "translation": "给善做项圈吧！"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:28",
+  "translation": "装满阴影的宝箱"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:29",
+  "translation": "调查放学后的恶灵俱乐部"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:30",
+  "translation": "征集寻宝参与者"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:31",
+  "translation": "取得毛茸茸的尾巴"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:32",
+  "translation": "帮忙上课"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:33",
+  "translation": "热身的时间到了"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:34",
+  "translation": "请回收试制的箭"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:35",
+  "translation": "帮我取回回忆"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:36",
+  "translation": "ＴＨＥ　智慧较量"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:37",
+  "translation": "善纠结的原因"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:38",
+  "translation": "调查稻羽乡土展"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:39",
+  "translation": "打开那个宝箱的人是你"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:40",
+  "translation": "终幕的时间到了"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:41",
+  "translation": "取得荣华的碎片"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:42",
+  "translation": "让我感受不羁之力"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:43",
+  "translation": "击败收割者"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:44",
+  "translation": "打倒最强者们"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:45",
+  "translation": "击败爱之天使"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:46",
+  "translation": "击败陈旧的人偶"
+ },
+ {
+  "key": "init/qsttable.bin:1:qstQuestNameText.qtd:47",
+  "translation": "击败祭典男"
+ }
+]

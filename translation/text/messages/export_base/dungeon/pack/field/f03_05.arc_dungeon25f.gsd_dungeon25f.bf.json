@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/dungeon/pack/field/f03_05.arc_dungeon25f.gsd_dungeon25f.bf.json:0:0",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}不看楼层开场事件{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_05.arc_dungeon25f.gsd_dungeon25f.bf.json:0:1",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}观看楼层开场事件{00}{00}"
+ }
+]

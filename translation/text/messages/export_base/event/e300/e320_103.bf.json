@@ -1,0 +1,42 @@
+[
+ {
+  "key": "export_base/event/e300/e320_103.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 02 01 02 01}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 02 01}呀！刚、\n刚才有什么东西发光了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e320_103.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 04 01 01 01 01 01 04 01}玲！你没事吧！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e320_103.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 02 01 02 01}{F5 61 02 01 01 01 01 01 04 01}嗯……\n地上掉着什么……是什么呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e320_103.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 02 01 01 01}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 03 01 01 01 01 01 07 01}啊，是门禁卡！\n和医生拿着的那张一样！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e300/e320_103.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 03 01 01 01 01 01 08 01}太好了，找到第１张了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e320_103.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞获得了{F4 84 04 01 01 01 0C 07}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e320_103.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 07 01}{F5 C1 04 01 01 01 01 01 04 01}玲，找得好。\n剩下２张，也能继续找吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e320_103.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 08 01}嗯，我试试看……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

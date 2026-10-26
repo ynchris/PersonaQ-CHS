@@ -1,0 +1,142 @@
+[
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 02 01}{F3 06 00 01 00 01}拜拜……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 03 01}{F3 06 00 01 00 01}……走了啊。\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 04 01}{F3 06 00 01 00 01}那么，我们也走吧。\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}真的很开心……谢谢！\n{F5 C1 14 01 01 01 01 01 60 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}那么，下次见啦！\n{F5 C1 14 01 01 01 01 01 38 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}一定还要再一起聊天哦！！\n{F5 C1 14 01 01 01 01 01 45 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}下次再见啦！\n{F5 C1 14 01 01 01 01 01 3D 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}多谢关照啦！\n{F5 C1 14 01 01 01 01 01 32 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}下次要主动来搭讪小熊哦！\n{F5 C1 14 01 01 01 01 01 3D 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}那么，这次就到这里。\n{F5 C1 14 01 01 01 01 01 4C 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}总有一天，再相会吧。\n{F5 C1 14 01 01 01 01 01 47 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}谢谢你们！\n{F5 C1 14 01 01 01 01 01 2C 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我不会说永别的！\n{F5 C1 14 01 01 01 01 01 33 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}汪！汪！！\n{F5 C1 14 01 01 01 01 01 24 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 27 01}{F3 06 00 01 00 01}离开这里后，我们和你们，\n都还有各自的战斗要面对。\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 28 01}{F3 06 00 01 00 01}……保重。\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 29 01}{F3 06 00 01 00 01}看来，发生在这里的故事，\n已经迎来了落幕之时……\n{F5 C1 14 01 01 01 01 01 8F 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:17:0",
+  "message_id": "MSG_0162",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 2A 01}{F3 06 00 01 00 01}有开始，便会迎来结束……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:18:0",
+  "message_id": "MSG_0163",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 2B 01}{F3 06 00 01 00 01}这是为了再次孕育新生之物，\n世界所遵循的法则……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:19:0",
+  "message_id": "MSG_0164",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 2C 01}{F3 06 00 01 00 01}直到再次开始的“时刻”来临……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:20:0",
+  "message_id": "MSG_0165",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 2D 01}{F3 06 00 01 00 01}那么，愿您安好……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:21:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}保重啊！\n{F5 C1 14 01 01 01 01 01 29 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:22:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}一定要再见面哦！\n{F5 C1 14 01 01 01 01 01 51 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:23:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}承蒙关照了。\n{F5 C1 14 01 01 01 01 01 2A 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:24:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}反正很快就会再见吧。\n{F5 C1 14 01 01 01 01 01 2E 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:25:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}再见哦，一定哦！\n{F5 C1 14 01 01 01 01 01 3D 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:26:0",
+  "message_id": "MSG_end001",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}曾经无法绘出　只属于自己的地图\n{F5 C1 14 01 01 01 01 01 AB 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_030.bf.json:27:0",
+  "message_id": "MSG_end002",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}因为无法将过错　归咎于任何人\n{F5 C1 14 01 01 01 01 01 8D 01}{00}"
+ }
+]

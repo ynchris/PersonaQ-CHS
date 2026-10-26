@@ -1,0 +1,72 @@
+[
+ {
+  "key": "export_base/event/e700/e723_450.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞公告板上贴着一张笔记本残页……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_450.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞笔记本残页上写着\n　{F2 01 03 01}“木又几”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_450.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 02 01}{F5 61 02 01 01 01 01 01 2A 06}{F5 C1 03 01 01 01 01 01 07 01}这是……\n刚才找到的笔记本残页的\n另一部分吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_450.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 4F 09}又是差不多的暗号啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_450.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}纸页上方被撕掉了，\n下方却很整齐。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_450.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}也就是说，这应该是最下方的部分……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_450.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}这样就齐了吧？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_450.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}最先找到的“上半张”，\n后来找到的“中间那张”，\n还有现在找到的“下半张”……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_450.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 3C 06}{F5 C1 04 01 01 01 01 01 02 01}……应该是这样没错。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_450.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}接下来只要推理出\n这些线索指的是什么就好了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_450.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}我觉得还有暗号\n是我们没见过的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_450.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}最先看到的那张笔记本残页\n和这一张怎么也连不起来。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_450.bf.json:6:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}中间应该还夹着别的线索。\n我们去找找看吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_450.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞上方有撕裂的痕迹。\n　难道是某张纸页的下半部分……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

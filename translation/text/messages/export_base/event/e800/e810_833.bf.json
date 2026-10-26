@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞过了一会儿……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞埃癸斯来了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 E4 06}{F5 C1 03 01 01 01 01 01 07 01}啊，小埃！\n这边熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 5D 0B}{F5 C1 03 01 01 01 01 01 05 01}小熊先生。\n你在这里做什么？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 8D 07}熊也被Ｘ先生\n邀请来了熊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 6D 0B}原来如此……\n小熊先生与Ｘ先生\n是熟人啊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 01 01}那么，想请教小熊先生。\n那位先生是用于\n什么用途的呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 05 01}{F5 C1 04 01 01 01 01 01 02 01}嗯，什么意思？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 69 0B}机械都有各自的职责。\n比如我的职责是讨伐阴影，\n吸尘器的职责是打扫。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}想请教那位先生\n是农耕用，还是工厂用，\n诸如此类的信息。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 03 01}{F5 86 0A 01 0C 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 71 07}{F5 C1 03 01 01 01 01 01 0B 01}熊、熊给忘了！\nＸ先生正在故障中熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 6E 0B}{F5 C1 03 01 01 01 01 01 07 01}竟然如此。\n实在可怜。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 11 01 03 01 02 01}{F5 61 02 01 01 01 01 01 F6 06}抱歉熊……\n熊忘记转告了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 64 0B}机械难免会有故障。\n那就下次有机会再见吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 F3 06}虽然很遗憾……\n再见熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞埃癸斯回去了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 0A 01 11 01 03 01 02 01}{F5 61 02 01 01 01 01 01 49 07}{F5 C1 03 01 01 01 01 01 04 01}老师……\n熊已经搞不懂了熊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:13:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}下一个没问题吧……？\n首先，还会有下一个吧……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_833.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞等其他女生来吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

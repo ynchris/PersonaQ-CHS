@@ -1,0 +1,27 @@
+[
+ {
+  "key": "export_base/event/e700/e711_365.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这里似乎是死路，\n　但开着白色的玫瑰花……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_365.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 E7 02}话说回来，这里的玫瑰真多啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_365.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}不过，这些玫瑰真的很漂亮。\n好像也比普通玫瑰更大。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_365.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 2B 07}{F5 C1 03 01 01 01 01 01 08 01}带１朵回去当纪念熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_365.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞获得了{F4 84 04 01 01 01 1C 07}！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

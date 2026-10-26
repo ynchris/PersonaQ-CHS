@@ -1,0 +1,47 @@
+[
+ {
+  "key": "export_base/event/e700/e711_341.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 0B 01 65 01 02 01}{F5 61 02 01 01 01 01 01 30 05}{F5 C1 03 01 01 01 01 01 02 01}大家，小心！\n门后面有Ｆ．Ｏ．Ｅ的气息！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_341.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}反正又是扑克牌士兵吧？\n不用打也能通过，轻松得很！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_341.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 9E 05}{F5 C1 03 01 01 01 01 01 07 01}我先走了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_341.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞完二打开门，\n　走进了房间……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_341.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 44 06}{F5 C1 03 01 01 01 01 01 07 01}啊，巽同学！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_341.bf.json:4:0",
+  "message_id": "MSG_0032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 48 06}……真拿他没办法。\n我们也走吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_341.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 09 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 AE 06}准备进去。\n都准备好了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_341.bf.json:6:0",
+  "message_id": "SEL_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}前往门后{F5 47 02 01 02 01 03 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_341.bf.json:6:1",
+  "message_id": "SEL_005",
+  "translation": "{F2 05 FF FF}{F1 41}现在还是算了{F5 47 02 01 02 01 05 01 21 01}{00}{00}"
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+  "key": "export_base/event/e700/e701_135.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 05 01}这、这是什么？\n地面在发光……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_135.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 03 01 01 01}{F5 61 02 01 01 01 01 01 84 08}是灵气吧？\n就是那种玄乎的东西。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_135.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 9A 11}这便是被称为能量点的灵地。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_135.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}据说能获得某种“庇佑”，\n是以女性游客为主的观光景点。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_135.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 B3 08}对对！\n小埃，你知道得挺多嘛？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_135.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 C6 07}{F5 C1 03 01 01 01 01 01 0A 01}我觉得这不是一回事吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_135.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 9A 08}那个什么……的缩写是Ｆ．Ｏ．Ｅ，\n那能量点就叫Ｐ．Ｓ．Ｔ吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_135.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 8F 11}{F5 C1 03 01 01 01 01 01 05 01}Ｐ．Ｓ．Ｔ……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_135.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}那是什么？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_135.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 84 08}Ｐｏｗｅｒ……\nＳｐｏ……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_135.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}……Ｔ。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_135.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 07 01 02 01}{F5 61 02 01 01 01 01 01 01 01}是我傻，居然会问你。对不起哦？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_135.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 89 11}{F5 C1 03 01 01 01 01 01 0B 01}别这样！\n别这么温柔地道歉啊！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_135.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 13 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 D5 0C}行了，赶紧走吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_135.bf.json:12:0",
+  "message_id": "MSG_0112",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 05 01}……嗯？\n中间好像掉着什么东西。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_135.bf.json:12:1",
+  "message_id": "MSG_0112",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}调查一下这个所谓的能量点吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_135.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 C6 07}{F5 C1 03 01 01 01 01 01 0A 01}啊，名字就这么定了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_135.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞要调查{F2 01 03 01}能量点{F2 01 01 01}吗……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/quest/quest_28.gsd_quest_28.bf.json:3:0",
+  "message_id": "MSG_CANCEL",
+  "translation": "{F2 05 FF FF}{F1 41}取消委托\n“装满阴影的宝箱”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/quest/quest_28.gsd_quest_28.bf.json:3:1",
+  "message_id": "MSG_CANCEL",
+  "translation": "{F2 05 FF FF}{F1 41}先前交给您的{F4 84 04 01 01 01 B8 07}，\n就由我们收回保管。\n{F1 21}{00}"
+ }
+]

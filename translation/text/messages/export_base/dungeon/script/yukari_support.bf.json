@@ -1,0 +1,257 @@
+[
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:0:0",
+  "message_id": "YUKARI_FOE_FOLLOW_START1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 CD 02}等等，\nＦ．Ｏ．Ｅ追过来了！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:1:0",
+  "message_id": "YUKARI_FOE_FOLLOW_START2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 CE 02}糟了……\nＦ．Ｏ．Ｅ往这边来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:2:0",
+  "message_id": "YUKARI_FOE_FOLLOW_START3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 CF 02}糟了，\n好像被Ｆ．Ｏ．Ｅ发现了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:3:0",
+  "message_id": "YUKARI_FOE_SENSOR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 D0 02}有Ｆ．Ｏ．Ｅ，\n小心前进吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:4:0",
+  "message_id": "YUKARI_FOE_SENSOR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 D1 02}那边的是Ｆ．Ｏ．Ｅ吧？\n得小心点。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:5:0",
+  "message_id": "YUKARI_FOE_SENSOR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 D2 02}哇，Ｆ．Ｏ．Ｅ出现了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:6:0",
+  "message_id": "YUKARI_FOE_FOLLOW_END1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 D3 02}总、总算甩掉\nＦ．Ｏ．Ｅ……了吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:7:0",
+  "message_id": "YUKARI_FOE_FOLLOW_END2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 D4 02}太好了。刚才那只Ｆ．Ｏ．Ｅ，\n好像放弃了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:8:0",
+  "message_id": "YUKARI_FOE_FOLLOW_END3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 D5 02}咦？那只Ｆ．Ｏ．Ｅ，\n已经不追了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:9:0",
+  "message_id": "YUKARI_PARTY_HPTP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 D6 02}哈、哈……\n真快到极限了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:10:0",
+  "message_id": "YUKARI_PARTY_HPTP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 D7 02}不行了……\n差不多该回去了吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:11:0",
+  "message_id": "YUKARI_PARTY_HPTP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 D8 02}哎，要不要休息一下？\n已经到极限了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:12:0",
+  "message_id": "YUKARI_PARTY_HP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 D9 02}糟了，要倒下了……\n帮我恢复一下……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:13:0",
+  "message_id": "YUKARI_PARTY_HP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DA 02}哈……哈……\n体力快耗尽了…\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:14:0",
+  "message_id": "YUKARI_PARTY_HP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DB 02}呜……体力撑不住……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:15:0",
+  "message_id": "YUKARI_PARTY_TP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DC 02}唉……已经没精力了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:16:0",
+  "message_id": "YUKARI_PARTY_TP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DD 02}抱歉，\n精力可能快耗尽了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:17:0",
+  "message_id": "YUKARI_PARTY_TP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DE 02}糟了……耐力快耗尽了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:18:0",
+  "message_id": "YUKARI_STAIR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DF 02}太好了！找到楼梯啦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:19:0",
+  "message_id": "YUKARI_STAIR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E0 02}是楼梯！\n继续前进吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:20:0",
+  "message_id": "YUKARI_STAIR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E1 02}啊，找到楼梯啦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:21:0",
+  "message_id": "YUKARI_TREASURE1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E2 02}太好了！找到宝箱啦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:22:0",
+  "message_id": "YUKARI_TREASURE2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E3 02}啊，是宝箱！怎么办？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:23:0",
+  "message_id": "YUKARI_TREASURE3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E4 02}有宝箱……要打开看看吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:24:0",
+  "message_id": "YUKARI_FOUNTAIN1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E5 02}哦，是能量点！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:25:0",
+  "message_id": "YUKARI_FOUNTAIN2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E6 02}前面有能量点……\n要过去看看吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:26:0",
+  "message_id": "YUKARI_FOUNTAIN3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E7 02}哎，那边发光的……\n是不是神秘的能量点？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:27:0",
+  "message_id": "YUKARI_SEARCH_OBJ1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E8 02}哎，这附近……是不是有点可疑？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:28:0",
+  "message_id": "YUKARI_SEARCH_OBJ2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E9 02}那一带，有点在意啊……\n要不要调查一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:29:0",
+  "message_id": "YUKARI_SEARCH_OBJ3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EA 02}咦……？\n那儿好像有什么……是什么呢？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:30:0",
+  "message_id": "YUKARI_SWITCH1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EB 02}那是开关吧？\n要调查一下吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:31:0",
+  "message_id": "YUKARI_SWITCH2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EC 02}有个开关……\n按下去没问题吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:32:0",
+  "message_id": "YUKARI_SWITCH3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 ED 02}好可疑的开关……怎么办？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:33:0",
+  "message_id": "YUKARI_SHORTCUT1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EE 02}那面墙，总觉得有点可疑吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:34:0",
+  "message_id": "YUKARI_SHORTCUT2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EF 02}快看前面的墙！\n是不是有点怪？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:35:0",
+  "message_id": "YUKARI_SHORTCUT3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F0 02}咦？\n这里……是墙吗……？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:36:0",
+  "message_id": "YUKARI_PARTY_HPTP15_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 D6 02}哈、哈……\n真快到极限了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:37:0",
+  "message_id": "YUKARI_PARTY_HPTP15_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 D7 02}不行了……\n差不多该回去了吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:38:0",
+  "message_id": "YUKARI_PARTY_HPTP15_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 D8 02}哎，要不要休息一下？\n已经到极限了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:39:0",
+  "message_id": "YUKARI_PARTY_TP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DC 02}唉……已经没精力了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:40:0",
+  "message_id": "YUKARI_PARTY_TP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DD 02}抱歉，\n精力可能快耗尽了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:41:0",
+  "message_id": "YUKARI_PARTY_TP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DE 02}糟了……耐力快耗尽了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:42:0",
+  "message_id": "YUKARI_PARTY_HP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 D9 02}糟了，要倒下了……\n帮我恢复一下……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:43:0",
+  "message_id": "YUKARI_PARTY_HP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DA 02}哈……哈……\n体力快耗尽了…\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:44:0",
+  "message_id": "YUKARI_PARTY_HP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DB 02}呜……体力撑不住……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:45:0",
+  "message_id": "YUKARI_FOE_NEAR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 CD 02}等等，\nＦ．Ｏ．Ｅ追过来了！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:46:0",
+  "message_id": "YUKARI_FOE_NEAR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 CE 02}糟了……\nＦ．Ｏ．Ｅ往这边来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:47:0",
+  "message_id": "YUKARI_FOE_NEAR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 CF 02}糟了，\n好像被Ｆ．Ｏ．Ｅ发现了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:48:0",
+  "message_id": "YUKARI_ME_LEVEL_UP1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F1 02}啊，\n好像快升级了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:49:0",
+  "message_id": "YUKARI_ME_LEVEL_UP2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F2 02}再过一会儿就升级啦！\n嗯，感觉不错。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/yukari_support.bf.json:50:0",
+  "message_id": "YUKARI_ME_LEVEL_UP3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F3 02}好像快升级了。\n很顺利吧？\n{F2 26 00 00}{00}"
+ }
+]

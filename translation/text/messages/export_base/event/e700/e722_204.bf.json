@@ -1,0 +1,42 @@
+[
+ {
+  "key": "export_base/event/e700/e722_204.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞前方的道路被封锁了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_204.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 04 01 01 01 01 01 03 01}看来前面的路还很长。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_204.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 04 01 01 01 01 01 03 01}既有计划，又凭冲动，\n将命运之线拉到手中吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_204.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}{F5 C1 03 01 01 01 01 01 08 01}说到线，那可是我的拿手好戏！\n{F2 23 3D 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_204.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}{F5 C1 03 01 01 01 01 01 0A 01}好好好。\n总之，往下说吧。\n{F2 23 79 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_204.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 04 01 01 01 01 01 03 01}那么，第四题。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_204.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 04 01 01 01 01 01 03 01}爱人或被爱，甩人或被甩。\n命运就是摇摆不定的钟摆。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_204.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 04 01 01 01 01 01 03 01}说完这番帅气的话，\n激情的第四题来了哦。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,172 @@
+[
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 04 01}什……！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 04 01 01 01 01 01 04 01}我不记得拍过这种照片！\n一定是哪里搞错了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 03 01 01 01 01 01 07 01}{F5 C1 04 01 01 01 01 01 04 01}……啊，你看这里！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:0:3",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 04 01 01 01 01 01 04 01}脖子的线条这么不自然！\n肤色有差异！焦点也没对准！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:0:4",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 04 01 01 01 01 01 04 01}也就是说，\n这张照片是伪造的！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞正如直斗所说，\n　这似乎是合成照片……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3B 01 0E 01 02 01 04 01}{F5 61 02 01 01 01 01 01 07 01}啊，那个……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:3:0",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3B 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 08 01}刚……刚才那到底\n是什么意思呢？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:3:1",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}用那种骗小孩的合成照片，\n让我和你……当新、新郎新娘……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:3:2",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3B 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}{F5 C1 03 01 01 01 01 01 0B 01}总、总之！\n这是敌人扰乱我们的战术，\n不……不能在意！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:4:0",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3B 01 0E 01 02 01 01 01}先冷静下来{F5 47 02 01 3B 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:4:1",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}对新郎不满意？{F5 47 02 01 3B 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:4:2",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}你的脸通红哦{F5 47 02 01 3B 01 01 01 05 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3B 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 02 01}我、我很冷静！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:5:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 3B 01 14 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:5:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3B 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}……抱歉。\n在意的其实是我……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:5:3",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3B 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}就算知道是假照片，可是……\n一想到你就在身边，\n就不知道该怎么反应……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:5:4",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0F 01}{F5 C1 03 01 01 01 01 01 04 01}真、真伤脑筋……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3B 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 10 01}{F5 C1 03 01 01 01 01 01 02 01}什……请不要逗我！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:6:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3B 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 11 01}而、而且……\n并不是因为对象是你，\n才觉得不满什么的……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:6:2",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3B 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 12 01}啊……所以，我想说的\n不是那个意思……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:6:3",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 3B 01 14 01 02 01 01 01}{F5 61 02 01 01 01 01 01 13 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:6:4",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3B 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 14 01}{F5 C1 03 01 01 01 01 01 04 01}真、真是的……和你单独在一起，\n总让我乱了方寸……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3B 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 15 01}{F5 C1 03 01 01 01 01 01 01 01}咦……咦？\n我、我的脸有那么红吗！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:7:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3B 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 16 01}不……这是……\n只是因为彼此距离太近，\n体温上升了而已，那个……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:7:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 3B 01 0E 01 02 01 01 01}{F5 61 02 01 01 01 01 01 17 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:7:3",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3B 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 18 01}{F5 C1 03 01 01 01 01 01 0B 01}别、别看我这边！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:8:0",
+  "message_id": "MSG_006a",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 3B 01 14 01 02 01 01 01}{F5 61 02 01 01 01 01 01 19 01}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:9:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3B 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 1A 01}那、那个……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:9:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1B 01}看来在这里已经\n得不到更多信息了……\n继、继续前进吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:10:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:10:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞气氛变得有些微妙……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:11:0",
+  "message_id": "MSG_0072",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1A 01}{F5 C1 04 01 01 01 01 01 04 01}那、那个……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_516.bf.json:11:1",
+  "message_id": "MSG_0072",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1B 01}{F5 C1 04 01 01 01 01 01 04 01}看来在这里已经\n得不到更多信息了……\n继、继续前进吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

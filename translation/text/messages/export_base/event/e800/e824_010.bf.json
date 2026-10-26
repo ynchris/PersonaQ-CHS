@@ -1,0 +1,77 @@
+[
+ {
+  "key": "export_base/event/e800/e824_010.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 01 01 05 01 02 01}{F5 61 02 01 01 01 01 01 02 01}我以这间房间为据点，\n废寝忘食地钻研至今。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e824_010.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}如今，终于即将结出成果。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e824_010.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 04 01}我已经准备好了\n展示这份成果的场所。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e824_010.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 02 01}{F5 61 02 01 01 01 01 01 05 01}可以让我看看地图吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e824_010.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞把地图交给伊丽莎白后，\n　她开始在上面画标记……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e824_010.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 06 01}谢谢您。\n地图还给您。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e824_010.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞从伊丽莎白手中接回了地图……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e824_010.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞{F2 01 03 01}时钟塔的８层{F2 01 01 01}留有标记……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e824_010.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 01 01}{F5 61 02 01 01 01 01 01 07 01}仍然是会立刻消失的墨水。\n请自行另做标记。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e824_010.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 08 01}地点在时钟塔８层……\n距离电梯步行１５步以内，\n有一间小房间。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e824_010.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 09 01}希望能在那里进行最后一次“切磋”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e824_010.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 05 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}为了让成熟的果实落下，\n只需轻轻一推……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e824_010.bf.json:7:2",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}我所需要的，正是这最后一下。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e824_010.bf.json:7:3",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}这次我将全力以赴。\n请务必做好万全准备再来。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e824_010.bf.json:7:4",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0D 01}那么，恭候您的到来。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

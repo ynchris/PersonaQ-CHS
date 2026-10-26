@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_base/event/e400/e420_160.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞时钟塔前……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_160.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 09 01 02 01 02 01}{F5 61 02 01 01 01 01 01 02 01}……她这样喊着，\n想毁掉自己的眼睛。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_160.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 03 01}自己……毁掉眼睛？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_160.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 04 01}即使没有身体，也能伤害灵魂……\n虽然，那灵魂本来也\n注定会消散……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_160.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}……我惊慌之下，遮住了她的眼睛。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_160.bf.json:4:0",
+  "message_id": "MSG_0032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 06 01}然后，夺走了她的记忆……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+  "key": "export_base/event/e100/e100_111.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞保健室……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_111.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 02 01}……就是普通的保健室啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_111.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 07 01 01 01 07 01}{F5 61 02 01 01 01 01 01 03 01}真令人失望。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_111.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 04 01}若能再给我一点时间，\n我就能改造得更加舒适一些，\n不过也没有办法。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_111.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 02 01 01 01 04 01}{F5 86 22 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 05 01}我会在这里\n为各位恢复体力。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_111.bf.json:3:2",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 06 01}从迷宫回来以后，\n请别忘了到这里来。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_111.bf.json:4:0",
+  "message_id": "SEL_TALK004",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 03 01 02 01 01 01 01 01}那可帮大忙了{F5 47 02 01 03 01 07 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_111.bf.json:4:1",
+  "message_id": "SEL_TALK004",
+  "translation": "{F2 05 FF FF}{F1 41}真是厉害的技术{F5 47 02 01 03 01 07 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_111.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 07 01}谢谢您。\n承蒙夸奖，实在不敢当。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_111.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 22 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 08 01}{F1 82}大人，为您提供协助，\n便是我们的职责……即使再忙再麻烦，\n我们也定会尽到职责。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_111.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}因此，向各位收取费用，\n也是无可奈何的事。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_111.bf.json:7:0",
+  "message_id": "SEL_TALK007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}……费用？{F5 47 02 01 03 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_111.bf.json:7:1",
+  "message_id": "SEL_TALK007",
+  "translation": "{F2 05 FF FF}{F1 41}不是免费的吗？{F5 47 02 01 03 01 0B 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_111.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}正如刚才所说，世间的道理\n就是有付出才有收获。\n我也不能违背这条法则。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_111.bf.json:9:0",
+  "message_id": "MSG_0082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 22 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0B 01}总之，这样一来，各位应该就能\n做好各种准备了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_111.bf.json:9:1",
+  "message_id": "MSG_0082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0C 01}若与阴影交战时陷入苦战，\n请先恢复体力，再调整装备。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_111.bf.json:9:2",
+  "message_id": "MSG_0082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0D 01}此外，选择哪些成员\n在前线作战也十分重要。\n请不要忘了调整“编队”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_111.bf.json:9:3",
+  "message_id": "MSG_0082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}那么，请各位\n一路小心。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

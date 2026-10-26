@@ -1,0 +1,87 @@
+[
+ {
+  "key": "export_base/event/e800/e823_040.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 26 11}恭喜您。\n成功找到了中奖的那张呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_040.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 E8 0E}首先是参与奖。\n请收下。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_040.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞收下了{F4 45 04 01 00 00 01 01}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_040.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 D1 0E}接下来是中奖奖品。\n请好好利用。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_040.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞收下了{F4 45 04 01 00 00 02 01}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_040.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 46 11}很遗憾。\n这次没有中奖。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_040.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 E8 0E}这是参与奖。\n请收下。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_040.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞收下了{F4 45 04 01 00 00 01 01}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_040.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}这次，我在提示的表达方式上，\n稍微花了一点心思。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_040.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F2 01 03 01}“圣火”指“火把的火焰”{F2 01 01 01}，\n{F2 01 03 01}“风”指“风车”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_040.bf.json:6:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}而{F2 01 03 01}“北”的兜裆布{F2 01 01 01}……\n指的则是兜裆布上所画的{F2 01 03 01}“四神”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_040.bf.json:6:3",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 03 01}“青龙”对应东{F2 01 01 01}，{F2 01 03 01}“朱雀”对应南{F2 01 01 01}，\n{F2 01 03 01}“白虎”对应西{F2 01 01 01}，{F2 01 03 01}“玄武”对应北{F2 01 01 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_040.bf.json:6:4",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}传说中，它们是掌管方位的灵兽。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_040.bf.json:6:5",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}这点小知识……\n说不定能在今后的探索中派上用场。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_040.bf.json:6:6",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 DF 10}寻宝活动到此结束。\n感谢您的参与。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_040.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}啊，另外……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_040.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}只让您停留在濒死边缘，\n已经是我最后的仁慈了。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

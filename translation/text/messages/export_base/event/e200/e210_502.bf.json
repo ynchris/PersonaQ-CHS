@@ -1,0 +1,167 @@
+[
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 04 01}这、这是什么照片！？\n我可不记得拍过！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 04 01 01 01 01 01 04 01}什么时候拍的这种照片……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 03 01 01 01 01 01 07 01}{F5 C1 04 01 01 01 01 01 04 01}……等等。\n这张照片好像不太对……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:0:3",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 03 01 01 01 01 01 05 01}{F5 C1 04 01 01 01 01 01 04 01}……合成的？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞正如由加莉所说，\n　这似乎是合成照片……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 30 01 13 01 02 01 04 01}{F5 61 02 01 01 01 01 01 06 01}刚、刚才那个，不可能的吧。\n我和你结婚……什么的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 30 01 14 01 02 01 04 01}{F5 61 02 01 01 01 01 01 07 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 30 01 14 01 02 01 04 01}{F5 61 02 01 01 01 01 01 08 01}{F5 C1 03 01 01 01 01 01 0B 01}不、不觉得有点为难吗？\n彼此还不怎么了解，\n就被迫看那种照片。　对吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:3:0",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 30 01 14 01 02 01 01 01}我倒没在意{F5 47 02 01 30 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:3:1",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}就这样结婚吧{F5 47 02 01 30 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:3:2",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}像照片里一样抱起她{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 30 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 09 01}也、也是哦！\n那肯定只是陷阱嘛。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0A 01}讨厌，\n我自己在慌什么啊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:4:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0B 01}是因为……牵着手吗。\n总是不自觉地在意起来……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:4:3",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 30 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}{F5 C1 03 01 01 01 01 01 0B 01}啊，抱歉！\n说这种话，你反而\n更在意了吧……哈哈。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 30 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}你、你说什么啊！？\n拿这种事开玩笑，\n真的很恶劣哦？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0E 01}女孩子可是很容易受伤的！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:6:0",
+  "message_id": "MSG_0052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 30 01 14 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}……笨蛋。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 30 01 01 01 04 01 04 01}{F5 61 02 01 01 01 01 01 10 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}呀！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:7:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 30 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 11 01}{F5 C1 02 01 01 01 01 01 02 01}怎、怎么了！？\n有什么东西吗！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:7:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 12 01}等等，你该不会是在模仿照片……！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:7:3",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 13 01}{F5 C1 02 01 01 01 01 01 02 01}笨蛋！！\n快放我下来！！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:7:4",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 30 01 02 01 04 01 01 01}{F5 61 02 01 01 01 01 01 14 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:7:5",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 30 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 15 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 0B 01}都说快放我下来了——！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:8:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞被由加莉训了一顿，\n　于是决定把她放下来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 30 01 0F 01 02 01 04 01}{F5 61 02 01 01 01 01 01 16 01}{F5 C1 03 01 01 01 01 01 03 01}真、真是的……太得意忘形了！\n换作平时，我就一巴掌过去了哦！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:9:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 30 01 10 01 02 01 04 01}{F5 61 02 01 01 01 01 01 17 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:9:2",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 30 01 14 01 02 01 01 01}{F5 61 02 01 01 01 01 01 18 01}{F5 C1 03 01 01 01 01 01 0B 01}现在只是碰巧腾不出手而已，\n不然真的会像平常那样\n给你一巴掌哦！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 30 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 19 01}{F5 C1 03 01 01 01 01 01 0A 01}唉，我已经累了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:10:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1A 01}还没结束吗……？\n那走吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_502.bf.json:11:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞气氛变得有些微妙……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

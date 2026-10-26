@@ -1,0 +1,257 @@
+[
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2D 01 02 01 01 01 02 01}{F5 86 2B 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 02 01}八十神……高中。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2D 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 03 01}哼，终于开口了啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 04 01}这里，本来是我要上的……学校。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}透过病房的窗户，能听见钟声。\n我想象着，一定有一座\n又大又古老的时钟塔……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 06 01}每天每天，都听着钟声。\n也听着在这里上学的大家的笑声……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:2:3",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 07 01}一直很向往……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:2:4",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}希望有一天能来到这里。\n交到好多朋友……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:2:5",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}我终于，来到了这里啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 2D 01 05 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2D 01 02 01 01 01 02 01}{F5 86 2B 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 0B 01}死神先生……\n你看，这些是我最珍贵的宝物……\n一定是跟我一起放进了棺材。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}兔子玩偶……很可爱吧。\n是绘本里的角色。\n衣服是护士帮忙做的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}还有，这是戒指。\n小时候，妈妈在庙会上\n买给我的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0E 01}她说，你一定要幸福地结婚……\n我问王子会不会来，\n她说，一定会的……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:6:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}那以后，妈妈就不见了。\n说是不想要我了……\n那一开始别生下我不就好了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:6:3",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 10 01}……我的名字，叫“二子”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:6:4",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 11 01}护士说：“这是希望你\n一直带着笑容的意思。”\n可根本不是那样。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:6:5",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 12 01}妈妈说，因为我是第２个孩子，\n所以叫“二子”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:6:6",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 13 01}就只有这点意思……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 14 01}这是头发……是我的。\n护士把它又长又漂亮时的样子，\n替我留下了一点。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 15 01}在我剃光头后交给了我。\n可我一点都不开心。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:7:2",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 16 01}问她为什么要做这种事，\n大哭了一场，还发了脾气……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:7:3",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 17 01}可是，还是舍不得扔掉……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 2D 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2D 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 19 01}你手上还拿着一样东西……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1A 01}这是什么……信？\n我都不知道……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:9:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1B 01}……上面写着“安息吧”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:9:2",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1C 01}啊……是邻床那个女孩。\n比我大３岁，\n叫有希。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:9:3",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1D 01}她很漂亮，也很温柔，\n我哭的时候，总会安慰我。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:9:4",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1E 01}有希从来不哭。\n做完很疼的检查后，也笑着。\n她是我向往的姐姐。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:9:5",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1F 01}……可是，她出院了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:9:6",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 20 01}也给我写过信。\n说“我过得很好”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:9:7",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 21 01}还说“二子，加油”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:9:8",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 22 01}我……明明觉得自己一直很努力。\n难道还应该\n更努力一点吗……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:10:0",
+  "message_id": "MSG_0092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 2B 01 04 01 01 01 01 01}{F5 61 02 01 01 01 01 01 23 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:10:1",
+  "message_id": "MSG_0092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 04 01 01 01 01 01}{F5 61 02 01 01 01 01 01 24 01}还说什么……安息……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:10:2",
+  "message_id": "MSG_0092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 25 01}明明她自己还活着……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:10:3",
+  "message_id": "MSG_0092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 26 01}反正……她一定在笑，\n庆幸自己还活着……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:10:4",
+  "message_id": "MSG_0092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 27 01}{F5 C1 02 01 01 01 01 01 02 01}不公平……！\n为什么只有我，不公平啊！！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:10:5",
+  "message_id": "MSG_0092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 28 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 02 01}我为什么会出生？\n为什么……为什么\n非得让我来到这世上！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:10:6",
+  "message_id": "MSG_0092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 29 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 07 01}我什么都没有！朋友、父母、\n健康的身体，全都没有……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:10:7",
+  "message_id": "MSG_0092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 2A 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 07 01}明明每天都向神祈求，\n却连一个愿望都没实现……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:10:8",
+  "message_id": "MSG_0092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2B 01}我，到底为了什么……存在？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:10:9",
+  "message_id": "MSG_0092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2C 01}到底为了什么而活过……！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 2D 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2E 01}死神先生，谢谢你……\n让我看到了这里。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:12:1",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2F 01}可是，我不想看见……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:12:2",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 30 01}大家每天都能来这里，\n可我，只有我，要孤零零地死去……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:12:3",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 31 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 07 01}太过分了……！！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:12:4",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 32 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 07 01}够了……已经够了！！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:12:5",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 33 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 02 01}快杀了我！！\n现在就带我走……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_151.bf.json:12:6",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 2B 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 34 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 02 01}我不想看见这些……！！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

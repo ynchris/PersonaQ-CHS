@@ -1,0 +1,72 @@
+[
+ {
+  "key": "export_base/event/e900/e999_111.bf.json:0:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}按Ｙ键可以放大、缩小地图。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e999_111.bf.json:1:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}触摸选择钢笔工具，\n就可以{F2 01 03 01}画出墙壁的线条{F2 01 01 01}。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e999_111.bf.json:2:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}画笔工具可以{F2 01 03 01}为地板涂色{F2 01 01 01}。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e999_111.bf.json:3:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}触摸并拖动图标，\n就可以将其放到地图上。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e999_111.bf.json:4:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}橡皮擦工具用于线条，\n抹布工具用于地板，都能{F2 01 03 01}擦除{F2 01 01 01}。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e999_111.bf.json:5:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}紫色图标表示{F2 01 03 01}通常状态{F2 01 01 01}。\n红色图标表示{F2 01 03 01}追踪状态，非常危险{F2 01 01 01}。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e999_111.bf.json:6:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 03 01}蓝色表示安全状态{F2 01 01 01}，随后会逐渐变为\n绿色、黄色，{F2 01 03 01}红色则表示危险状态{F2 01 01 01}。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e999_111.bf.json:7:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}迷宫中存在这样的{F2 01 03 01}捷径{F2 01 01 01}。\n请善用专用的捷径图标。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e999_111.bf.json:8:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}探索率显示在\n下屏幕右上角。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e999_111.bf.json:9:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}地图可以放大、缩小，也可以\n自动旋转来配合面朝的方向。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e999_111.bf.json:10:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}触摸并拖动图标，\n就可以{F2 01 03 01}将其放到地图上{F2 01 01 01}。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e999_111.bf.json:11:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}“Ｃｏｌｏｒ”调色板也可以{F2 01 03 01}更改颜色{F2 01 01 01}。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e999_111.bf.json:12:0",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}此外，操作出错时，可以按{F2 01 03 01}“ＵＮＤＯ”按钮{F2 01 01 01}\n{F2 01 03 01}撤销{F2 01 01 01}操作。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e999_111.bf.json:13:0",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}放置的图标，\n{F2 01 03 01}拖到垃圾桶上就能删除{F2 01 01 01}。\n{F1 21}{00}"
+ }
+]

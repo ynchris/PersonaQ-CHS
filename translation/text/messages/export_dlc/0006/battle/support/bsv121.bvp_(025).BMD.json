@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(025).BMD.json:0:0",
+  "message_id": "BTL_MES_H121_026_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1C 01}这是……强敌大游行……\n也有资料中没有的敌人。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(025).BMD.json:1:0",
+  "message_id": "BTL_MES_H121_026_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1D 01}强敌如雨点般袭来……是也。\n在下认为唯有逃跑。\n{F2 26 00 00}{00}"
+ }
+]

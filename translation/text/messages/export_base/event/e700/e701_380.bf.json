@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_base/event/e700/e701_380.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 89 08}呼——还没完啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_380.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}地板和天花板都是红色的……\n总觉得有点诡异……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_380.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 D5 0C}……最好不是血之类的东西啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_380.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 29 01 08 01 02 01 01 01}{F5 61 02 01 01 01 01 01 C2 11}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_380.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 07 01}{F5 61 02 01 01 01 01 01 B7 0D}应该没有停下的必要。\n抓紧往前走吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_380.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}啊、嗯。\n说得对。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

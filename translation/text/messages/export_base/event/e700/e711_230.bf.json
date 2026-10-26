@@ -1,0 +1,52 @@
+[
+ {
+  "key": "export_base/event/e700/e711_230.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 01 01 02 01 01 01 04 01}{F5 86 07 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 2F 05}{F5 C1 03 01 01 01 01 01 02 01}学长，小心！\n那扇门后面有阴影的气息！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_230.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0B 01 65 01 01 01}{F5 61 02 01 01 01 01 01 E1 04}{F5 C1 03 01 01 01 01 01 0B 01}……啊！\n还没装备人格面具嘛！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_230.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 07 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 04 01}好不容易能装备第２个人格面具，\n说不定就能所向无敌了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_230.bf.json:1:2",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}学长，要好好准备呀！？\n要是因此被打倒，我会生气的哦！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_230.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞门后传来了阴影的气息……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_230.bf.json:3:0",
+  "message_id": "SEL_003",
+  "translation": "{F2 05 FF FF}{F1 41}打开门{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_230.bf.json:3:1",
+  "message_id": "SEL_003",
+  "translation": "{F2 05 FF FF}{F1 41}现在还是算了{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_230.bf.json:4:0",
+  "message_id": "MSG_0012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 01 01 02 01 01 01 04 01}{F5 86 07 01 0B 01 65 01 02 01}{F5 61 02 01 01 01 01 01 E1 04}{F5 C1 03 01 01 01 01 01 0B 01}……啊！\n还没装备人格面具嘛！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_230.bf.json:4:1",
+  "message_id": "MSG_0012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 07 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}好不容易能装备第２个人格面具，\n明明可以变得更加所向无敌……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_230.bf.json:4:2",
+  "message_id": "MSG_0012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}学长，要好好准备呀！？\n要是因此被打倒，我会生气的哦！？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

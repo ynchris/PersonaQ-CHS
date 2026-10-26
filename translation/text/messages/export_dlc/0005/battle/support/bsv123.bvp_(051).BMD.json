@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(051).BMD.json:0:0",
+  "message_id": "BTL_MES_H105_052_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 9A 02}F.O.E 就在附近！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(051).BMD.json:1:0",
+  "message_id": "BTL_MES_H105_052_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 9B 02}F.O.E 到附近来了！小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(051).BMD.json:2:0",
+  "message_id": "BTL_MES_H105_052_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 9C 02}F.O.E 很近了！注意！\n{F2 26 00 00}{00}"
+ }
+]

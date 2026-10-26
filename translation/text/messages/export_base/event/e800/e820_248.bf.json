@@ -1,0 +1,117 @@
+[
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善回来了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善手里拿着的，\n　似乎是一张纸……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 A7 0D}芭菲只剩下一点点，\n可两人已经吃不动了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}把咖啡交给他们后，\n他们重整旗鼓，终于吃完了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:1:2",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}奖品是再来一份巨型芭菲的兑换券。\n他们抱怨说：\n“谁还吃得下啊，笨蛋！”\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:1:3",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}所以，我就收下了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞获得了巨型芭菲续份兑换券！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善回来了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:3:2",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善手里拿着的，\n　似乎是一个袋子……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 A7 0D}芭菲只剩下一点点，\n可两人已经吃不动了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}把冰淇淋汽水交给他们后，\n他们反而更渴，倒下了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:4:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}我催他们交换物品，\n他们就给了我许多一次性筷子，\n说是套圈游戏赢来的奖品。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:4:3",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……随后便失去了意识。\n就是这样。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……获得了一次性筷子１０００双装。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善回来了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:6:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善手里拿着的，\n　似乎是一枚１０日元硬币……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 A7 0D}芭菲只剩下一点点，\n可两人已经吃不动了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}我把交换的物品递过去，\n他们只说了一句“……所以呢？”\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:7:2",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}我继续催他们交换，\n他们便给了我一点钱，\n说这是身上仅剩的钱了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_248.bf.json:7:3",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}就是这样。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

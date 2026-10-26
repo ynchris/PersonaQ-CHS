@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:0:0",
+  "message_id": "BTL_MES_H122_061_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 C8 01}副队长被诅咒了。\n现在出手攻击可是很危险的。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:1:0",
+  "message_id": "BTL_MES_H122_061_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 BF 01}副队长被诅咒了。\n避免攻击才是明智之举。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:2:0",
+  "message_id": "BTL_MES_H122_061_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 C9 01}花村阳介先生被诅咒了。\n不建议现在发动攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:3:0",
+  "message_id": "BTL_MES_H122_061_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 CA 01}里中千枝小姐被诅咒了。\n现在攻击恐怕很危险。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:4:0",
+  "message_id": "BTL_MES_H122_061_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 CB 01}天城雪子小姐被诅咒了。\n发动攻击时请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:6:0",
+  "message_id": "BTL_MES_H122_061_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 CC 01}巽完二先生被诅咒了。\n若要攻击，请做好受伤的准备。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:7:0",
+  "message_id": "BTL_MES_H122_061_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 CE 01}白钟直斗小姐被诅咒了。\n现在攻击恐怕会伴随危险。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:8:0",
+  "message_id": "BTL_MES_H122_061_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 CD 01}小熊先生被诅咒了。\n不建议现在发动攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:9:0",
+  "message_id": "BTL_MES_H122_061_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 C0 01}岳羽由加莉小姐被诅咒了。\n不建议现在发动攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:10:0",
+  "message_id": "BTL_MES_H122_061_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 C1 01}伊织顺平先生被诅咒了。\n现在参与攻击恐怕很危险。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:11:0",
+  "message_id": "BTL_MES_H122_061_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 C2 01}真田明彦先生被诅咒了。\n发动攻击恐怕只会害了自己。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:12:0",
+  "message_id": "BTL_MES_H122_061_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 C3 01}桐条美鹤小姐被诅咒了。\n发动攻击时请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:14:0",
+  "message_id": "BTL_MES_H122_061_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 C6 01}埃癸斯小姐被诅咒了。\n发动攻击时请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:15:0",
+  "message_id": "BTL_MES_H122_061_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 C4 01}天田乾先生被诅咒了。\n不让他攻击恐怕更安全。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:16:0",
+  "message_id": "BTL_MES_H122_061_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 C5 01}虎狼丸先生被诅咒了。\n不建议现在让它发动攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:17:0",
+  "message_id": "BTL_MES_H122_061_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 C7 01}荒垣真次郎先生被诅咒了。\n发动攻击时请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:18:0",
+  "message_id": "BTL_MES_H122_061_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 CF 01}善先生和玲小姐被诅咒了。\n尤其是善先生，攻击时请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:19:0",
+  "message_id": "BTL_MES_H122_061_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D0 01}善先生被诅咒了。\n恐怕应当暂缓攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:20:0",
+  "message_id": "BTL_MES_H122_061_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 BE 01}队长被诅咒了。\n现在攻击，可是会遭到反噬的。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(060).BMD.json:21:0",
+  "message_id": "BTL_MES_H122_061_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 BD 01}队长被诅咒了。\n现在攻击可是很危险的。\n{F2 26 00 00}{00}"
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "key": "export_base/event/e700/e723_223.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_223.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞不知从哪里传来一声低沉的闷响……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_223.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 0B 01 65 01 02 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 02 01}大、大家！\n配电盘……已经通电了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_223.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 48 06}看来我们已经按照\n报纸背面写的路线走完了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_223.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}不过，现在还没有亮起来。\n打开{F2 01 03 01}配电盘的开关{F2 01 01 01}，\n灯应该就会亮了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_223.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 7F 03}{F5 C1 03 01 01 01 01 01 08 01}好。\n虽然还是害怕……但亮着总没那么怕！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_223.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 FC 07}{F5 C1 03 01 01 01 01 01 07 01}哦——！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_223.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 66 10}{F5 C1 03 01 01 01 01 01 02 01}哦——！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_223.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 03 01 02 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}都走到这里了，终于有精神了啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_223.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞去配电盘那里看看吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

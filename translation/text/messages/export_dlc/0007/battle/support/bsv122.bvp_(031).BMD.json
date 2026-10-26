@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(031).BMD.json:0:0",
+  "message_id": "BTL_MES_H122_032_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 28 01}敌人６名……虽无厉害的对手，\n但似乎也有资料中没有的敌人呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(031).BMD.json:1:0",
+  "message_id": "BTL_MES_H122_032_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 29 01}敌人６名。虽不及各位，\n但数量不少……请多加小心。\n{F2 26 00 00}{00}"
+ }
+]

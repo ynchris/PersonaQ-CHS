@@ -1,0 +1,87 @@
+[
+ {
+  "key": "export_base/event/e200/e200_515.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 04 01 01 01 01 01 04 01}哇……啊……啊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_515.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 02 01}{F5 C1 04 01 01 01 01 01 04 01}这什么鬼啊啊啊啊！！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_515.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 0B 01}{F5 C1 04 01 01 01 01 01 04 01}为、为什么我成新娘了啊！\n这也太离谱了吧！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_515.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞看来，这似乎是合成照片……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_515.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 02 01}{F5 86 08 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 03 01 01 01 01 01 0A 01}难、难道……\n把我当成女的了？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_515.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 06 01}这么壮的女的，\n应该没几个吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_515.bf.json:3:0",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 01 01 06 01 01 01}{F5 61 02 01 01 01 01 01 07 01}再说，非要比的话，\n明明是你更像女的吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_515.bf.json:4:0",
+  "message_id": "MSG_0023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}我当新郎，你当新娘才对吧？\n那样就没问题，完全没问题！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_515.bf.json:5:0",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}那样就行了？{F5 47 02 01 03 01 0B 01 01 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_515.bf.json:5:1",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}可我不愿意{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_515.bf.json:6:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}{F5 C1 03 01 01 01 01 01 05 01}没问题啊？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_515.bf.json:6:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 02 01}……啊，等、等等！\n我可不结结结婚啊！\n不跟男男男男人结婚啊！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_515.bf.json:7:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}{F5 C1 03 01 01 01 01 01 07 01}哦？\n真的假的，对我还不满意吗！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_515.bf.json:7:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 05 01 01 01 01 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0C 01}……不，等、等等！\n我也不跟男男男人结婚啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_515.bf.json:8:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 02 01}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 08 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 0D 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_515.bf.json:8:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 08 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}{F5 C1 03 01 01 01 01 01 0A 01}我干吗喊得这么大声啊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_515.bf.json:8:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0F 01}{F5 C1 03 01 01 01 01 01 04 01}没意义……\n从头到尾都没意义……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

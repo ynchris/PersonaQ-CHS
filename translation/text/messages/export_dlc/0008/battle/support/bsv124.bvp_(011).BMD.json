@@ -1,0 +1,27 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(011).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_012_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2C 01}啊！那个很稀有吧？\n一定要打倒！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(011).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_012_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2D 01}打倒稀有之敌，抓住幸福！\n抓住幸——福！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(011).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_012_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2E 01}哇！稀有敌人来了！\n一定一定要打倒！！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(011).BMD.json:3:0",
+  "message_id": "BTL_MES_H124_012_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2F 01}啊！稀有敌人！罕见的家伙！\n总之，你一定要打倒它哦？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(011).BMD.json:4:0",
+  "message_id": "BTL_MES_H124_012_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 30 01}啊！有稀有的家伙！\n这可是机会啊！\n{F2 26 00 00}{00}"
+ }
+]

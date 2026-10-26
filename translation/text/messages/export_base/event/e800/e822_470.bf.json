@@ -1,0 +1,107 @@
+[
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 DC 10}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 05 01}{F5 61 02 01 01 01 01 01 01 01}虎狼丸先生似乎还有想去的地方，\n不过它说，不会勉强大家。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F4 87 05 01 01 01 01 01}{F5 86 01 01 02 01 01 01 04 01}{F5 86 0F 01 0D 01 65 01 05 01}{F5 61 02 01 01 01 01 01 11 0B}那就这样吧。\n我会告诉伊丽莎白小姐，\n现在起随时都可以报告完成。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}不过，有时间的话，\n还请再找找看。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}这样可以吗，小虎？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 A9 0C}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞现在似乎已经可以{F2 01 03 01}报告{F2 01 01 01}了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞不过，走遍虎狼丸在意的地方，\n　也许还会有什么发现……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:4:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞要继续散步吗……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 DC 10}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 05 01}{F5 61 02 01 01 01 01 01 01 01}虎狼丸先生似乎还有１处想去的地方，\n不过它说，不会勉强大家。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F4 87 05 01 01 01 01 01}{F5 86 01 01 02 01 01 01 04 01}{F5 86 0F 01 0D 01 65 01 05 01}{F5 61 02 01 01 01 01 01 11 0B}已经告诉伊丽莎白小姐，\n随时可以报告完成了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}接下来怎么行动，\n就交给队长决定了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 A9 0C}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞现在似乎已经可以{F2 01 03 01}报告{F2 01 01 01}了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:9:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞不过，走遍虎狼丸在意的地方，\n　也许还会有什么发现……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:9:2",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞要继续散步吗……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 AA 0C}汪汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 05 01}{F5 61 02 01 01 01 01 01 01 01}虎狼丸先生说，\n想去的地方已经全部逛完了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F4 87 05 01 01 01 01 01}{F5 86 01 01 02 01 01 01 04 01}{F5 86 0F 01 03 01 65 01 05 01}{F5 61 02 01 01 01 01 01 25 0B}辛苦了！\n我会在保健室正式向大家道谢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_470.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞稍后去保健室{F2 01 03 01}报告{F2 01 01 01}吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

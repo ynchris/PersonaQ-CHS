@@ -1,0 +1,147 @@
+[
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 01 01 05 01 02 01}{F5 61 02 01 01 01 01 01 33 11}哎呀，您来得正好……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}请借用您一点时间。\n请坐。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白一边说，\n　一边搬来了一把椅子……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 05 01 02 01}{F5 61 02 01 01 01 01 01 DE 0E}我记得……\n那是在各位外出探索时发生的事。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}我正在天鹅绒房间里玩……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:3:0",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 07 01 02 01}{F5 61 02 01 01 01 01 01 D5 0E}不，是研究的时候，\n发现房间里出现了一处奇妙的空间。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:3:1",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}那里散发出的反应，\n正是我一直在寻找的，\n而且格外强烈。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:3:2",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}我试着把手伸进去，\n没想到，令人惊讶的事发生了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:3:3",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}它吐出了一个奇怪的{F2 01 03 01}“珠子”{F2 01 01 01}，\n随后便消失了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:4:0",
+  "message_id": "SEL_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}奇怪的珠子？{F5 47 02 01 01 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:4:1",
+  "message_id": "SEL_003",
+  "translation": "{F2 05 FF FF}{F1 41}奇妙的空间？{F5 47 02 01 01 01 09 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}就是这个。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}只要看上一眼，您就会明白。\n那是一处非常不可思议的空间。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:6:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}而这，就是它吐出的珠子。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 05 01 02 01}{F5 61 02 01 01 01 01 01 3C 11}晶莹剔透的群青色珠子……\n让人联想到{F2 01 03 01}“深海”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:8:0",
+  "message_id": "MSG_0062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 2F 11}那么，接下来才是正题。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:8:1",
+  "message_id": "MSG_0062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 55 11}实际上，在迷宫的最深处，\n也感知到了类似那处空间的反应。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:8:2",
+  "message_id": "MSG_0062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}为了请您调查那里，\n我新增了委托。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:8:3",
+  "message_id": "MSG_0062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0F 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}这次也准备了比平常\n更加丰厚的报酬，\n还请务必承接。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:9:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞新增委托\n　{F2 01 03 01}“调查不可思议之国的你”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:10:0",
+  "message_id": "MSG_0072",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞新增委托\n　{F2 01 03 01}“调查联谊咖啡厅”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:11:0",
+  "message_id": "MSG_0073",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞新增委托\n　{F2 01 03 01}“调查放学后的恶灵俱乐部”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:12:0",
+  "message_id": "MSG_0074",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞新增委托\n　{F2 01 03 01}“调查稻羽乡土展”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:13:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞新增委托\n　{F2 01 03 01}“调查不可思议之国的你”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:14:0",
+  "message_id": "MSG_0082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞新增委托\n　{F2 01 03 01}“调查联谊咖啡厅”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:15:0",
+  "message_id": "MSG_0083",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞新增委托\n　{F2 01 03 01}“调查放学后的恶灵俱乐部”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:16:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞新增委托\n　{F2 01 03 01}“调查不可思议之国的你”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:17:0",
+  "message_id": "MSG_0092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞新增委托\n　{F2 01 03 01}“调查联谊咖啡厅”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_700.bf.json:18:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞新增委托\n　{F2 01 03 01}“调查不可思议之国的你”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

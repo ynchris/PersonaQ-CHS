@@ -1,0 +1,167 @@
+[
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 0D 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 96 09}{F5 C1 03 01 01 01 01 01 08 01}干得好！\n这样就完成总计１５场战斗了！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}怎么样……\n挥洒汗水的感觉，\n很舒服吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}不过，精彩的部分才刚开始。\n接下来会出现跑者愉悦感，\n最后甚至开始产生幻觉幻听。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:1:1",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}跨过这一关，\n就会迎来难以言喻的快感……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:2:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 0A}……明彦。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:2:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}之前我一直在旁边观察……\n也差不多该结束了吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 08 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:3:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}为什么，美鹤。\n我们正在挥洒美妙的汗水……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 07 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}你是笨蛋吗。\n只有你一个人这么起劲，\n差不多该发现了吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 4C 09}{F5 C1 03 01 01 01 01 01 01 01}什……！？\n真的吗，天田！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 11 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0B 01}我、我……\n那个……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……里中！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 11 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}特、特训是挺好的，\n不过我还是不喜欢\n这么可怕的地方……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 01 01 07 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0B 01}顺、顺平！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 01 01}不是，我说过了吧！？\n差不多想回去了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 5E 09}{F1 81}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:12:0",
+  "message_id": "SEL_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 01 01 02 01 01 01 01 01}回去吧{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:12:1",
+  "message_id": "SEL_011",
+  "translation": "{F2 05 FF FF}{F1 41}还能继续！{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0B 01}不、不，还不行！\n只要喝了这个，一定……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:13:1",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}……！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 08 01}对，就是这股气势！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:15:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 09 01 06 01 07 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 02 01}呜啊！\n被真田学长传染了……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:16:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 02 01 01 01 07 01}{F5 86 0D 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}好，那继续之前，\n先来点提振士气的……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:16:1",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}……！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:17:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}怎么了，明彦。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:18:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}蛋、蛋白粉……\n竟然已经喝完了……！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:18:1",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:19:0",
+  "message_id": "MSG_0172",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 0D 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 04 01}抱歉，{F1 81}。\n今天的训练到此结束。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:19:1",
+  "message_id": "MSG_0172",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}离开迷宫后，再进行总结。\n那么……走吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:20:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 07 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}以前我就想说了……\n你还是去看医生吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:21:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞训练似乎结束了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:21:1",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞回学校吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_244.bf.json:22:0",
+  "message_id": "MSG_0162",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}怎么了，明彦。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

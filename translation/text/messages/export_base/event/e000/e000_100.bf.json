@@ -1,0 +1,217 @@
+[
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞是一所从未见过的学校……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞看样子，这所学校\n　正在举办文化祭……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 02 01 02 01}{F5 61 02 01 01 01 01 01 02 01}文化祭……那是学生们每年一度\n举行的，充满兴奋与狂热的祭典……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}品质根本不足以拿来做生意的料理，\n以及因为纯手工制作而\n充满温暖的游乐设施……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:1:2",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}而在最后，大家还会围着烈火\n疯狂起舞……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 03 01 01 01 01 01 01 01}竟然……还有这样的祭典……！？\n我们此刻，正见证着\n如此精彩的瞬间啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 0B 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 03 01 01 01 01 01 0A 01}呃，我是不是该吐槽一下……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 07 01}首先，这文化祭怎么看都很可疑吧。\n你们居然还打算玩个痛快，\n我真是服了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 03 01 02 01 01 01 04 01}{F5 86 13 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 08 01}{F1 81}，\n你没事吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:6:0",
+  "message_id": "SEL_TALK006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}没事{F5 47 02 01 03 01 03 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:6:1",
+  "message_id": "SEL_TALK006",
+  "translation": "{F2 05 FF FF}{F1 41}不太好{F5 47 02 01 03 01 05 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}那就好……不过，\n这到底是怎么回事……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}……说得也是。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 22 01 02 01 01 01 02 01}{F5 86 0E 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 0B 01}我再确认一次，并不是你们\n把我们带到这里来的……\n对吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0C 01}是的，当然不是。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:10:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0D 01}我们也不知道这里是什么地方。\n而且各位并非我们的客人，\n本来就没有与各位见面的打算。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 05 01 02 01 05 01}{F5 61 02 01 01 01 01 01 0E 01}{F5 C1 03 01 01 01 01 01 07 01}姐姐……您看。\n那个摊位的招牌……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:11:1",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}“棉花糖”……竟然是棉花做的糖！\n究竟是如何让物质的构成\n发生变化的呢！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 10 01}{F5 C1 03 01 01 01 01 01 0A 01}那个话题已经结束了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 11 01}总之……并非出于我们的意愿，\n而是天鹅绒房间本身，\n将各位引领到了这里……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:13:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 12 01}这件事意义深远。\n因为那个地方，\n有着严格的规则。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 13 01}{F5 C1 03 01 01 01 01 01 05 01}规则？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 11 01}总之……并非出于我们的意愿，\n而是天鹅绒房间本身，\n将各位引领到了这里……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:15:1",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 14 01}天鹅绒房间，与客人的命运\n密不可分。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:15:2",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 15 01}那里不会发生毫无意义的事……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 16 01}……你是说，我们来到这里是必然？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 17 01}或许，也可以称之为……命运。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 18 01}命运……吗……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:18:1",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 19 01}这里究竟\n有什么呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 07 01}{F5 61 02 01 01 01 01 01 1A 01}既然如此，就让我\n去侦察一番吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1B 01}{F5 C1 03 01 01 01 01 01 08 01}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:21:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 1C 01}说、说得也是……\n好，大家分头调查一下周围的情况。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:22:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 03 01 02 01 01 01 04 01}{F5 86 22 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 1D 01}{F1 82}先生，请跟我来。\n让我们一起确认\n天鹅绒房间的情况吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:23:0",
+  "message_id": "SEL_TALK023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}明白了{F5 47 02 01 03 01 03 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:23:1",
+  "message_id": "SEL_TALK023",
+  "translation": "{F2 05 FF FF}{F1 41}我想去侦察{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:24:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1E 01}既然是天鹅绒房间将各位引领至此，\n那么侦察天鹅绒房间本身，\n不正是最重要的事吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:24:1",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1F 01}还请您务必\n亲眼确认一下。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:25:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0D 01 01 01 05 01}{F5 61 02 01 01 01 01 01 20 01}那么，我去别处看看。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:26:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 21 01}啊，我要章鱼烧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:27:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 22 01}{F5 C1 03 01 01 01 01 01 0B 01}不是的！\n我是去调查这个地方！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:28:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 23 01}{F5 C1 04 01 01 01 01 01 02 01}这不是一回事吗？\n我要章鱼烧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:29:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 24 01}那么各位，稍后我们\n再到这里会合吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_100.bf.json:29:1",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 25 01}还请大家务必小心……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

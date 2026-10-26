@@ -1,0 +1,97 @@
+[
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 0D 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 62 09}只要你愿意，\n我想现在就开始特训……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:1:0",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}开始吧！{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:1:1",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}再说一遍规则{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:1:2",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}现在有点……{F5 47 02 01 01 01 05 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}这、这样啊……\n那就下次吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞真田寂寞地放下了拳头……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 98 09}{F5 61 02 01 01 01 01 01 01 01}明白了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}这次特训很简单。\n在{F2 01 03 01}一次探索中{F2 01 01 01}尽可能\n{F2 01 03 01}多打几场战斗{F2 01 01 01}。仅此而已。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:4:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}地点限定在{F2 01 03 01}放学后的恶灵俱乐部{F2 01 01 01}\n的{F2 01 03 01}最初楼层{F2 01 01 01}。\n深入迷宫会有危险。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:4:3",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}另外，训练也需要适当休息。\n每进行３组对练，就休息１次。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:4:4",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}我的特制饮料，\n能让你从骨子里恢复精力。\n可别半途叫苦啊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:4:5",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}最后，虽然是理所当然的事……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:4:6",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}这是实战演习。\n别忘了，是赌上性命的特训。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞要开始特训吗……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 08 01}是吗！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞真田似乎很开心。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}可别拿出令人失望的成绩。\n身体发出悲鸣才叫特训。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:9:0",
+  "message_id": "MSG_0082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 01 01 07 01 01 01}{F5 61 02 01 01 01 01 01 B7 09}那么，特训……开始！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_220.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞特训拉开了帷幕！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

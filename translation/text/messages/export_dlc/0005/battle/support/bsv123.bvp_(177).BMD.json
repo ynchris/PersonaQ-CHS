@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(177).BMD.json:0:0",
+  "message_id": "BTL_MES_H123_178_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 30 03}这可真麻烦……\n脚又复活了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(177).BMD.json:1:0",
+  "message_id": "BTL_MES_H123_178_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 31 03}啊……\n脚又复活了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(177).BMD.json:2:0",
+  "message_id": "BTL_MES_H123_178_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 32 03}竟有这样的敌人……\n脚又复活了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(177).BMD.json:3:0",
+  "message_id": "BTL_MES_H123_178_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 33 03}这是……真是没完没了呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(177).BMD.json:4:0",
+  "message_id": "BTL_MES_H123_178_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 34 03}……看来那些脚，是按各自的时间\n复活的……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(177).BMD.json:5:0",
+  "message_id": "BTL_MES_H123_178_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 35 03}若在相近时间破坏４条脚，\n也许能争取到攻击头部的时间……\n{F2 26 00 00}{00}"
+ }
+]

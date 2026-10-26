@@ -1,0 +1,82 @@
+[
+ {
+  "key": "export_base/event/e800/e822_750.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 01 01 05 01 02 01}{F5 61 02 01 01 01 01 01 33 11}看来……送给善大人的惊喜礼物计划，\n已经圆满成功了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_750.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 28 11}那么，我去请玲大人和善大人过来。\n请稍候。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_750.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 29 11}让您久等了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_750.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 15 01 02 01 01 01 05 01}{F5 86 29 01 0D 01 02 01 02 01}{F5 61 02 01 01 01 01 01 43 10}这次真的非常感谢你帮忙。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_750.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 08 01}善也很高兴，\n惊喜计划大成功！对吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_750.bf.json:3:0",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 01 01}{F5 61 02 01 01 01 01 01 01 01}啊，还有哦？\n我和善商量过，\n这次就用这个项圈作为谢礼！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_750.bf.json:4:0",
+  "message_id": "MSG_0023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 6D 0D}要不要让我装备，由你决定。\n……拜托了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_750.bf.json:5:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善虽然这样说着，\n　却以坚定的目光注视着你……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_750.bf.json:6:0",
+  "message_id": "MSG_0032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞收下了{F4 45 04 01 00 00 01 01}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_750.bf.json:7:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 01 01}{F5 61 02 01 01 01 01 01 01 01}那么，再说一次。\n非常感谢！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_750.bf.json:8:0",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……一起说，非常感谢！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_750.bf.json:9:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_750.bf.json:9:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 81 0D}谢谢你。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_750.bf.json:10:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 59 10}{F5 C1 03 01 01 01 01 01 07 01}啊，真是的！\n明明应该好好说的……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_750.bf.json:11:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 C7 0D}玲，走了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_750.bf.json:12:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 01 01}{F5 61 02 01 01 01 01 01 1C 10}啊，嗯！\n再见！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

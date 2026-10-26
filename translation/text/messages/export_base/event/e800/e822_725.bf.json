@@ -1,0 +1,172 @@
+[
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞３Ｆ　摊位街\n　“半生不熟厨房”前……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞告诉玲，已经取得了\n　制作善的饰品所需的素材。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 29 01 03 01 02 01 02 01}{F5 61 02 01 01 01 01 01 1F 10}{F5 C1 03 01 01 01 01 01 08 01}哇！\n{F1 82}同学，谢谢你！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 02 01 02 01}{F5 61 02 01 01 01 01 01 01 01}那我们马上去手工工坊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 02 01 05 01}{F5 61 02 01 01 01 01 01 76 0D}要去看装备吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 50 10}{F5 C1 03 01 01 01 01 01 01 01}咦！？\n呃，那、那个……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}没、没什么大事哦！？\n真的哦！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 05 01}我想保养一下武器。\n我也去。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 4E 10}{F5 C1 03 01 01 01 01 01 0B 01}诶、诶诶诶！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玲似乎很为难……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 13 01 02 01 01 01 02 01}{F5 86 12 01 0D 01 01 01 05 01}{F5 61 02 01 01 01 01 01 A9 0C}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 B4 0C}哟。\n在填肚子吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞正在散步的虎狼丸和荒垣路过这里……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:9:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}＞悄声向他们说明了情况。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 13 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 AB 11}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 AA 0C}汪汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 E9 0C}……你打算上吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 A9 0C}{F5 C1 03 01 01 01 01 01 08 01}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 EF 0C}啧……真拿你没办法……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞他们似乎在谋划什么……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 74 0D}{F5 C1 03 01 01 01 01 01 05 01}虎狼丸，真次郎。\n怎么了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 05 01 05 01 01 01}{F5 61 02 01 01 01 01 01 E7 0C}小虎……虎狼丸！\n叼回来！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 AA 0C}汪汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞虎狼丸叼住善的武器，\n　猛地冲向走廊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 B0 0D}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}你、你干什么！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:21:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 C4 0C}……抱歉，手滑了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:21:1",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}不过，它一旦这样，\n可就拦不住了。\n恐怕只能追上去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:22:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 A1 0D}{F5 C1 03 01 01 01 01 01 07 01}{F5 C1 04 01 01 01 01 01 04 01}……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:23:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善追着虎狼丸跑了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:24:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 01 01}{F5 61 02 01 01 01 01 01 1F 10}阿、阿真……\n谢谢你！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:25:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 AC 11}要谢就谢虎狼丸。\n还有，赶紧去吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:26:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 32 10}嗯、嗯！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:27:0",
+  "message_id": "MSG_0262",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 29 01 01 01 09 01 04 01}{F5 61 02 01 01 01 01 01 98 10}那么，{F1 82}同学！\n快走吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_725.bf.json:28:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞和玲一起前往了手工工坊。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

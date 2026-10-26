@@ -1,0 +1,62 @@
+[
+ {
+  "key": "export_base/event/e800/e821_320.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞门坏了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_320.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞钢琴声似乎是从\n　门缝中传出来的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_320.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 23 04}我倒觉得，这里好像\n只是缺了点润滑油而已……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_320.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0B 01 01 01 04 01}{F5 61 02 01 01 01 01 01 82 11}{F5 C1 03 01 01 01 01 01 01 01}雪、雪子妹妹！？\n这样是不是太粗暴了！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_320.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 03 01 02 01}{F5 61 02 01 01 01 01 01 BF 11}对不起对不起！\n对不起对不起！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_320.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 06 01 08 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7E 04}唔，我想先给它\n加１次油之类的东西试试……\n哪里会有呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_320.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 AE 11}学校里能找到的东西……是吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_320.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}清洁用具柜里，\n应该会有能用的东西吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_320.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2C 04}啊，有道理。\n我们找找看吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_320.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 05 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 6B 03}{F5 C1 03 01 01 01 01 01 04 01}唉……\n还真是毫不犹豫地往下推进啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_320.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这间教室里\n　有清洁用具柜吗……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_320.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞找找看吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,162 @@
+[
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:0:0",
+  "message_id": "sklcard_sel",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}是{F2 03 01 FF}的{F2 03 01 FF}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:0:1",
+  "message_id": "sklcard_sel",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}不{F2 03 01 FF}需{F2 03 01 FF}要{F2 03 01 FF}{00}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:1:0",
+  "message_id": "sklcard_conf",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F4 45 04 01 00 00 01 01}{F2 03 01 FF}，{F2 03 01 FF}要{F2 03 01 FF}买{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:2:0",
+  "message_id": "sklcard_sell_conf",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F4 45 04 01 00 00 01 01}{F2 03 01 FF}，{F2 03 01 FF}可{F2 03 01 FF}以{F2 03 01 FF}给{F2 03 01 FF}我{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:3:0",
+  "message_id": "sklcard_sell_all",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}你{F2 03 01 FF}手{F2 03 01 FF}里{F2 03 01 FF}的{F2 03 01 FF}技{F2 03 01 FF}能{F2 03 01 FF}卡{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}可{F2 03 01 FF}以{F2 03 01 FF}全{F2 03 01 FF}给{F2 03 01 FF}我{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:4:0",
+  "message_id": "sklcard_all_registered",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}…{F2 03 01 FF}嗯{F2 03 01 FF}，{F2 03 01 FF}没{F2 03 01 FF}问{F2 03 01 FF}题{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:4:1",
+  "message_id": "sklcard_all_registered",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}能{F2 03 01 FF}复{F2 03 01 FF}制{F2 03 01 FF}的{F2 03 01 FF}技{F2 03 01 FF}能{F2 03 01 FF}卡{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}我{F2 03 01 FF}都{F2 03 01 FF}列{F2 03 01 FF}在{F2 03 01 FF}清{F2 03 01 FF}单{F2 03 01 FF}上{F2 03 01 FF}了{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:5:0",
+  "message_id": "sklcard_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 3D 01 02 01 01 01 02 01}{F2 03 01 FF}那{F2 03 01 FF}就{F2 03 01 FF}说{F2 03 01 FF}说{F2 03 01 FF}“{F2 03 01 FF}复{F2 03 01 FF}制{F2 03 01 FF}技{F2 03 01 FF}能{F2 03 01 FF}卡{F2 03 01 FF}”{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}简{F2 03 01 FF}单{F2 03 01 FF}说{F2 03 01 FF}明{F2 03 01 FF}一{F2 03 01 FF}下{F2 03 01 FF}吧{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:5:1",
+  "message_id": "sklcard_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}把{F2 03 01 FF}你{F2 03 01 FF}手{F2 03 01 FF}里{F2 03 01 FF}的{F2 03 01 FF}卡{F2 03 01 FF}交{F2 03 01 FF}给{F2 03 01 FF}我{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}我{F2 03 01 FF}就{F2 03 01 FF}能{F2 03 01 FF}复{F2 03 01 FF}制{F2 03 01 FF}出{F2 03 01 FF}很{F2 03 01 FF}多{F2 03 01 FF}张{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:5:2",
+  "message_id": "sklcard_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}你{F2 03 01 FF}会{F2 03 01 FF}失{F2 03 01 FF}去{F2 03 01 FF}１{F2 03 01 FF}张{F2 03 01 FF}技{F2 03 01 FF}能{F2 03 01 FF}卡{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}但{F2 03 01 FF}之{F2 03 01 FF}后{F2 03 01 FF}想{F2 03 01 FF}买{F2 03 01 FF}多{F2 03 01 FF}少{F2 03 01 FF}张{F2 03 01 FF}都{F2 03 01 FF}行{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:5:3",
+  "message_id": "sklcard_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}啊{F2 03 01 FF}，{F2 03 01 FF}不{F2 03 01 FF}过{F2 03 01 FF}技{F2 03 01 FF}能{F2 03 01 FF}卡{F2 03 01 FF}的{F2 03 01 FF}效{F2 03 01 FF}果{F2 03 01 FF}不{F2 03 01 FF}同{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}价{F2 03 01 FF}格{F2 03 01 FF}也{F2 03 01 FF}不{F2 03 01 FF}一{F2 03 01 FF}样{F2 03 01 FF}，{F2 03 01 FF}记{F2 03 01 FF}住{F2 03 01 FF}哦{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:5:4",
+  "message_id": "sklcard_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}想{F2 03 01 FF}强{F2 03 01 FF}化{F2 03 01 FF}人{F2 03 01 FF}格{F2 03 01 FF}面{F2 03 01 FF}具{F2 03 01 FF}的{F2 03 01 FF}话{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}最{F2 03 01 FF}好{F2 03 01 FF}多{F2 03 01 FF}复{F2 03 01 FF}制{F2 03 01 FF}些{F2 03 01 FF}不{F2 03 01 FF}同{F2 03 01 FF}的{F2 03 01 FF}卡{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:6:0",
+  "message_id": "sklcard_conf_m",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F4 45 04 01 00 00 01 01}{F2 03 01 FF}，{F2 03 01 FF}您{F2 03 01 FF}要{F2 03 01 FF}购{F2 03 01 FF}买{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:7:0",
+  "message_id": "sklcard_sell_conf_m",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F4 45 04 01 00 00 01 01}{F2 03 01 FF}，{F2 03 01 FF}可{F2 03 01 FF}以{F2 03 01 FF}交{F2 03 01 FF}给{F2 03 01 FF}我{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:8:0",
+  "message_id": "sklcard_sell_all_m",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}您{F2 03 01 FF}持{F2 03 01 FF}有{F2 03 01 FF}的{F2 03 01 FF}技{F2 03 01 FF}能{F2 03 01 FF}卡{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}可{F2 03 01 FF}以{F2 03 01 FF}全{F2 03 01 FF}部{F2 03 01 FF}交{F2 03 01 FF}给{F2 03 01 FF}我{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:9:0",
+  "message_id": "sklcard_all_registered_m",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}…{F2 03 01 FF}已{F2 03 01 FF}经{F2 03 01 FF}完{F2 03 01 FF}成{F2 03 01 FF}了{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:9:1",
+  "message_id": "sklcard_all_registered_m",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}可{F2 03 01 FF}以{F2 03 01 FF}复{F2 03 01 FF}制{F2 03 01 FF}的{F2 03 01 FF}技{F2 03 01 FF}能{F2 03 01 FF}卡{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}已{F2 03 01 FF}全{F2 03 01 FF}部{F2 03 01 FF}登{F2 03 01 FF}记{F2 03 01 FF}在{F2 03 01 FF}购{F2 03 01 FF}买{F2 03 01 FF}清{F2 03 01 FF}单{F2 03 01 FF}中{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:10:0",
+  "message_id": "skilcard_tutorial_m",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 23 01 02 01 01 01 02 01}{F2 03 01 FF}那{F2 03 01 FF}么{F2 03 01 FF}，{F2 03 01 FF}关{F2 03 01 FF}于{F2 03 01 FF}“{F2 03 01 FF}复{F2 03 01 FF}制{F2 03 01 FF}技{F2 03 01 FF}能{F2 03 01 FF}卡{F2 03 01 FF}”{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}请{F2 03 01 FF}容{F2 03 01 FF}我{F2 03 01 FF}为{F2 03 01 FF}您{F2 03 01 FF}简{F2 03 01 FF}单{F2 03 01 FF}说{F2 03 01 FF}明{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:10:1",
+  "message_id": "skilcard_tutorial_m",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}只{F2 03 01 FF}要{F2 03 01 FF}您{F2 03 01 FF}交{F2 03 01 FF}出{F2 03 01 FF}持{F2 03 01 FF}有{F2 03 01 FF}的{F2 03 01 FF}技{F2 03 01 FF}能{F2 03 01 FF}卡{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}我{F2 03 01 FF}就{F2 03 01 FF}能{F2 03 01 FF}为{F2 03 01 FF}您{F2 03 01 FF}复{F2 03 01 FF}制{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:10:2",
+  "message_id": "skilcard_tutorial_m",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}交{F2 03 01 FF}出{F2 03 01 FF}的{F2 03 01 FF}卡{F2 03 01 FF}无{F2 03 01 FF}法{F2 03 01 FF}归{F2 03 01 FF}还{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}但{F2 03 01 FF}此{F2 03 01 FF}后{F2 03 01 FF}您{F2 03 01 FF}可{F2 03 01 FF}以{F2 03 01 FF}不{F2 03 01 FF}限{F2 03 01 FF}张{F2 03 01 FF}数{F2 03 01 FF}地{F2 03 01 FF}购{F2 03 01 FF}买{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:10:3",
+  "message_id": "skilcard_tutorial_m",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}不{F2 03 01 FF}过{F2 03 01 FF}，{F2 03 01 FF}购{F2 03 01 FF}买{F2 03 01 FF}时{F2 03 01 FF}会{F2 03 01 FF}根{F2 03 01 FF}据{F2 03 01 FF}技{F2 03 01 FF}能{F2 03 01 FF}卡{F2 03 01 FF}的{F2 03 01 FF}效{F2 03 01 FF}果{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}收{F2 03 01 FF}取{F2 03 01 FF}相{F2 03 01 FF}应{F2 03 01 FF}费{F2 03 01 FF}用{F2 03 01 FF}，{F2 03 01 FF}还{F2 03 01 FF}请{F2 03 01 FF}知{F2 03 01 FF}悉{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:10:4",
+  "message_id": "skilcard_tutorial_m",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}为{F2 03 01 FF}了{F2 03 01 FF}强{F2 03 01 FF}化{F2 03 01 FF}人{F2 03 01 FF}格{F2 03 01 FF}面{F2 03 01 FF}具{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}建{F2 03 01 FF}议{F2 03 01 FF}您{F2 03 01 FF}多{F2 03 01 FF}复{F2 03 01 FF}制{F2 03 01 FF}各{F2 03 01 FF}种{F2 03 01 FF}技{F2 03 01 FF}能{F2 03 01 FF}卡{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:11:0",
+  "message_id": "sklcard_conf2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}啊{F2 03 01 FF}…{F2 03 01 FF}{F4 45 04 01 00 00 01 01}{F2 03 01 FF}，{F2 03 01 FF}要{F2 03 01 FF}买{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:12:0",
+  "message_id": "sklcard_sell_conf2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}…{F2 03 01 FF}{F4 45 04 01 00 00 01 01}{F2 03 01 FF}，{F2 03 01 FF}可{F2 03 01 FF}以{F2 03 01 FF}给{F2 03 01 FF}我{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:13:0",
+  "message_id": "sklcard_sell_all2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}…{F2 03 01 FF}你{F2 03 01 FF}手{F2 03 01 FF}里{F2 03 01 FF}的{F2 03 01 FF}卡{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}可{F2 03 01 FF}以{F2 03 01 FF}全{F2 03 01 FF}给{F2 03 01 FF}我{F2 03 01 FF}，{F2 03 01 FF}对{F2 03 01 FF}吧{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:14:0",
+  "message_id": "sklcard_all_registered2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}…{F2 03 01 FF}弄{F2 03 01 FF}好{F2 03 01 FF}了{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:14:1",
+  "message_id": "sklcard_all_registered2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}能{F2 03 01 FF}复{F2 03 01 FF}制{F2 03 01 FF}的{F2 03 01 FF}技{F2 03 01 FF}能{F2 03 01 FF}卡{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}我{F2 03 01 FF}都{F2 03 01 FF}列{F2 03 01 FF}在{F2 03 01 FF}清{F2 03 01 FF}单{F2 03 01 FF}上{F2 03 01 FF}了{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:15:0",
+  "message_id": "sklcard_tutorial2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 3D 01 05 01 01 01 02 01}{F2 03 01 FF}…{F2 03 01 FF}关{F2 03 01 FF}于{F2 03 01 FF}“{F2 03 01 FF}复{F2 03 01 FF}制{F2 03 01 FF}技{F2 03 01 FF}能{F2 03 01 FF}卡{F2 03 01 FF}”{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}我{F2 03 01 FF}简{F2 03 01 FF}单{F2 03 01 FF}说{F2 03 01 FF}明{F2 03 01 FF}一{F2 03 01 FF}下{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:15:1",
+  "message_id": "sklcard_tutorial2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}把{F2 03 01 FF}你{F2 03 01 FF}手{F2 03 01 FF}里{F2 03 01 FF}的{F2 03 01 FF}卡{F2 03 01 FF}交{F2 03 01 FF}给{F2 03 01 FF}我{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}我{F2 03 01 FF}就{F2 03 01 FF}能{F2 03 01 FF}复{F2 03 01 FF}制{F2 03 01 FF}出{F2 03 01 FF}很{F2 03 01 FF}多{F2 03 01 FF}张{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:15:2",
+  "message_id": "sklcard_tutorial2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}…{F2 03 01 FF}你{F2 03 01 FF}会{F2 03 01 FF}失{F2 03 01 FF}去{F2 03 01 FF}１{F2 03 01 FF}张{F2 03 01 FF}技{F2 03 01 FF}能{F2 03 01 FF}卡{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}但{F2 03 01 FF}之{F2 03 01 FF}后{F2 03 01 FF}想{F2 03 01 FF}买{F2 03 01 FF}多{F2 03 01 FF}少{F2 03 01 FF}张{F2 03 01 FF}都{F2 03 01 FF}行{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:15:3",
+  "message_id": "sklcard_tutorial2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}还{F2 03 01 FF}有{F2 03 01 FF}…{F2 03 01 FF}技{F2 03 01 FF}能{F2 03 01 FF}卡{F2 03 01 FF}的{F2 03 01 FF}效{F2 03 01 FF}果{F2 03 01 FF}不{F2 03 01 FF}同{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}购{F2 03 01 FF}买{F2 03 01 FF}时{F2 03 01 FF}的{F2 03 01 FF}价{F2 03 01 FF}格{F2 03 01 FF}也{F2 03 01 FF}不{F2 03 01 FF}一{F2 03 01 FF}样{F2 03 01 FF}哦{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_sklcard.bmd.json:15:4",
+  "message_id": "sklcard_tutorial2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}…{F2 03 01 FF}就{F2 03 01 FF}这{F2 03 01 FF}样{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ }
+]

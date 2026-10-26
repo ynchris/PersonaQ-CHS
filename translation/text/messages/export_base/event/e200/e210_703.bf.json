@@ -1,0 +1,77 @@
+[
+ {
+  "key": "export_base/event/e200/e210_703.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这里似乎是一座教堂……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_703.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 02 01}{F5 86 0D 01 02 01 01 01 04 01}{F5 61 02 01 01 01 01 01 08 01}{F5 C1 04 01 01 01 01 01 03 01}好了，让各位久等了。\n终于要迎接新郎新娘入场了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_703.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}{F5 C1 04 01 01 01 01 01 03 01}你们可以结婚，\n也可以不结婚。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_703.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 02 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_703.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 03 01 01 01 01 01 0A 01}不、不结婚。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_703.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0A 01}{F5 C1 04 01 01 01 01 01 03 01}你们根据自由意志，\n决定许下永恒之爱的誓言。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_703.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 04 01}可恶，果然……！\n我就知道，\n根本没有选择的余地！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_703.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 02 01}{F5 86 0D 01 02 01 01 01 04 01}{F5 61 02 01 01 01 01 01 0B 01}{F5 C1 04 01 01 01 01 01 03 01}来，两个人一起打开门吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_703.bf.json:6:0",
+  "message_id": "SEL_TALK006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}开门{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_703.bf.json:6:1",
+  "message_id": "SEL_TALK006",
+  "translation": "{F2 05 FF FF}{F1 41}不开门{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_703.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞打开了教堂的大门……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_703.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 02 01}{F5 86 0D 01 0B 01 01 01 04 01}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 03 01 01 01 01 01 01 01}什……你！\n什么时候被弄混乱了！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_703.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 06 01}清醒一点！\n你把我看成女人了吗！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_703.bf.json:8:2",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 07 01}{F5 C1 03 01 01 01 01 01 0B 01}难、难道……你觉得自己是女人！？\n哪有你这样的女人啊！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_703.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞现在还是先算了吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

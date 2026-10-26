@@ -1,0 +1,62 @@
+[
+ {
+  "key": "export_base/event/e800/e822_800.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 E7 0E}{F2 01 03 01}稻羽乡土展第二夜{F2 01 01 01}里，\n有一个上了锁的宝箱。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_800.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}从泄露出来的气息判断，\n里面装的是阴影。\n而且似乎密密麻麻地挤了一大堆。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_800.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}打开那个宝箱，\n撑过与阴影的连续战斗。\n这就是本次的委托。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_800.bf.json:0:3",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 D1 0E}我在探索时找到了钥匙，\n就在这里交给您吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_800.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞获得了{F4 84 04 01 01 01 B8 07}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_800.bf.json:2:0",
+  "message_id": "SEL_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}早饭前就能搞定{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_800.bf.json:2:1",
+  "message_id": "SEL_002",
+  "translation": "{F2 05 FF FF}{F1 41}你自己去不就好了……{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_800.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 CC 0E}那可不行。\n不吃早饭，就没有力气了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_800.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白似乎误会了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_800.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 D5 0E}里面有许多阴影。\n这种麻烦……这种机会，\n可是千载难逢的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_800.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}还请顺便磨炼一下身手，\n完成这项委托。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_800.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0F 01 05 01 01 01}{F5 61 02 01 01 01 01 01 E3 0E}那么，\n我在此恭候您平安归来。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

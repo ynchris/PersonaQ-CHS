@@ -1,0 +1,257 @@
+[
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:0:0",
+  "message_id": "JUNPEI_FOE_FOLLOW_START1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FB 02}喂喂！\nＦ．Ｏ．Ｅ来了啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:1:0",
+  "message_id": "JUNPEI_FOE_FOLLOW_START2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FC 02}喂喂喂！那只Ｆ．Ｏ．Ｅ，\n追过来了！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:2:0",
+  "message_id": "JUNPEI_FOE_FOLLOW_START3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FD 02}哇，不是吧！那只Ｆ．Ｏ．Ｅ，\n真的追过来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:3:0",
+  "message_id": "JUNPEI_FOE_SENSOR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FE 02}哇啊，发现Ｆ．Ｏ．Ｅ！！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:4:0",
+  "message_id": "JUNPEI_FOE_SENSOR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FF 02}糟了，那儿有Ｆ．Ｏ．Ｅ！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:5:0",
+  "message_id": "JUNPEI_FOE_SENSOR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 00 02}噔噔噔——\nＦ．Ｏ．Ｅ出现了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:6:0",
+  "message_id": "JUNPEI_FOE_FOLLOW_END1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 01 03}好险——\n总算逃离Ｆ．Ｏ．Ｅ了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:7:0",
+  "message_id": "JUNPEI_FOE_FOLLOW_END2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 02 03}噔噔噔——\n成功甩掉Ｆ．Ｏ．Ｅ！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:8:0",
+  "message_id": "JUNPEI_FOE_FOLLOW_END3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 03 03}哼，\n哪有那么容易被抓到！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:9:0",
+  "message_id": "JUNPEI_PARTY_HPTP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 04 03}啊，累死我了……\n真是累死我了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:10:0",
+  "message_id": "JUNPEI_PARTY_HPTP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 05 03}不、不行啦。\n说什么都不行啦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:11:0",
+  "message_id": "JUNPEI_PARTY_HPTP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 06 03}不行，走不动了。\n救救我啊。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:12:0",
+  "message_id": "JUNPEI_PARTY_HP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 07 03}一生只有这一次请求！\n帮我恢复一下吧！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:13:0",
+  "message_id": "JUNPEI_PARTY_HP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 08 03}体力…极限了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:14:0",
+  "message_id": "JUNPEI_PARTY_HP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 09 03}实在吃不消了……\n帮我恢复一下吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:15:0",
+  "message_id": "JUNPEI_PARTY_TP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0A 03}不行啦，我的心已经碎啦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:16:0",
+  "message_id": "JUNPEI_PARTY_TP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0B 03}投降投降！\n已经没精力啦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:17:0",
+  "message_id": "JUNPEI_PARTY_TP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0C 03}啊，耗光了。\n耐力耗光了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:18:0",
+  "message_id": "JUNPEI_STAIR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0D 03}噔噔——！\n顺平发现了楼梯！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:19:0",
+  "message_id": "JUNPEI_STAIR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0E 03}我找到楼梯啦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:20:0",
+  "message_id": "JUNPEI_STAIR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0F 03}看吧，那就是楼梯！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:21:0",
+  "message_id": "JUNPEI_TREASURE1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 10 03}找到宝箱啦！\n能分我１成吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:22:0",
+  "message_id": "JUNPEI_TREASURE2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 11 03}吾已发现宝箱！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:23:0",
+  "message_id": "JUNPEI_TREASURE3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 12 03}噔噔噔！\n顺平发现了宝箱！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:24:0",
+  "message_id": "JUNPEI_FOUNTAIN1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 13 03}哦，找到能量点啦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:25:0",
+  "message_id": "JUNPEI_FOUNTAIN2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 14 03}哦，是能量点。\n过去看看吧！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:26:0",
+  "message_id": "JUNPEI_FOUNTAIN3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 15 03}那个能量点，\n是不是在释放负离子啊？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:27:0",
+  "message_id": "JUNPEI_SEARCH_OBJ1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 16 03}那一带，\n是不是有点可疑？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:28:0",
+  "message_id": "JUNPEI_SEARCH_OBJ2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 17 03}总觉得有股味儿……难道\n虎狼丸，你不会拉了吧！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:29:0",
+  "message_id": "JUNPEI_SEARCH_OBJ3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 18 03}喂，那儿是不是有东西！？\n去看看吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:30:0",
+  "message_id": "JUNPEI_SWITCH1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 19 03}噔噔噔——！\n顺平发现了开关！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:31:0",
+  "message_id": "JUNPEI_SWITCH2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1A 03}哦，发现开关！\n要不要按一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:32:0",
+  "message_id": "JUNPEI_SWITCH3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1B 03}哦，开关！\n别按啊！可别按啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:33:0",
+  "message_id": "JUNPEI_SHORTCUT1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1C 03}前面那墙超可疑啊！\n你快看看！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:34:0",
+  "message_id": "JUNPEI_SHORTCUT2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1D 03}那面墙，\n是不是跟别处不一样？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:35:0",
+  "message_id": "JUNPEI_SHORTCUT3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1E 03}那面墙，有诈！嘿嘿，\n可瞒不过我的眼睛！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:36:0",
+  "message_id": "JUNPEI_PARTY_HPTP15_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 04 03}啊，累死我了……\n真是累死我了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:37:0",
+  "message_id": "JUNPEI_PARTY_HPTP15_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 05 03}不、不行啦。\n说什么都不行啦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:38:0",
+  "message_id": "JUNPEI_PARTY_HPTP15_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 06 03}不行，走不动了。\n救救我啊。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:39:0",
+  "message_id": "JUNPEI_PARTY_TP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0A 03}不行啦，我的心已经碎啦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:40:0",
+  "message_id": "JUNPEI_PARTY_TP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0B 03}投降投降！\n已经没精力啦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:41:0",
+  "message_id": "JUNPEI_PARTY_TP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0C 03}啊，耗光了。\n耐力耗光了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:42:0",
+  "message_id": "JUNPEI_PARTY_HP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 07 03}一生只有这一次请求！帮我恢复一下吧！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:43:0",
+  "message_id": "JUNPEI_PARTY_HP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 08 03}体力…极限了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:44:0",
+  "message_id": "JUNPEI_PARTY_HP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 09 03}实在吃不消了……\n帮我恢复一下吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:45:0",
+  "message_id": "JUNPEI_FOE_NEAR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FB 02}喂喂！\nＦ．Ｏ．Ｅ来了啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:46:0",
+  "message_id": "JUNPEI_FOE_NEAR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FC 02}喂喂喂！那只Ｆ．Ｏ．Ｅ，\n追过来了！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:47:0",
+  "message_id": "JUNPEI_FOE_NEAR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FD 02}哇，不是吧！那只Ｆ．Ｏ．Ｅ，\n真的追过来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:48:0",
+  "message_id": "JUNPEI_ME_LEVEL_UP1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1F 03}嘿嘿……我马上\n就要升级啦！看好咯！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:49:0",
+  "message_id": "JUNPEI_ME_LEVEL_UP2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 20 03}噔噔噔——顺平，\n好像马上就要升级了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/junpei_support.bf.json:50:0",
+  "message_id": "JUNPEI_ME_LEVEL_UP3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 21 03}伊织顺平，\n马上就要升——级啦！\n{F2 26 00 00}{00}"
+ }
+]

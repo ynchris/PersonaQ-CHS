@@ -1,0 +1,62 @@
+[
+ {
+  "key": "export_base/event/e700/e722_130.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这里似乎只是条死路……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_130.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 9B 05}死路啊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_130.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}白跑一趟。\n赶紧往回走吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_130.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2A 06}{F5 C1 03 01 01 01 01 01 05 01}咦？\n这里的墙……好像快剥落了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_130.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 AC 0C}汪呜！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_130.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}虎狼丸先生，\n您叼着什么？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_130.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞虎狼丸嘴里叼着\n　一个爱心标记……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_130.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 D4 02}{F5 C1 03 01 01 01 01 01 07 01}那不是墙上的东西吗！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_130.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}你到底是怎么\n把它拿下来的！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_130.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 A9 0C}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_130.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞虽然不知道能派上什么用场，\n　总之先收着吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_130.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞获得了{F4 84 04 01 01 01 1D 07}。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

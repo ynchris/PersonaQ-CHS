@@ -1,0 +1,867 @@
+[
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:1:0",
+  "message_id": "armor_301",
+  "translation": "{F2 05 FF FF}{F1 41}款式端正，\n袖子却颇有巧思的衬衫。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:2:0",
+  "message_id": "armor_302",
+  "translation": "{F2 05 FF FF}{F1 41}用锁链编成的衣服。\n比看起来重得多。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:3:0",
+  "message_id": "armor_303",
+  "translation": "{F2 05 FF FF}{F1 41}弹性很好的厚衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:4:0",
+  "message_id": "armor_304",
+  "translation": "{F2 05 FF FF}{F1 41}用坚韧复合纤维制成，\n符合３Ａ标准的防弹背心。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:5:0",
+  "message_id": "armor_305",
+  "translation": "{F2 05 FF FF}{F1 41}金属制的坚固防具。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:6:0",
+  "message_id": "armor_306",
+  "translation": "{F2 05 FF FF}{F1 41}胸腹部嵌有金属板，\n还使用了坚韧复合纤维的防护服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:7:0",
+  "message_id": "armor_307",
+  "translation": "{F2 05 FF FF}{F1 41}带有精美装饰的铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:8:0",
+  "message_id": "armor_308",
+  "translation": "{F2 05 FF FF}{F1 41}用能避开祸津神视线的灵草\n纺成丝线，织就的轻薄披肩。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:9:0",
+  "message_id": "armor_309",
+  "translation": "{F2 05 FF FF}{F1 41}防御力并不突出，\n穿上却会让全身充满能量的铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:10:0",
+  "message_id": "armor_30A",
+  "translation": "{F2 05 FF FF}{F1 41}改良了编织方式，\n以更好地减轻伤害的衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:11:0",
+  "message_id": "armor_30B",
+  "translation": "{F2 05 FF FF}{F1 41}用舒适面料制成的西装。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:12:0",
+  "message_id": "armor_30C",
+  "translation": "{F2 05 FF FF}{F1 41}为提高生存率，\n着重追求耐用性的轻便背心。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:13:0",
+  "message_id": "armor_30D",
+  "translation": "{F2 05 FF FF}{F1 41}胸腹部嵌入金属板，\n相当沉重的夹克。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:14:0",
+  "message_id": "armor_30E",
+  "translation": "{F2 05 FF FF}{F1 41}蕴含教皇之力的衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:15:0",
+  "message_id": "armor_30F",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的道服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:16:0",
+  "message_id": "armor_310",
+  "translation": "{F2 05 FF FF}{F1 41}简单的圆领Ｔ恤。\n其实背面很时髦。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:17:0",
+  "message_id": "armor_311",
+  "translation": "{F2 05 FF FF}{F1 41}没有花纹、朴素的纯色衬衫。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:18:0",
+  "message_id": "armor_312",
+  "translation": "{F2 05 FF FF}{F1 41}朱尼斯品牌的衬衫。\nＶ领设计十分醒目。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:19:0",
+  "message_id": "armor_313",
+  "translation": "{F2 05 FF FF}{F1 41}骷髅图案醒目的Ｔ恤。\n不知是从哪里买来的。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:20:0",
+  "message_id": "armor_314",
+  "translation": "{F2 05 FF FF}{F1 41}以红色大纽扣为特色的\n可爱套装。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:21:0",
+  "message_id": "armor_315",
+  "translation": "{F2 05 FF FF}{F1 41}与正装衬衫不同，即使不搭配西装，\n也能穿得很时髦的衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:22:0",
+  "message_id": "armor_316",
+  "translation": "{F2 05 FF FF}{F1 41}用摇粒绒制成的无袖背心。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:23:0",
+  "message_id": "armor_317",
+  "translation": "{F2 05 FF FF}{F1 41}带拉链的连帽衫。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:24:0",
+  "message_id": "armor_318",
+  "translation": "{F2 05 FF FF}{F1 41}长至膝盖上方的外套，\n也能用来御寒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:27:0",
+  "message_id": "armor_31B",
+  "translation": "{F2 05 FF FF}{F1 41}配色别致的短棉袄。\n背后的唐狮子图案气势十足。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:28:0",
+  "message_id": "armor_31C",
+  "translation": "{F2 05 FF FF}{F1 41}用虎皮制成的结实腹围。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:29:0",
+  "message_id": "armor_31D",
+  "translation": "{F2 05 FF FF}{F1 41}将甲身做薄，\n以追求活动自如的铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:30:0",
+  "message_id": "armor_31E",
+  "translation": "{F2 05 FF FF}{F1 41}用闪得刺眼的亮丝特殊布料\n制成的华丽西装。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:31:0",
+  "message_id": "armor_31F",
+  "translation": "{F2 05 FF FF}{F1 41}穿上后会变得重情重义的宽松衬裤。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:32:0",
+  "message_id": "armor_320",
+  "translation": "{F2 05 FF FF}{F1 41}由金属板层叠而成的\n马克西米连式铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:33:0",
+  "message_id": "armor_321",
+  "translation": "{F2 05 FF FF}{F1 41}能融入自然的甚平。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:34:0",
+  "message_id": "armor_322",
+  "translation": "{F2 05 FF FF}{F1 41}用多层金属相叠，\n制成宛如龙鳞的铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:35:0",
+  "message_id": "armor_323",
+  "translation": "{F2 05 FF FF}{F1 41}为贯彻信念的男子汉而制的突袭用阵羽织。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:36:0",
+  "message_id": "armor_324",
+  "translation": "{F2 05 FF FF}{F1 41}涂有特殊药剂，\n能一定程度抵御混乱的西装。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:37:0",
+  "message_id": "armor_325",
+  "translation": "{F2 05 FF FF}{F1 41}男子汉亲制、专享的汉子兜裆布。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:38:0",
+  "message_id": "armor_326",
+  "translation": "{F2 05 FF FF}{F1 41}穿上后会显得格外有男子气概的\n别致甚平。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:39:0",
+  "message_id": "armor_327",
+  "translation": "{F2 05 FF FF}{F1 41}织入金属网的夹克。\n通风极佳，长时间穿着也不易闷热。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:40:0",
+  "message_id": "armor_328",
+  "translation": "{F2 05 FF FF}{F1 41}轻薄却结实的简朴铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:41:0",
+  "message_id": "armor_329",
+  "translation": "{F2 05 FF FF}{F1 41}保护抱定必死决心之人，\n被视为最后防线的胸甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:42:0",
+  "message_id": "armor_32A",
+  "translation": "{F2 05 FF FF}{F1 41}用高硬度岩石强化过的\n极其坚固的铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:43:0",
+  "message_id": "armor_32B",
+  "translation": "{F2 05 FF FF}{F1 41}兼具皮革柔韧性与\n金属硬度的铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:44:0",
+  "message_id": "armor_32C",
+  "translation": "{F2 05 FF FF}{F1 41}热血青春的象征。\n有一点汗臭。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:45:0",
+  "message_id": "armor_32D",
+  "translation": "{F2 05 FF FF}{F1 41}战国时期流行的黑线缀甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:46:0",
+  "message_id": "armor_32E",
+  "translation": "{F2 05 FF FF}{F1 41}超高硬度材质的战衣。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:47:0",
+  "message_id": "armor_32F",
+  "translation": "{F2 05 FF FF}{F1 41}为众人照亮希望之光的\n救世主铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:48:0",
+  "message_id": "armor_330",
+  "translation": "{F2 05 FF FF}{F1 41}与领导者身份相称的逸品。\n竖起的衣领透出男子汉的自豪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:49:0",
+  "message_id": "armor_331",
+  "translation": "{F2 05 FF FF}{F1 41}与被选中之人相称的逸品。\n剪裁修身，却便于活动。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:50:0",
+  "message_id": "armor_332",
+  "translation": "{F2 05 FF FF}{F1 41}据说能疾行如风、腾跃如鸟的\n风魔一族代代相传的装束。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:51:0",
+  "message_id": "armor_333",
+  "translation": "{F2 05 FF FF}{F1 41}以纯金光辉和气势十足的标语\n令见者战栗的学生制服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:52:0",
+  "message_id": "armor_334",
+  "translation": "{F2 05 FF FF}{F1 41}以电力卸去冲击的最新式装甲。\n鲜艳的色彩十分美丽。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:53:0",
+  "message_id": "armor_335",
+  "translation": "{F2 05 FF FF}{F1 41}赋予战胜自身软弱之人力量，\n名为勇气的铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:54:0",
+  "message_id": "armor_336",
+  "translation": "{F2 05 FF FF}{F1 41}如夜空中独自闪耀的星辰一般，\n给予见者希望的美丽西装。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:55:0",
+  "message_id": "armor_337",
+  "translation": "{F2 05 FF FF}{F1 41}怀着祈愿一针一线缝制的\n温暖儿童连帽衫。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:56:0",
+  "message_id": "armor_338",
+  "translation": "{F2 05 FF FF}{F1 41}如黄昏中摇曳的月亮一般，\n令见者敬畏的美丽羽织。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:57:0",
+  "message_id": "armor_339",
+  "translation": "{F2 05 FF FF}{F1 41}以全知全能的宙斯为素材的铠甲。\n经过改造，适合男性穿着。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:58:0",
+  "message_id": "armor_33A",
+  "translation": "{F2 05 FF FF}{F1 41}据说一定能俘获心仪对象的\n顶级约会战袍。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:59:0",
+  "message_id": "armor_33B",
+  "translation": "{F2 05 FF FF}{F1 41}穿上就会情绪高涨，\n忍不住起舞的祭典短褂。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:60:0",
+  "message_id": "armor_33C",
+  "translation": "{F2 05 FF FF}{F1 41}通体镶嵌水晶的\n华美铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:61:0",
+  "message_id": "armor_33D",
+  "translation": "{F2 05 FF FF}{F1 41}各处装有齿轮，\n辅助穿戴者行动的铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:62:0",
+  "message_id": "armor_33E",
+  "translation": "{F2 05 FF FF}{F1 41}赋予了物理攻击抗性的\n坚固铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:63:0",
+  "message_id": "armor_33F",
+  "translation": "{F2 05 FF FF}{F1 41}施有防石化咒术的铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:64:0",
+  "message_id": "armor_340",
+  "translation": "{F2 05 FF FF}{F1 41}不同于八十神高中指定款，\n更便于活动的绿色运动服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:65:0",
+  "message_id": "armor_341",
+  "translation": "{F2 05 FF FF}{F1 41}精致的女式衬衫。\n颇有大小姐气质。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:66:0",
+  "message_id": "armor_342",
+  "translation": "{F2 05 FF FF}{F1 41}长度及腰的\n前开襟女装。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:67:0",
+  "message_id": "armor_343",
+  "translation": "{F2 05 FF FF}{F1 41}带有荷叶边装饰，\n堪称大小姐专用的女式衬衫。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:70:0",
+  "message_id": "armor_346",
+  "translation": "{F2 05 FF FF}{F1 41}满足战斗中也不忘展现魅力的爱美之心。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:71:0",
+  "message_id": "armor_347",
+  "translation": "{F2 05 FF FF}{F1 41}不仅能做饭，还能用来战斗的\n便利围裙。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:72:0",
+  "message_id": "armor_348",
+  "translation": "{F2 05 FF FF}{F1 41}为战斗中也不忘可爱的\n女孩子准备的战斗服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:73:0",
+  "message_id": "armor_349",
+  "translation": "{F2 05 FF FF}{F1 41}为战斗而将重量减到极致的\n高性能衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:74:0",
+  "message_id": "armor_34A",
+  "translation": "{F2 05 FF FF}{F1 41}柔韧的毛皮能保护穿戴者，\n免遭狼牙伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:75:0",
+  "message_id": "armor_34B",
+  "translation": "{F2 05 FF FF}{F1 41}闪闪发亮的羽衣，\n披上后仿佛置身繁星之中。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:76:0",
+  "message_id": "armor_34C",
+  "translation": "{F2 05 FF FF}{F1 41}布料虽少，却意外结实。\n无愧于无敌之名的迷你裙。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:77:0",
+  "message_id": "armor_34D",
+  "translation": "{F2 05 FF FF}{F1 41}带有无数尖刺的女式内衣。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:78:0",
+  "message_id": "armor_34E",
+  "translation": "{F2 05 FF FF}{F1 41}图案细腻又大胆的精美铭仙绸衣。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:79:0",
+  "message_id": "armor_34F",
+  "translation": "{F2 05 FF FF}{F1 41}能抵御各种空前危机，\n保护穿戴者的薄衣。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:80:0",
+  "message_id": "armor_350",
+  "translation": "{F2 05 FF FF}{F1 41}完全不会变形的裙撑。\n比看起来更加结实。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:81:0",
+  "message_id": "armor_351",
+  "translation": "{F2 05 FF FF}{F1 41}织入咒术制成的长袍。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:82:0",
+  "message_id": "armor_352",
+  "translation": "{F2 05 FF FF}{F1 41}用厚布织成，\n兼顾防御力与可爱的短外套。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:83:0",
+  "message_id": "armor_353",
+  "translation": "{F2 05 FF FF}{F1 41}冠以无敌舰队之名，\n据说能克服任何难关的紧身胸衣。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:84:0",
+  "message_id": "armor_354",
+  "translation": "{F2 05 FF FF}{F1 41}兼具轻便与坚固的战斗专用背心。\n口袋也很多，适合实战。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:85:0",
+  "message_id": "armor_355",
+  "translation": "{F2 05 FF FF}{F1 41}能如微风般化解恶意的\n可爱芭蕾舞裙。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:86:0",
+  "message_id": "armor_356",
+  "translation": "{F2 05 FF FF}{F1 41}绣有守护符文的\n美丽礼服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:87:0",
+  "message_id": "armor_357",
+  "translation": "{F2 05 FF FF}{F1 41}能够应对各种状况，\n不只是可爱的牛角扣大衣。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:88:0",
+  "message_id": "armor_358",
+  "translation": "{F2 05 FF FF}{F1 41}无论时代如何变迁，\n始终不变、永远存在的铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:89:0",
+  "message_id": "armor_359",
+  "translation": "{F2 05 FF FF}{F1 41}织入能为黑暗带来光明的橄榄石，\n制成的美丽绿色裙子。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:90:0",
+  "message_id": "armor_35A",
+  "translation": "{F2 05 FF FF}{F1 41}织入象征胜利的红宝石，\n制成的可爱红色单衣。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:91:0",
+  "message_id": "armor_35B",
+  "translation": "{F2 05 FF FF}{F1 41}织入能驱邪的黑水晶，\n制成的优雅礼服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:92:0",
+  "message_id": "armor_35C",
+  "translation": "{F2 05 FF FF}{F1 41}染成樱花色的薄衣。\n每次飘动都会散发淡淡花香。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:93:0",
+  "message_id": "armor_35D",
+  "translation": "{F2 05 FF FF}{F1 41}只有王族才获准使用的高雅毛皮。\n光泽优美动人。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:94:0",
+  "message_id": "armor_35E",
+  "translation": "{F2 05 FF FF}{F1 41}以全知全能的宙斯为素材的衣服。\n经过改造，适合女性穿着。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:95:0",
+  "message_id": "armor_35F",
+  "translation": "{F2 05 FF FF}{F1 41}参照魔女的衣服制成的\n妖异礼服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:96:0",
+  "message_id": "armor_360",
+  "translation": "{F2 05 FF FF}{F1 41}胸前的摆锤以固定节奏摆动，\n产生强大魔力的女式轻甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:97:0",
+  "message_id": "armor_361",
+  "translation": "{F2 05 FF FF}{F1 41}以神秘力量防止封印的面纱。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:98:0",
+  "message_id": "armor_362",
+  "translation": "{F2 05 FF FF}{F1 41}施有特殊属性防御术的\n华美礼服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:112:0",
+  "message_id": "armor_370",
+  "translation": "{F2 05 FF FF}{F1 41}为埃癸斯打造的特制装甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:114:0",
+  "message_id": "armor_372",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多制作的系列装甲。\n上面刻着的编号是壹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:115:0",
+  "message_id": "armor_373",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多制作的系列装甲。\n上面刻着的编号是叁。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:116:0",
+  "message_id": "armor_374",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多制作的系列装甲。\n上面刻着的编号是四。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:117:0",
+  "message_id": "armor_375",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多倾力打造，\n以钢铁材料层叠制成的装甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:118:0",
+  "message_id": "armor_376",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多制作的系列装甲。\n上面刻着的编号是七。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:119:0",
+  "message_id": "armor_377",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多制作的系列装甲。\n上面刻着的编号是八。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:120:0",
+  "message_id": "armor_378",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多制作的系列装甲。\n上面刻着的编号是九。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:121:0",
+  "message_id": "armor_379",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多运用积累的技术，\n为埃癸斯打造的特殊钢装甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:122:0",
+  "message_id": "armor_37A",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多制作的系列装甲。\n上面刻着的编号是零。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:126:0",
+  "message_id": "armor_37E",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多打造的\n能够覆盖全身的装甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:127:0",
+  "message_id": "armor_37F",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多制作的系列装甲。\n上面刻着的编号是贰。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:128:0",
+  "message_id": "armor_380",
+  "translation": "{F2 05 FF FF}{F1 41}使用迪奥多特制钢材，\n进一步强化的装甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:129:0",
+  "message_id": "armor_381",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多制作的系列装甲。\n上面刻着的编号是五。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:130:0",
+  "message_id": "armor_382",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多制作的系列装甲。\n上面刻着的编号是六。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:131:0",
+  "message_id": "armor_383",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多精心打造的\n埃癸斯专用防弹钢带。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:132:0",
+  "message_id": "armor_384",
+  "translation": "{F2 05 FF FF}{F1 41}凭迪奥多的新灵感打造的\n埃癸斯专用鳞状装甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:133:0",
+  "message_id": "armor_385",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多制作的系列装甲。\n上面刻着的编号是十。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:134:0",
+  "message_id": "armor_386",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多倾尽全力打造的\n埃癸斯专用抗精神装甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:135:0",
+  "message_id": "armor_387",
+  "translation": "{F2 05 FF FF}{F1 41}闪耀金光的埃癸斯专用装甲。\n耐用程度足以使用百年。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:136:0",
+  "message_id": "armor_388",
+  "translation": "{F2 05 FF FF}{F1 41}以全知全能的宙斯为素材的装甲。\n经过改造，供埃癸斯使用。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:137:0",
+  "message_id": "armor_389",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的装甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:138:0",
+  "message_id": "armor_38A",
+  "translation": "{F2 05 FF FF}{F1 41}经过特殊设计，较难受到封印的\n埃癸斯专用装甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:139:0",
+  "message_id": "armor_38B",
+  "translation": "{F2 05 FF FF}{F1 41}受到属性攻击时，会启动对应属性\n防御机构的特殊装甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:160:0",
+  "message_id": "armor_3A0",
+  "translation": "{F2 05 FF FF}{F1 41}丝绸制成的柔软犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:161:0",
+  "message_id": "armor_3A1",
+  "translation": "{F2 05 FF FF}{F1 41}表面由坚韧皮革制成的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:162:0",
+  "message_id": "armor_3A2",
+  "translation": "{F2 05 FF FF}{F1 41}嵌入铁制护板的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:163:0",
+  "message_id": "armor_3A3",
+  "translation": "{F2 05 FF FF}{F1 41}经过轻量化的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:164:0",
+  "message_id": "armor_3A4",
+  "translation": "{F2 05 FF FF}{F1 41}钛制犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:165:0",
+  "message_id": "armor_3A5",
+  "translation": "{F2 05 FF FF}{F1 41}绘有十字架的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:166:0",
+  "message_id": "armor_3A6",
+  "translation": "{F2 05 FF FF}{F1 41}机械化的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:167:0",
+  "message_id": "armor_3A7",
+  "translation": "{F2 05 FF FF}{F1 41}染成黑色的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:168:0",
+  "message_id": "armor_3A8",
+  "translation": "{F2 05 FF FF}{F1 41}绣有月亮的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:169:0",
+  "message_id": "armor_3A9",
+  "translation": "{F2 05 FF FF}{F1 41}闪耀着无数星光的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:170:0",
+  "message_id": "armor_3AA",
+  "translation": "{F2 05 FF FF}{F1 41}波点图案可爱的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:171:0",
+  "message_id": "armor_3AB",
+  "translation": "{F2 05 FF FF}{F1 41}装饰着无数心形图案的\n可爱犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:172:0",
+  "message_id": "armor_3AC",
+  "translation": "{F2 05 FF FF}{F1 41}镶嵌着大颗珍珠的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:173:0",
+  "message_id": "armor_3AD",
+  "translation": "{F2 05 FF FF}{F1 41}蓝底绘有白云的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:174:0",
+  "message_id": "armor_3AE",
+  "translation": "{F2 05 FF FF}{F1 41}如大海般深蓝的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:175:0",
+  "message_id": "armor_3AF",
+  "translation": "{F2 05 FF FF}{F1 41}绘有大星星标志的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:176:0",
+  "message_id": "armor_3B0",
+  "translation": "{F2 05 FF FF}{F1 41}表面由牛仔布制成的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:177:0",
+  "message_id": "armor_3B1",
+  "translation": "{F2 05 FF FF}{F1 41}如太阳般鲜红的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:178:0",
+  "message_id": "armor_3B2",
+  "translation": "{F2 05 FF FF}{F1 41}十分沉重而结实的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:179:0",
+  "message_id": "armor_3B3",
+  "translation": "{F2 05 FF FF}{F1 41}散发奇异光芒的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:180:0",
+  "message_id": "armor_3B4",
+  "translation": "{F2 05 FF FF}{F1 41}嵌有能看透未来的神圣石头，\n制成的犬用服装。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:181:0",
+  "message_id": "armor_3B5",
+  "translation": "{F2 05 FF FF}{F1 41}以全知全能的宙斯为素材的装甲。\n经过改造，供虎狼丸使用。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:182:0",
+  "message_id": "armor_3B6",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的犬用道服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:183:0",
+  "message_id": "armor_3B7",
+  "translation": "{F2 05 FF FF}{F1 41}能在一定程度上\n卸去物理攻击的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:184:0",
+  "message_id": "armor_3B8",
+  "translation": "{F2 05 FF FF}{F1 41}散发防困倦薄荷香气的犬用衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:208:0",
+  "message_id": "armor_3D0",
+  "translation": "{F2 05 FF FF}{F1 41}设计成同款的时髦毛织衣物。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:209:0",
+  "message_id": "armor_3D1",
+  "translation": "{F2 05 FF FF}{F1 41}同款胸甲。\n尺寸可调，男女通用。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:210:0",
+  "message_id": "armor_3D2",
+  "translation": "{F2 05 FF FF}{F1 41}同款设计的铠甲。\n结构紧凑，可以穿在衣服里面。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:211:0",
+  "message_id": "armor_3D3",
+  "translation": "{F2 05 FF FF}{F1 41}经过改良，强度进一步提升的\n同款设计铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:212:0",
+  "message_id": "armor_3D4",
+  "translation": "{F2 05 FF FF}{F1 41}剪裁比较宽松的\n同款上衣。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:213:0",
+  "message_id": "armor_3D5",
+  "translation": "{F2 05 FF FF}{F1 41}设计雅致的\n同款长袍。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:214:0",
+  "message_id": "armor_3D6",
+  "translation": "{F2 05 FF FF}{F1 41}结实又便于活动的\n同款运动服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:215:0",
+  "message_id": "armor_3D7",
+  "translation": "{F2 05 FF FF}{F1 41}经过改良，强度进一步提升的\n同款设计锁子甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:216:0",
+  "message_id": "armor_3D8",
+  "translation": "{F2 05 FF FF}{F1 41}能完全融入黑暗的\n漆黑法衣。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:217:0",
+  "message_id": "armor_3D9",
+  "translation": "{F2 05 FF FF}{F1 41}染成深暗蓝色，\n散发悲伤气息的铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:218:0",
+  "message_id": "armor_3DA",
+  "translation": "{F2 05 FF FF}{F1 41}同款锁子甲。\n穿上后会发出哗啦哗啦的声响。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:219:0",
+  "message_id": "armor_3DB",
+  "translation": "{F2 05 FF FF}{F1 41}同款背心。\n虽然没有袖子，却意外暖和。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:220:0",
+  "message_id": "armor_3DC",
+  "translation": "{F2 05 FF FF}{F1 41}同款衬衫。\n布料虽薄却结实，出汗也不易闷热。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:221:0",
+  "message_id": "armor_3DD",
+  "translation": "{F2 05 FF FF}{F1 41}以高强度为傲的\n同款设计铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:222:0",
+  "message_id": "armor_3DE",
+  "translation": "{F2 05 FF FF}{F1 41}经过改良，强度进一步提升的\n同款设计胸甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:223:0",
+  "message_id": "armor_3DF",
+  "translation": "{F2 05 FF FF}{F1 41}穿上便令人精神一振的\n同款设计西装。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:224:0",
+  "message_id": "armor_3E0",
+  "translation": "{F2 05 FF FF}{F1 41}制作十分结实的同款道服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:225:0",
+  "message_id": "armor_3E1",
+  "translation": "{F2 05 FF FF}{F1 41}设计十分时髦的\n同款披肩。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:226:0",
+  "message_id": "armor_3E2",
+  "translation": "{F2 05 FF FF}{F1 41}据说自太初之时便已存在，\n蕴藏众多谜团的铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:227:0",
+  "message_id": "armor_3E3",
+  "translation": "{F2 05 FF FF}{F1 41}能让对方产生可怕幻象的\n神奇铠甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:228:0",
+  "message_id": "armor_3E4",
+  "translation": "{F2 05 FF FF}{F1 41}同款夹克。\n能略微增加“ＨＰ”与“ＳＰ”的逸品。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:229:0",
+  "message_id": "armor_3E5",
+  "translation": "{F2 05 FF FF}{F1 41}防御力并不突出，\n穿上却会让全身充满能量的衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:230:0",
+  "message_id": "armor_3E6",
+  "translation": "{F2 05 FF FF}{F1 41}同款的纯白床单。\n披上后，看起来倒也有点像幽灵。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:231:0",
+  "message_id": "armor_3E7",
+  "translation": "{F2 05 FF FF}{F1 41}摆脱平等赋予众人的“时间”，\n冠以带来机遇之神名号的衣服。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:232:0",
+  "message_id": "armor_3E8",
+  "translation": "{F2 05 FF FF}{F1 41}以全知全能的宙斯为素材的衣服。\n经过改造，供善使用。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:233:0",
+  "message_id": "armor_3E9",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的斗篷。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:234:0",
+  "message_id": "armor_3EA",
+  "translation": "{F2 05 FF FF}{F1 41}散发能安抚穿戴者心神的香气，\n衣摆较短的长袍。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:235:0",
+  "message_id": "armor_3EB",
+  "translation": "{F2 05 FF FF}{F1 41}施有防石化法术的宽大长袍。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:236:0",
+  "message_id": "armor_3EC",
+  "translation": "{F2 05 FF FF}{F1 41}织入抗毒纤维的\n绿色长袍。\n{00}"
+ },
+ {
+  "key": "export_base/init/datarmorhelp.bmd.json:237:0",
+  "message_id": "armor_3ED",
+  "translation": "{F2 05 FF FF}{F1 41}绘有神奇图案，\n能提高麻痹抗性的长袍。\n{00}"
+ }
+]

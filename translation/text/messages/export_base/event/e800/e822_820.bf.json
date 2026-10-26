@@ -1,0 +1,37 @@
+[
+ {
+  "key": "export_base/event/e800/e822_820.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_820.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞不再有阴影涌出来了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_820.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 03 01 65 01 02 01}{F5 61 02 01 01 01 01 01 01 0B}大家辛苦了。\n阴影的气息已经消失了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_820.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 BF 03}{F5 C1 03 01 01 01 01 01 08 01}赢了赢了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_820.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 A2 09}真是一次不错的训练。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_820.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞宝箱里似乎\n　已经没有阴影了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_820.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞之后去保健室{F2 01 03 01}汇报{F2 01 01 01}吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

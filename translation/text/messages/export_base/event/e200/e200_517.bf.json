@@ -1,0 +1,117 @@
+[
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 07 01}{F5 C1 04 01 01 01 01 01 04 01}咦……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 04 01 01 01 01 01 04 01}这样的照片……\n是什么时候拍的呀？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 03 01 01 01 01 01 09 01}{F5 C1 04 01 01 01 01 01 04 01}真是的……\n明明是我们两人的秘·密呢☆\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞看来，这似乎是合成照片……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 02 01}{F5 86 21 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 05 01}小熊就像公主一样，对吧？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 06 01}怎么样？\n想和小熊结婚了吗，熊？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:3:0",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}想了{F5 47 02 01 03 01 03 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:3:1",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}没有{F5 47 02 01 03 01 05 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}{F5 C1 03 01 01 01 01 01 09 01}呀……真·大·胆！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}小熊觉得自己会是个好新娘哦。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:4:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}虽然做饭、打扫、洗衣服\n全都不会，不过阳介会做，\n所以没问题！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:4:3",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}不过，要是偶尔不给零食吃，\n小熊就要离家出走了熊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}{F5 C1 03 01 01 01 01 01 04 01}真是的，一点都不配合。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}那我问你，\n你理想的对象是什么样的人？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:6:0",
+  "message_id": "SEL_TALK006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}可爱的女孩子{F5 47 02 01 03 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:6:1",
+  "message_id": "SEL_TALK006",
+  "translation": "{F2 05 FF FF}{F1 41}稳重可靠的人{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}不就在你眼前吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0E 01}小熊可是选美比赛\n夺冠的杰出人才熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}我我我，小熊完全符合！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 10 01}小熊把JUNES的打工钱\n攒了又攒，拿去参加修学旅行，\n可是个会过日子的好孩子熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 11 01}小熊本来还以为，\n将来会和老师结婚呢……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:9:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}不过，既然遇上了命定之人，\n那也是没办法的事熊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_517.bf.json:9:2",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 13 01}{F5 C1 03 01 01 01 01 01 08 01}那么，就让我们☆结婚吧！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

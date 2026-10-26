@@ -1,0 +1,72 @@
+[
+ {
+  "key": "export_base/event/e700/e711_343.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 DC 06}{F5 C1 03 01 01 01 01 01 06 01}原来如此……我明白了！\n对付这３只Ｆ．Ｏ．Ｅ的方法！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_343.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 7D 03}{F5 C1 03 01 01 01 01 01 07 01}哦哦！不愧是侦探王子！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_343.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0B 01}请、请别这么叫我……\n只是把拼图拼上了而已。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_343.bf.json:3:0",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 09 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}那、那么……{F1 81}学长。\n请看地图。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_343.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞直斗在地图上做了标记。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_343.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}首先，把这里的\n玫瑰洗成白色。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_343.bf.json:5:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}不过，请瞄准{F2 01 03 01}左右任意一只\nＦ．Ｏ．Ｅ与它相邻的时候{F2 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_343.bf.json:5:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}接着洗掉这里左右两边\n玫瑰的颜色，\n先洗哪边都可以。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_343.bf.json:5:3",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}但是……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_343.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞直斗擦掉刚才的标记，\n　又做了新的标记。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_343.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F2 01 03 01}建议从我们现在站着的位置{F2 01 01 01}，\n洗掉颜色。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_343.bf.json:7:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}之后就不用再解释了。\n您应该也已经看清思路了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_343.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 85 05}{F5 C1 03 01 01 01 01 01 04 01}我可什么都没看明白啊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_343.bf.json:8:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 9E 05}{F5 C1 03 01 01 01 01 01 07 01}虽然不太懂，\n学长，动手吧！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

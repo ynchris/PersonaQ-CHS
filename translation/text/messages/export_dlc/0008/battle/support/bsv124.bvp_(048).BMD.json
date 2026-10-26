@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(048).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_049_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 53 01}等等，\nＦ．Ｏ．Ｅ闯进来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(048).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_049_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 54 01}咦！？Ｆ．Ｏ．Ｅ！？\n乱入什么的，搞不懂！！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(048).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_049_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 55 01}糟透了。Ｆ．Ｏ．Ｅ来了……\n怎么办？\n{F2 26 00 00}{00}"
+ }
+]

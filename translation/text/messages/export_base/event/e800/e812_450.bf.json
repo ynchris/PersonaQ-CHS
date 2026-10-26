@@ -1,0 +1,157 @@
+[
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 AA 0C}汪！汪汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 05 01}{F5 61 02 01 01 01 01 01 01 01}已抵达虎狼丸先生\n最喜欢的地点。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 A9 0C}{F5 C1 04 01 01 01 01 01 02 01}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞虎狼丸似乎很开心。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0F 01 04 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 FA 01}虎狼丸。\n太好了呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 A9 0C}{F5 C1 03 01 01 01 01 01 08 01}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 D1 06}说起来，虎狼丸先生的名字，\n据说写作“虎”“狼”“丸”……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 A9 0C}汪。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}据说虎狼丸先生刚出生时体弱，\n主人希望它能茁壮成长，\n便取了这个名字。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 DC 06}原来如此。\n也就是名如其人吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 03 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 E9 01}嗯，是啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 0A 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 FF 06}名如其人……是什么？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 5B 06}意思是事物或人的名字，\n往往准确地体现其内容或性格。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:12:1",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}名字在自我意识形成前就被赋予了。\n反过来说，人是在已有名字的状态下，\n开始萌生自我意识的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:12:2",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}因此，逐渐成长为\n名字所蕴含的样子……\n这是完全有可能的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 78 11}{F5 C1 03 01 01 01 01 01 05 01}咦？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 13 02}比如……\n阳介很阳光，美鹤学姐很美丽。\n就是这个意思。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 09 01 01 01 02 01}{F5 61 02 01 01 01 01 01 8E 0A}{F5 C1 03 01 01 01 01 01 01 01}什……！？\n你突然说什么呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 26 07}哎呀，不经意间就把人夸倒了，\n人气男的撩妹技巧来了熊！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:16:1",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 04 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}那熊呢？\n熊呢熊呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 E2 01}小熊啊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:17:1",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……对了，虎狼丸。\n你为什么喜欢这里？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 03 07}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 02 01}连队长都无视熊！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 02 01 01 01 02 01}{F5 86 10 01 0D 01 01 01 05 01}{F5 61 02 01 01 01 01 01 6E 0B}看来这盏灯笼里\n藏着什么东西。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 3E 02}这盏灯笼里？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:21:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞{F5 C1 0B 01 01 01 01 01 01 01}把手伸进了灯笼……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:22:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 24 02}{F5 C1 03 01 01 01 01 01 05 01}嗯，这个……是什么？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:23:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞获得了灯笼里藏着的\n　{F4 84 04 01 01 01 07 06}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:24:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0F 01 04 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 07 02}原来你闻到它的味道了啊。\n真厉害，虎狼丸。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:25:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 A9 0C}{F5 C1 03 01 01 01 01 01 08 01}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e812_450.bf.json:26:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞虎狼丸似乎很开心。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

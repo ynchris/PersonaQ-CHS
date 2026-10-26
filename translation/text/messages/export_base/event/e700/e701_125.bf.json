@@ -1,0 +1,62 @@
+[
+ {
+  "key": "export_base/event/e700/e701_125.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 67 0C}{F5 C1 03 01 01 01 01 01 07 01}咦？\n大家看看那里。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_125.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}对面那个是楼梯吧？\n好像是往下走的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_125.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 97 11}请小心。\n下面也有阴影的气息！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_125.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}这里似乎是向下延伸，\n分成了好几层。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_125.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}要不要先把那座楼梯\n作为眼前的目标呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_125.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 D5 0C}那就得从那座楼梯\n往下走了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_125.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}不过，这池子可过不去啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_125.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 02 01 65 01 04 01}{F5 86 13 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 EF 0C}看起来没有别的路。\n从这边走。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_125.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 2D 0B}啊，还有！\n那扇门后面，\n我感觉到了阴影的气息！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_125.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}请多加小心！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_125.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 29 01 08 01 02 01 02 01}{F5 86 15 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 B7 0D}玲……退后。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_125.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 C2 11}{F5 C1 04 01 01 01 01 01 02 01}嗯、嗯……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

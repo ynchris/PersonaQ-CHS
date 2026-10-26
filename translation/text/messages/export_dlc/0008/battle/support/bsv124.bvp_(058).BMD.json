@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_059_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8C 01}副队长睡着了。\n没人能叫醒他吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_059_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 83 01}哇！副队长睡着了……\n那里很危险啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_059_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8D 01}阳介睡着了……\n还在说梦话。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:3:0",
+  "message_id": "BTL_MES_H124_059_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8E 01}千枝睡着了。\n……还摆着架势。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:4:0",
+  "message_id": "BTL_MES_H124_059_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8F 01}咦……雪子睡着了……\n话说，这不危险吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:6:0",
+  "message_id": "BTL_MES_H124_059_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 90 01}啊……完二睡着了……\n不管他没问题吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:7:0",
+  "message_id": "BTL_MES_H124_059_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 92 01}直斗睡着了。\n现在被盯上就糟透了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:8:0",
+  "message_id": "BTL_MES_H124_059_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 91 01}小熊睡着了……\n这就是冬眠吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:9:0",
+  "message_id": "BTL_MES_H124_059_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 84 01}由加莉，你在睡觉！？\n被盯上就不妙了吧！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:10:0",
+  "message_id": "BTL_MES_H124_059_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 85 01}咦！？顺平睡着了？\n就在那儿！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:11:0",
+  "message_id": "BTL_MES_H124_059_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 86 01}真田……\n站着睡着了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:12:0",
+  "message_id": "BTL_MES_H124_059_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 87 01}美鹤睡着了？\n在那种地方！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:14:0",
+  "message_id": "BTL_MES_H124_059_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8A 01}哇……埃癸斯睡着了……\n……明明是机器人……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:15:0",
+  "message_id": "BTL_MES_H124_059_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 88 01}咦！？\n乾睡着了！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:16:0",
+  "message_id": "BTL_MES_H124_059_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 89 01}哇……狗狗睡着了……\n……话说，好可爱……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:17:0",
+  "message_id": "BTL_MES_H124_059_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8B 01}荒垣睡着了。\n谁能叫醒他？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:18:0",
+  "message_id": "BTL_MES_H124_059_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 93 01}善和玲睡着了……\n那里很危险吧？很危险对吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:19:0",
+  "message_id": "BTL_MES_H124_059_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 94 01}善睡着了，没问题吗？\n肯定有问题吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:20:0",
+  "message_id": "BTL_MES_H124_059_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 82 01}咦！？你在睡觉！？\n等等，很危险啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(058).BMD.json:21:0",
+  "message_id": "BTL_MES_H124_059_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 81 01}队、队长，\n现在可不是睡觉的时候！\n{F2 26 00 00}{00}"
+ }
+]

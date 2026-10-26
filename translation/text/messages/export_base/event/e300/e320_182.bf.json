@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_base/event/e300/e320_182.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}果然，锁解开了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e300/e320_182.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}还剩１道。\n也就是说，接下来就是最后的迷宫……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e320_182.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 04 01}最后的迷宫在３楼……\n好像是“稻羽乡土展”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e320_182.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 05 01}{F5 61 02 01 01 01 01 01 05 01}明白了。\n各自好好休息，做好准备。\n暂时解散吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

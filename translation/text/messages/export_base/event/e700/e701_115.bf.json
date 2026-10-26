@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 F0 09}所有人，停下！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}这面墙上的钟，\n和刚才那面墙上的一样。\n让我看看地图。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:2:0",
+  "message_id": "MSG_0012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 0E 01 0A 01 02 01 01 01}{F5 61 02 01 01 01 01 01 4E 0A}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:2:1",
+  "message_id": "MSG_0012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0A 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}果然是刚才那面墙的另一侧……\n也许有什么机关。\n谨慎地调查……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 E3 08}{F5 C1 03 01 01 01 01 01 07 01}哦？\n发现开关～！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 C3 11}等、等等！伊织！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 86 08}{F5 C1 03 01 01 01 01 01 01 01}哇啊！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 02 01 01 01 02 01}{F5 86 0C 01 0B 01 03 01 04 01}{F5 61 02 01 01 01 01 01 6B 08}{F5 C1 03 01 01 01 01 01 05 01}……咦？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 02 01 01 01 04 01}{F5 86 0E 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 4E 0A}看来，我们到了刚才的地方……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:7:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}也就是说，这个钟\n是{F2 01 03 01}可以穿过墙壁的机关标记{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}机关只有那一边有吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 05 0A}不……\n看来，\n现在从这边也能通过了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:9:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}只要启动一次机关，\n两边就都能通行吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 B3 08}{F5 C1 03 01 01 01 01 01 08 01}哦哦。\n真方便啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 85 0A}现在是感叹的时候吗，真是的！\n我才刚说要谨慎……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:11:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}听好了，这里是阴影的巢穴。\n今后要更加小心地前进。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}对、对不起。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 0E 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}……还有，{F1 81}。\n这个机关，\n最好{F2 01 03 01}标在地图上{F2 01 01 01}吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这里的墙壁{F2 01 03 01}只要穿过一次，\n　就能从另一侧通行{F2 01 01 01}了！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_115.bf.json:14:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞其他墙壁也可能有这样的机关。\n　发现可疑的地方，就调查一下吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

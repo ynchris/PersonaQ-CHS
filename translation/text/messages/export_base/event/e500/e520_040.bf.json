@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/event/e500/e520_040.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 01 01}{F3 06 00 01 00 01}{F2 01 08 01}＞与此同时……\n{F5 C1 14 01 01 01 01 01 51 01}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_040.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}“时刻”已至……\n{F5 C1 14 01 01 01 01 01 3B 01}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_040.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}履行你自身的职责吧……\n{F5 C1 14 01 01 01 01 01 5C 01}{00}"
+ }
+]

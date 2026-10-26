@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞过了一会儿……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞风花来了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 E2 06}{F5 C1 03 01 01 01 01 01 07 01}啊，小风！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 B6 0A}{F5 C1 03 01 01 01 01 01 07 01}咦，小熊。\n你也被邀请来了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 FB 06}是、是啊熊！\nＸ先生邀请的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 03 01 01 01 04 01}{F5 61 02 01 01 01 01 01 F9 0A}这样啊，说得也是。\n刚才有一瞬间，我还以为\n小熊就是Ｘ先生呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 09 01 06 01 02 01}{F5 61 02 01 01 01 01 01 FE 06}{F5 C1 03 01 01 01 01 01 0A 01}哈、哈哈哈。\n小风，怎么可能嘛。\nＸ先生要更加神秘……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 11 01 02 01 04 01}{F5 61 02 01 01 01 01 01 48 0B}对对。\n是身份不明的料理大师吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 03 01}{F5 86 0A 01 0C 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 05 01}……啊？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 F1 0A}我有好多料理问题想请教，\n所以都记下来了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 03 01 01 01 04 01}{F5 61 02 01 01 01 01 01 E5 0A}{F5 C1 03 01 01 01 01 01 08 01}一共４７张Ａ４纸。\n虽然稍微有点多……\n呵呵，好期待啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:9:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 84 07}{F5 C1 03 01 01 01 01 01 07 01}……熊给忘了！\n刚才Ｘ先生说，\n今天的聚会取消了熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0B 01 01 01 04 01}{F5 61 02 01 01 01 01 01 EE 0A}{F5 C1 03 01 01 01 01 01 01 01}咦！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:10:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 EA 0A}{F5 C1 03 01 01 01 01 01 04 01}这、这样啊……\n那就没办法了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 F3 06}{F5 C1 03 01 01 01 01 01 0B 01}对、对不起熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞风花回去了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 0A 01 11 01 03 01 02 01}{F5 61 02 01 01 01 01 01 05 07}{F5 C1 03 01 01 01 01 01 0A 01}……老师。\n这到底怎么回事熊……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:13:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 20 07}虽然不知道你是怎么邀请的……\n但熊开始有点担心后面了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e810_831.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞等其他女生来吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

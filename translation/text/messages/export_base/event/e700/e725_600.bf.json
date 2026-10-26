@@ -1,0 +1,47 @@
+[
+ {
+  "key": "export_base/event/e700/e725_600.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 11 01 03 01 02 01}{F5 61 02 01 01 01 01 01 49 07}{F5 C1 03 01 01 01 01 01 04 01}唔……\n这个房间好像是死路熊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_600.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……喂。\n这个，是不是能坐上去啊？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_600.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 13 07}{F5 C1 03 01 01 01 01 01 05 01}此物……是何物？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_600.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}这可能是……\n类似吊舱的东西。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e725_600.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}吊舱的外语名称，原本指的是\n行驶在运河上的小船。\n或许能把我们送到对面。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_600.bf.json:4:0",
+  "message_id": "MSG_0032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……而且，也没有其他路了。\n我觉得可以坐上去试试。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_600.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 07}{F5 C1 03 01 01 01 01 01 08 01}那么，１７位乘客，\n请享受优雅的空中之旅熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_600.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞踏进了吊舱……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_600.bf.json:7:0",
+  "message_id": "MSG_0052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……！？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

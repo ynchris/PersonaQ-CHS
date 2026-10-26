@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_base/init/mission_03.gsd_mission_03.bf.json:1:0",
+  "message_id": "MSG_HORROR_B5_BOSS_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}＞感觉到门后有\n　大型阴影的气息…\n{F1 21}"
+ },
+ {
+  "key": "export_base/init/mission_03.gsd_mission_03.bf.json:1:1",
+  "message_id": "MSG_HORROR_B5_BOSS_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}＞要打开门继续前进吗…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/mission_03.gsd_mission_03.bf.json:2:0",
+  "message_id": "SEL_HORROR_B5_BOSS_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}打开门{00}"
+ },
+ {
+  "key": "export_base/init/mission_03.gsd_mission_03.bf.json:2:1",
+  "message_id": "SEL_HORROR_B5_BOSS_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}暂时算了{00}{00}"
+ },
+ {
+  "key": "export_base/init/mission_03.gsd_mission_03.bf.json:4:0",
+  "message_id": "SEL_SKIP_000",
+  "translation": "{F2 05 FF FF}{F1 41}跳过{00}"
+ },
+ {
+  "key": "export_base/init/mission_03.gsd_mission_03.bf.json:4:1",
+  "message_id": "SEL_SKIP_000",
+  "translation": "{F2 05 FF FF}{F1 41}不跳过{00}{00}"
+ }
+]

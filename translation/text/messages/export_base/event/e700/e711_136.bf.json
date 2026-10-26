@@ -1,0 +1,52 @@
+[
+ {
+  "key": "export_base/event/e700/e711_136.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞调查了能量点……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_136.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_136.bf.json:2:0",
+  "message_id": "MSG_0003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞获得了{F4 84 04 01 01 01 91 0A}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_136.bf.json:3:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 01 01}啊，刚才拿到的那个！\n感觉很像阴影掉下来的\n那个什么“碎片”！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_136.bf.json:3:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}交给玛格丽特小姐，\n说不定能做成装备！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_136.bf.json:4:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}哦。\n也就是说，捡起来不吃亏喽？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_136.bf.json:5:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 07 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 DE 04}不过，那里也有\n阴影的气息……\n调查的时候要小心哦，学长！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_136.bf.json:6:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞能量点似乎\n　散落着素材……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_136.bf.json:6:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞也许可以在地图上\n　标记下来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_136.bf.json:7:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0B 07}{F5 C1 03 01 01 01 01 01 07 01}还掉着别的东西熊。\n别浪费，全部捡起来熊！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

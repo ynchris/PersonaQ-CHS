@@ -1,0 +1,227 @@
+[
+ {
+  "key": "export_base/battle/event/boss719.bf.json:0:0",
+  "message_id": "MSG_BTL_BOSS_001_ENCOUNT",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 64 10}听好了。\n绝不允许手下留情。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:1:0",
+  "message_id": "MSG_BTL_BOSS_001_ENCOUNT",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 65 10}当然，我们也会全力以赴……\n可别太早倒下哦？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:4:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_75_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 66 10}果然，这种程度\n还不足以让您动摇呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:5:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_75_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 67 10}不必客气哦？\n请抱着杀死我们的决心来吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:6:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_75_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 68 10}差不多该稍微\n提升一点强度了。\n免得你们松懈下来。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:7:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_50_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 69 10}呵呵……正如预料，\n您拥有非常出色的力量。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:8:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_50_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 6A 10}这份心情究竟是什么呢……\n接下来，我可要动真格了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:9:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_50_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 6B 10}看来姐姐燃起斗志了……\n接下来，请比之前\n更加小心。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:10:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_25_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 6C 10}伊丽莎白，迪奥。\n正因为全力战斗，\n才能触及自己的极限，不是吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:11:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_25_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 6D 10}说得也是……\n那就不再手下留情了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:12:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_25_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 6E 10}真正的战斗，现在才要开始。\n还请不要在梦想实现之前倒下……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:14:0",
+  "message_id": "MSG_BTL_BOSS_BOKOSUKA_00",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 6F 10}伊丽莎白！迪奥！\n就是现在！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:15:0",
+  "message_id": "MSG_BTL_BOSS_BOKOSUKA_00",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 70 10}我要上了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:16:0",
+  "message_id": "MSG_BTL_BOSS_BOKOSUKA_00",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 71 10}做好觉悟！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:17:0",
+  "message_id": "MSG_BTL_BOSS_BOKOSUKA_00",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}感觉如何？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:18:0",
+  "message_id": "MSG_BTL_BOSS_BOKOSUKA_00",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 73 10}您玩得尽兴了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:19:0",
+  "message_id": "MSG_BTL_BOSS_BOKOSUKA_00",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}还没倒下吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:20:0",
+  "message_id": "MSG_BTL_BOSS_P3_DEAD_THE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}哦，贵客……\n您这表现和姐姐说的，\n似乎相差甚远啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:21:0",
+  "message_id": "MSG_BTL_BOSS_P3_DEAD_ELI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 76 10}哎呀，贵客……\n像您这样的人，\n竟然已经到睡觉时间了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:22:0",
+  "message_id": "MSG_BTL_BOSS_P3_DEAD_MAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}哎呀……\n这就结束了吗？\n真遗憾，看来我高估您了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:23:0",
+  "message_id": "MSG_BTL_BOSS_P4_DEAD_THE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}哦，贵客……\n身为姐姐的客人，\n这样的表现可有些令人失望……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:24:0",
+  "message_id": "MSG_BTL_BOSS_P4_DEAD_ELI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 79 10}哦，贵客……\n就此落幕，\n未免太令人失望了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:25:0",
+  "message_id": "MSG_BTL_BOSS_P4_DEAD_MAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}哎呀……\n我的客人竟然在这种地方倒下，\n我可不会允许哦……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:26:0",
+  "message_id": "MSG_BTL_BOSS_DEAD_MARGAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 7B 10}姐姐！？\n迪奥，都怪你没有治疗吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:27:0",
+  "message_id": "MSG_BTL_BOSS_DEAD_MARGAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}咦！？\n是、是我的错吗！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:28:0",
+  "message_id": "MSG_BTL_BOSS_DEAD_ELIZAB",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}那孩子，\n难道在放水吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:28:1",
+  "message_id": "MSG_BTL_BOSS_DEAD_ELIZAB",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}……迪奥，你没问题吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:29:0",
+  "message_id": "MSG_BTL_BOSS_DEAD_ELIZAB",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}没、没问题。\n交给我吧，姐姐。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:30:0",
+  "message_id": "MSG_BTL_BOSS_DEAD_THEODO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}真是个不争气的弟弟……\n看来之后得好好谈谈了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:31:0",
+  "message_id": "MSG_BTL_BOSS_DEAD_THEODO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}姐姐。\n到时请务必也算我一个。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:32:0",
+  "message_id": "MSG_BTL_BOSS_ONLY_MARGAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}呵呵呵……不愧是你们。\n不过，我也不能\n就这样结束。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:32:1",
+  "message_id": "MSG_BTL_BOSS_ONLY_MARGAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}连同那两个孩子的份，\n都让我尽情享受吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:33:0",
+  "message_id": "MSG_BTL_BOSS_ONLY_ELIZAB",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}抱歉在战斗中打扰，\n我有１个请求。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:33:1",
+  "message_id": "MSG_BTL_BOSS_ONLY_ELIZAB",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}究竟是哪位穷凶极恶的犯人，\n吃掉了我的布丁？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:33:2",
+  "message_id": "MSG_BTL_BOSS_ONLY_ELIZAB",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}现在自首的话，\n只需接受一点点小小的惩罚，\n我就宽恕您。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:34:0",
+  "message_id": "MSG_BTL_BOSS_ONLY_THEODO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}竟然能击败两位姐姐，\n您拥有的力量实在惊人。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:34:1",
+  "message_id": "MSG_BTL_BOSS_ONLY_THEODO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}不过，我也是“掌管力量之人”的一员。\n现在就放心，还太早了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:35:0",
+  "message_id": "MSG_BTL_BOSS_DEAD_MARGAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}姐姐！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:35:1",
+  "message_id": "MSG_BTL_BOSS_DEAD_MARGAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}可恶的光之勇者……\n竟敢打倒吾姐，玛·格丽特……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:36:0",
+  "message_id": "MSG_BTL_BOSS_DEAD_MARGAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}咦！？\n怎么，还在继续演吗！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:37:0",
+  "message_id": "MSG_BTL_BOSS_DEAD_ELIZAB",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}哦哦，邪恶大王伊丽·莎白大人竟然！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:38:0",
+  "message_id": "MSG_BTL_BOSS_DEAD_ELIZAB",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}姐姐……\n您很喜欢这个设定呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:39:0",
+  "message_id": "MSG_BTL_BOSS_DEAD_THEODO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}看来迪奥犬被打倒了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:40:0",
+  "message_id": "MSG_BTL_BOSS_DEAD_THEODO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}可恶，竟将吾弟如此残忍地……\n去吧，伊丽·莎白！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss719.bf.json:41:0",
+  "message_id": "MSG_BTL_BOSS_DEAD_THEODO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 01 01}姐姐意外地相当投入呢。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

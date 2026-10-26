@@ -1,0 +1,422 @@
+[
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞天鹅绒房间……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玛格丽特正向同伴们\n　讲述事情的经过……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}……就是这样，这两位\n觉醒了“新的可能性”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}到这里都理解了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 04 01}呃、那个……\n也就是说，变强了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 05 01}这样理解也没关系。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 06 01}哦，外表倒是\n一点变化都没有啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}我明白了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}那我现在就要挑战你们！\n也和我打一场吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0D 01 01 01 07 01}{F5 61 02 01 01 01 01 01 09 01}{F5 C1 03 01 01 01 01 01 0B 01}请、请让我也参加！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 04 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}不不，不是说\n只有不羁才可以吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0B 01}你在说什么？\n现在才要进入正题。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}{F5 C1 03 01 01 01 01 01 0A 01}啊，抱歉……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0D 01}虽然不清楚这是不是\n只会在这个世界发生的现象……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:10:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}但“不羁”似乎\n会相互影响。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:10:2",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0F 01}这种影响甚至会波及各位朋友。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:10:3",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 10 01}就像各位体内得以\n再寄宿１个人格面具那样。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:10:4",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 11 01}我想，这次也不例外。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}也就是说，我们也能\n觉醒“新的可能性”……是吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 13 01}是的，正是如此。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 14 01}不过，其中似乎有人\n已经觉醒了新的可能性，\n所以也不能说所有人都一样。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 15 01}{F5 C1 03 01 01 01 01 01 07 01}真、真的吗！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 16 01}熊还能升级，\n变得更加可爱熊！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 17 01}{F5 C1 03 01 01 01 01 01 08 01}新的可能性……啊。\n真让人期待，是吧，真次郎！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 13 01 08 01 02 01 02 01}{F5 61 02 01 01 01 01 01 18 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 19 01}喂，真次郎。\n你在听吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 08 01 02 01 01 01}{F5 61 02 01 01 01 01 01 1A 01}……嗯。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1B 01}呜……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:21:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 23 01 02 01 01 01 02 01}{F5 86 08 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 1C 01}{F5 C1 03 01 01 01 01 01 05 01}可是，我好像\n没觉得有什么变化啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:22:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1D 01}种子要发芽，\n需要肥沃的土壤，对吧？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:22:1",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 02 01 01 01 04 01}{F5 61 02 01 01 01 01 01 1E 01}{F5 C1 04 01 01 01 01 01 02 01}首先，各位要变得\n足以承载“新的可能性”才行。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:23:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1F 01}明、明白！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:24:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞同伴们的{F2 01 03 01}人格面具也可以\n　转生为新的姿态{F2 01 01 01}了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:25:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 03 01 02 01 01 01 04 01}{F5 86 23 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 20 01}好了，委托和说明都结束了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:25:1",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 21 01}怎么样？\n这件事不坏吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:26:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 0D 01 01 01 07 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 22 01}嗯。\n这一战值得。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:27:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 23 01}也打得很过瘾吧？\n下次真想再少留几分力，\n和你们较量呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:27:1",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 24 01}那么，之后请来保健室。\n我会交付委托报酬。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:28:0",
+  "message_id": "MSG_0272",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 25 01}那么，再会。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:29:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞与玛格丽特道别，\n　离开了天鹅绒房间……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:30:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 08 01 02 01 04 01}{F5 86 23 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 26 01}{F5 C1 03 01 01 01 01 01 05 01}……哎呀，还有什么事吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:31:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:31:1",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞荒垣、虎狼丸和埃癸斯\n　似乎还留在房间里……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:32:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 27 01}关于刚才的事……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:32:1",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 28 01}我的人格面具，\n不能保持现在的样子吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:33:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 29 01}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:34:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 07 01}{F5 61 02 01 01 01 01 01 2A 01}虎狼丸先生似乎也想问同样的问题。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:35:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 23 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 2B 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:36:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玛格丽特陷入了沉思……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:37:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2C 01}也就是说，你不想改变……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:38:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 13 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2D 01}……嗯。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:39:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2E 01}可以问问原因吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:40:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 13 01 08 01 02 01 01 01}{F5 61 02 01 01 01 01 01 2F 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:41:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 30 01}我是在问，可以问问原因吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:42:0",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 31 01}{F5 C1 03 01 01 01 01 01 0A 01}{F5 C1 04 01 01 01 01 01 04 01}呃……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:43:0",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 32 01}……汪。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:44:0",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 07 01}{F5 61 02 01 01 01 01 01 33 01}虎狼丸先生在主人过世后，\n一直独自守护着\n曾与主人一同生活的神社。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:44:1",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 48 01}当神社遭到阴影袭击时，\n虎狼丸先生觉醒了人格面具。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:44:2",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 34 01}虎狼丸先生的人格面具，\n是为了守护\n与主人一起生活过的家……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:44:3",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 35 01}也是为了不忘记\n没能从事故中保护主人的自己……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:44:4",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 36 01}……因此，虎狼丸先生\n希望保持现在的模样。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:45:0",
+  "message_id": "MSG_044",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 37 01}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:46:0",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 38 01}这样啊……\n没想到，你还挺有男子气概呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:47:0",
+  "message_id": "MSG_046",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 39 01}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:48:0",
+  "message_id": "MSG_047",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞虎狼丸似乎很开心。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:49:0",
+  "message_id": "MSG_048",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 13 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 3A 01}我也……差不多。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:49:1",
+  "message_id": "MSG_048",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 3B 01}为了让我自己不忘记，\n我做过什么……犯下过什么……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:49:2",
+  "message_id": "MSG_048",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 3C 01}也为了让那家伙……不会迷失。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:50:0",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 23 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 3D 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:50:1",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0A 01 02 01 01 01}{F5 61 02 01 01 01 01 01 3E 01}每个人都背负着各自的事呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:51:0",
+  "message_id": "MSG_0492",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 02 01 01 01 04 01}{F5 86 23 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3F 01}若问人格面具\n能否保持现在的样子，\n答案是可以。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:51:1",
+  "message_id": "MSG_0492",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 40 01}心之铠甲，\n会回应各位的心意。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:51:2",
+  "message_id": "MSG_0492",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 41 01}只要强烈地希望不变，\n它就不会改变吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:52:0",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 42 01}是吗……明白了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:52:1",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 43 01}还有，刚才那些话……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:53:0",
+  "message_id": "MSG_051",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 44 01}不要告诉那些孩子……对吧？\n当最年长的人也不容易呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:54:0",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 45 01}……多谢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:54:1",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 46 01}不过，我可没老到那份上。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:55:0",
+  "message_id": "MSG_053",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 07 01}{F5 61 02 01 01 01 01 01 47 01}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:56:0",
+  "message_id": "MSG_054",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:56:1",
+  "message_id": "MSG_054",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞不惊动他们，\n　悄悄离开了天鹅绒房间……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:57:0",
+  "message_id": "MSG_055",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞之后去保健室{F2 01 03 01}报告{F2 01 01 01}吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:58:0",
+  "message_id": "MSG_0112",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}{F5 86 06 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 12 01}也就是说，我们也能\n觉醒“新的可能性”……是吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e804_255.bf.json:59:0",
+  "message_id": "MSG_0122",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 13 01}是的，正是如此。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

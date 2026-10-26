@@ -1,0 +1,177 @@
+[
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 76 11}{F5 C1 03 01 01 01 01 01 05 01}那……是什么……？\n粉得好夸张……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}兔、兔……子？大概？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 BD 11}{F5 C1 03 01 01 01 01 01 08 01}是兔子！\n好可爱啊～！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}可爱……吗？\n那么粉的兔子，\n也太可疑了吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 B7 0D}兔子……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}兔子……好像在哪里……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 01 01 65 01 02 01}{F5 61 02 01 01 01 01 01 01 01}那只兔子，到底是什么啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}咦，理世也不知道？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 01 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}嗯……\n没有要扑过来的迹象，\n似乎也和Ｆ．Ｏ．Ｅ不同。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 07 01 65 01 01 01}{F5 61 02 01 01 01 01 01 DE 04}我想它应该……不是敌人，\n不过特别在意大家。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:7:2",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}……也许是在等我们。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 05 01}在等我们……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}说不定，和爱丽丝的故事\n有什么关系……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:8:2",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}故事开头……\n爱丽丝追着“兔子”掉进洞里，\n误入了不可思议之国……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}那是不是跟着那只兔子走比较好……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 C0 11}跟着它吧！\n兔子是朋友哦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 03 01 06 01 02 01}{F5 61 02 01 01 01 01 01 C0 03}朋、朋友，这可还说不准哦？\n也有可能是敌人……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 04 01 07 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}不过，也许能成为线索哦？\n在迷宫里遇见可能不是敌人的存在，\n还是第一次呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}这、这样啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 B7 0D}我也想追上它。\n我好像……记得在哪里见过……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 03 01 02 01}{F5 61 02 01 01 01 01 01 01 01}它也许是与善和玲的记忆\n有关的“某种东西”呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:16:0",
+  "message_id": "MSG_0152",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 02 01 02 01 01 01 04 01}{F5 86 09 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}{F1 81}学长，该怎么办？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:17:0",
+  "message_id": "SEL_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}抓住它吧{F5 47 02 01 02 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:17:1",
+  "message_id": "SEL_016",
+  "translation": "{F2 05 FF FF}{F1 41}抓来吃掉{F5 47 02 01 02 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:18:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7D 03}{F5 C1 03 01 01 01 01 01 08 01}好嘞！\n那就交给我吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:19:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}你想吃。就是想吃吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:20:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 6A 11}{F5 C1 03 01 01 01 01 01 03 01}好嘞！\n先把花村抓起来！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:21:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 C7 02}{F5 C1 03 01 01 01 01 01 0B 01}里、里中同学！\n兔子在那边！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:22:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 A0 02}{F5 C1 03 01 01 01 01 01 04 01}你又不是里中，\n吃那种颜色鲜艳的肉，\n闹肚子我可不管啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:23:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 83 03}{F5 C1 03 01 01 01 01 01 07 01}喂，花村！\n我不管吃什么肉，\n都不会闹肚子的好吗！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:24:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}你生气的居然是这点。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:25:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 08 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 6E 05}呃……？\n总之，就是要抓兔子吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:26:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3C 06}是的。\n暂且以{F2 01 03 01}抓住那只兔子{F2 01 01 01}\n为目标吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:27:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}好！\n喂，走了，花村！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_200.bf.json:28:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 BA 02}好，看我一把抓住它！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

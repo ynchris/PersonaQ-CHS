@@ -1,0 +1,2272 @@
+[
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:2:0",
+  "message_id": "BTLMSGID_AP_SINGLE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}出现了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:3:0",
+  "message_id": "BTLMSGID_AP_S_MANY",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}等敌人出现了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:4:0",
+  "message_id": "BTLMSGID_AP_D_MANY",
+  "translation": "{F2 05 FF FF}{F1 41}阴影群出现了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:5:0",
+  "message_id": "BTLMSGID_AP_E_SUP",
+  "translation": "{F2 05 FF FF}{F1 41}阴影发动了突袭！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:6:0",
+  "message_id": "BTLMSGID_AP_E_SUP_STOP",
+  "translation": "{F2 05 FF FF}{F1 41}但{F2 44 02 01}预料到了偷袭。\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:7:0",
+  "message_id": "BTLMSGID_AP_S_SUP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}抢先出手了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:8:0",
+  "message_id": "BTLMSGID_AP_D_SUP",
+  "translation": "{F2 05 FF FF}{F1 41}我方先制攻击！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:9:0",
+  "message_id": "BTLMSGID_ADDENEMY_OPEN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}被召唤出来了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:10:0",
+  "message_id": "BTLMSGID_ADDENEMY_FOE",
+  "translation": "{F2 05 FF FF}{F1 41}新的敌人参战了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:11:0",
+  "message_id": "BLTMSGID_ADDENEMY_FOEDEA",
+  "translation": "{F2 05 FF FF}{F1 41}黑影袭向了阴影们！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:12:0",
+  "message_id": "BLTMSGID_CMD",
+  "translation": "{F2 05 FF FF}{F1 41}该怎么办？\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:13:0",
+  "message_id": "BLTMSGID_CMD_NO",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}无法行动！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:14:0",
+  "message_id": "BLTMSGID_CMD_NO_ALL",
+  "translation": "{F2 05 FF FF}{F1 41}同伴们无法行动！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:15:0",
+  "message_id": "BLTMSGID_STONE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}处于石化状态！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:16:0",
+  "message_id": "BLTMSGID_SLEEP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}正在沉睡\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:17:0",
+  "message_id": "BLTMSGID_CONFUSE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}陷入了混乱！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:18:0",
+  "message_id": "BLTMSGID_PARA",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}因麻痹而无法行动！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:19:0",
+  "message_id": "BLTMSGID_TERROR",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}因恐惧而无法行动！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:20:0",
+  "message_id": "BLTMSGID_STUN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}瘫软无力！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:21:0",
+  "message_id": "BTLMSGID_F_SEAL_HEAD",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}因魔封而无法使用技能！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:22:0",
+  "message_id": "BTLMSGID_F_SEAL_ARM",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}因力封而无法使用技能！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:23:0",
+  "message_id": "BTLMSGID_F_SEAL_LEG",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}因速封而无法逃跑！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:24:0",
+  "message_id": "BTLMSGID_CRITICALHIT_P",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}气绝身亡！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:25:0",
+  "message_id": "BTLMSGID_CRITICALHIT_E",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}被彻底击毙！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:26:0",
+  "message_id": "BTLMSGID_ATTACK",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}发起攻击！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:27:0",
+  "message_id": "BTLMSGID_DAMAGE_P_E",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}受到{F2 44 03 01}点伤害！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:28:0",
+  "message_id": "BTLMSGID_DAMAGE_P_E_C",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 03 01}点伤害！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:29:0",
+  "message_id": "BTLMSGID_DAMAGE_E_P_HP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}受到{F2 44 03 01}点伤害！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:30:0",
+  "message_id": "BTLMSGID_DAMAGE_E_P_TP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}受到{F2 44 03 01}点伤害！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:31:0",
+  "message_id": "BTLMSGID_USE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}使用了{F2 44 04 01}！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:32:0",
+  "message_id": "BTLMSGID_HPHEAL",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的ＨＰ恢复了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:33:0",
+  "message_id": "BTLMSGID_HPHEAL_ALL",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的ＨＰ完全恢复了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:34:0",
+  "message_id": "BTLMSGID_TPHEAL",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的ＳＰ恢复了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:35:0",
+  "message_id": "BTLMSGID_TPHEAL_ALL",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的ＳＰ完全恢复了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:36:0",
+  "message_id": "BTLMSGID_DISCHARGE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的武器发出光芒！！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:37:0",
+  "message_id": "BTLMSGID_TARGET_MANY",
+  "translation": "{F2 05 FF FF}{F1 41}阴影群\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:38:0",
+  "message_id": "BTLMSGID_ITEMUSE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}使用了{F2 44 04 01}！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:39:0",
+  "message_id": "BTLMSGID_DEFENCE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}正在防御。\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:40:0",
+  "message_id": "BTLMSGID_SUMMON",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}呼唤了同伴！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:41:0",
+  "message_id": "BLTMSGID_BST_DEAD",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}即死！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:42:0",
+  "message_id": "BLTMSGID_BST_STONE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}石化了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:43:0",
+  "message_id": "BLTMSGID_BST_SLEEP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}睡着了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:44:0",
+  "message_id": "BLTMSGID_BST_CONFUSE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}混乱了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:45:0",
+  "message_id": "BLTMSGID_BST_POINSON_EX",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}感染了毒！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:46:0",
+  "message_id": "BLTMSGID_BST_POISON",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}中毒了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:47:0",
+  "message_id": "BLTMSGID_BST_BLIND",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}失明了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:48:0",
+  "message_id": "BLTMSGID_BST_CURSE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}被诅咒了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:49:0",
+  "message_id": "BLTMSGID_BST_PARA",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}麻痹了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:50:0",
+  "message_id": "BLTMSGID_BST_STUN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}昏厥了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:51:0",
+  "message_id": "BLTMSGID_BST_SEAL_MA",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}陷入了魔封状态！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:52:0",
+  "message_id": "BLTMSGID_BST_SEAL_RIKI",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}陷入了力封状态！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:53:0",
+  "message_id": "BLTMSGID_BST_SEAL_SOKU",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}陷入了速封状态！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:54:0",
+  "message_id": "BLTMSGID_RIVIVE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}重返战场！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:55:0",
+  "message_id": "BTLMSGID_BSTH_STONE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的石化解除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:56:0",
+  "message_id": "BTLMSGID_BSTH_SLEEP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}醒来了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:57:0",
+  "message_id": "BTLMSGID_BSTH_CONFUSION",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}恢复了理智！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:58:0",
+  "message_id": "BTLMSGID_BSTH_STINK",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}振作起来了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:59:0",
+  "message_id": "BTLMSGID_BSTH_POISON",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的毒消失了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:60:0",
+  "message_id": "BTLMSGID_BSTH_BLIND",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的眼睛恢复了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:61:0",
+  "message_id": "BTLMSGID_BSTH_CURSE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的诅咒解除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:62:0",
+  "message_id": "BTLMSGID_BSTH_PARALYSIS",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的麻痹解除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:63:0",
+  "message_id": "BTLMSGID_BSTH_HEAD",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的魔封状态解除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:64:0",
+  "message_id": "BTLMSGID_BSTH_ARM",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的力封状态解除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:65:0",
+  "message_id": "BTLMSGID_BSTH_LEG",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的速封状态解除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:66:0",
+  "message_id": "BTLMSGID_ESCAPE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}逃走了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:67:0",
+  "message_id": "BTLMSGID_NOT_ESCAPE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}没能逃走！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:68:0",
+  "message_id": "BTLMSGID_NO_ESCAPE",
+  "translation": "{F2 05 FF FF}{F1 41}这场战斗无法逃跑！！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:69:0",
+  "message_id": "BTLMSGID_NOTSELECTESCAPE",
+  "translation": "{F2 05 FF FF}{F1 41}无法逃跑！！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:70:0",
+  "message_id": "BTLMSGID_NOT_ESCAPE_LEG",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}没能逃走！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:71:0",
+  "message_id": "BTLMSGID_UNITDEAD_E",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}被打倒了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:72:0",
+  "message_id": "BTLMSGID_UNITDEAD_P",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}倒下了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:73:0",
+  "message_id": "BTLMSGID_PARTYDEAD_E_S",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}被击败了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:74:0",
+  "message_id": "BTLMSGID_PARTYDEAD_E_D",
+  "translation": "{F2 05 FF FF}{F1 41}击败了阴影群！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:75:0",
+  "message_id": "BTLMSGID_PARTYDEAD_P",
+  "translation": "{F2 05 FF FF}{F1 41}队伍全灭了…\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:76:0",
+  "message_id": "BTLMSGID_KUISHIBARI",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}撑住了攻击！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:77:0",
+  "message_id": "BTLMSGID_LIMITSUMMON",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}合力呼唤了同伴！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:78:0",
+  "message_id": "BTLMSGID_MEGAN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}倒下了…\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:79:0",
+  "message_id": "BTLMSGID_TARGET_ALL",
+  "translation": "{F2 05 FF FF}{F1 41}全体\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:80:0",
+  "message_id": "BTLMSGID_SUMMON_SACRIFIC",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}气绝身亡…\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:81:0",
+  "message_id": "BTLMSGID_SUMMON_MISS",
+  "translation": "{F2 05 FF FF}{F1 41}但没有同伴出现！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:82:0",
+  "message_id": "BTLMSGID_POISONDAMAGE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}受到中毒伤害！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:83:0",
+  "message_id": "BTLMSGID_SACRIFICE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}出现了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:84:0",
+  "message_id": "BTLMSGID_CHANGE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}与{F2 44 02 01}交换了位置！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:85:0",
+  "message_id": "BTLMSGID_MOVE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}移动了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:86:0",
+  "message_id": "BTLMSGID_RANGEOUT",
+  "translation": "{F2 05 FF FF}{F1 41}但攻击够不到！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:87:0",
+  "message_id": "BTLMSGID_MISS",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}没有受到效果影响。\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:88:0",
+  "message_id": "BTLMSGID_AVOID",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}躲开了攻击！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:89:0",
+  "message_id": "BTLMSGID_STOPACTION",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}打断了{F2 44 01 01}的行动！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:90:0",
+  "message_id": "BTLMSGID_REFUP_CRITICAL",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的暴击率提升！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:91:0",
+  "message_id": "BTLMSGID_REFUP_HEALEFF",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}获得了恢复效果！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:92:0",
+  "message_id": "BTLMSGID_BS3_UROKOCHASE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}作出反应，烈焰迸发！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:93:0",
+  "message_id": "BTLMSGID_URI_MESSAGE",
+  "translation": "{F2 05 FF FF}{F1 41}能够使伤害无效了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:94:0",
+  "message_id": "BTLMSGID_DSUMMON",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}对同伴之死作出了反应！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:95:0",
+  "message_id": "BTLMSGID_REFDOWN_CRITICA",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的暴击率降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:96:0",
+  "message_id": "BTLMSGID_ANDROSTOP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}暂时停止了行动！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:97:0",
+  "message_id": "BTLMSGID_KUITIGIRI",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}咬碎了{F2 44 02 01}！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:98:0",
+  "message_id": "BTLMSGID_LIMITON",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}摆好了架势！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:99:0",
+  "message_id": "BTLMSGID_ARIMISS",
+  "translation": "{F2 05 FF FF}{F1 41}但与{F2 44 02 01}的配合失败了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:100:0",
+  "message_id": "BTLMSGID_MIRROR_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的影子出现了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:101:0",
+  "message_id": "BTLMSGID_MIRROR_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的分身出现了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:102:0",
+  "message_id": "BTLMSGID_6BOSS_BURSTMISS",
+  "translation": "{F2 05 FF FF}{F1 41}但{F2 44 04 01}没有发动！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:103:0",
+  "message_id": "BTLMSGID_CHANGE_ACTOR",
+  "translation": "{F2 05 FF FF}{F1 41}让谁移动？\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:104:0",
+  "message_id": "BTLMSGID_CHANGE_TARGET",
+  "translation": "{F2 05 FF FF}{F1 41}移动到哪里？\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:105:0",
+  "message_id": "BTLMSGID_BOOT",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 04 01}发动！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:106:0",
+  "message_id": "BTLMSGID_BLOCK",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}使伤害无效了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:107:0",
+  "message_id": "BTLMSGID_DEAD_P",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}被击飞了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:108:0",
+  "message_id": "BTLMSGID_ONESTOP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}行动被打断，无法行动！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:109:0",
+  "message_id": "BTLMSGID_ANALYZE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的能力已解析！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:110:0",
+  "message_id": "BTLMSGID_MAXHP_DAMAGE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的最大ＨＰ减少了{F2 44 03 01}！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:111:0",
+  "message_id": "BTLMSGID_MITIBIKI",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}开始静静地祈祷！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:112:0",
+  "message_id": "BTLMSGID_PORATA",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}与{F2 44 03 01}合体，变成了{F2 44 01 01}！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:113:0",
+  "message_id": "BTLMSGID_BEASTMISS",
+  "translation": "{F2 05 FF FF}{F1 41}野兽没有出现！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:114:0",
+  "message_id": "BTLMSGID_MISS_H",
+  "translation": "{F2 05 FF FF}{F1 41}但没有效果！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:115:0",
+  "message_id": "BTLMSGID_MISSCOUNTER",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}化作伏兵袭向敌人！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:116:0",
+  "message_id": "BTLMSGID_NOTCHANGE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}未能交换位置！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:117:0",
+  "message_id": "BTLMSGID_SEPARATE_MISS",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}分离失败了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:118:0",
+  "message_id": "BTLMSGID_PORATA_MISS",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}合体失败了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:119:0",
+  "message_id": "BTLMSGID_TARGET_5BOSS_AR",
+  "translation": "{F2 05 FF FF}{F1 41}引导者的双手\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:120:0",
+  "message_id": "BTLMSGID_ACT_GUARD",
+  "translation": "{F2 05 FF FF}{F1 41}举起了盾牌！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:121:0",
+  "message_id": "BTLMSGID_ACT_CHARGE",
+  "translation": "{F2 05 FF FF}{F1 41}为下次攻击积蓄力量！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:122:0",
+  "message_id": "BTLMSGID_ACT_CHASE",
+  "translation": "{F2 05 FF FF}{F1 41}做好了追击准备！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:123:0",
+  "message_id": "BTLMSGID_ACT_DOLL",
+  "translation": "{F2 05 FF FF}{F1 41}做好了追击准备！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:124:0",
+  "message_id": "BTLMSGID_ACT_ACTCUT",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的动向受到了密切关注！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:125:0",
+  "message_id": "BTLMSGID_BEASTOFF",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}回去了…\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:126:0",
+  "message_id": "BTLMSGID_BEAST_ON",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}体内出现了{F2 44 02 01}！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:127:0",
+  "message_id": "BTLMSGID_ROCKETJUMP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}高高飞起！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:128:0",
+  "message_id": "BTLMSGID_PROTECT_FRONT",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 04 01}掩护了前排同伴！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:129:0",
+  "message_id": "BTLMSGID_PROTECT_REAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 04 01}掩护了后排同伴！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:130:0",
+  "message_id": "BTLMSGID_COVER_UP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}掩护了同伴！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:131:0",
+  "message_id": "BTLMSGID_MIGAWARI",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 04 01}掩护了{F2 44 02 01}！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:132:0",
+  "message_id": "BTLMSGID_REPEAT",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}已受到该效果影响\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:133:0",
+  "message_id": "BTLMSGID_OVERWRITE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 03 01}的效果延长了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:134:0",
+  "message_id": "BTLMSGID_REFUPCLEAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的强化效果消除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:135:0",
+  "message_id": "BTLMSGID_REFDOWNCLEAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的弱化效果消除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:136:0",
+  "message_id": "BTLMSGID_UPOFF",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的强化消除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:137:0",
+  "message_id": "BTLMSGID_DOWNOFF",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的弱化消除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:138:0",
+  "message_id": "BTLMSGID_REF_ATTACK_UPC",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的攻击强化消除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:139:0",
+  "message_id": "BTLMSGID_REF_DEFENCE_UPC",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的防御强化消除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:140:0",
+  "message_id": "BTLMSGID_REF_SPEED_UPC",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的行动速度强化消除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:141:0",
+  "message_id": "BTLMSGID_REF_HITRATIO_UP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的命中率强化消除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:142:0",
+  "message_id": "BTLMSGID_REF_AVOID_UPC",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的回避率强化消除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:143:0",
+  "message_id": "BTLMSGID_REF_ATTACK_DOWN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的攻击弱化消除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:144:0",
+  "message_id": "BTLMSGID_REF_DEFENCE_DOW",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的防御弱化消除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:145:0",
+  "message_id": "BTLMSGID_REF_SPEED_DOWNC",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的行动速度弱化消除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:146:0",
+  "message_id": "BTLMSGID_REF_HITRATIO_DO",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的命中率弱化消除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:147:0",
+  "message_id": "BTLMSGID_REF_AVOID_DOWNC",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的回避率弱化消除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:148:0",
+  "message_id": "BTLMSGID_REF_ATTACK_UP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的物理攻击力提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:149:0",
+  "message_id": "BTLMSGID_REF_DEFENCE_UP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的物理防御力提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:150:0",
+  "message_id": "BTLMSGID_REF_SPEED_UP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}能够最先行动了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:151:0",
+  "message_id": "BTLMSGID_REF_HITRATIO_UP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的命中率提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:152:0",
+  "message_id": "BTLMSGID_REF_AVOID_UP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的回避率提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:153:0",
+  "message_id": "BTLMSGID_REF_ATTACK_DOWN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的物理攻击力降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:154:0",
+  "message_id": "BTLMSGID_REF_DEFENCE_DOW",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的物理防御力降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:155:0",
+  "message_id": "BTLMSGID_REF_SPEED_DOWN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}刻意放慢了行动！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:156:0",
+  "message_id": "BTLMSGID_REF_HITRATIO_DO",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的命中、回避率降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:157:0",
+  "message_id": "BTLMSGID_REF_AVOID_DOWN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的回避率降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:158:0",
+  "message_id": "BTLMSGID_REF_ATTR_WEPUP_",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的普通攻击附带火炎属性！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:159:0",
+  "message_id": "BTLMSGID_REF_ATTR_WEPUP_",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的普通攻击附带冰冻属性！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:160:0",
+  "message_id": "BTLMSGID_REF_ATTR_WEPUP_",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的普通攻击附带电击属性！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:161:0",
+  "message_id": "BTLMSGID_REF_H_UP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}吸引了敌人的注意！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:162:0",
+  "message_id": "BTLMSGID_REF_H_DOWN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}更不容易被敌人盯上了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:163:0",
+  "message_id": "BTLMSGID_REF_STNONE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}能够免疫异常状态了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:164:0",
+  "message_id": "BTLMSGID_REF_HP_UP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的最大ＨＰ提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:167:0",
+  "message_id": "BTLMSGID_TRNS_WAIT",
+  "translation": "{F2 05 FF FF}{F1 41}请稍等一下。\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:168:0",
+  "message_id": "BTLMSGID_TRNS_CMNDSELECT",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}华丽地闪开了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:169:0",
+  "message_id": "BTLMSGID_TRNS_CMNDWAIT",
+  "translation": "{F2 05 FF FF}{F1 41}其他玩家正在输入。\n请稍候。\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:170:0",
+  "message_id": "BTLMSGID_ES_ACT_COUNTER",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}摆出架式！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:171:0",
+  "message_id": "BTLMSGID_ES_THROW",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}将{F2 44 02 01}丢了出去！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:172:0",
+  "message_id": "BTLMSGID_ES_PATIENCE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}忍耐着！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:173:0",
+  "message_id": "BTLMSGID_ES_PATIENCE_ACT",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的忍耐爆发了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:174:0",
+  "message_id": "BTLMSGID_DEADACTION",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}用最后的力量使出了{F2 44 04 01}！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:175:0",
+  "message_id": "BTLMSGID_DEADACTION_18E",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}用最后的力量提升了{F2 44 04 01}！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:176:0",
+  "message_id": "BTLMSGID_RARE_DASH",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}变得更加闪耀！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:177:0",
+  "message_id": "BTLMSGID_ATTRUP_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的耐性提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:178:0",
+  "message_id": "BTLMSGID_ATTRUP_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}、{F2 44 02 01}和{F2 44 03 01}的耐性提高了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:179:0",
+  "message_id": "BTLMSGID_ATTRUP_ALL",
+  "translation": "{F2 05 FF FF}{F1 41}所有的耐性都上升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:180:0",
+  "message_id": "BTLMSGID_ES_CHANGE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的触手抓住了{F2 44 02 01}和{F2 44 03 01}！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:181:0",
+  "message_id": "BTLMSGID_ABSORB_HP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}吸收了{F2 44 03 01}的伤害！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:182:0",
+  "message_id": "BTLMSGID_DEADACTION_18B",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}爆炸了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:183:0",
+  "message_id": "BTLMSGID_FANNEL_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}展开了火焰机器人！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:184:0",
+  "message_id": "BTLMSGID_FANNEL_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}展开了冰冻机器人！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:185:0",
+  "message_id": "BTLMSGID_FANNEL_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}展开了雷电机器人！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:186:0",
+  "message_id": "BTLMSGID_UNITDEAD_FNL",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}停止了动作！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:187:0",
+  "message_id": "BTLMSGID_K_FANNEL",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}做出了反应！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:188:0",
+  "message_id": "BTLMSGID_BOOT_F",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 04 01}启动！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:189:0",
+  "message_id": "BTLMSGID_SNIPER",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}举起武器瞄准目标！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:190:0",
+  "message_id": "BTLMSGID_SNIPER_MISS",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}放下了武器！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:191:0",
+  "message_id": "BTLMSGID_BEASTCOUNTER_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}摆出架式！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:192:0",
+  "message_id": "BTLMSGID_BEAST_A4_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}发出低吼扑了过来！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:193:0",
+  "message_id": "BTLMSGID_BEAST_A5_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}在打瞌睡！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:194:0",
+  "message_id": "BTLMSGID_E_KAISH_BOOT",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}高举大镰刀袭来！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:195:0",
+  "message_id": "BTLMSGID_BEAST_A1_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的手臂再生！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:196:0",
+  "message_id": "BTLMSGID_BEAST_A1_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}在发呆！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:197:0",
+  "message_id": "BTLMSGID_BEAST_A1_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}在整理毛发！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:198:0",
+  "message_id": "BTLMSGID_TARGET_6BOSS_AR",
+  "translation": "{F2 05 FF FF}{F1 41}神树的触手\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:199:0",
+  "message_id": "BTLMSGID_TRANS_ERROR_END",
+  "translation": "{F2 05 FF FF}{F1 41}发生通讯错误！\n请稍候。\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:200:0",
+  "message_id": "BTLMSGID_DEADSTONE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}石化了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:201:0",
+  "message_id": "BTLMSGID_STOPBST",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的异常状态攻击被无效化！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:202:0",
+  "message_id": "BTLMSGID_STOPSEAL",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的封锁攻击被无效化！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:203:0",
+  "message_id": "BTLMSGID_WEAKDAMAGE",
+  "translation": "{F2 05 FF FF}{F1 41}符文的引导对{F2 44 02 01}的弱点产生了反应！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:204:0",
+  "message_id": "BTLMSGID_MURAMASA",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的眼睛布满血丝！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:205:0",
+  "message_id": "BTLMSGID_ROCKETJUMPMISS",
+  "translation": "{F2 05 FF FF}{F1 41}然而，无法抵达{F2 44 02 01}！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:206:0",
+  "message_id": "BTLMSGID_SARUTOBI",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}华丽地闪开了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:207:0",
+  "message_id": "BTLMSGID_BOSS_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}似乎闭着眼睛……\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:208:0",
+  "message_id": "BTLMSGID_BS1_SPWATSTAN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}畏缩了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:209:0",
+  "message_id": "BTLMSGID_BS1_STANMSG",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}无法动弹！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:210:0",
+  "message_id": "BTLMSGID_AP_5LASTBOSS",
+  "translation": "{F2 05 FF FF}{F1 41}乐园引路人出现了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:211:0",
+  "message_id": "BTLMSGID_TARGET_5LASTBOS",
+  "translation": "{F2 05 FF FF}{F1 41}乐园引路人\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:212:0",
+  "message_id": "BTLMSGID_TARGET_6LASTBOS",
+  "translation": "{F2 05 FF FF}{F1 41}扭曲的丰穰神树\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:213:0",
+  "message_id": "BTLMSGID_H_KUISHIBARI",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}附加了忍耐效果！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:214:0",
+  "message_id": "BTLMSGID_OOMIE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}大显身手！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:215:0",
+  "message_id": "BTLMSGID_NONBST",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}预防了异常状态和封印效果！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:216:0",
+  "message_id": "BTLMSGID_NONSEAL",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}不再附着束缚效果！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:217:0",
+  "message_id": "BTLMSGID_DENGUN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}被任命为殿军！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:218:0",
+  "message_id": "BTLMSGID_DEADACTION_F18B",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}自爆了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:219:0",
+  "message_id": "BTLMSGID_REF_ATTR_UP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的{F2 44 03 01}耐性上升！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:220:0",
+  "message_id": "BTLMSGID_E_MEGAZA_HEAL",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}从身上飞散出了{F2 44 04 01}！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:221:0",
+  "message_id": "BTLMSGID_E_KAISHAKU",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}捕食了{F2 44 02 01}！！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:222:0",
+  "message_id": "BTLMSGID_E_DEADSUMMON",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}巨大化了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:223:0",
+  "message_id": "BTLMSGID_E_SUMMON_MSG_00",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}开始蠢动了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:224:0",
+  "message_id": "BTLMSGID_E_SUMMON_MSG_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}垂下了手！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:225:0",
+  "message_id": "BTLMSGID_E_SUMMON_MSG_02",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的“力量”被封印了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:226:0",
+  "message_id": "BTLMSGID_BS_LASTBOSS_ARM",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的伤口伸出了触手！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:227:0",
+  "message_id": "BTLMSGID_BS_LASTBOSS_ARM",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的触手复活了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:228:0",
+  "message_id": "BTLMSGID_E_TAMAGO_MSG_00",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}正在蓄力！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:229:0",
+  "message_id": "BTLMSGID_REF_ATTR_UP_ALL",
+  "translation": "{F2 05 FF FF}{F1 41}全体的{F2 44 03 01}耐性上升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:230:0",
+  "message_id": "BTLMSGID_KAITAISHINSHO",
+  "translation": "{F2 05 FF FF}{F1 41}掉落率上升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:231:0",
+  "message_id": "BTLMSGID_E_SHOMO",
+  "translation": "{F2 05 FF FF}{F1 41}下次行动的ＳＰ消耗加倍！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:232:0",
+  "message_id": "BTLMSGID_E_KYOMU",
+  "translation": "{F2 05 FF FF}{F1 41}爆发槽减少了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:233:0",
+  "message_id": "BTLMSGID_REF_ATTR_DOWN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的{F2 44 03 01}耐性下降！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:234:0",
+  "message_id": "BTLMSGID_BS_CHANGE_ATK",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}睁开了眼睛！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:235:0",
+  "message_id": "BTLMSGID_BS_CHANGE_DEF",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}逐渐闭上眼睛！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:236:0",
+  "message_id": "BTLMSGID_LBS_MES_00",
+  "translation": "{F2 05 FF FF}{F1 41}咬破皮肤，究极的生命如花绽放。\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:237:0",
+  "message_id": "BTLMSGID_NONCOST",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}因SP不足而无法使用技能！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:238:0",
+  "message_id": "BTLMSGID_FRONT_DEAD",
+  "translation": "{F2 05 FF FF}{F1 41}前排与后排互换了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:239:0",
+  "message_id": "BTLMSGID_ES_KEKKAI",
+  "translation": "{F2 05 FF FF}{F1 41}队伍的ＳＰ消耗加倍！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:240:0",
+  "message_id": "BTLMSGID_ES_KITOU",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}积蓄了力量！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:241:0",
+  "message_id": "BTLMSGID_ES_ACT_CCOUNTER",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}做好了追击的准备！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:242:0",
+  "message_id": "BTLMSGID_SUMMON_CHICK",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}产下了{F2 44 02 01}！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:243:0",
+  "message_id": "BTLMSGID_LIMITMISS",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}无法连携！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:244:0",
+  "message_id": "BTLMSGID_ACT_180_END",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}积蓄的力量暴走了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:245:0",
+  "message_id": "BTLMSGID_ACT_LBS_CHANGE",
+  "translation": "{F2 05 FF FF}{F1 41}难以名状之神苏醒了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:246:0",
+  "message_id": "BTLMSGID_UROBORO_SHIELD",
+  "translation": "{F2 05 FF FF}{F1 41}我方全体被阻挡敌人攻击的光芒包围！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:247:0",
+  "message_id": "BTLMSGID_DISCHARGE_BH",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的拳头放出耀眼光芒！！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:248:0",
+  "message_id": "BTLMSGID_PARTYDEAD_E_BR",
+  "translation": "{F2 05 FF FF}{F1 41}击败了深王和奥林匹亚！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:249:0",
+  "message_id": "BTLMSGID_PARTYDEAD_E_GK",
+  "translation": "{F2 05 FF FF}{F1 41}击败了守门人！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:250:0",
+  "message_id": "BTLMSGID_ES_CHANGE_MISS",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}解开了缠绕的触手！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:251:0",
+  "message_id": "BTLMSGID_E_MOVE_S",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}改变了队列！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:252:0",
+  "message_id": "BTLMSGID_E_MOVE_D",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}们改变了队列！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:253:0",
+  "message_id": "BTLMSGID_E_MOVE_A",
+  "translation": "{F2 05 FF FF}{F1 41}阴影们的队列改变了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:254:0",
+  "message_id": "BTLMSGID_BOOT_V",
+  "translation": "{F2 05 FF FF}{F1 41}贯穿生效！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:255:0",
+  "message_id": "BTLMSGID_BOOT_WIDE",
+  "translation": "{F2 05 FF FF}{F1 41}扩散生效！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:256:0",
+  "message_id": "BTLMSGID_RARE_ENCOUNT_D",
+  "translation": "{F2 05 FF FF}{F1 41}稀有个体出现！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:257:0",
+  "message_id": "BTLMSGID_RARE_ENCOUNT_S",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的稀有个体出现了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:258:0",
+  "message_id": "BTLMSGID_ACT_CHARGE_BOSS",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}开始蓄力！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:259:0",
+  "message_id": "BTLMSGID_ST_BODYCHANGE",
+  "translation": "{F2 05 FF FF}{F1 41}切换！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:260:0",
+  "message_id": "BTLMSGID_ST_BODYCHANGE_E",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的攻击属性改变了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:261:0",
+  "message_id": "BTLMSGID_KIJIN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}化为了罗刹！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:262:0",
+  "message_id": "BTLMSGID_KIJIN_OFF",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}恢复了正常。\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:263:0",
+  "message_id": "BTLMSGID_KUISHIBARI2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}咬紧牙关忍耐了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:264:0",
+  "message_id": "BTLMSGID_TPCUT",
+  "translation": "{F2 05 FF FF}{F1 41}ＳＰ削减生效！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:265:0",
+  "message_id": "BTLMSGID_HOUJIN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}展开了{F2 44 02 01}！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:266:0",
+  "message_id": "BTLMSGID_HOUJIN_EFT",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的效果！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:267:0",
+  "message_id": "BTLMSGID_TRANSPARENT_ON",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}融入了周围的景色！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:268:0",
+  "message_id": "BTLMSGID_TRANSPARENT_OFF",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的身体恢复了原状！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:269:0",
+  "message_id": "BTLMSGID_ICEACTSTOP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}冻住了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:270:0",
+  "message_id": "BTLMSGID_ACTSTOPTURN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}冻住了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:271:0",
+  "message_id": "BTLMSGID_LMT_103",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的周围冒出黑雾，包围住了敌人！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:272:0",
+  "message_id": "BTLMSGID_3BS_URK_TAKEOFF",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}身上弹出了鳞片！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:273:0",
+  "message_id": "BTLMSGID_3BS_URK_ON",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}刺进了地面！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:274:0",
+  "message_id": "BTLMSGID_3BS_URK_DEATH",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}爆裂了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:275:0",
+  "message_id": "BTLMSGID_FROG_JUMP",
+  "translation": "{F2 05 FF FF}{F1 41}爆发槽降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:276:0",
+  "message_id": "BTLMSGID_OVERHEATON",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的炮剑过热了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:277:0",
+  "message_id": "BTLMSGID_OVERHEATOFF",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的炮剑冷却，恢复了功能！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:278:0",
+  "message_id": "BTLMSGID_MSGWAIT1",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}进入了自爆模式！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:279:0",
+  "message_id": "BTLMSGID_MSGWAIT2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}自爆倒数２！！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:280:0",
+  "message_id": "BTLMSGID_MSGWAIT3",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}自爆倒数１！！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:281:0",
+  "message_id": "BTLMSGID_MSGWAIT4",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}在观察情况。\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:282:0",
+  "message_id": "BTLMSGID_MSGWAIT5",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}在寻找目标。\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:283:0",
+  "message_id": "BTLMSGID_BALLOON",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}大幅膨胀了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:284:0",
+  "message_id": "BTLMSGID_ACT_CHARGE_BOSS",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}停止了动作！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:285:0",
+  "message_id": "BTLMSGID_ACT_LION_SLEEP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}正在沉睡。\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:286:0",
+  "message_id": "BTLMSGID_REF_ATTACK_UP2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的魔法攻击力提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:287:0",
+  "message_id": "BTLMSGID_REF_DEFENCE_UP2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的魔法防御力提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:288:0",
+  "message_id": "BTLMSGID_REF_ATTACK_UP3",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的攻击力提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:289:0",
+  "message_id": "BTLMSGID_REF_DEFENCE_UP3",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的防御力提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:290:0",
+  "message_id": "BTLMSGID_REF_ATTACK_DOWN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的魔法攻击力降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:291:0",
+  "message_id": "BTLMSGID_REF_DEFENCE_DOW",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的魔法防御力降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:292:0",
+  "message_id": "BTLMSGID_REF_ATTACK_DOWN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的攻击力降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:293:0",
+  "message_id": "BTLMSGID_REF_DEFENCE_DOW",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的防御力降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:294:0",
+  "message_id": "BTLMSGID_REF_COUNTER",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}面前出现了火墙！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:295:0",
+  "message_id": "BTLMSGID_REF_COUNTER_BOO",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}被火墙包围了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:296:0",
+  "message_id": "BTLMSGID_REF_ATTRUP_FIRE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的火炎耐性提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:297:0",
+  "message_id": "BTLMSGID_REF_ATTRUP_ICE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的冰冻耐性提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:298:0",
+  "message_id": "BTLMSGID_REF_ATTRUP_THUN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的电击耐性提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:299:0",
+  "message_id": "BTLMSGID_REF_ATTRUP_SLAS",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的斩击耐性提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:300:0",
+  "message_id": "BTLMSGID_REF_ATTRUP_SHOC",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的破坏属性耐性提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:301:0",
+  "message_id": "BTLMSGID_REF_ATTRUP_THRU",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的突刺耐性提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:302:0",
+  "message_id": "BTLMSGID_REF_ATTRDOWN_FI",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的火炎耐性降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:303:0",
+  "message_id": "BTLMSGID_REF_ATTRDOWN_IC",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的冰冻耐性降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:304:0",
+  "message_id": "BTLMSGID_REF_ATTRDOWN_TH",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的电击耐性降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:305:0",
+  "message_id": "BTLMSGID_REF_ATTRDOWN_SL",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的斩击耐性降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:306:0",
+  "message_id": "BTLMSGID_REF_ATTRDOWN_SH",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的破坏属性耐性降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:307:0",
+  "message_id": "BTLMSGID_REF_ATTRDOWN_TH",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的突刺耐性降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:308:0",
+  "message_id": "BTLMSGID_REF_DANCE_COUNT",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}做好了反击准备！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:309:0",
+  "message_id": "BTLMSGID_REF_DANCE_CHASE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}做好了追击准备！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:310:0",
+  "message_id": "BTLMSGID_REF_DANCE_LINEC",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}所在排做好了追击准备！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:311:0",
+  "message_id": "BTLMSGID_REF_DANCE_HEAL",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}所在排获得了恢复效果！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:312:0",
+  "message_id": "BTLMSGID_REF_DANCE_ATK",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}所在排的物理攻击力提升！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:313:0",
+  "message_id": "BTLMSGID_REF_DANCE_DEF",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}所在排的物理防御力提升！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:314:0",
+  "message_id": "BTLMSGID_REF_DANCE_EN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}所在排的ＳＰ消耗降低！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:315:0",
+  "message_id": "BTLMSGID_REF_LINK",
+  "translation": "{F2 05 FF FF}{F1 41}连锁技能的追加攻击次数增加了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:316:0",
+  "message_id": "BTLMSGID_REF_GUARD",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}挺身化作盾牌！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:317:0",
+  "message_id": "BTLMSGID_REF_CONC",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的恢复效果提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:318:0",
+  "message_id": "BTLMSGID_REF_AREA",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的恢复范围扩大！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:319:0",
+  "message_id": "BTLMSGID_WEAKENED",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}因虚弱而无法行动！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:320:0",
+  "message_id": "BTLMSGID_MASCOT",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}轻飘飘地晃着\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:321:0",
+  "message_id": "BTLMSGID_BUNNY",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}惊慌失措！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:322:0",
+  "message_id": "BTLMSGID_REFOFF_P_UP",
+  "translation": "{F2 05 FF FF}{F1 41}我方的{F2 44 02 01}效果消失了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:323:0",
+  "message_id": "BTLMSGID_REFOFF_P_DOWN",
+  "translation": "{F2 05 FF FF}{F1 41}我方的{F2 44 02 01}效果消失了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:324:0",
+  "message_id": "BTLMSGID_REFOFF_UP",
+  "translation": "{F2 05 FF FF}{F1 41}敌方的{F2 44 02 01}效果消失了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:325:0",
+  "message_id": "BTLMSGID_REFOFF_DOWN",
+  "translation": "{F2 05 FF FF}{F1 41}敌方的{F2 44 02 01}效果消失了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:326:0",
+  "message_id": "BTLMSGID_KAIMA",
+  "translation": "{F2 05 FF FF}{F1 41}封印、异常状态耐性恢复原状！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:327:0",
+  "message_id": "BTLMSGID_HOUJIN_CANCEL_M",
+  "translation": "{F2 05 FF FF}{F1 41}但没有布下魔法阵！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:328:0",
+  "message_id": "BTLMSGID_OATH_END",
+  "translation": "{F2 05 FF FF}{F1 41}敌方的{F2 44 02 01}效果消失了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:329:0",
+  "message_id": "BTLMSGID_COUNTER",
+  "translation": "{F2 05 FF FF}{F1 41}死亡反击发动！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:330:0",
+  "message_id": "BTLMSGID_CHASE",
+  "translation": "{F2 05 FF FF}{F1 41}死亡追击发动！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:331:0",
+  "message_id": "BTLMSGID_REF_ATTR_WEPUP_",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的普通攻击附带疾风属性！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:332:0",
+  "message_id": "BTLMSGID_REF_ATTR_WEPUP_",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的普通攻击附带光属性！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:333:0",
+  "message_id": "BTLMSGID_REF_ATTR_WEPUP_",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的普通攻击附带暗属性！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:334:0",
+  "message_id": "BTLMSGID_REF_ATTRUP_WIND",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的疾风耐性提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:335:0",
+  "message_id": "BTLMSGID_REF_ATTRUP_HIKA",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的光耐性提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:336:0",
+  "message_id": "BTLMSGID_REF_ATTRUP_YAMI",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的暗耐性提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:337:0",
+  "message_id": "BTLMSGID_REF_ATTRDOWN_WI",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的疾风耐性降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:338:0",
+  "message_id": "BTLMSGID_REF_ATTRDOWN_HI",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的光耐性降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:339:0",
+  "message_id": "BTLMSGID_REF_ATTRDOWN_YA",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的暗耐性降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:340:0",
+  "message_id": "BTLMSGID_HPNONCOST",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}因ＨＰ不足而无法使用技能！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:341:0",
+  "message_id": "BTLMSGID_KEIKAI",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}正在警戒\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:342:0",
+  "message_id": "BTLMSGID_RARE_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}正在发呆\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:343:0",
+  "message_id": "BTLMSGID_RARE_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}手忙脚乱\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:344:0",
+  "message_id": "BTLMSGID_RARE_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}慌了神\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:345:0",
+  "message_id": "BTLMSGID_HAMA_OMEN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}身边正汇聚着光之力！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:346:0",
+  "message_id": "BTLMSGID_MUDO_OMEN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}身边正汇聚着暗之力！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:347:0",
+  "message_id": "BTLMSGID_NIYANIYA",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}正在窃笑\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:348:0",
+  "message_id": "BTLMSGID_ADD_ATK_P4HERO",
+  "translation": "{F2 05 FF FF}{F1 41}好机会！　这里交给我！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:349:0",
+  "message_id": "BTLMSGID_ADD_ATK_P3HERO",
+  "translation": "{F2 05 FF FF}{F1 41}好机会！　让我上！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:350:0",
+  "message_id": "BTLMSGID_ADD_ATK_YOUSUKE",
+  "translation": "{F2 05 FF FF}{F1 41}机会来啦！　交给我！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:351:0",
+  "message_id": "BTLMSGID_ADD_ATK_CHIE",
+  "translation": "{F2 05 FF FF}{F1 41}我来、我来！　让我上！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:352:0",
+  "message_id": "BTLMSGID_ADD_ATK_YUKIKO",
+  "translation": "{F2 05 FF FF}{F1 41}我来！　拜托了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:353:0",
+  "message_id": "BTLMSGID_ADD_ATK_RISE",
+  "translation": "{F2 05 FF FF}{F1 41}好机会！　让我来！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:354:0",
+  "message_id": "BTLMSGID_ADD_ATK_KANJI",
+  "translation": "{F2 05 FF FF}{F1 41}好嘞！　该我出场了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:355:0",
+  "message_id": "BTLMSGID_ADD_ATK_NAOTO",
+  "translation": "{F2 05 FF FF}{F1 41}这里请交给我！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:356:0",
+  "message_id": "BTLMSGID_ADD_ATK_KUMA",
+  "translation": "{F2 05 FF FF}{F1 41}小熊的机会！　能上吗？\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:357:0",
+  "message_id": "BTLMSGID_ADD_ATK_YUKARI",
+  "translation": "{F2 05 FF FF}{F1 41}好！　由我来定胜负！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:358:0",
+  "message_id": "BTLMSGID_ADD_ATK_JUNPEI",
+  "translation": "{F2 05 FF FF}{F1 41}好嘞！　轮到我了吧？\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:359:0",
+  "message_id": "BTLMSGID_ADD_ATK_SANADA",
+  "translation": "{F2 05 FF FF}{F1 41}机会来了！　让我上！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:360:0",
+  "message_id": "BTLMSGID_ADD_ATK_MITURU",
+  "translation": "{F2 05 FF FF}{F1 41}千载难逢！　发动追击！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:361:0",
+  "message_id": "BTLMSGID_ADD_ATK_FUKA",
+  "translation": "{F2 05 FF FF}{F1 41}这里请交给我！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:362:0",
+  "message_id": "BTLMSGID_ADD_ATK_AEGIS",
+  "translation": "{F2 05 FF FF}{F1 41}请求许可，发动追击！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:363:0",
+  "message_id": "BTLMSGID_ADD_ATK_AMADA",
+  "translation": "{F2 05 FF FF}{F1 41}好！　这里我来！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:364:0",
+  "message_id": "BTLMSGID_ADD_ATK_KOROMAR",
+  "translation": "{F2 05 FF FF}{F1 41}汪！　嗷呜！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:365:0",
+  "message_id": "BTLMSGID_ADD_ATK_ARAGAKI",
+  "translation": "{F2 05 FF FF}{F1 41}我去收拾掉它。　行吧？\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:366:0",
+  "message_id": "BTLMSGID_ADD_ATK_ZENLEI",
+  "translation": "{F2 05 FF FF}{F1 41}善说他要上。　可以吗？\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:367:0",
+  "message_id": "BTLMSGID_ADD_ATK_ZEN",
+  "translation": "{F2 05 FF FF}{F1 41}好！　这里就交给我！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:368:0",
+  "message_id": "BTLMSGID_BUF_OMEN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}身边正汇聚着冰之力！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:369:0",
+  "message_id": "BTLMSGID_JIO_OMEN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}身边正汇聚着雷之力！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:370:0",
+  "message_id": "BTLMSGID_KHRONOS_ANNOUNC",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}正在集中精神！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:371:0",
+  "message_id": "BTLMSGID_PASTOR_OATH_ATT",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 04 10}发誓不准打我——听到没！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:372:0",
+  "message_id": "BTLMSGID_PASTOR_OATH_SKI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 05 10}发誓不准用技能——听到没！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:373:0",
+  "message_id": "BTLMSGID_PASTOR_OATH_LEA",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 07 10}发誓不准耍威风——听到没！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:374:0",
+  "message_id": "BTLMSGID_PASTOR_OATH_ITE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 06 10}发誓不准用道具——听到没！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:375:0",
+  "message_id": "BTLMSGID_PASTOR_OATH_TWO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 08 10}总之统统给我发誓——听到没！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:376:0",
+  "message_id": "BTLMSGID_PASTOR_JUDGEMEN",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 09 10}羔羊兄弟，我来引导你！\n天罚降临、此刻毙命…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:377:0",
+  "message_id": "BTLMSGID_HOQ_CAST_SKILL",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}正准备施展魔法！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:378:0",
+  "message_id": "BTLMSGID_HOQ_INTERRUPT_S",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}似乎施法失败了…\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:379:0",
+  "message_id": "BTLMSGID_ALL_ATK_P4HERO",
+  "translation": "{F2 05 FF FF}{F1 41}上吧！　总攻击！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:380:0",
+  "message_id": "BTLMSGID_ALL_ATK_P3HERO",
+  "translation": "{F2 05 FF FF}{F1 41}就是现在！　动手吧！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:381:0",
+  "message_id": "BTLMSGID_ALL_ATK_YOUSUKE",
+  "translation": "{F2 05 FF FF}{F1 41}机会时刻到啦！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:382:0",
+  "message_id": "BTLMSGID_ALL_ATK_CHIE",
+  "translation": "{F2 05 FF FF}{F1 41}好机会好机会！　上啦！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:383:0",
+  "message_id": "BTLMSGID_ALL_ATK_YUKIKO",
+  "translation": "{F2 05 FF FF}{F1 41}就是现在！　准备好了吗？\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:384:0",
+  "message_id": "BTLMSGID_ALL_ATK_RISE",
+  "translation": "{F2 05 FF FF}{F1 41}要上啦！　准备好了？\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:385:0",
+  "message_id": "BTLMSGID_ALL_ATK_KANJI",
+  "translation": "{F2 05 FF FF}{F1 41}好机会！　揍扁它们！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:386:0",
+  "message_id": "BTLMSGID_ALL_ATK_NAOTO",
+  "translation": "{F2 05 FF FF}{F1 41}好机会！　我们上吧！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:387:0",
+  "message_id": "BTLMSGID_ALL_ATK_KUMA",
+  "translation": "{F2 05 FF FF}{F1 41}痛扁它们的机会来啦！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:388:0",
+  "message_id": "BTLMSGID_ALL_ATK_YUKARI",
+  "translation": "{F2 05 FF FF}{F1 41}来了！　总攻击的机会！！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:389:0",
+  "message_id": "BTLMSGID_ALL_ATK_JUNPEI",
+  "translation": "{F2 05 FF FF}{F1 41}就是现在！！　动手吧！！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:390:0",
+  "message_id": "BTLMSGID_ALL_ATK_SANADA",
+  "translation": "{F2 05 FF FF}{F1 41}就等这一刻了！　上！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:391:0",
+  "message_id": "BTLMSGID_ALL_ATK_MITURU",
+  "translation": "{F2 05 FF FF}{F1 41}敌人已溃不成军！　扫清它们！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:392:0",
+  "message_id": "BTLMSGID_ALL_ATK_FUKA",
+  "translation": "{F2 05 FF FF}{F1 41}就是现在！　我们上吧！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:393:0",
+  "message_id": "BTLMSGID_ALL_ATK_AEGIS",
+  "translation": "{F2 05 FF FF}{F1 41}现在发动总攻击！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:394:0",
+  "message_id": "BTLMSGID_ALL_ATK_AMADA",
+  "translation": "{F2 05 FF FF}{F1 41}机会来了！　我们上吧！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:395:0",
+  "message_id": "BTLMSGID_ALL_ATK_KOROMAR",
+  "translation": "{F2 05 FF FF}{F1 41}汪、汪！！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:396:0",
+  "message_id": "BTLMSGID_ALL_ATK_ARAGAKI",
+  "translation": "{F2 05 FF FF}{F1 41}趁现在揍它们。　动手吗？\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:397:0",
+  "message_id": "BTLMSGID_ALL_ATK_ZENLEI",
+  "translation": "{F2 05 FF FF}{F1 41}总觉得现在就是机会！　上吗？\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:398:0",
+  "message_id": "BTLMSGID_ALL_ATK_ZEN",
+  "translation": "{F2 05 FF FF}{F1 41}就是现在！　一口气上！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:399:0",
+  "message_id": "BTLMSGID_VELVET_THEODORE",
+  "translation": "{F2 05 FF FF}{F1 41}集中了精神！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:400:0",
+  "message_id": "BTLMSGID_VELVET_ELIZABET",
+  "translation": "{F2 05 FF FF}{F1 41}集中了精神！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:401:0",
+  "message_id": "BTLMSGID_VELVET_MARGARET",
+  "translation": "{F2 05 FF FF}{F1 41}集中了精神！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:402:0",
+  "message_id": "BTLMSGID_USAGI_OOGOE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}深吸了一口气\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:403:0",
+  "message_id": "BTLMSGID_VELVET_SRICAM",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}重返战场！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:404:0",
+  "message_id": "BTLMSGID_GK_COUNT3",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的眼睛闪着光！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:405:0",
+  "message_id": "BTLMSGID_GK_COUNT2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的眼睛失去了光芒！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:406:0",
+  "message_id": "BTLMSGID_GK_COUNT1",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的眼睛闪烁了“１”次。\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:407:0",
+  "message_id": "BTLMSGID_ESCAPE_ALL",
+  "translation": "{F2 05 FF FF}{F1 41}队伍逃走了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:408:0",
+  "message_id": "BTLMSGID_OVERWRITE_ALL",
+  "translation": "{F2 05 FF FF}{F1 41}队伍的强化效果延长了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:409:0",
+  "message_id": "BTLMSGID_HPHEAL_ALL_MEMB",
+  "translation": "{F2 05 FF FF}{F1 41}我方全员的ＨＰ恢复了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:410:0",
+  "message_id": "BTLMSGID_EXP_GIFT",
+  "translation": "{F2 05 FF FF}{F1 41}本场战斗可获得的经验值增加了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:411:0",
+  "message_id": "BTLMSGID_BOUHEKI",
+  "translation": "{F2 05 FF FF}{F1 41}我方全员的防御力提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:412:0",
+  "message_id": "BTLMSGID_GOURIKI",
+  "translation": "{F2 05 FF FF}{F1 41}我方全员的攻击力提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:413:0",
+  "message_id": "BTLMSGID_KAISOKU",
+  "translation": "{F2 05 FF FF}{F1 41}我方全员的命中与回避提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:414:0",
+  "message_id": "BTLMSGID_COVERAL",
+  "translation": "{F2 05 FF FF}{F1 41}使来自敌人的伤害无效！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:415:0",
+  "message_id": "BTLMSGID_DENKOH",
+  "translation": "{F2 05 FF FF}{F1 41}我方全员都能最先行动了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:416:0",
+  "message_id": "BTLMSGID_ORACLE",
+  "translation": "{F2 05 FF FF}{F1 41}除ＳＰ外，我方完全恢复！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:417:0",
+  "message_id": "BTLMSGID_MESSIAH",
+  "translation": "{F2 05 FF FF}{F1 41}我方全员ＨＰ、异常状态、封印完全恢复！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:418:0",
+  "message_id": "BTLMSGID_ESHOWER",
+  "translation": "{F2 05 FF FF}{F1 41}我方全员异常状态、封印完全恢复！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:419:0",
+  "message_id": "BTLMSGID_FULLGET",
+  "translation": "{F2 05 FF FF}{F1 41}获得本回合击倒敌人的所有素材\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:420:0",
+  "message_id": "BTLMSGID_COST_CUT",
+  "translation": "{F2 05 FF FF}{F1 41}我方全员的技能消耗变为零！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:421:0",
+  "message_id": "BTLMSGID_TIYUDAI",
+  "translation": "{F2 05 FF FF}{F1 41}３回合内恢复我方全员的ＨＰ！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:422:0",
+  "message_id": "BTLMSGID_TIYUSOK",
+  "translation": "{F2 05 FF FF}{F1 41}３回合内恢复我方全员的ＨＰ！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:423:0",
+  "message_id": "BTLMSGID_HOMUNCU",
+  "translation": "{F2 05 FF FF}{F1 41}人造生命成为了替身！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:424:0",
+  "message_id": "BTLMSGID_OWNDOLL",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}发动了赎罪之羊的效果！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:425:0",
+  "message_id": "BTLMSGID_KIAIBRACE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}发动了毅力手环的效果！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:426:0",
+  "message_id": "BTLMSGID_KAMINONIE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}发动了神之祭品的效果！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:427:0",
+  "message_id": "BTLMSGID_DLCATK",
+  "translation": "{F2 05 FF FF}{F1 41}能够在回合最后发动攻击了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:428:0",
+  "message_id": "BTLMSGID_UZUUZU",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}跃跃欲试！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:429:0",
+  "message_id": "BTLMSGID_MANZOK",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}心满意足\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:430:0",
+  "message_id": "BTLMSGID_THINK",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}陷入了沉思\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:431:0",
+  "message_id": "BTLMSGID_KETSUDAN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}下定了决心！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:432:0",
+  "message_id": "BTLMSGID_MAHASUKU",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的命中率和回避率提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:433:0",
+  "message_id": "BTLMSGID_RANDAMA",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的所有能力降低了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:434:0",
+  "message_id": "BTLMSGID_HEATRA",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的所有能力提升了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:435:0",
+  "message_id": "BTLMSGID_SASTAIN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的强化效果延长了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:436:0",
+  "message_id": "BTLMSGID_HIDE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}能够使物理攻击无效了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:437:0",
+  "message_id": "BTLMSGID_RISKY_GAMEOVER",
+  "translation": "{F2 05 FF FF}{F1 41}队长倒下了…\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:438:0",
+  "message_id": "BTLMSGID_JIBAKU",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的自爆开关启动了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:439:0",
+  "message_id": "BTLMSGID_EIKOHNO",
+  "translation": "{F2 05 FF FF}{F1 41}我方全员攻击力和防御力大幅提升！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:440:0",
+  "message_id": "BTLMSGID_ALLBSTHEAL",
+  "translation": "{F2 05 FF FF}{F1 41}我方的异常状态恢复了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:441:0",
+  "message_id": "BTLMSGID_KOUKA_NASHI",
+  "translation": "{F2 05 FF FF}{F1 41}但没有效果！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:442:0",
+  "message_id": "BTLMSGID_AMRITA",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的ＨＰ、异常状态、封印完全恢复！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:443:0",
+  "message_id": "BTLMSGID_COUNT_UP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的计数增加了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:444:0",
+  "message_id": "BTLMSGID_ONEBSTHEAL",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的异常状态恢复了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:445:0",
+  "message_id": "BTLMSGID_ONESEALHEAL",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的封印解除了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:446:0",
+  "message_id": "BTLMSGID_CHARGE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}积蓄了力量！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:447:0",
+  "message_id": "BTLMSGID_CONCENTRATE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}集中了精神！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:448:0",
+  "message_id": "BTLMSGID_KAKUSEI",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}化作了修罗！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:449:0",
+  "message_id": "BTLMSGID_SUMMON_TRUMP",
+  "translation": "{F2 05 FF FF}{F1 41}扑克牌士兵们出现了！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:450:0",
+  "message_id": "BTLMSGID_DOLL_SMILE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}正天真地笑着\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:451:0",
+  "message_id": "BTLMSGID_MOTIVATION",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}干劲十足！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:452:0",
+  "message_id": "BTLMSGID_BOAST",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}正在炫耀肌肉\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:453:0",
+  "message_id": "BTLMSGID_RELAX",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}正悠闲地休息\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:454:0",
+  "message_id": "BTLMSGID_CREEP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}正在蠕动\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:455:0",
+  "message_id": "BTLMSGID_TURNENDHEAL",
+  "translation": "{F2 05 FF FF}{F1 41}获得了恢复我方全员的效果！\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:456:0",
+  "message_id": "BTLMSGID_DARKMIST",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 02 01}的异常状态、封印时间延长了\n{00}"
+ },
+ {
+  "key": "export_base/battle/pack/btl_com.arc_battlemessage.bmd.json:457:0",
+  "message_id": "BTLMSGID_TARGET_DEAD_ALR",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}的目标不存在！\n{00}"
+ }
+]

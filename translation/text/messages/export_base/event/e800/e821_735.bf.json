@@ -1,0 +1,27 @@
+[
+ {
+  "key": "export_base/event/e800/e821_735.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 19 0B}太出色了！\n敌人已全部消灭！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_735.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 01 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}也没有阴影的气息了……\n继续前进吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_735.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 0F 01 02 01 65 01 01 01}{F5 61 02 01 01 01 01 01 CA 0A}{F5 C1 03 01 01 01 01 01 05 01}……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_735.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 01 01 65 01 01 01}{F5 61 02 01 01 01 01 01 0E 0B}里面看到的那个是什么呢……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_735.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}能请你稍微……\n靠近一点看看吗？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

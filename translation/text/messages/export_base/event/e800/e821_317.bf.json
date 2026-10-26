@@ -1,0 +1,27 @@
+[
+ {
+  "key": "export_base/event/e800/e821_317.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞门坏了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_317.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞钢琴声似乎是从\n　门缝中传出来的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_317.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7E 04}唔……\n从这边好像什么也做不了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_317.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……那边的门是开着的吧。\n从那里进去看看吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_317.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 6B 03}{F5 C1 03 01 01 01 01 01 04 01}嗯、嗯。\n虽然我不太想进去……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

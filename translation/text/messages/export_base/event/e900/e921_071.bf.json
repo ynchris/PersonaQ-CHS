@@ -1,0 +1,67 @@
+[
+ {
+  "key": "export_base/event/e900/e921_071.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 24 01 03 01 04 01 02 01}{F5 61 02 01 01 01 01 01 53 0F}咦……\n您似乎带着什么稀有物品呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e921_071.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞把{F4 45 04 01 00 00 01 01}\n　拿给迪奥看了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e921_071.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 01 01 06 01 01 01}{F5 61 02 01 01 01 01 01 5F 0F}{F5 C1 03 01 01 01 01 01 08 01}这……实在太棒了……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e921_071.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 05 01 06 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 07 01}……啊！\n这么说，把这里这样处理……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e921_071.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}然后把这里这样，再这样……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e921_071.bf.json:2:3",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 01 01 06 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 06 01}……真是不可思议！\n我有灵感了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e921_071.bf.json:3:0",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0B 01}请稍等片刻！\n可千万别先回去啊！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e921_071.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 06 01 02 01}{F5 61 02 01 01 01 01 01 6B 0F}……我想，这一定会是\n出色得令人害怕的逸品！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e921_071.bf.json:4:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}我会备好货，\n请您务必试用。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e921_071.bf.json:5:0",
+  "message_id": "MSG_0032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 01 01}另外，刚才给我看的东西，\n请您带回去吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e921_071.bf.json:5:1",
+  "message_id": "MSG_0032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0B 01 04 01 01 01}{F5 61 02 01 01 01 01 01 01 01}我已经有灵感了，不再需要它了。\n毕竟，我已经有灵感了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e921_071.bf.json:6:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞手工工坊的商品中\n　新增了{F4 45 04 01 00 00 02 01}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e921_071.bf.json:7:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞手工工坊的商品列表中\n　新增了{F4 45 04 01 00 00 02 01}！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

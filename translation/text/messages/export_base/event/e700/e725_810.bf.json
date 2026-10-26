@@ -1,0 +1,47 @@
+[
+ {
+  "key": "export_base/event/e700/e725_810.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 03}{F5 C1 03 01 01 01 01 01 0A 01}呃，到处都是蜘蛛网……\n好恶心……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_810.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}根本没人打理啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_810.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0C 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}有、有没有路可以绕过去……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_810.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 D5 0C}嗯……\n看来也没有其他路，\n只能从这里走了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_810.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 13 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 D5 0C}看来也没有其他路，\n只能从这里走了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_810.bf.json:5:0",
+  "message_id": "SEL_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 01 01 02 01 01 01 02 01}走吧{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_810.bf.json:5:1",
+  "message_id": "SEL_005",
+  "translation": "{F2 05 FF FF}{F1 41}还没做好心理准备……{F5 47 02 01 01 01 05 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_810.bf.json:6:0",
+  "message_id": "SEL_0052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}走吧{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_810.bf.json:6:1",
+  "message_id": "SEL_0052",
+  "translation": "{F2 05 FF FF}{F1 41}还没做好心理准备……{F5 47 02 01 01 01 05 01 21 01}{00}{00}"
+ }
+]

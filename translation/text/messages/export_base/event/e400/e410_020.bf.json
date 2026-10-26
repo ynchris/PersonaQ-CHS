@@ -1,0 +1,137 @@
+[
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞“稻羽乡土展”内……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 02 01 02 01}{F5 61 02 01 01 01 01 01 02 01}……祭典？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 03 01 01 01 01 01 08 01}好厉害，是庙会！\n我最喜欢庙会了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:2:0",
+  "message_id": "MSG_0012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0F 01 03 01 01 01}{F5 61 02 01 01 01 01 01 04 01}会有好多摊位吗？\n琥珀糖、糖苹果……\n还有迷你蛋糕绝对不能少！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 05 01}呵呵。\n玲好像稍微恢复精神了呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 06 01}这里是乡土展……对吧？\n怎么会是庙会呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}据说各地的祭典形式截然不同，\n有着极为丰富的多样性。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:5:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}可以说，是乡土文化研究中\n不可或缺的要素。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 06 01 02 01}{F5 61 02 01 01 01 01 01 09 01}要素……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:6:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0A 01}{F5 C1 03 01 01 01 01 01 0A 01}这种词，我一辈子\n大概都用不上１次吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 04 01 07 01 05 01 04 01}{F5 61 02 01 01 01 01 01 0B 01}不过，文化祭本身就是祭典，\n里面居然还套着一层祭典啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0C 01}啊，这里是最后的迷宫，\n也许类似于中心地带吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:8:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0D 01}不过，庙会啊……\n会有神轿吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 05 01 05 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}千枝，你以前\n很喜欢抬神轿吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}{F5 C1 03 01 01 01 01 01 08 01}因为能拿到零食嘛。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 10 01}{F5 C1 03 01 01 01 01 01 01 01}神轿是零食吗！？\n用巧克力和威化饼\n嘿咻嘿咻地抬起来吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 11 01}{F5 C1 03 01 01 01 01 01 0A 01}那不就黏糊糊了吗。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 08 01 02 01 01 01 04 01}{F5 86 04 01 07 01 02 01 02 01}{F5 61 02 01 01 01 01 01 12 01}完二，看见神轿就去抬吧。\n太适合你了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 13 01}缺了兜裆布。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:15:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 14 01}{F5 C1 03 01 01 01 01 01 0A 01}不用那么认真啦。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:16:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 15 01}抬神轿需要兜裆布吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:17:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 16 01}嗯……也有那样的祭典啦。\n偶尔能在新闻上看到的那种。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:18:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 17 01}啊，穿着兜裆布的男人们，\n泼水、爬杆子，\n还在神轿上跳舞呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:19:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 18 01}{F5 C1 03 01 01 01 01 01 01 01}穿着兜裆布的男人们浇糖浆，\n爬上巧克力香蕉，再滑下来，\n还在细豆沙上尽情跳舞！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:19:1",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 19 01}{F5 C1 03 01 01 01 01 01 08 01}庙会，好厉害……！\n这里面也会那样吗！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:20:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1A 01}不，不对吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_020.bf.json:21:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 1B 01}{F5 C1 03 01 01 01 01 01 0A 01}希望……不是吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

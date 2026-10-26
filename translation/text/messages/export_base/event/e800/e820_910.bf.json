@@ -1,0 +1,107 @@
+[
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 01 01 05 01 02 01}{F5 61 02 01 01 01 01 01 E7 0E}联谊咖啡厅所掌管的……\n正是“恋爱”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 E4 0E}不过，我对“恋爱”研究不足，\n这一点倒是颇有自信。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}因此，希望您取得研究恋爱\n不可或缺的药品……没错！\n就是{F2 01 03 01}恋爱药{F2 01 01 01}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 02 01}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 02 07}恋、恋恋恋、恋爱药！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0C 01 01 01 07 01}{F5 61 02 01 01 01 01 01 01 01}＞！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞小熊走进了保健室。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0F 07}{F5 C1 04 01 01 01 01 01 07 01}姐姐！\n那个……在哪里！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 01 01}{F5 61 02 01 01 01 01 01 33 11}哎呀，小熊大人。\n怎么了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 90 07}刚巧路过这里，\n“恋爱药”这个词让小熊的\n欲望感应器猛烈反应熊！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}所以姐姐，\n那种药到底在哪里！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}非常抱歉。\n关于它的所在，目前毫无线索……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}不过，据我所知，\n{F2 01 03 01}联谊咖啡厅{F2 01 01 01}里到处都有{F2 01 03 01}梳妆台{F2 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:6:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}说到恋爱药，就会想到小瓶子。\n要藏小瓶子，最适合的就是梳妆台吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 03 01 01 01}{F5 61 02 01 01 01 01 01 1B 07}嘿嘿嘿……\n知道这些就足够了熊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}接下来，只要靠小熊这装有\n欲望感应器的鼻子，就能找到熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 02 01}{F5 61 02 01 01 01 01 01 2C 11}哎呀呀。\n真是个方便的鼻子呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}那么，就请小熊大人为您带路……\n不，是用鼻子领路，如何？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0F 01 03 01 01 01}{F5 61 02 01 01 01 01 01 3A 07}这次小熊可是干劲十足。\n无论如何都要找到熊！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:9:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}寻找恋爱药时，\n一定要把小熊编入队伍！\n听清楚了熊！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 E3 0E}那么，就拜托您了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_910.bf.json:10:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 2A 11}另外，\n这项委托{F2 01 03 01}有时间限制{F2 01 01 01}。\n还请留意。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

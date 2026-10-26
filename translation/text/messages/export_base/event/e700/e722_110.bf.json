@@ -1,0 +1,57 @@
+[
+ {
+  "key": "export_base/event/e700/e722_110.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 A4 08}喂喂喂喂。\n那是什么啊！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_110.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 02 01 01 01 02 01}{F5 86 05 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 C0 03}看起来虽然挺弱，\n可那个果然也是……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_110.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 85 0D}嗯。\n是Ｆ．Ｏ．Ｅ。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_110.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}它是不是拿着弓？\n该不会朝我们射箭吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_110.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 76 11}{F5 C1 03 01 01 01 01 01 07 01}啊，等等！\n好像要动了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_110.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 02 01 01 01 04 01}{F5 86 08 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}好像只是在原地转圈，\n没有移动啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_110.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 05 01 01 01}{F5 61 02 01 01 01 01 01 C2 07}也许是在等目标经过……\n瞄准经过的人射箭。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_110.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}这里没有风，箭会直线飞行，\n要小心{F2 01 03 01}那只Ｆ．Ｏ．Ｅ正对着的直线{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_110.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 02 01}{F5 61 02 01 01 01 01 01 B3 08}不愧是弓道社的。\n这意见真是一语中的啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_110.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 09 01 01 01 02 01}{F5 61 02 01 01 01 01 01 81 07}{F5 C1 03 01 01 01 01 01 09 01}帅气的小由……\n一下就射中了小熊的心熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_110.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 C6 07}{F5 C1 03 01 01 01 01 01 0A 01}你还真是……\n一有机会就尽显“小熊本色”呢。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

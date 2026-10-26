@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(002).BMD.json:0:0",
+  "message_id": "BTL_MES_H122_003_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 50 01}若是这个Ｆ．Ｏ．Ｅ，\n倒也并非无法战胜。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(002).BMD.json:1:0",
+  "message_id": "BTL_MES_H122_003_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 51 01}以各位如今的实力……\n或许能够打倒它呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(002).BMD.json:2:0",
+  "message_id": "BTL_MES_H122_003_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 52 01}虽是Ｆ．Ｏ．Ｅ……\n但这个敌人或许能打倒。\n{F2 26 00 00}{00}"
+ }
+]

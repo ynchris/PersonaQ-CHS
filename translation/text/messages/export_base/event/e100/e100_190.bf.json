@@ -1,0 +1,62 @@
+[
+ {
+  "key": "export_base/event/e100/e100_190.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞小门后的房间……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_190.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞总算从虎狼丸那里逃了出来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_190.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 11 01 02 01 02 01}{F5 61 02 01 01 01 01 01 02 01}哈……哈……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_190.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 03 01 01 01 01 01 0A 01}要、要死了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_190.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 04 01}哈……咳，哈……\n真是……不错的锻炼啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_190.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 05 01 02 01 02 01}{F5 61 02 01 01 01 01 01 05 01}哈，别让我……跑那么多路……呕……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_190.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_190.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玫瑰的细枝上，\n　挂着一把钥匙……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_190.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 06 01 02 01 02 01}{F5 86 0D 01 10 01 02 01 04 01}{F5 61 02 01 01 01 01 01 06 01}就、就是那个吧……\n快点……拿上……回去吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_190.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 07 01}{F5 C1 04 01 01 01 01 01 02 01}啊……是啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_190.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 08 01}{F5 C1 03 01 01 01 01 01 04 01}呜呜……身上黏糊糊的……\n怎么会变成这样……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_190.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞大家累得脚步踉跄，\n　总算一起拿到了钥匙……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

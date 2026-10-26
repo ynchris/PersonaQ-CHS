@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(018).BMD.json:0:0",
+  "message_id": "BTL_MES_H108_019_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0E 01}敌方暗影众多！\n有资料中没有的类型！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(018).BMD.json:1:0",
+  "message_id": "BTL_MES_H108_019_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0F 01}敌人众多！请小心！\n{F2 26 00 00}{00}"
+ }
+]

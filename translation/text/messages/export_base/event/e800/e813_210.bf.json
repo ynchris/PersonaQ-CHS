@@ -1,0 +1,47 @@
+[
+ {
+  "key": "export_base/event/e800/e813_210.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 E7 0E}这项委托来自\n巽完二先生。\n我去请他过来，请稍候。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_210.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 29 11}让您久等了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_210.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 08 01 01 01 02 01 02 01}{F5 61 02 01 01 01 01 01 74 05}学长，辛苦了。\n不好意思给您添麻烦。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_210.bf.json:3:0",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 06 06}那个……一想到当老师……\n就总觉得没什么实感……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e813_210.bf.json:3:1",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}所以有人让我试试\n什么预演练习，\n我就想，那试试吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_210.bf.json:4:0",
+  "message_id": "MSG_0023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}我决定先教教天田，\n也想请学长陪同。\n有时间的时候，来叫我一声吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e813_210.bf.json:4:1",
+  "message_id": "MSG_0023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}还有，人家问我要不要设个{F2 01 03 01}期限{F2 01 01 01}，\n我就先设上了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e813_210.bf.json:4:2",
+  "message_id": "MSG_0023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 FA 05}那就拜托了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_210.bf.json:5:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞从菜单的{F2 01 03 01}“校内散步”{F2 01 01 01}中，\n　试着和完二、天田交谈吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

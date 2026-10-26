@@ -1,0 +1,142 @@
+[
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}听说在里中学姐、天城学姐\n上小学之前，它就被拆除了吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 03 01}不清楚具体时间，\n不过大概就是那时候……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 04 01}但与其说是时钟塔，\n好像更接近一座纪念碑……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:1:2",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}至少，应该没有大到\n像这样能让人走进去的程度……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 06 01}先不说大小，\n这里好像也进不去。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}{F5 C1 03 01 01 01 01 01 05 01}咦，明明这么大？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 08 01}{F5 C1 03 01 01 01 01 01 04 01}嗯……没有门。\n所以也无从调查……\n原本以为能找到什么线索。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}这样啊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}善、玲，你们知道\n这座时钟塔的事吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 05 01}{F5 86 29 01 01 01 0B 01 02 01}{F5 61 02 01 01 01 01 01 0B 01}那个……它一直都在。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 02 01 02 01 02 01}{F5 86 09 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 0C 01}这个钟停住了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}在走，但非常慢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}慢……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0F 01}{F5 C1 04 01 01 01 01 01 05 01}关于这座建筑，\n玲和我几乎什么也不知道。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:10:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 10 01}{F5 C1 04 01 01 01 01 01 05 01}不过……它的钟响过。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 11 01}原来刚才的钟声，\n就是这座时钟塔发出的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}钟响后，我和玲进入了那个迷宫。\n在那里遇到了你们。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 13 01}{F5 C1 03 01 01 01 01 01 05 01}钟响后，进去了……？\n为什么呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 14 01}我觉得……应该这么做。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:14:1",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 15 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 16 01}……是吗。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:16:0",
+  "message_id": "MSG_0152",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:16:1",
+  "message_id": "MSG_0152",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞看来，这里并不是\n　八十神高中……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:16:2",
+  "message_id": "MSG_0152",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞而是和八十神高中极为相似的，\n　“另外一个地方”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:16:3",
+  "message_id": "MSG_0152",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:17:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 07 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 17 01}要不要去\n玛格丽特小姐那里看看？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:17:1",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 18 01}说不定，她已经弄清了\n这个地方的什么事情。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_090.bf.json:18:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 19 01}啊……嗯，说得对。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,352 @@
+[
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:0:0",
+  "message_id": "quest00",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}　{F2 03 01 FF}\n{F2 03 01 FF}尚{F2 03 01 FF}未{F2 03 01 FF}接{F2 03 01 FF}受{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}　{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:1:0",
+  "message_id": "quest01",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}室{F2 03 01 FF}里{F2 03 01 FF}女{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}能{F2 03 01 FF}令{F2 03 01 FF}人{F2 03 01 FF}安{F2 03 01 FF}心{F2 03 01 FF}的{F2 03 01 FF}天{F2 03 01 FF}使{F2 03 01 FF}雕{F2 03 01 FF}像{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:2:0",
+  "message_id": "quest02",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}学{F2 03 01 FF}楼{F2 03 01 FF}２{F2 03 01 FF}层{F2 03 01 FF}走{F2 03 01 FF}廊{F2 03 01 FF}男{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}像{F2 03 01 FF}城{F2 03 01 FF}堡{F2 03 01 FF}里{F2 03 01 FF}会{F2 03 01 FF}摆{F2 03 01 FF}放{F2 03 01 FF}的{F2 03 01 FF}恶{F2 03 01 FF}魔{F2 03 01 FF}雕{F2 03 01 FF}像{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:3:0",
+  "message_id": "quest03",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}室{F2 03 01 FF}里{F2 03 01 FF}男{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}去{F2 03 01 FF}屋{F2 03 01 FF}顶{F2 03 01 FF}向{F2 03 01 FF}女{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}打{F2 03 01 FF}听{F2 03 01 FF}她{F2 03 01 FF}的{F2 03 01 FF}爱{F2 03 01 FF}好{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:4:0",
+  "message_id": "quest04",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}实{F2 03 01 FF}习{F2 03 01 FF}楼{F2 03 01 FF}１{F2 03 01 FF}层{F2 03 01 FF}男{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}在{F2 03 01 FF}电{F2 03 01 FF}视{F2 03 01 FF}里{F2 03 01 FF}找{F2 03 01 FF}到{F2 03 01 FF}利{F2 03 01 FF}兹{F2 03 01 FF}线{F2 03 01 FF}并{F2 03 01 FF}带{F2 03 01 FF}给{F2 03 01 FF}他{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:5:0",
+  "message_id": "quest05",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}鲛{F2 03 01 FF}川{F2 03 01 FF}河{F2 03 01 FF}滩{F2 03 01 FF}男{F2 03 01 FF}子{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}梦{F2 03 01 FF}幻{F2 03 01 FF}红{F2 03 01 FF}薯{F2 03 01 FF}烧{F2 03 01 FF}酒{F2 03 01 FF}“{F2 03 01 FF}森{F2 03 01 FF}兰{F2 03 01 FF}丸{F2 03 01 FF}”{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:6:0",
+  "message_id": "quest06",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}神{F2 03 01 FF}社{F2 03 01 FF}狐{F2 03 01 FF}狸{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}绘{F2 03 01 FF}马{F2 03 01 FF}上{F2 03 01 FF}像{F2 03 01 FF}女{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}字{F2 03 01 FF}迹{F2 03 01 FF}写{F2 03 01 FF}着{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}希{F2 03 01 FF}望{F2 03 01 FF}能{F2 03 01 FF}和{F2 03 01 FF}喜{F2 03 01 FF}欢{F2 03 01 FF}的{F2 03 01 FF}人{F2 03 01 FF}顺{F2 03 01 FF}利{F2 03 01 FF}交{F2 03 01 FF}往{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:7:0",
+  "message_id": "quest07",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}实{F2 03 01 FF}习{F2 03 01 FF}楼{F2 03 01 FF}２{F2 03 01 FF}层{F2 03 01 FF}女{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}用{F2 03 01 FF}于{F2 03 01 FF}制{F2 03 01 FF}作{F2 03 01 FF}新{F2 03 01 FF}桌{F2 03 01 FF}子{F2 03 01 FF}的{F2 03 01 FF}木{F2 03 01 FF}板{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:8:0",
+  "message_id": "quest08",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}商{F2 03 01 FF}店{F2 03 01 FF}街{F2 03 01 FF}南{F2 03 01 FF}侧{F2 03 01 FF}男{F2 03 01 FF}子{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}１{F2 03 01 FF}个{F2 03 01 FF}白{F2 03 01 FF}桃{F2 03 01 FF}果{F2 03 01 FF}实{F2 03 01 FF}，{F2 03 01 FF}交{F2 03 01 FF}换{F2 03 01 FF}书{F2 03 01 FF}籍{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:9:0",
+  "message_id": "quest09",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}鲛{F2 03 01 FF}川{F2 03 01 FF}河{F2 03 01 FF}滩{F2 03 01 FF}老{F2 03 01 FF}妇{F2 03 01 FF}人{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}用{F2 03 01 FF}来{F2 03 01 FF}开{F2 03 01 FF}箱{F2 03 01 FF}子{F2 03 01 FF}的{F2 03 01 FF}陈{F2 03 01 FF}旧{F2 03 01 FF}钥{F2 03 01 FF}匙{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:10:0",
+  "message_id": "quest10",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}学{F2 03 01 FF}楼{F2 03 01 FF}２{F2 03 01 FF}层{F2 03 01 FF}老{F2 03 01 FF}师{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}似{F2 03 01 FF}乎{F2 03 01 FF}大{F2 03 01 FF}有{F2 03 01 FF}来{F2 03 01 FF}历{F2 03 01 FF}的{F2 03 01 FF}铁{F2 03 01 FF}棒{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:11:0",
+  "message_id": "quest11",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}商{F2 03 01 FF}店{F2 03 01 FF}街{F2 03 01 FF}北{F2 03 01 FF}侧{F2 03 01 FF}老{F2 03 01 FF}人{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}桑{F2 03 01 FF}拿{F2 03 01 FF}用{F2 03 01 FF}的{F2 03 01 FF}煤{F2 03 01 FF}炭{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:12:0",
+  "message_id": "quest12",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}实{F2 03 01 FF}习{F2 03 01 FF}楼{F2 03 01 FF}２{F2 03 01 FF}层{F2 03 01 FF}女{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}为{F2 03 01 FF}了{F2 03 01 FF}制{F2 03 01 FF}作{F2 03 01 FF}新{F2 03 01 FF}桌{F2 03 01 FF}子{F2 03 01 FF}，{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}耐{F2 03 01 FF}胶{F2 03 01 FF}木{F2 03 01 FF}板{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:13:0",
+  "message_id": "quest13",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}神{F2 03 01 FF}社{F2 03 01 FF}狐{F2 03 01 FF}狸{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}女{F2 03 01 FF}性{F2 03 01 FF}的{F2 03 01 FF}字{F2 03 01 FF}迹{F2 03 01 FF}在{F2 03 01 FF}绘{F2 03 01 FF}马{F2 03 01 FF}上{F2 03 01 FF}写{F2 03 01 FF}着{F2 03 01 FF}想{F2 03 01 FF}要{F2 03 01 FF}讨{F2 03 01 FF}厌{F2 03 01 FF}零{F2 03 01 FF}食{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}这{F2 03 01 FF}样{F2 03 01 FF}的{F2 03 01 FF}愿{F2 03 01 FF}望{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:14:0",
+  "message_id": "quest14",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}商{F2 03 01 FF}店{F2 03 01 FF}街{F2 03 01 FF}南{F2 03 01 FF}侧{F2 03 01 FF}男{F2 03 01 FF}子{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}去{F2 03 01 FF}喂{F2 03 01 FF}鲛{F2 03 01 FF}川{F2 03 01 FF}河{F2 03 01 FF}滩{F2 03 01 FF}的{F2 03 01 FF}猫{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:15:0",
+  "message_id": "quest15",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}室{F2 03 01 FF}里{F2 03 01 FF}女{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}形{F2 03 01 FF}状{F2 03 01 FF}奇{F2 03 01 FF}特{F2 03 01 FF}的{F2 03 01 FF}十{F2 03 01 FF}字{F2 03 01 FF}架{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:16:0",
+  "message_id": "quest16",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}商{F2 03 01 FF}店{F2 03 01 FF}街{F2 03 01 FF}南{F2 03 01 FF}侧{F2 03 01 FF}老{F2 03 01 FF}妇{F2 03 01 FF}人{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}用{F2 03 01 FF}作{F2 03 01 FF}装{F2 03 01 FF}饰{F2 03 01 FF}的{F2 03 01 FF}壮{F2 03 01 FF}丽{F2 03 01 FF}之{F2 03 01 FF}角{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:17:0",
+  "message_id": "quest17",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}商{F2 03 01 FF}店{F2 03 01 FF}街{F2 03 01 FF}南{F2 03 01 FF}侧{F2 03 01 FF}少{F2 03 01 FF}女{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}去{F2 03 01 FF}寻{F2 03 01 FF}找{F2 03 01 FF}据{F2 03 01 FF}说{F2 03 01 FF}在{F2 03 01 FF}河{F2 03 01 FF}滩{F2 03 01 FF}的{F2 03 01 FF}妹{F2 03 01 FF}妹{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:18:0",
+  "message_id": "quest18",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}鲛{F2 03 01 FF}川{F2 03 01 FF}河{F2 03 01 FF}滩{F2 03 01 FF}少{F2 03 01 FF}女{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}和{F2 03 01 FF}姐{F2 03 01 FF}姐{F2 03 01 FF}相{F2 03 01 FF}同{F2 03 01 FF}的{F2 03 01 FF}花{F2 03 01 FF}形{F2 03 01 FF}胸{F2 03 01 FF}针{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:19:0",
+  "message_id": "quest19",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}实{F2 03 01 FF}习{F2 03 01 FF}楼{F2 03 01 FF}１{F2 03 01 FF}层{F2 03 01 FF}男{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}制{F2 03 01 FF}作{F2 03 01 FF}矿{F2 03 01 FF}石{F2 03 01 FF}收{F2 03 01 FF}音{F2 03 01 FF}机{F2 03 01 FF}用{F2 03 01 FF}的{F2 03 01 FF}银{F2 03 01 FF}块{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:20:0",
+  "message_id": "quest20",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}神{F2 03 01 FF}社{F2 03 01 FF}狐{F2 03 01 FF}狸{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}绘{F2 03 01 FF}马{F2 03 01 FF}上{F2 03 01 FF}全{F2 03 01 FF}家{F2 03 01 FF}一{F2 03 01 FF}起{F2 03 01 FF}写{F2 03 01 FF}下{F2 03 01 FF}希{F2 03 01 FF}望{F2 03 01 FF}爱{F2 03 01 FF}犬{F2 03 01 FF}回{F2 03 01 FF}来{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}这{F2 03 01 FF}样{F2 03 01 FF}的{F2 03 01 FF}愿{F2 03 01 FF}望{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:21:0",
+  "message_id": "quest21",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}室{F2 03 01 FF}里{F2 03 01 FF}女{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}拥{F2 03 01 FF}有{F2 03 01 FF}驱{F2 03 01 FF}魔{F2 03 01 FF}力{F2 03 01 FF}量{F2 03 01 FF}的{F2 03 01 FF}面{F2 03 01 FF}纱{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:22:0",
+  "message_id": "quest22",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}商{F2 03 01 FF}店{F2 03 01 FF}街{F2 03 01 FF}南{F2 03 01 FF}侧{F2 03 01 FF}男{F2 03 01 FF}子{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}硬{F2 03 01 FF}靴{F2 03 01 FF}，{F2 03 01 FF}交{F2 03 01 FF}换{F2 03 01 FF}书{F2 03 01 FF}籍{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:23:0",
+  "message_id": "quest23",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}学{F2 03 01 FF}楼{F2 03 01 FF}３{F2 03 01 FF}层{F2 03 01 FF}男{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}漂{F2 03 01 FF}亮{F2 03 01 FF}地{F2 03 01 FF}答{F2 03 01 FF}对{F2 03 01 FF}他{F2 03 01 FF}出{F2 03 01 FF}的{F2 03 01 FF}谜{F2 03 01 FF}语{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:24:0",
+  "message_id": "quest24",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}鲛{F2 03 01 FF}川{F2 03 01 FF}河{F2 03 01 FF}滩{F2 03 01 FF}老{F2 03 01 FF}人{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}夜{F2 03 01 FF}间{F2 03 01 FF}散{F2 03 01 FF}步{F2 03 01 FF}用{F2 03 01 FF}的{F2 03 01 FF}不{F2 03 01 FF}灭{F2 03 01 FF}灯{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:25:0",
+  "message_id": "quest25",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}不{F2 03 01 FF}知{F2 03 01 FF}不{F2 03 01 FF}觉{F2 03 01 FF}给{F2 03 01 FF}自{F2 03 01 FF}己{F2 03 01 FF}接{F2 03 01 FF}下{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}\n{F2 03 01 FF}去{F2 03 01 FF}喂{F2 03 01 FF}河{F2 03 01 FF}滩{F2 03 01 FF}的{F2 03 01 FF}猫{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:26:0",
+  "message_id": "quest26",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}神{F2 03 01 FF}社{F2 03 01 FF}狐{F2 03 01 FF}狸{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}绘{F2 03 01 FF}马{F2 03 01 FF}上{F2 03 01 FF}用{F2 03 01 FF}孩{F2 03 01 FF}子{F2 03 01 FF}般{F2 03 01 FF}的{F2 03 01 FF}字{F2 03 01 FF}迹{F2 03 01 FF}写{F2 03 01 FF}着{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}想{F2 03 01 FF}要{F2 03 01 FF}交{F2 03 01 FF}到{F2 03 01 FF}朋{F2 03 01 FF}友{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:27:0",
+  "message_id": "quest27",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}商{F2 03 01 FF}店{F2 03 01 FF}街{F2 03 01 FF}南{F2 03 01 FF}侧{F2 03 01 FF}男{F2 03 01 FF}子{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}３{F2 03 01 FF}个{F2 03 01 FF}时{F2 03 01 FF}髦{F2 03 01 FF}托{F2 03 01 FF}盘{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:28:0",
+  "message_id": "quest28",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}鲛{F2 03 01 FF}川{F2 03 01 FF}河{F2 03 01 FF}滩{F2 03 01 FF}少{F2 03 01 FF}女{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}和{F2 03 01 FF}姐{F2 03 01 FF}姐{F2 03 01 FF}相{F2 03 01 FF}同{F2 03 01 FF}的{F2 03 01 FF}叶{F2 03 01 FF}片{F2 03 01 FF}挎{F2 03 01 FF}包{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:29:0",
+  "message_id": "quest29",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}商{F2 03 01 FF}店{F2 03 01 FF}街{F2 03 01 FF}南{F2 03 01 FF}侧{F2 03 01 FF}少{F2 03 01 FF}女{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}去{F2 03 01 FF}问{F2 03 01 FF}河{F2 03 01 FF}滩{F2 03 01 FF}的{F2 03 01 FF}妹{F2 03 01 FF}妹{F2 03 01 FF}，{F2 03 01 FF}心{F2 03 01 FF}灵{F2 03 01 FF}感{F2 03 01 FF}应{F2 03 01 FF}是{F2 03 01 FF}否{F2 03 01 FF}成{F2 03 01 FF}功{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:30:0",
+  "message_id": "quest30",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}神{F2 03 01 FF}社{F2 03 01 FF}狐{F2 03 01 FF}狸{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}绘{F2 03 01 FF}马{F2 03 01 FF}上{F2 03 01 FF}以{F2 03 01 FF}漂{F2 03 01 FF}亮{F2 03 01 FF}的{F2 03 01 FF}字{F2 03 01 FF}迹{F2 03 01 FF}写{F2 03 01 FF}下{F2 03 01 FF}找{F2 03 01 FF}回{F2 03 01 FF}生{F2 03 01 FF}活{F2 03 01 FF}意{F2 03 01 FF}义{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}这{F2 03 01 FF}样{F2 03 01 FF}的{F2 03 01 FF}愿{F2 03 01 FF}望{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:31:0",
+  "message_id": "quest31",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}学{F2 03 01 FF}楼{F2 03 01 FF}２{F2 03 01 FF}层{F2 03 01 FF}老{F2 03 01 FF}师{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}珍{F2 03 01 FF}贵{F2 03 01 FF}的{F2 03 01 FF}克{F2 03 01 FF}鲁{F2 03 01 FF}鲁{F2 03 01 FF}金{F2 03 01 FF}属{F2 03 01 FF}矿{F2 03 01 FF}石{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:32:0",
+  "message_id": "quest32",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}学{F2 03 01 FF}楼{F2 03 01 FF}３{F2 03 01 FF}层{F2 03 01 FF}老{F2 03 01 FF}师{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}据{F2 03 01 FF}说{F2 03 01 FF}看{F2 03 01 FF}风{F2 03 01 FF}水{F2 03 01 FF}要{F2 03 01 FF}用{F2 03 01 FF}的{F2 03 01 FF}水{F2 03 01 FF}晶{F2 03 01 FF}球{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:33:0",
+  "message_id": "quest33",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}商{F2 03 01 FF}店{F2 03 01 FF}街{F2 03 01 FF}北{F2 03 01 FF}侧{F2 03 01 FF}老{F2 03 01 FF}人{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}桑{F2 03 01 FF}拿{F2 03 01 FF}用{F2 03 01 FF}的{F2 03 01 FF}极{F2 03 01 FF}品{F2 03 01 FF}煤{F2 03 01 FF}炭{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:34:0",
+  "message_id": "quest34",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}商{F2 03 01 FF}店{F2 03 01 FF}街{F2 03 01 FF}南{F2 03 01 FF}侧{F2 03 01 FF}男{F2 03 01 FF}子{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}回{F2 03 01 FF}答{F2 03 01 FF}之{F2 03 01 FF}前{F2 03 01 FF}收{F2 03 01 FF}到{F2 03 01 FF}的{F2 03 01 FF}书{F2 03 01 FF}籍{F2 03 01 FF}里{F2 03 01 FF}的{F2 03 01 FF}内{F2 03 01 FF}容{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:35:0",
+  "message_id": "quest35",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}实{F2 03 01 FF}习{F2 03 01 FF}楼{F2 03 01 FF}２{F2 03 01 FF}层{F2 03 01 FF}女{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}３{F2 03 01 FF}个{F2 03 01 FF}受{F2 03 01 FF}孩{F2 03 01 FF}子{F2 03 01 FF}欢{F2 03 01 FF}迎{F2 03 01 FF}的{F2 03 01 FF}徽{F2 03 01 FF}章{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:36:0",
+  "message_id": "quest36",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}神{F2 03 01 FF}社{F2 03 01 FF}狐{F2 03 01 FF}狸{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}女{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}般{F2 03 01 FF}的{F2 03 01 FF}字{F2 03 01 FF}迹{F2 03 01 FF}写{F2 03 01 FF}下{F2 03 01 FF}改{F2 03 01 FF}掉{F2 03 01 FF}不{F2 03 01 FF}善{F2 03 01 FF}言{F2 03 01 FF}辞{F2 03 01 FF}毛{F2 03 01 FF}病{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}这{F2 03 01 FF}样{F2 03 01 FF}的{F2 03 01 FF}愿{F2 03 01 FF}望{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:37:0",
+  "message_id": "quest37",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}学{F2 03 01 FF}楼{F2 03 01 FF}１{F2 03 01 FF}层{F2 03 01 FF}女{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}艺{F2 03 01 FF}术{F2 03 01 FF}创{F2 03 01 FF}作{F2 03 01 FF}用{F2 03 01 FF}的{F2 03 01 FF}高{F2 03 01 FF}速{F2 03 01 FF}齿{F2 03 01 FF}轮{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:38:0",
+  "message_id": "quest38",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}鲛{F2 03 01 FF}川{F2 03 01 FF}河{F2 03 01 FF}滩{F2 03 01 FF}少{F2 03 01 FF}女{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}树{F2 03 01 FF}枝{F2 03 01 FF}发{F2 03 01 FF}箍{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:39:0",
+  "message_id": "quest39",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}学{F2 03 01 FF}楼{F2 03 01 FF}３{F2 03 01 FF}层{F2 03 01 FF}校{F2 03 01 FF}长{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}供{F2 03 01 FF}收{F2 03 01 FF}藏{F2 03 01 FF}的{F2 03 01 FF}战{F2 03 01 FF}车{F2 03 01 FF}演{F2 03 01 FF}习{F2 03 01 FF}弹{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:40:0",
+  "message_id": "quest40",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}商{F2 03 01 FF}店{F2 03 01 FF}街{F2 03 01 FF}南{F2 03 01 FF}侧{F2 03 01 FF}少{F2 03 01 FF}女{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}再{F2 03 01 FF}去{F2 03 01 FF}问{F2 03 01 FF}河{F2 03 01 FF}滩{F2 03 01 FF}的{F2 03 01 FF}妹{F2 03 01 FF}妹{F2 03 01 FF}，{F2 03 01 FF}心{F2 03 01 FF}灵{F2 03 01 FF}感{F2 03 01 FF}应{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}成{F2 03 01 FF}功{F2 03 01 FF}了{F2 03 01 FF}没{F2 03 01 FF}有{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:41:0",
+  "message_id": "quest41",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}神{F2 03 01 FF}社{F2 03 01 FF}狐{F2 03 01 FF}狸{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}男{F2 03 01 FF}性{F2 03 01 FF}的{F2 03 01 FF}字{F2 03 01 FF}迹{F2 03 01 FF}在{F2 03 01 FF}绘{F2 03 01 FF}马{F2 03 01 FF}上{F2 03 01 FF}写{F2 03 01 FF}下{F2 03 01 FF}想{F2 03 01 FF}适{F2 03 01 FF}应{F2 03 01 FF}猫{F2 03 01 FF}咪{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}这{F2 03 01 FF}样{F2 03 01 FF}的{F2 03 01 FF}愿{F2 03 01 FF}望{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:42:0",
+  "message_id": "quest42",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}神{F2 03 01 FF}社{F2 03 01 FF}狐{F2 03 01 FF}狸{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}绘{F2 03 01 FF}马{F2 03 01 FF}上{F2 03 01 FF}希{F2 03 01 FF}望{F2 03 01 FF}钱{F2 03 01 FF}能{F2 03 01 FF}找{F2 03 01 FF}回{F2 03 01 FF}的{F2 03 01 FF}愿{F2 03 01 FF}望{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}是{F2 03 01 FF}用{F2 03 01 FF}女{F2 03 01 FF}性{F2 03 01 FF}的{F2 03 01 FF}字{F2 03 01 FF}迹{F2 03 01 FF}写{F2 03 01 FF}的{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:43:0",
+  "message_id": "quest43",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}室{F2 03 01 FF}里{F2 03 01 FF}男{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}用{F2 03 01 FF}作{F2 03 01 FF}礼{F2 03 01 FF}物{F2 03 01 FF}的{F2 03 01 FF}动{F2 03 01 FF}物{F2 03 01 FF}图{F2 03 01 FF}鉴{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:44:0",
+  "message_id": "quest44",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}实{F2 03 01 FF}习{F2 03 01 FF}楼{F2 03 01 FF}２{F2 03 01 FF}层{F2 03 01 FF}女{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}为{F2 03 01 FF}喜{F2 03 01 FF}欢{F2 03 01 FF}模{F2 03 01 FF}型{F2 03 01 FF}的{F2 03 01 FF}父{F2 03 01 FF}亲{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}做{F2 03 01 FF}架{F2 03 01 FF}子{F2 03 01 FF}的{F2 03 01 FF}木{F2 03 01 FF}板{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:45:0",
+  "message_id": "quest45",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}实{F2 03 01 FF}习{F2 03 01 FF}楼{F2 03 01 FF}１{F2 03 01 FF}层{F2 03 01 FF}男{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}制{F2 03 01 FF}作{F2 03 01 FF}矿{F2 03 01 FF}石{F2 03 01 FF}收{F2 03 01 FF}音{F2 03 01 FF}机{F2 03 01 FF}用{F2 03 01 FF}的{F2 03 01 FF}古{F2 03 01 FF}老{F2 03 01 FF}矿{F2 03 01 FF}石{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:46:0",
+  "message_id": "quest46",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}鲛{F2 03 01 FF}川{F2 03 01 FF}河{F2 03 01 FF}滩{F2 03 01 FF}老{F2 03 01 FF}人{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}朴{F2 03 01 FF}素{F2 03 01 FF}的{F2 03 01 FF}灯{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:47:0",
+  "message_id": "quest47",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}学{F2 03 01 FF}楼{F2 03 01 FF}３{F2 03 01 FF}层{F2 03 01 FF}男{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}漂{F2 03 01 FF}亮{F2 03 01 FF}地{F2 03 01 FF}答{F2 03 01 FF}对{F2 03 01 FF}据{F2 03 01 FF}说{F2 03 01 FF}变{F2 03 01 FF}得{F2 03 01 FF}更{F2 03 01 FF}难{F2 03 01 FF}的{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}谜{F2 03 01 FF}语{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:48:0",
+  "message_id": "quest48",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}神{F2 03 01 FF}社{F2 03 01 FF}狐{F2 03 01 FF}狸{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}绘{F2 03 01 FF}马{F2 03 01 FF}上{F2 03 01 FF}用{F2 03 01 FF}毛{F2 03 01 FF}笔{F2 03 01 FF}写{F2 03 01 FF}着{F2 03 01 FF}，{F2 03 01 FF}希{F2 03 01 FF}望{F2 03 01 FF}有{F2 03 01 FF}生{F2 03 01 FF}之{F2 03 01 FF}年{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}能{F2 03 01 FF}亲{F2 03 01 FF}眼{F2 03 01 FF}见{F2 03 01 FF}到{F2 03 01 FF}传{F2 03 01 FF}说{F2 03 01 FF}住{F2 03 01 FF}在{F2 03 01 FF}七{F2 03 01 FF}里{F2 03 01 FF}海{F2 03 01 FF}岸{F2 03 01 FF}的{F2 03 01 FF}鱼{F2 03 01 FF}王{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:49:0",
+  "message_id": "quest49",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}不{F2 03 01 FF}知{F2 03 01 FF}不{F2 03 01 FF}觉{F2 03 01 FF}给{F2 03 01 FF}自{F2 03 01 FF}己{F2 03 01 FF}接{F2 03 01 FF}下{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}\n{F2 03 01 FF}给{F2 03 01 FF}河{F2 03 01 FF}滩{F2 03 01 FF}的{F2 03 01 FF}猫{F2 03 01 FF}喂{F2 03 01 FF}很{F2 03 01 FF}多{F2 03 01 FF}食{F2 03 01 FF}物{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:50:0",
+  "message_id": "quest50",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}学{F2 03 01 FF}楼{F2 03 01 FF}３{F2 03 01 FF}层{F2 03 01 FF}男{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}漂{F2 03 01 FF}亮{F2 03 01 FF}地{F2 03 01 FF}答{F2 03 01 FF}对{F2 03 01 FF}他{F2 03 01 FF}这{F2 03 01 FF}次{F2 03 01 FF}认{F2 03 01 FF}真{F2 03 01 FF}出{F2 03 01 FF}的{F2 03 01 FF}谜{F2 03 01 FF}语{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:51:0",
+  "message_id": "quest51",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}学{F2 03 01 FF}楼{F2 03 01 FF}２{F2 03 01 FF}层{F2 03 01 FF}祖{F2 03 01 FF}父{F2 03 01 FF}江{F2 03 01 FF}老{F2 03 01 FF}师{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}稀{F2 03 01 FF}有{F2 03 01 FF}的{F2 03 01 FF}奥{F2 03 01 FF}利{F2 03 01 FF}哈{F2 03 01 FF}钢{F2 03 01 FF}矿{F2 03 01 FF}石{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:52:0",
+  "message_id": "quest52",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}学{F2 03 01 FF}楼{F2 03 01 FF}３{F2 03 01 FF}层{F2 03 01 FF}中{F2 03 01 FF}山{F2 03 01 FF}老{F2 03 01 FF}师{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}书{F2 03 01 FF}上{F2 03 01 FF}说{F2 03 01 FF}能{F2 03 01 FF}提{F2 03 01 FF}升{F2 03 01 FF}财{F2 03 01 FF}运{F2 03 01 FF}的{F2 03 01 FF}黄{F2 03 01 FF}金{F2 03 01 FF}锁{F2 03 01 FF}链{F2 03 01 FF}束{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}共{F2 03 01 FF}３{F2 03 01 FF}束{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:53:0",
+  "message_id": "quest53",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}学{F2 03 01 FF}楼{F2 03 01 FF}３{F2 03 01 FF}层{F2 03 01 FF}校{F2 03 01 FF}长{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}正{F2 03 01 FF}确{F2 03 01 FF}回{F2 03 01 FF}答{F2 03 01 FF}校{F2 03 01 FF}长{F2 03 01 FF}提{F2 03 01 FF}出{F2 03 01 FF}的{F2 03 01 FF}问{F2 03 01 FF}题{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:54:0",
+  "message_id": "quest54",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}学{F2 03 01 FF}楼{F2 03 01 FF}１{F2 03 01 FF}层{F2 03 01 FF}柏{F2 03 01 FF}木{F2 03 01 FF}老{F2 03 01 FF}师{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}正{F2 03 01 FF}确{F2 03 01 FF}回{F2 03 01 FF}答{F2 03 01 FF}柏{F2 03 01 FF}木{F2 03 01 FF}老{F2 03 01 FF}师{F2 03 01 FF}提{F2 03 01 FF}出{F2 03 01 FF}的{F2 03 01 FF}问{F2 03 01 FF}题{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:55:0",
+  "message_id": "quest55",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}学{F2 03 01 FF}楼{F2 03 01 FF}３{F2 03 01 FF}层{F2 03 01 FF}男{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}能{F2 03 01 FF}体{F2 03 01 FF}现{F2 03 01 FF}继{F2 03 01 FF}承{F2 03 01 FF}清{F2 03 01 FF}扫{F2 03 01 FF}社{F2 03 01 FF}员{F2 03 01 FF}精{F2 03 01 FF}神{F2 03 01 FF}的{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}道{F2 03 01 FF}具{F2 03 01 FF}和{F2 03 01 FF}服{F2 03 01 FF}装{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:56:0",
+  "message_id": "quest56",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}学{F2 03 01 FF}楼{F2 03 01 FF}３{F2 03 01 FF}层{F2 03 01 FF}男{F2 03 01 FF}学{F2 03 01 FF}生{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}他{F2 03 01 FF}希{F2 03 01 FF}望{F2 03 01 FF}再{F2 03 01 FF}次{F2 03 01 FF}震{F2 03 01 FF}撼{F2 03 01 FF}灵{F2 03 01 FF}魂{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}漂{F2 03 01 FF}亮{F2 03 01 FF}地{F2 03 01 FF}答{F2 03 01 FF}对{F2 03 01 FF}他{F2 03 01 FF}的{F2 03 01 FF}谜{F2 03 01 FF}语{F2 03 01 FF}吧{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:57:0",
+  "message_id": "quest57",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}达{F2 03 01 FF}伊{F2 03 01 FF}达{F2 03 01 FF}拉{F2 03 01 FF}店{F2 03 01 FF}主{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}在{F2 03 01 FF}鲛{F2 03 01 FF}川{F2 03 01 FF}河{F2 03 01 FF}滩{F2 03 01 FF}能{F2 03 01 FF}钓{F2 03 01 FF}到{F2 03 01 FF}的{F2 03 01 FF}稻{F2 03 01 FF}羽{F2 03 01 FF}鳟{F2 03 01 FF}鱼{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:58:0",
+  "message_id": "quest58",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}达{F2 03 01 FF}伊{F2 03 01 FF}达{F2 03 01 FF}拉{F2 03 01 FF}店{F2 03 01 FF}主{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}取{F2 03 01 FF}得{F2 03 01 FF}据{F2 03 01 FF}说{F2 03 01 FF}有{F2 03 01 FF}２{F2 03 01 FF}种{F2 03 01 FF}的{F2 03 01 FF}玉{F2 03 01 FF}米{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}凑{F2 03 01 FF}齐{F2 03 01 FF}两{F2 03 01 FF}种{F2 03 01 FF}一{F2 03 01 FF}起{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:59:0",
+  "message_id": "quest59",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}达{F2 03 01 FF}伊{F2 03 01 FF}达{F2 03 01 FF}拉{F2 03 01 FF}店{F2 03 01 FF}主{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}带{F2 03 01 FF}去{F2 03 01 FF}在{F2 03 01 FF}鲛{F2 03 01 FF}川{F2 03 01 FF}河{F2 03 01 FF}滩{F2 03 01 FF}能{F2 03 01 FF}钓{F2 03 01 FF}到{F2 03 01 FF}的{F2 03 01 FF}鱼{F2 03 01 FF}王{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:60:0",
+  "message_id": "quest60",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}朱{F2 03 01 FF}尼{F2 03 01 FF}斯{F2 03 01 FF}主{F2 03 01 FF}妇{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}取{F2 03 01 FF}得{F2 03 01 FF}３{F2 03 01 FF}颗{F2 03 01 FF}卷{F2 03 01 FF}心{F2 03 01 FF}菜{F2 03 01 FF}并{F2 03 01 FF}带{F2 03 01 FF}给{F2 03 01 FF}她{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:61:0",
+  "message_id": "quest61",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}冲{F2 03 01 FF}奈{F2 03 01 FF}市{F2 03 01 FF}电{F2 03 01 FF}影{F2 03 01 FF}院{F2 03 01 FF}店{F2 03 01 FF}员{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}去{F2 03 01 FF}街{F2 03 01 FF}上{F2 03 01 FF}给{F2 03 01 FF}行{F2 03 01 FF}人{F2 03 01 FF}分{F2 03 01 FF}发{F2 03 01 FF}纸{F2 03 01 FF}巾{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:62:0",
+  "message_id": "quest62",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}冲{F2 03 01 FF}奈{F2 03 01 FF}市{F2 03 01 FF}爱{F2 03 01 FF}看{F2 03 01 FF}电{F2 03 01 FF}影{F2 03 01 FF}的{F2 03 01 FF}少{F2 03 01 FF}女{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}关{F2 03 01 FF}于{F2 03 01 FF}电{F2 03 01 FF}影{F2 03 01 FF}里{F2 03 01 FF}出{F2 03 01 FF}现{F2 03 01 FF}的{F2 03 01 FF}欧{F2 03 01 FF}帕{F2 03 01 FF}兹{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}去{F2 03 01 FF}请{F2 03 01 FF}教{F2 03 01 FF}知{F2 03 01 FF}情{F2 03 01 FF}人{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:63:0",
+  "message_id": "quest63",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}冲{F2 03 01 FF}奈{F2 03 01 FF}市{F2 03 01 FF}文{F2 03 01 FF}静{F2 03 01 FF}主{F2 03 01 FF}妇{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}找{F2 03 01 FF}来{F2 03 01 FF}能{F2 03 01 FF}实{F2 03 01 FF}现{F2 03 01 FF}她{F2 03 01 FF}小{F2 03 01 FF}小{F2 03 01 FF}心{F2 03 01 FF}愿{F2 03 01 FF}的{F2 03 01 FF}衣{F2 03 01 FF}服{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:64:0",
+  "message_id": "quest64",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}冲{F2 03 01 FF}奈{F2 03 01 FF}市{F2 03 01 FF}浓{F2 03 01 FF}妆{F2 03 01 FF}女{F2 03 01 FF}子{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}找{F2 03 01 FF}来{F2 03 01 FF}能{F2 03 01 FF}令{F2 03 01 FF}她{F2 03 01 FF}心{F2 03 01 FF}动{F2 03 01 FF}的{F2 03 01 FF}衣{F2 03 01 FF}服{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:65:0",
+  "message_id": "quest65",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}冲{F2 03 01 FF}奈{F2 03 01 FF}市{F2 03 01 FF}慌{F2 03 01 FF}张{F2 03 01 FF}大{F2 03 01 FF}婶{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}帮{F2 03 01 FF}她{F2 03 01 FF}在{F2 03 01 FF}稻{F2 03 01 FF}羽{F2 03 01 FF}市{F2 03 01 FF}寻{F2 03 01 FF}找{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}不{F2 03 01 FF}见{F2 03 01 FF}了{F2 03 01 FF}的{F2 03 01 FF}美{F2 03 01 FF}香{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:66:0",
+  "message_id": "quest66",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}冲{F2 03 01 FF}奈{F2 03 01 FF}市{F2 03 01 FF}慌{F2 03 01 FF}张{F2 03 01 FF}大{F2 03 01 FF}婶{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}帮{F2 03 01 FF}她{F2 03 01 FF}在{F2 03 01 FF}稻{F2 03 01 FF}羽{F2 03 01 FF}市{F2 03 01 FF}寻{F2 03 01 FF}找{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}不{F2 03 01 FF}见{F2 03 01 FF}了{F2 03 01 FF}的{F2 03 01 FF}实{F2 03 01 FF}里{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:67:0",
+  "message_id": "quest67",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}学{F2 03 01 FF}楼{F2 03 01 FF}１{F2 03 01 FF}层{F2 03 01 FF}柏{F2 03 01 FF}木{F2 03 01 FF}老{F2 03 01 FF}师{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}找{F2 03 01 FF}来{F2 03 01 FF}能{F2 03 01 FF}把{F2 03 01 FF}脚{F2 03 01 FF}整{F2 03 01 FF}个{F2 03 01 FF}包{F2 03 01 FF}住{F2 03 01 FF}的{F2 03 01 FF}可{F2 03 01 FF}爱{F2 03 01 FF}拖{F2 03 01 FF}鞋{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}拿{F2 03 01 FF}给{F2 03 01 FF}她{F2 03 01 FF}看{F2 03 01 FF}看{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:68:0",
+  "message_id": "quest68",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}学{F2 03 01 FF}楼{F2 03 01 FF}１{F2 03 01 FF}层{F2 03 01 FF}柏{F2 03 01 FF}木{F2 03 01 FF}老{F2 03 01 FF}师{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}找{F2 03 01 FF}来{F2 03 01 FF}据{F2 03 01 FF}说{F2 03 01 FF}带{F2 03 01 FF}有{F2 03 01 FF}软{F2 03 01 FF}软{F2 03 01 FF}肉{F2 03 01 FF}球{F2 03 01 FF}的{F2 03 01 FF}手{F2 03 01 FF}套{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}拿{F2 03 01 FF}给{F2 03 01 FF}她{F2 03 01 FF}看{F2 03 01 FF}看{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquesthelp.bmd.json:69:0",
+  "message_id": "quest69",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}教{F2 03 01 FF}学{F2 03 01 FF}楼{F2 03 01 FF}１{F2 03 01 FF}层{F2 03 01 FF}柏{F2 03 01 FF}木{F2 03 01 FF}老{F2 03 01 FF}师{F2 03 01 FF}的{F2 03 01 FF}委{F2 03 01 FF}托{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}正{F2 03 01 FF}确{F2 03 01 FF}回{F2 03 01 FF}答{F2 03 01 FF}柏{F2 03 01 FF}木{F2 03 01 FF}老{F2 03 01 FF}师{F2 03 01 FF}提{F2 03 01 FF}出{F2 03 01 FF}的{F2 03 01 FF}问{F2 03 01 FF}题{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{00}"
+ }
+]

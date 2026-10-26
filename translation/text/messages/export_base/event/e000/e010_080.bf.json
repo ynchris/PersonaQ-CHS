@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:0:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 11 01}２扇门，４把锁……\n这究竟是什么……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:1:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 02 01}这里原本不是\n这个样子吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:2:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 03 01}不是……\n原本只是个放下桌椅\n就满了的小房间……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:2:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 04 01}自然也没有这样的门……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:2:2",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}难道是因为带各位过来，\n这里才发生了变化……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0B 01 01 01 07 01}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 03 01 01 01 01 01 01 01}什、什么意思？\n别说这种怪话啦！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:3:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 07 01}{F5 C1 03 01 01 01 01 01 0B 01}我、我可以出去吗？\n先、先出去一下吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞千枝蹑手蹑脚地\n　朝出口走去……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞像钟声一样的声音，\n　比之前更加清晰地回响起来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 01 01 04 01}{F5 86 23 01 09 01 02 01 02 01}{F5 61 02 01 01 01 01 01 08 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:6:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}我们或许，是被召唤来的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}{F5 C1 03 01 01 01 01 01 05 01}被谁……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}……被世界。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}世界……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}我会稍微调查一下这里。\n各位若有发现，还请叫我。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0E 01}{F5 C1 04 01 01 01 01 01 04 01}……咦？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞房间外传来了千枝的声音……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 08 01 07 01 02 01 02 01}{F5 61 02 01 01 01 01 01 0F 01}是地上掉了肉吗～？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 02 01 02 01 01 01 02 01}{F5 86 09 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 10 01}……去看看吧，{F1 81}学长。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_080.bf.json:15:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞决定到外面去……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,27 @@
+[
+ {
+  "key": "export_base/event/e800/e820_735.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 03 01 65 01 02 01}{F5 61 02 01 01 01 01 01 5C 05}{F5 C1 03 01 01 01 01 01 08 01}真不愧是你们！\n太帅啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_735.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 01 01}那么，已经没有阴影的气息了……\n进去看看吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_735.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 07 01 65 01 02 01}{F5 61 02 01 01 01 01 01 DE 04}{F5 C1 03 01 01 01 01 01 05 01}嗯……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_735.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}这是什么……？\n里面好像出现了什么东西……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_735.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 01 01}能不能……\n进去看看？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

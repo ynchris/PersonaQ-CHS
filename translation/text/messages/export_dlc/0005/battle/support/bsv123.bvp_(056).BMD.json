@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:0:0",
+  "message_id": "BTL_MES_H123_057_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B4 01}副队长大人变成石头了！\n还高举着拳头！！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:1:0",
+  "message_id": "BTL_MES_H123_057_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 AB 01}不好，副队长大人，\n变得像石像一样……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:2:0",
+  "message_id": "BTL_MES_H123_057_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B5 01}啊，花村大人……即使成为石像，\n那股令人失望的气息也没消失呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:3:0",
+  "message_id": "BTL_MES_H123_057_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B6 01}里中大人变成石像了！\n……那是……白鹤架势！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:4:0",
+  "message_id": "BTL_MES_H123_057_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B7 01}天城大人……摆着舞姿变成石头……\n……莫非有什么讲究吗……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:6:0",
+  "message_id": "BTL_MES_H123_057_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B8 01}巽大人的石像……\n这姿态……简直能用来辟邪！！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:7:0",
+  "message_id": "BTL_MES_H123_057_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 BA 01}啊！白钟大人成了石化王子！\n啊……不……失礼了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:8:0",
+  "message_id": "BTL_MES_H123_057_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B9 01}石化后的小熊大人，\n怎么看都像是什么地方的摆件……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:9:0",
+  "message_id": "BTL_MES_H123_057_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 AC 01}啊…岳羽大人石化了…\n硬邦邦的……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:10:0",
+  "message_id": "BTL_MES_H123_057_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 AD 01}啊……伊织大人变成石头了！\n嗯……倒是安静下来了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:11:0",
+  "message_id": "BTL_MES_H123_057_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 AE 01}啊……真田大人……\n保持着战斗姿势变成石头了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:12:0",
+  "message_id": "BTL_MES_H123_057_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 AF 01}怎么会！桐条大人成了石像！\n……不过，这样也很美丽……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:14:0",
+  "message_id": "BTL_MES_H123_057_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B2 01}埃癸斯大人变成石头了！\n虽、虽然她本来就很坚硬……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:15:0",
+  "message_id": "BTL_MES_H123_057_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B0 01}天田大人被石化了！\n防御力似乎提高了，不过……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:16:0",
+  "message_id": "BTL_MES_H123_057_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B1 01}啊！虎狼丸大人成了石像！\n可爱得真想摆在房间里……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:17:0",
+  "message_id": "BTL_MES_H123_057_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B3 01}话说回来，荒垣大人即使变成石头，\n也依然很有魄力呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:18:0",
+  "message_id": "BTL_MES_H123_057_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 BB 01}善大人和玲大人变成石头了！\n连石化都是两位一起！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:19:0",
+  "message_id": "BTL_MES_H123_057_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 BC 01}啊！善大人变成石头了！\n更面无表情了！！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:20:0",
+  "message_id": "BTL_MES_H123_057_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 AA 01}怎么会这样……\n队长大人石化了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(056).BMD.json:21:0",
+  "message_id": "BTL_MES_H123_057_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A9 01}啊！队长大人！\n简直像石像一样……\n{F2 26 00 00}{00}"
+ }
+]

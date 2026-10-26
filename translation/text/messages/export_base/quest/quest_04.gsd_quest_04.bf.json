@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/quest/quest_04.gsd_quest_04.bf.json:3:0",
+  "message_id": "MSG_CANCEL",
+  "translation": "{F2 05 FF FF}{F1 41}取消委托\n“抓住偷食物的小偷”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/quest/quest_04.gsd_quest_04.bf.json:3:1",
+  "message_id": "MSG_CANCEL",
+  "translation": "{F2 05 FF FF}{F1 41}另外，这项委托\n设有{F2 01 03 01}期限{F2 01 01 01}。\n请尽早接受。\n{F1 21}{00}"
+ }
+]

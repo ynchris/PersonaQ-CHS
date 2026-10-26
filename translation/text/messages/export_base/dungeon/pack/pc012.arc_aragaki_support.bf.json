@@ -1,0 +1,257 @@
+[
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:0:0",
+  "message_id": "ARAGAKI_FOE_FOLLOW_START",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 5D 04}喂……\nＦ．Ｏ．Ｅ追过来了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:1:0",
+  "message_id": "ARAGAKI_FOE_FOLLOW_START",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 5E 04}看来被Ｆ．Ｏ．Ｅ\n发现了啊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:2:0",
+  "message_id": "ARAGAKI_FOE_FOLLOW_START",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 5F 04}那只Ｆ．Ｏ．Ｅ正在\n靠近……小心点。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:3:0",
+  "message_id": "ARAGAKI_FOE_SENSOR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 60 04}啧，那儿有只Ｆ．Ｏ．Ｅ……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:4:0",
+  "message_id": "ARAGAKI_FOE_SENSOR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 61 04}哼，Ｆ．Ｏ．Ｅ出现了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:5:0",
+  "message_id": "ARAGAKI_FOE_SENSOR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 62 04}哟哟，Ｆ．Ｏ．Ｅ出来了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:6:0",
+  "message_id": "ARAGAKI_FOE_FOLLOW_END1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 63 04}终于走开了……\n真是个缠人的家伙。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:7:0",
+  "message_id": "ARAGAKI_FOE_FOLLOW_END2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 64 04}那只Ｆ．Ｏ．Ｅ，\n好像不会再过来了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:8:0",
+  "message_id": "ARAGAKI_FOE_FOLLOW_END3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 65 04}看来顺利躲过\nＦ．Ｏ．Ｅ了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:9:0",
+  "message_id": "ARAGAKI_PARTY_HPTP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 66 04}可恶……身体真沉……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:10:0",
+  "message_id": "ARAGAKI_PARTY_HPTP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 67 04}咳咳……喂，\n还不回去？……也行吧……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:11:0",
+  "message_id": "ARAGAKI_PARTY_HPTP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 68 04}啧，快要倒下了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:12:0",
+  "message_id": "ARAGAKI_PARTY_HP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 69 04}啧，体力吃紧啊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:13:0",
+  "message_id": "ARAGAKI_PARTY_HP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 6A 04}抱歉，帮我恢复一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:14:0",
+  "message_id": "ARAGAKI_PARTY_HP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 6B 04}可恶，体力撑不住了……\n真是不中用了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:15:0",
+  "message_id": "ARAGAKI_PARTY_TP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 6C 04}啧，精力撑不住了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:16:0",
+  "message_id": "ARAGAKI_PARTY_TP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 6D 04}抱歉，耐力耗尽了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:17:0",
+  "message_id": "ARAGAKI_PARTY_TP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 6E 04}精力差不多到极限了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:18:0",
+  "message_id": "ARAGAKI_STAIR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 6F 04}喂，找到楼梯了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:19:0",
+  "message_id": "ARAGAKI_STAIR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 70 04}那边的，\n不就是楼梯吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:20:0",
+  "message_id": "ARAGAKI_STAIR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 71 04}楼梯啊……要走吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:21:0",
+  "message_id": "ARAGAKI_TREASURE1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 72 04}宝箱啊……里面可能有东西。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:22:0",
+  "message_id": "ARAGAKI_TREASURE2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 73 04}喂，那儿的\n不是宝箱吗？拿了吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:23:0",
+  "message_id": "ARAGAKI_TREASURE3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 74 04}有宝箱……要打开吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:24:0",
+  "message_id": "ARAGAKI_FOUNTAIN1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 75 04}那个古怪的能量点，\n又冒出来了啊。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:25:0",
+  "message_id": "ARAGAKI_FOUNTAIN2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 76 04}前面发光的，\n不就是能量点吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:26:0",
+  "message_id": "ARAGAKI_FOUNTAIN3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 77 04}那儿的就是那个吧。\n那个……能量点。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:27:0",
+  "message_id": "ARAGAKI_SEARCH_OBJ1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 78 04}那一带有点在意……\n要不要调查一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:28:0",
+  "message_id": "ARAGAKI_SEARCH_OBJ2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 79 04}这附近有东西……\n调查一下吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:29:0",
+  "message_id": "ARAGAKI_SEARCH_OBJ3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 7A 04}喂，前面是不是有什么？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:30:0",
+  "message_id": "ARAGAKI_SWITCH1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 7B 04}喂，前面有开关。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:31:0",
+  "message_id": "ARAGAKI_SWITCH2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 7C 04}喂，有开关。\n能按吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:32:0",
+  "message_id": "ARAGAKI_SWITCH3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 7D 04}那不是开关吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:33:0",
+  "message_id": "ARAGAKI_SHORTCUT1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 7E 04}那面墙，一看就很可疑……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:34:0",
+  "message_id": "ARAGAKI_SHORTCUT2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 7F 04}前面的墙好像藏着什么……\n调查一下吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:35:0",
+  "message_id": "ARAGAKI_SHORTCUT3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 80 04}那面墙不一般啊……\n调查一下如何？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:36:0",
+  "message_id": "ARAGAKI_PARTY_HPTP15_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 66 04}可恶……身体真沉……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:37:0",
+  "message_id": "ARAGAKI_PARTY_HPTP15_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 67 04}咳咳……喂，\n还不回去？……也行吧……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:38:0",
+  "message_id": "ARAGAKI_PARTY_HPTP15_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 68 04}啧，快要倒下了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:39:0",
+  "message_id": "ARAGAKI_PARTY_TP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 6C 04}啧，精力撑不住了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:40:0",
+  "message_id": "ARAGAKI_PARTY_TP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 6D 04}抱歉，耐力耗尽了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:41:0",
+  "message_id": "ARAGAKI_PARTY_TP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 6E 04}精力差不多到极限了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:42:0",
+  "message_id": "ARAGAKI_PARTY_HP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 69 04}啧，体力吃紧啊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:43:0",
+  "message_id": "ARAGAKI_PARTY_HP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 6A 04}抱歉，帮我恢复一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:44:0",
+  "message_id": "ARAGAKI_PARTY_HP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 6B 04}可恶，体力撑不住了……\n真是不中用了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:45:0",
+  "message_id": "ARAGAKI_FOE_NEAR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 5D 04}喂……\nＦ．Ｏ．Ｅ追过来了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:46:0",
+  "message_id": "ARAGAKI_FOE_NEAR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 5E 04}看来被Ｆ．Ｏ．Ｅ\n发现了啊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:47:0",
+  "message_id": "ARAGAKI_FOE_NEAR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 5F 04}那只Ｆ．Ｏ．Ｅ正在\n靠近……小心点。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:48:0",
+  "message_id": "ARAGAKI_ME_LEVEL_UP1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 81 04}再过一会儿，就能升级了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:49:0",
+  "message_id": "ARAGAKI_ME_LEVEL_UP2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 82 04}差不多该升级了吧……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc012.arc_aragaki_support.bf.json:50:0",
+  "message_id": "ARAGAKI_ME_LEVEL_UP3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 83 04}好像快升级了。\n……我就说一声。\n{F2 26 00 00}{00}"
+ }
+]

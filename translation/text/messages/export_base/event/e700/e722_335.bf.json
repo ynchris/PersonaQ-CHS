@@ -1,0 +1,112 @@
+[
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这里似乎只是条死路……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 F5 08}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}哎哟！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:2:0",
+  "message_id": "MSG_0012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 88 08}{F5 C1 03 01 01 01 01 01 04 01}……什么啊，死路啊……\n撞到头了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}顺平先生，\n加上塔尔塔罗斯的记录，\n这是您第２７次撞上死路。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 64 11}连这种数据也要记吗？\n这能派上什么用场啊？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}我收集的数据，\n会陆续发送到风花小姐电脑里的\n数据库中。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 03 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}没错。\n我会收集大家的数据，\n为下一次作战提供参考。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 05 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}电脑这么厉害，真了不起。\n你是怎么学会的？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 4C 0B}那个啊。\n从以前起，就自然而然地感兴趣。\n本来就很喜欢电脑……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:8:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}摆弄着摆弄着，也对机器内部\n好奇起来，就把它拆开了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0B 01 01 01 05 01}{F5 61 02 01 01 01 01 01 65 11}拆开……真厉害啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}你的手一定很巧吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 BA 02}手这么巧，\n肯定也很有女子力吧～！\n毕竟还有某人的例子呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 76 11}{F5 C1 03 01 01 01 01 01 05 01}……为什么看着我说啊？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 03 01 65 01 01 01}{F5 61 02 01 01 01 01 01 48 0B}呵呵，是吗……\n啊，那下次做顿好吃的请你们！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 02 01}{F5 86 13 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 AD 11}{F5 C1 03 01 01 01 01 01 01 01}……！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:15:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 D2 02}{F5 C1 03 01 01 01 01 01 08 01}哦，真的！？\n那我可太期待了！\n肯定和某人不一样！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:16:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 03 01}……为什么看了我一眼？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:17:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}那就敬请期待吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:18:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 83 08}{F5 C1 03 01 01 01 01 01 0A 01}啊……\n该说呢……\n还是不该说呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:19:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}还、还是别说了……\n会引发二次灾害的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_335.bf.json:20:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 07 01 01 01 05 01}{F5 61 02 01 01 01 01 01 AB 0C}{F5 C1 03 01 01 01 01 01 04 01}呜呜……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

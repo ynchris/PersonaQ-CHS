@@ -1,0 +1,67 @@
+[
+ {
+  "key": "export_base/event/e700/e724_135.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 D9 03}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 02 01}呀——！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_135.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 AC 11}{F5 C1 03 01 01 01 01 01 05 01}这什么玩意儿？\n长得跟葫芦似的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_135.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 09 01 04 01 02 01}{F5 61 02 01 01 01 01 01 5E 09}看来这个迷宫的Ｆ．Ｏ．Ｅ\n终于登场了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_135.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}还不知道它会怎么行动。\n大家小心前进！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_135.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 07 01 65 01 02 01}{F5 61 02 01 01 01 01 01 2E 05}{F5 C1 03 01 01 01 01 01 0A 01}那、那个……\n不好意思，打断一下……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_135.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 F0 09}{F5 C1 03 01 01 01 01 01 05 01}怎么了，久慈川？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_135.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}关于那只Ｆ．Ｏ．Ｅ，\n我和风花刚才一直\n在观察它的动静……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_135.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 01 01 65 01 02 01}{F5 61 02 01 01 01 01 01 01 01}……它不动。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_135.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 65 11}{F5 C1 03 01 01 01 01 01 05 01}不动？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_135.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}是的，它一直待在原地。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_135.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}什么嘛。\n也就是说，只要绕开就行了？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e724_135.bf.json:10:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 E7 02}跟之前那些一比，还真有点扫兴啊。\n不过，轻松点也好。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_135.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 01 01}啊，当然！\n自己撞上去还是很危险的哦！\n注意别碰到它！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

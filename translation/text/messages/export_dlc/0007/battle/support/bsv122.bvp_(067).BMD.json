@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:0:0",
+  "message_id": "BTL_MES_H122_068_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 50 02}副队长的防御力下降了。\n请小心受到的伤害。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:1:0",
+  "message_id": "BTL_MES_H122_068_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 47 02}副队长的防御力下降了。\n还请多加警惕。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:2:0",
+  "message_id": "BTL_MES_H122_068_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 51 02}花村阳介先生的防御力下降了。\n请警惕敌人的攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:3:0",
+  "message_id": "BTL_MES_H122_068_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 52 02}里中千枝小姐的防御力下降了。\n请充分留意受到的伤害。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:4:0",
+  "message_id": "BTL_MES_H122_068_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 53 02}天城雪子小姐的防御力下降了。\n请小心敌人的攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:6:0",
+  "message_id": "BTL_MES_H122_068_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 54 02}巽完二先生的防御力下降了。\n请小心受到的伤害。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:7:0",
+  "message_id": "BTL_MES_H122_068_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 56 02}白钟直斗小姐的防御力下降了。\n请小心敌人造成的伤害。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:8:0",
+  "message_id": "BTL_MES_H122_068_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 55 02}小熊先生的防御力下降了。\n请警惕受到的伤害。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:9:0",
+  "message_id": "BTL_MES_H122_068_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 48 02}岳羽由加莉小姐的防御力下降了。\n请小心受到的伤害。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:10:0",
+  "message_id": "BTL_MES_H122_068_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 49 02}伊织顺平先生的防御力下降了。\n请千万小心受到的伤害。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:11:0",
+  "message_id": "BTL_MES_H122_068_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4A 02}真田明彦先生的防御力下降了。\n请更加警惕受到的伤害。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:12:0",
+  "message_id": "BTL_MES_H122_068_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4B 02}桐条美鹤小姐的防御力下降了。\n请小心敌人的攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:14:0",
+  "message_id": "BTL_MES_H122_068_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4E 02}埃癸斯小姐的防御力下降了。\n请警惕敌人的攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:15:0",
+  "message_id": "BTL_MES_H122_068_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4C 02}天田乾先生的防御力下降了。\n恐怕需要警惕受到的伤害。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:16:0",
+  "message_id": "BTL_MES_H122_068_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4D 02}虎狼丸先生的防御力下降了。\n请小心受到的伤害。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:17:0",
+  "message_id": "BTL_MES_H122_068_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4F 02}荒垣真次郎先生的防御力下降了。\n请小心受到的伤害。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:18:0",
+  "message_id": "BTL_MES_H122_068_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 57 02}善先生和玲小姐的防御力下降了。\n请小心受到的伤害。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:19:0",
+  "message_id": "BTL_MES_H122_068_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 58 02}善先生的防御力下降了。\n请警惕敌人的攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:20:0",
+  "message_id": "BTL_MES_H122_068_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 46 02}队长的防御力下降了。\n请小心受到的伤害。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(067).BMD.json:21:0",
+  "message_id": "BTL_MES_H122_068_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 45 02}队长的防御力下降了。\n请小心受到的伤害。\n{F2 26 00 00}{00}"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(031).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_032_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 28 01}在名为迷宫的幻梦尽头，被逐出\n乐园的人们……就是６名弱敌啦……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(031).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_032_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 29 01}哇！明明很弱还来６名！？\n好麻烦。\n{F2 26 00 00}{00}"
+ }
+]

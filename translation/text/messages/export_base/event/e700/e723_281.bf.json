@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/event/e700/e723_281.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这附近传来了\n　摇铃的声音……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_281.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

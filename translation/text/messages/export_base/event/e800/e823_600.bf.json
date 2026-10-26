@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 3F 11}先出一道例题。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 03 01}“Ｂ”{F2 01 01 01}有，而{F2 01 03 01}“Ａ”{F2 01 01 01}没有。\n{F2 01 03 01}“×”{F2 01 01 01}有，而{F2 01 03 01}“○”{F2 01 01 01}没有。\n猜猜是什么？请按日语读法思考。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 4E 11}滴答滴答滴答滴答……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:0:3",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}时间到。\n答案是{F2 01 03 01}“浊音符号”{F2 01 01 01}。\nＢ读作ビ，×读作バツ，都带浊音符号。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:1:0",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}小菜一碟{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:1:1",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}所以呢？{F5 47 02 01 01 01 09 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 D7 0E}刚才只是例题。\n运用这种谜题的形式，\n我设计了一个问题。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}您究竟能否解开呢……\n这次的委托，就是与我比拼智慧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 32 11}那么，开始说明规则。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白拿起了笔记本。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F2 01 03 01}时钟塔１至３楼{F2 01 01 01}散布着上锁的宝箱。\n我已经在上面贴好了暗号。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}宝箱的暗号都是{F2 01 03 01}“１个平假名”{F2 01 01 01}。\n其中有{F2 01 03 01}一个异类{F2 01 01 01}。\n请把它找出来。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:4:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 30 11}接下来，给您最关键的提示。\n括号内是日语读音的罗马字。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:4:3",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 03 01}“う（u）”属Ａ{F2 01 01 01}，{F2 01 03 01}“え（e）”属Ｂ{F2 01 01 01}。\n{F2 01 03 01}“す（su）”属Ａ{F2 01 01 01}，{F2 01 03 01}“し（shi）”属Ｂ{F2 01 01 01}。\n{F2 01 03 01}“ひ（hi）”属Ａ{F2 01 01 01}，{F2 01 03 01}“び（bi）”属Ｂ{F2 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:4:4",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 3D 11}以上就是全部提示。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:4:5",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}按照刚才的规则，\n将３个宝箱的暗号分类，\n应该就能找出１个异类……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:4:6",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 57 11}最后，这把通用钥匙\n{F2 01 03 01}只能使用一次{F2 01 01 01}。\n请慎重使用。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞收到了{F4 84 04 01 01 01 BB 07}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}答对的宝箱里装着丰厚奖品，\n答错的宝箱里则装着倒霉的东西。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_600.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 CE 0E}来，堂堂正正地……一决胜负吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

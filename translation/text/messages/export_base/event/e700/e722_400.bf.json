@@ -1,0 +1,37 @@
+[
+ {
+  "key": "export_base/event/e700/e722_400.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 04 01 02 01}{F5 61 02 01 01 01 01 01 23 04}已经走得很深了呢……\n到底还要走多远？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_400.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 29 01 08 01 02 01 01 01}{F5 61 02 01 01 01 01 01 CA 11}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_400.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……玲，没事吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_400.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 36 10}嗯……嗯。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_400.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F4 87 01 01 01 01 01 01}{F5 86 07 01 0B 01 65 01 02 01}{F5 61 02 01 01 01 01 01 71 11}{F5 C1 03 01 01 01 01 01 07 01}咦，等一下！\n阴影的气息越来越浓了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_400.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 01 01}更下面的地方，\n有一个很大的反应……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_400.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 97 11}也许已经快到最深处了。\n请小心。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

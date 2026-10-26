@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(022).BMD.json:0:0",
+  "message_id": "BTL_MES_H123_023_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 16 01}这 4 个对手都相当厉害。\n其中也有资料中没有的敌人呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(022).BMD.json:1:0",
+  "message_id": "BTL_MES_H123_023_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 17 01}真是……相当强大的敌人……\n有 4 个。请小心。\n{F2 26 00 00}{00}"
+ }
+]

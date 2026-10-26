@@ -1,0 +1,137 @@
+[
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞眼前垂着\n　一张红纸和一张蓝纸。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 AC 11}{F5 C1 03 01 01 01 01 01 05 01}搞什么？\n品位恶劣的运动会？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 7F 08}怎么可能啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:3:0",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 03 01 01 01}{F5 61 02 01 01 01 01 01 84 08}{F5 C1 03 01 01 01 01 01 0A 01}这、这是……\n不拉其中一张，\n就没法得救的那种套路啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 04 01 02 01}{F5 61 02 01 01 01 01 01 01 01}我记得……\n常见的恐怖故事里，\n拿红纸就会被弄得浑身是血……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:4:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}拿蓝纸则会被抽干血，\n变得全身青白之类的吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 66 11}{F5 C1 03 01 01 01 01 01 0A 01}哇。\n这也太不讲理了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:6:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞怎么办呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:7:0",
+  "message_id": "SEL_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}拉红纸{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:7:1",
+  "message_id": "SEL_006",
+  "translation": "{F2 05 FF FF}{F1 41}拉蓝纸{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:7:2",
+  "message_id": "SEL_006",
+  "translation": "{F2 05 FF FF}{F1 41}试着系在一起{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}＞……！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:8:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞阴影不知从哪里冒了出来……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞试着把红纸和蓝纸系在了一起……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:10:0",
+  "message_id": "MSG_0082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:11:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 6E 05}{F5 C1 03 01 01 01 01 01 0A 01}……然后呢，怎么办？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:12:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 D5 0C}没什么……应该不会发生什么吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:12:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}走吧。\n没必要久留。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:13:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞决定继续探索……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:14:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞红纸掉在地板上……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:15:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 07 01}啊！\n纸旁边还有什么东西！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:16:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞获得了{F4 84 04 01 01 01 1A 06}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:17:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞蓝纸掉在地板上……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:18:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 07 01}嗯？\n纸旁边还掉着什么东西！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_365.bf.json:19:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞获得了{F4 84 04 01 01 01 1B 06}。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

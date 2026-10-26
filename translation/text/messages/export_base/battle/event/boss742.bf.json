@@ -1,0 +1,37 @@
+[
+ {
+  "key": "export_base/battle/event/boss742.bf.json:0:0",
+  "message_id": "MSG_BTL_TUTORIAL_101",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 0D 01 65 01 02 01}敌人的动作不太对劲！\n请小心！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss742.bf.json:1:0",
+  "message_id": "MSG_BTL_TUTORIAL_102",
+  "translation": "{F2 05 FF FF}{F1 41}击中敌人的属性弱点，\n虽然能让发动攻击的角色\n进入{F2 01 03 01}“ＢＯＯＳＴ状态”{F2 01 01 01}，\n但也不能大意。\n{F1 21}"
+ },
+ {
+  "key": "export_base/battle/event/boss742.bf.json:1:1",
+  "message_id": "MSG_BTL_TUTORIAL_102",
+  "translation": "{F2 05 FF FF}{F1 41}此时若受到敌人的攻击，\n{F2 01 03 01}“ＢＯＯＳＴ状态”{F2 01 01 01}就会被{F2 01 03 01}解除{F2 01 01 01}，\n请多加注意。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss742.bf.json:2:0",
+  "message_id": "MSG_BTL_TUTORIAL_111",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 0D 01 65 01 02 01}队长，没事吧？\n我也能提供援护！\n需要的话，请下指示！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss742.bf.json:3:0",
+  "message_id": "MSG_BTL_TUTORIAL_112",
+  "translation": "{F2 05 FF FF}{F1 41}选择“ＬＥＡＤＥＲ　ＳＫＩＬＬ”，\n即可让负责情报支援的同伴\n使用技能。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss742.bf.json:4:0",
+  "message_id": "MSG_BTL_TUTORIAL_113",
+  "translation": "{F2 05 FF FF}{F1 41}“队伍量表”积累到一定程度后，\n即可使用情报支援技能。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss742.bf.json:5:0",
+  "message_id": "MSG_BTL_TUTORIAL_114",
+  "translation": "{F2 05 FF FF}{F1 41}攻击敌人可以积累“队伍量表”。\n因此不必过于节省，\n请根据战况积极使用。\n{F1 21}{00}"
+ }
+]

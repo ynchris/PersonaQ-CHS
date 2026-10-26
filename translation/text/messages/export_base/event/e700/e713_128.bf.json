@@ -1,0 +1,92 @@
+[
+ {
+  "key": "export_base/event/e700/e713_128.bf.json:0:0",
+  "message_id": "MSG_999",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e713_128.bf.json:0:1",
+  "message_id": "MSG_999",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞人偶正盯着这边……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_128.bf.json:1:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 E7 02}{F5 C1 03 01 01 01 01 01 0A 01}这人偶……\n总觉得有点像天城呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_128.bf.json:2:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 26 04}{F5 C1 03 01 01 01 01 01 05 01}咦，不会吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_128.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}虽然我不太想看它……\n不过，只是头发都是黑的吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_128.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}啊，不是。\n天城当老板娘的时候就是这感觉。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_128.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 06 01 02 01 01 01 04 01}{F5 86 0D 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 8F 11}{F5 C1 03 01 01 01 01 01 05 01}……老板娘？\n你家是开旅馆的吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_128.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}啊，是的。\n我家经营着一家老字号温泉旅馆，\n叫作天城屋旅馆。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_128.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 03 01 65 01 02 01}{F5 61 02 01 01 01 01 01 F8 04}{F5 C1 03 01 01 01 01 01 08 01}温泉！\n真好啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_128.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 08 01 01 01}{F5 61 02 01 01 01 01 01 6B 03}{F5 C1 03 01 01 01 01 01 04 01}嗯……好想暖和一下……\n现在就想暖和一下……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_128.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 07 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 F6 04}哎，学长！\n下次大家一起去\n天城屋旅馆玩吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_128.bf.json:10:0",
+  "message_id": "SEL_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}可以吗？{F5 47 02 01 02 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_128.bf.json:10:1",
+  "message_id": "SEL_009",
+  "translation": "{F2 05 FF FF}{F1 41}等逃出去再说吧。{F5 47 02 01 02 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_128.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 05 01 05 01 02 01}{F5 61 02 01 01 01 01 01 3D 04}嗯，当然。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_128.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 05 01 05 01 02 01}{F5 61 02 01 01 01 01 01 3D 04}嗯。\n那就留作逃出去之后的期待吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_128.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 9A 08}{F5 C1 03 01 01 01 01 01 08 01}哦，听起来不错嘛！\n到时候可一定要叫上月高组！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_128.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0A 01 02 01 02 01}{F5 61 02 01 01 01 01 01 C6 07}我想，肯定不是混浴哦。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_128.bf.json:15:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 89 11}{F5 C1 03 01 01 01 01 01 0B 01}我、我还什么都没说吧……！？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

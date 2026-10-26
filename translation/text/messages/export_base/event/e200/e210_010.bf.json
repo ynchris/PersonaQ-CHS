@@ -1,0 +1,267 @@
+[
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞２年２班的教室……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞招牌上写着“联谊咖啡厅”……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 04 01}还真让我说中了……\n能不能别揭我的伤疤啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 03 01}速战速决吧。\n还有三个大家伙要收拾，对吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 04 01}应该是。\n而且，我也有可能找回记忆。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 05 01}那样说不定也能\n对这个地方多了解一些。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 0E 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 06 01}好，那就出发吧。\n队长……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 07 01}……对了。\n还有件重要的事没决定。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:5:2",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}我们现在合为一支队伍了，\n重新选定队长吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}{F5 C1 03 01 01 01 01 01 07 01}哦！？\n难道轮到我大显身手了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}……正常来说，应该从我们和\n你们原本的队长中选一位吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}{F5 C1 03 01 01 01 01 01 04 01}也是啊～。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 0E 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0C 01}{F1 81}。\n你怎么想？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:10:0",
+  "message_id": "SEL_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}我来当队长{F5 47 02 01 02 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:10:1",
+  "message_id": "SEL_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}商量着决定吧{F5 47 02 01 02 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:10:2",
+  "message_id": "SEL_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}我让给他{F5 47 02 01 02 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 0D 01}这样啊，能这么快决定真好。\n我也觉得你更合适。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 0E 01}我觉得你更合适。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 0F 01}那就难办了……\n我倒是觉得你更合适。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 10 01}毕竟先遇到善和玲的是你们，\n先到达刚才那座迷宫深处的\n也是你们。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:14:1",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 11 01}“不会发生毫无意义的事”，对吧？\n你们在这里比我们资历更深，\n或许也有它的意义。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}说得挺像那么回事，\n其实只是嫌麻烦吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 07 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 13 01}咦？　嗯……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 14 01}{F5 C1 03 01 01 01 01 01 07 01}倒是否认一下啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 02 01 01 01 04 01}{F5 86 03 01 02 01 01 01 02 01}{F5 86 0E 01 01 01 01 01 05 01}{F5 61 02 01 01 01 01 01 15 01}不过，他说的确实有道理。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:19:0",
+  "message_id": "MSG_0182",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 02 01 02 01 01 01 04 01}{F5 86 0E 01 0D 01 01 01 05 01}{F5 61 02 01 01 01 01 01 16 01}{F1 81}。\n就请你担任我们\n这支“混编队”的队长。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:19:1",
+  "message_id": "MSG_0182",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 17 01}照你一直以来的做法就好。\n拜托了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:19:2",
+  "message_id": "MSG_0182",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 18 01}还有，你也要协助新队长，\n{F5 C1 0A 01 01 01 01 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:19:3",
+  "message_id": "MSG_0182",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 19 01}嗯，就称你为副队长吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:20:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 07 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 1A 01}副队长……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:21:0",
+  "message_id": "SEL_TALK020",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 05 01 01 01 01 01}{F5 86 02 01 02 01 01 01 01 01}果然还是不满意？{F5 47 02 01 02 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:21:1",
+  "message_id": "SEL_TALK020",
+  "translation": "{F2 05 FF FF}{F1 41}我会全力依靠你的{F5 47 02 01 02 01 07 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:21:2",
+  "message_id": "SEL_TALK020",
+  "translation": "{F2 05 FF FF}{F1 41}跟着我吧！{F5 47 02 01 02 01 0D 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:22:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 1B 01}……副队长这个称呼，\n听起来不怎么帅。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:23:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1C 01}{F5 C1 03 01 01 01 01 01 07 01}你在意的是这个啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:24:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 1D 01}当然，能做的事我都会做……\n不过你才是队长，\n该依靠你的是我才对。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:25:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 1E 01}……啊，嗯。\n加油，队长。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:25:1",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1F 01}……叫别人队长，\n感觉还挺新鲜的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:26:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 0F 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 20 01}那个……为了避免混淆，\n我在支援时就称呼你为\n“副队长”吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:26:1",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 21 01}副队长，副队长……\n希望不要说错……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:27:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 22 01}我和风花会从\n天鹅绒房间支援大家。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:27:1",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 23 01}学长们，加油！\n走吧，风花！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:28:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 24 01}{F5 C1 03 01 01 01 01 01 0B 01}啊，好的！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:29:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 25 01}我比你小，不用这么客气啦？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:30:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 26 01}啊，好的！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:30:1",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 27 01}……啊，嗯。\n呵呵。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:31:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 15 01 02 01 01 01 02 01}{F5 86 29 01 07 01 02 01 04 01}{F5 61 02 01 01 01 01 01 28 01}善……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:32:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 29 01}害怕吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:33:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 0B 01 01 01}{F5 61 02 01 01 01 01 01 2A 01}没、没事……\n我能行。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:33:1",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 2B 01}我要和大家……一起回去。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:34:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 03 01 01 01 05 01}{F5 61 02 01 01 01 01 01 2C 01}{F5 C1 03 01 01 01 01 01 08 01}好嘞，小玲！\n和小熊一起，出发☆去联谊！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:35:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2D 01}联、联～谊～！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_010.bf.json:36:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 03 01 02 01}{F5 61 02 01 01 01 01 01 2E 01}{F5 C1 03 01 01 01 01 01 0A 01}……真的没问题吗？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

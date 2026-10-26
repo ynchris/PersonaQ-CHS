@@ -1,0 +1,127 @@
+[
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这里究竟是什么地方……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞“联谊咖啡厅”终成眷属……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 08 01 01 01 02 01}{F5 86 11 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 04 01}好疼……\n真是的……到底怎么回事……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 02 01}{F5 86 11 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 03 01 01 01 01 01 05 01}……咦？\n这里是……草地？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0F 01}{F5 C1 04 01 01 01 01 01 03 01}看来，你们已经抵达了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 07 01}哇！\n……别、别吓我啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 10 01}{F5 C1 04 01 01 01 01 01 03 01}这里似乎是一条让邂逅命定伴侣的\n恋人们倾诉爱意的道路。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 11 01}{F5 C1 04 01 01 01 01 01 03 01}前方究竟有什么在等待呢？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:5:2",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 12 01}{F5 C1 04 01 01 01 01 01 03 01}你们可以手牵着手，\n怀着好奇与恐惧迈出脚步，\n也可以不迈出。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 05 01}命定伴侣……\n啊，刚才选中了我……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 0B 01}等等，这不对吧！\n怎么可能是我！\n我是男生啊！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 13 01}{F5 C1 04 01 01 01 01 01 03 01}我说，你们可以迈出脚步，\n也可以不迈出。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 14 01}{F5 C1 04 01 01 01 01 01 03 01}来，迈出脚步吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞机械语音消失了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}{F5 C1 03 01 01 01 01 01 02 01}请、请等一下！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:9:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 11 01 06 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:10:0",
+  "message_id": "MSG_0092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}我……看起来像女生吗……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:11:0",
+  "message_id": "SEL_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 02 01}像{F5 47 02 01 03 01 03 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:11:1",
+  "message_id": "SEL_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}不像{F5 47 02 01 03 01 05 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}{F5 C1 03 01 01 01 01 01 0B 01}哪……哪里像啊！？\n我穿着裤子，头发也很短！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}{F5 C1 03 01 01 01 01 01 0B 01}对、对吧！\n那是当然的！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}{F5 C1 03 01 01 01 01 01 04 01}什么命中注定……\n真是的，到底怎么回事……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:14:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 11 01 08 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_308.bf.json:14:2",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}待在这里也没用，\n看来只能往前走了……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

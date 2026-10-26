@@ -1,0 +1,27 @@
+[
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(011).BMD.json:0:0",
+  "message_id": "BTL_MES_H108_012_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2C 01}啊，是稀有敌人！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(011).BMD.json:1:0",
+  "message_id": "BTL_MES_H108_012_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2D 01}有稀有敌人！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(011).BMD.json:2:0",
+  "message_id": "BTL_MES_H108_012_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2E 01}那个敌人很稀有！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(011).BMD.json:3:0",
+  "message_id": "BTL_MES_H108_012_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2F 01}有稀有敌人！请务必讨伐！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(011).BMD.json:4:0",
+  "message_id": "BTL_MES_H108_012_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 30 01}啊！那个敌人很稀有！\n{F2 26 00 00}{00}"
+ }
+]

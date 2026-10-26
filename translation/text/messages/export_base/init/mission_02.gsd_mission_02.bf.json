@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/init/mission_02.gsd_mission_02.bf.json:1:1",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}取消{00}{00}"
+ },
+ {
+  "key": "export_base/init/mission_02.gsd_mission_02.bf.json:2:0",
+  "message_id": "MSG_GOUKON_B1_FORCEBATTL",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 01 01 01 01 01 01}队长，那扇门后面有敌人。\n请小心。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/mission_02.gsd_mission_02.bf.json:3:0",
+  "message_id": "MSG_GOUKON_B1_FORCEBATTL",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}前辈，那扇门后面有敌人哦，\n要小心。\n{F4 87 01 01 01 01 01 01}{F2 23 00 00}{F1 21}{00}"
+ }
+]

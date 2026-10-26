@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_base/event/e800/e822_221.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞墙壁中藏着一条捷径，\n　似乎有一部分房间被隐藏了起来……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_221.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 BA 02}哦，伊丽莎白小姐说的心意，\n应该就在这里吧？\n找找看！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_221.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 02 01 02 01}{F5 61 02 01 01 01 01 01 01 01}……啊，当然，\n我不会偷看内容，会直接交给你。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_221.bf.json:1:2",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}所以，结果……记得告诉我啊？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

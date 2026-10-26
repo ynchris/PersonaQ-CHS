@@ -1,0 +1,452 @@
+[
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这是最后一次交换。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞目前持有的物品是\n　{F2 01 03 01}咖啡奶精{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:1:0",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}和阳介和完二交换{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:1:1",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}停止交换{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 0D}要和他们交换，对吧？\n那我过去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善走向了阳介和完二。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这是最后一次交换。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞目前持有的物品是\n　{F2 01 03 01}１０日元硬币{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:5:0",
+  "message_id": "SEL_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}和天田交换{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:5:1",
+  "message_id": "SEL_005",
+  "translation": "{F2 05 FF FF}{F1 41}停止交换{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 0D}要和乾交换，对吧？\n那我过去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善走向了天田。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这是最后一次交换。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞目前持有的物品是\n　{F2 01 03 01}樱桃{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:9:0",
+  "message_id": "SEL_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}和阳介和完二交换{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:9:1",
+  "message_id": "SEL_009",
+  "translation": "{F2 05 FF FF}{F1 41}停止交换{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 0D}要和他们交换，对吧？\n那我过去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善走向了阳介和完二。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这是最后一次交换。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:12:1",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞目前持有的物品是\n　{F2 01 03 01}１０日元硬币{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:13:0",
+  "message_id": "SEL_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}和风花交换{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:13:1",
+  "message_id": "SEL_013",
+  "translation": "{F2 05 FF FF}{F1 41}停止交换{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 0D}要和风花交换，对吧？\n那我过去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善走向了风花。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这是最后一次交换。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:16:1",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞目前持有的物品是\n　{F2 01 03 01}冰淇淋汽水{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:17:0",
+  "message_id": "SEL_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}和天田交换{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:17:1",
+  "message_id": "SEL_017",
+  "translation": "{F2 05 FF FF}{F1 41}和阳介和完二交换{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:17:2",
+  "message_id": "SEL_017",
+  "translation": "{F2 05 FF FF}{F1 41}停止交换{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 0D}要和乾交换，对吧？\n那我过去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善走向了天田。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 0D}要和他们交换，对吧？\n那我过去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:21:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善走向了阳介和完二。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:22:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这是最后一次交换。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:22:1",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞目前持有的物品是\n　{F2 01 03 01}咖啡奶精{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:23:0",
+  "message_id": "SEL_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}和风花交换{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:23:1",
+  "message_id": "SEL_023",
+  "translation": "{F2 05 FF FF}{F1 41}和阳介和完二交换{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:23:2",
+  "message_id": "SEL_023",
+  "translation": "{F2 05 FF FF}{F1 41}停止交换{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:24:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 0D}要和风花交换，对吧？\n那我过去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:25:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善走向了风花。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:26:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 0D}要和他们交换，对吧？\n那我过去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:27:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善走向了阳介和完二。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:28:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这是最后一次交换。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:28:1",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞目前持有的物品是\n　{F2 01 03 01}１０日元硬币{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:29:0",
+  "message_id": "SEL_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}和风花交换{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:29:1",
+  "message_id": "SEL_029",
+  "translation": "{F2 05 FF FF}{F1 41}和天田交换{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:29:2",
+  "message_id": "SEL_029",
+  "translation": "{F2 05 FF FF}{F1 41}停止交换{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:30:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 0D}要和风花交换，对吧？\n那我过去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:31:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善走向了风花。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:32:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 0D}要和乾交换，对吧？\n那我过去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:33:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善走向了天田。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:34:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这是最后一次交换。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:34:1",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞目前持有的物品是\n　{F2 01 03 01}樱桃{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:35:0",
+  "message_id": "SEL_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}和天田交换{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:35:1",
+  "message_id": "SEL_035",
+  "translation": "{F2 05 FF FF}{F1 41}和阳介和完二交换{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:35:2",
+  "message_id": "SEL_035",
+  "translation": "{F2 05 FF FF}{F1 41}停止交换{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:36:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 0D}要和乾交换，对吧？\n那我过去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:37:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善走向了天田。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:38:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 0D}要和他们交换，对吧？\n那我过去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:39:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善走向了阳介和完二。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:40:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这是最后一次交换。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:40:1",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞目前持有的物品是\n　{F2 01 03 01}咖啡{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:41:0",
+  "message_id": "SEL_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}和风花交换{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:41:1",
+  "message_id": "SEL_041",
+  "translation": "{F2 05 FF FF}{F1 41}和阳介和完二交换{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:41:2",
+  "message_id": "SEL_041",
+  "translation": "{F2 05 FF FF}{F1 41}停止交换{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:42:0",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 0D}要和风花交换，对吧？\n那我过去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:43:0",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善走向了风花。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:44:0",
+  "message_id": "MSG_044",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 0D}要和他们交换，对吧？\n那我过去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:45:0",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善走向了阳介和完二。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:46:0",
+  "message_id": "MSG_046",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这是最后一次交换。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:46:1",
+  "message_id": "MSG_046",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞目前持有的物品是\n　{F2 01 03 01}１０日元硬币{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:47:0",
+  "message_id": "SEL_047",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}和风花交换{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:47:1",
+  "message_id": "SEL_047",
+  "translation": "{F2 05 FF FF}{F1 41}和天田交换{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:47:2",
+  "message_id": "SEL_047",
+  "translation": "{F2 05 FF FF}{F1 41}停止交换{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:48:0",
+  "message_id": "MSG_048",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 0D}要和风花交换，对吧？\n那我过去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:49:0",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善走向了风花。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:50:0",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 0D}要和乾交换，对吧？\n那我过去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:51:0",
+  "message_id": "MSG_051",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善走向了天田。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:52:0",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这是最后一次交换。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:52:1",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞目前持有的物品是\n　{F2 01 03 01}樱桃{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:53:0",
+  "message_id": "SEL_053",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}和天田交换{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:53:1",
+  "message_id": "SEL_053",
+  "translation": "{F2 05 FF FF}{F1 41}停止交换{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:54:0",
+  "message_id": "MSG_054",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 0D}要和乾交换，对吧？\n那我过去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:55:0",
+  "message_id": "MSG_055",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善走向了天田。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:56:0",
+  "message_id": "MSG_056",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这是最后一次交换。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:56:1",
+  "message_id": "MSG_056",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞目前持有的物品是\n　{F2 01 03 01}咖啡奶精{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:57:0",
+  "message_id": "SEL_057",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}和风花交换{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:57:1",
+  "message_id": "SEL_057",
+  "translation": "{F2 05 FF FF}{F1 41}停止交换{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:58:0",
+  "message_id": "MSG_058",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7C 0D}要和风花交换，对吧？\n那我过去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_232.bf.json:59:0",
+  "message_id": "MSG_059",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善走向了风花。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

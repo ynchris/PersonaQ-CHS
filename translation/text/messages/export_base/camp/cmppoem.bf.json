@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_base/camp/cmppoem.bf.json:0:0",
+  "message_id": "CMPPOEM_PATHOS",
+  "translation": "{F2 05 FF FF}{F1 41}＞要感受哪种激情呢……\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:1:0",
+  "message_id": "CMPPOEM_NOT_PATHOS",
+  "translation": "{F2 05 FF FF}{F1 41}＞现在什么也感受不到……\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:2:0",
+  "message_id": "CMPPOEM_SELECT_1",
+  "translation": "{F2 05 FF FF}{F1 41}“潘多拉”{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:2:1",
+  "message_id": "CMPPOEM_SELECT_1",
+  "translation": "{F2 05 FF FF}{F1 41}“亲爱的老师”{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:2:2",
+  "message_id": "CMPPOEM_SELECT_1",
+  "translation": "{F2 05 FF FF}{F1 41}“孤独的斗士”{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:2:3",
+  "message_id": "CMPPOEM_SELECT_1",
+  "translation": "{F2 05 FF FF}{F1 41}“续·堕天使之诗”{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:2:8",
+  "message_id": "CMPPOEM_SELECT_1",
+  "translation": "{F2 05 FF FF}{F1 41}下页{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:2:9",
+  "message_id": "CMPPOEM_SELECT_1",
+  "translation": "{F2 05 FF FF}{F1 41}返回{00}{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:3:0",
+  "message_id": "CMPPOEM_SELECT_2",
+  "translation": "{F2 05 FF FF}{F1 41}“向你启程”{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:3:1",
+  "message_id": "CMPPOEM_SELECT_2",
+  "translation": "{F2 05 FF FF}{F1 41}“茶会幻想”{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:3:2",
+  "message_id": "CMPPOEM_SELECT_2",
+  "translation": "{F2 05 FF FF}{F1 41}“迪奥的得意之句”{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:3:3",
+  "message_id": "CMPPOEM_SELECT_2",
+  "translation": "{F2 05 FF FF}{F1 41}“迪奥的倾力之句”{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:3:8",
+  "message_id": "CMPPOEM_SELECT_2",
+  "translation": "{F2 05 FF FF}{F1 41}下页{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:3:9",
+  "message_id": "CMPPOEM_SELECT_2",
+  "translation": "{F2 05 FF FF}{F1 41}返回{00}{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:4:0",
+  "message_id": "CMPPOEM_SELECT_3",
+  "translation": "{F2 05 FF FF}{F1 41}“黑暗与蔷薇”　真田明彦{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:4:1",
+  "message_id": "CMPPOEM_SELECT_3",
+  "translation": "{F2 05 01 FF}{F1 41}“黑暗与蔷薇”　里中千枝{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:4:2",
+  "message_id": "CMPPOEM_SELECT_3",
+  "translation": "{F2 05 01 FF}{F1 41}“黑暗与蔷薇”　天城雪子{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:4:3",
+  "message_id": "CMPPOEM_SELECT_3",
+  "translation": "{F2 05 01 FF}{F1 41}“黑暗与蔷薇”　白钟直斗{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:4:8",
+  "message_id": "CMPPOEM_SELECT_3",
+  "translation": "{F2 05 01 FF}{F1 41}下页{00}"
+ },
+ {
+  "key": "export_base/camp/cmppoem.bf.json:4:9",
+  "message_id": "CMPPOEM_SELECT_3",
+  "translation": "{F2 05 01 FF}{F1 41}返回{00}{00}"
+ }
+]

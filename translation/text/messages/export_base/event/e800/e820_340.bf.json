@@ -1,0 +1,127 @@
+[
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 27 11}看来您完成了迪奥的委托。\n我敲敲墙，把他叫过来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 09 01 04 01 05 01}{F5 61 02 01 01 01 01 01 83 0F}不必了，姐姐！\n我看见贵客走进保健室，\n就自己过来了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 09 01 05 01 02 01}{F5 61 02 01 01 01 01 01 53 11}太长了。３个字。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 10 01 04 01 01 01}{F5 61 02 01 01 01 01 01 8F 0F}{F5 C1 03 01 01 01 01 01 07 01}咦……！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 07 01 04 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}来……\n来了哦？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 05 01 02 01}{F5 61 02 01 01 01 01 01 D4 0E}唉……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0F 01 04 01 01 01}{F5 61 02 01 01 01 01 01 EB 10}{F5 C1 03 01 01 01 01 01 04 01}姐、姐姐……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞把{F4 84 04 01 01 01 B2 07}交给了迪奥。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 02 01 05 01 02 01}{F5 86 24 01 03 01 04 01 05 01}{F5 61 02 01 01 01 01 01 56 0F}谢谢您。\n我马上看看。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞迪奥开始观察箭矢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 13 01 04 01 01 01}{F5 61 02 01 01 01 01 01 94 0F}{F5 C1 03 01 01 01 01 01 07 01}这、这是……！\n确实，只要减少这里的羽毛，\n就有望减轻重量……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:9:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 64 0F}{F5 C1 03 01 01 01 01 01 0B 01}请、请稍等！\n我马上去仿制！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞迪奥说完，\n　便向手工工坊跑去。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:10:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞稍微等一会儿吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:11:1",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞………\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 05 01}{F5 61 02 01 01 01 01 01 01 01}让、让您久等了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞迪奥气喘吁吁地来到了保健室。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:13:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞手中握着新制作的箭矢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 01 01}以您带来的箭矢为参考制作的\n{F4 45 04 01 00 00 01 01}，已经完成了！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:14:1",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0B 01 04 01 01 01}{F5 61 02 01 01 01 01 01 9B 0F}{F5 C1 03 01 01 01 01 01 02 01}无论是性能还是强度，\n我都已尽目前所能做到最好。\n可以说是我的得意之作……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:14:2",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 58 0F}这就作为报酬交给您。\n希望能派上用场。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞收下了{F4 45 04 01 00 00 01 01}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 05 01 06 01 01 01}{F5 61 02 01 01 01 01 01 72 0F}这里的阴影，\n开发能力也很不一般呢……\n我也不能落后。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_340.bf.json:17:0",
+  "message_id": "MSG_0162",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 52 0F}也请代我向埃癸斯大人问好。\n那么，手工工坊再见……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

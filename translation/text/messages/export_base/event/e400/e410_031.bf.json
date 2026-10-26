@@ -1,0 +1,292 @@
+[
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞打开被封住的门，\n　来到开阔的地方，\n　决定稍作休息……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 0C 01 01 01 02 01 02 01}{F5 61 02 01 01 01 01 01 02 01}啊，这段文化祭生活\n也快要结束了啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 03 01}真舍不得呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 04 01}嗯。\n我们的文化祭才刚因为\n台风泡汤了嘛。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 05 01}哦，原来是这样。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 02 01 01 01 02 01}{F5 86 04 01 03 01 05 01 04 01}{F5 61 02 01 01 01 01 01 06 01}月光馆校舍那么大，\n文化祭一定也很热闹吧。\n下次真想去玩。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 07 01}哈哈，我们去的时候，\n真的就只顾着学习了呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}{F5 C1 03 01 01 01 01 01 05 01}……你们来过\n月光馆学园？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}啊，是的。\n今年的交流会。\n好像是９月吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}交流会？\n我没听说过这种活动……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0B 01}啊，那天好像是月光馆的休校日，\n只有部分学生在学校，\n所以可能没多少人知道。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 07 01 01 01 07 01}{F5 61 02 01 01 01 01 01 0C 01}就算如此，\n身为学生会长的美鹤也不该不知道……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0D 01}{F5 C1 03 01 01 01 01 01 05 01}咦，我们见到的学生会长，\n是位叫伏见的人。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:11:1",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}因为是个特别漂亮的眼镜美女，\n所以我记得很清楚！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}{F5 C1 03 01 01 01 01 01 07 01}伏见？\n那家伙还只是１年级啊！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 10 01}{F5 C1 03 01 01 01 01 01 05 01}咦？\n她说自己是３年级……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 11 01}说起来，刚才伊织\n提到“台风”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:14:1",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 12 01}最近有台风来过吗？\n１０月都快结束了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 13 01}{F5 C1 03 01 01 01 01 01 05 01}{F5 C1 04 01 01 01 01 01 07 01}１０月……？\n应该还是９月才对。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 14 01}{F5 C1 03 01 01 01 01 01 0B 01}请、请等一下。\n确认一下……你们那边是公元哪年？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 0B 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 15 01}２００９年。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 16 01}{F5 C1 03 01 01 01 01 01 01 01}哎！？\n现在是２０１１年吧！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 17 01}{F5 C1 03 01 01 01 01 01 01 01}哈！？\n都说了是２００９年！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 05 01}{F5 61 02 01 01 01 01 01 18 01}差２年也太离谱了吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:21:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 09 01 01 01 03 01 02 01}{F5 61 02 01 01 01 01 01 19 01}{F5 C1 03 01 01 01 01 01 07 01}这是……\n难道时间轴错开了２年……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:22:0",
+  "message_id": "MSG_0212",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1A 01}久慈川同学！\n请立刻向\n玛格丽特小姐确认！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:23:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 01 01 65 01 01 01}{F5 61 02 01 01 01 01 01 1B 01}嗯，稍等一下！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:24:0",
+  "message_id": "MSG_0222",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 04 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:25:0",
+  "message_id": "MSG_0223",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 1D 01}她说，“哎呀，现在才发现？\n想一想不就明白了吗”……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:26:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 08 01 02 01}{F5 61 02 01 01 01 01 01 1E 01}{F5 C1 03 01 01 01 01 01 04 01}既然知道，\n早点告诉我们不就好了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:27:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 1F 01}“既然跨越时间也要邀请你们过来，\n就赶快把问题解决吧”\n……她是这么说的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:28:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 20 01}{F5 C1 03 01 01 01 01 01 0A 01}那位姐姐虽然特别漂亮，\n说话却真不讲道理啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:29:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 04 01 01 01 02 01}{F5 61 02 01 01 01 01 01 21 01}{F5 C1 03 01 01 01 01 01 08 01}但就是这点好熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:30:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 05 01 0B 01 01 01 04 01}{F5 61 02 01 01 01 01 01 22 01}{F5 C1 03 01 01 01 01 01 07 01}等等，相差２年的话，\n我们才是学弟学妹啊！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:30:1",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 23 01}{F5 C1 03 01 01 01 01 01 0A 01}糟糕，之前一直用平辈语气说话……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:31:0",
+  "message_id": "SEL_TALK028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 02 01}改用敬语吧{F5 47 02 01 02 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:31:1",
+  "message_id": "SEL_TALK028",
+  "translation": "{F2 05 FF FF}{F1 41}现在没必要了{F5 47 02 01 02 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:32:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 24 01}不用那么讲究。\n在这里，我们都是“２年级”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:33:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 25 01}嗯，不用。\n不仅是因为都这个时候了，\n在这里，我们都是“２年级”嘛。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:34:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 26 01}是吗？\n太好了，我真的不擅长说敬语……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:35:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 07 01}{F5 61 02 01 01 01 01 01 27 01}人与人相遇、加深感情，\n和诞生于何时何地的信息\n原来并无关系。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:35:1",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 28 01}这一定也同样适用于\n善和玲。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:36:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 02 01 02 01}{F5 61 02 01 01 01 01 01 29 01}{F5 C1 03 01 01 01 01 01 05 01}咦？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:37:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 06 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2A 01}呵呵。意思就是，\n我们是朋友啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:38:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 0B 01 01 01}{F5 61 02 01 01 01 01 01 2B 01}朋……友……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:39:0",
+  "message_id": "MSG_0352",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 2C 01}心里暖暖的！\n善！心里暖暖的！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:40:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2D 01}是吗。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:41:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 01 01}{F5 61 02 01 01 01 01 01 2E 01}善呢！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:42:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2F 01}暖暖的，是什么意思。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:43:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 30 01}{F5 C1 03 01 01 01 01 01 04 01}大笨蛋！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:44:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 0D 01 02 01 01 01 02 01}{F5 86 0E 01 09 01 02 01 04 01}{F5 61 02 01 01 01 01 01 31 01}２年后的人格面具操纵者\n不知道影时间，也就是说……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:44:1",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 32 01}我们消除影时间的战斗……\n取得胜利了吗……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:45:0",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 33 01}……先别想那个。\n一旦得意忘形，就会栽跟头。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:46:0",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 34 01}……是啊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:46:1",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 35 01}不过，我觉得看到了希望。\n就像他们一样，明亮的未来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:47:0",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 04 01 01 01 01 01}{F5 61 02 01 01 01 01 01 36 01}嗯……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:48:0",
+  "message_id": "MSG_044",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 37 01}好，出发！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e410_031.bf.json:49:0",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 38 01}{F5 C1 03 01 01 01 01 01 08 01}好！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

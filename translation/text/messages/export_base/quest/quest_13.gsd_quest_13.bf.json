@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_base/quest/quest_13.gsd_quest_13.bf.json:3:0",
+  "message_id": "MSG_CANCEL",
+  "translation": "{F2 05 FF FF}{F1 41}取消委托\n“解开音乐教室之谜”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/quest/quest_13.gsd_quest_13.bf.json:3:1",
+  "message_id": "MSG_CANCEL",
+  "translation": "{F2 05 FF FF}{F1 41}另外，这项委托\n设有{F2 01 03 01}期限{F2 01 01 01}。\n请尽早接受。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/quest/quest_13.gsd_quest_13.bf.json:4:0",
+  "message_id": "MSG_D21_BLOCKADE",
+  "translation": "{F2 05 FF FF}{F1 41}＞难道被从另一边抵住了？\n　门打不开……\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/quest/quest_13.gsd_quest_13.bf.json:5:0",
+  "message_id": "MSG_RECALL",
+  "translation": "{F2 05 FF FF}{F1 41}＞现在先查明Ｆ．Ｏ．Ｅ的真面目吧……\n{F1 21}{00}"
+ }
+]

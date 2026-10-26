@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 88 08}{F5 C1 03 01 01 01 01 01 0A 01}呼……\n好险啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}Ｆ．Ｏ．Ｅ的反应消失了！\n看来不会追过门来。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 C6 07}{F5 C1 03 01 01 01 01 01 04 01}我受够这里了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}由、由加莉。\n别这么沮丧……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}……大家。\n刚才经过那一带时，\n有没有发生什么特别的事？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 04 01 02 01}{F5 61 02 01 01 01 01 01 23 04}……我记得，\n听到了摇铃的声音。\n就是婴儿喜欢的那种。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 85 0D}像铃声一样……\n是种奇妙的声音。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}说不定，\n它就是被那个声音引过来的吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 4E 0A}……不管怎样，\n那里都是必经之路。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}Ｆ．Ｏ．Ｅ出现，就全力逃跑。\n明白了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:8:0",
+  "message_id": "MSG_0072",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}红色的Ｆ．Ｏ．Ｅ图标表示{F2 01 03 01}追踪状态{F2 01 01 01}。\n{F2 01 03 01}它会朝我们过来，必须小心{F2 01 01 01}。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞听见{F2 01 03 01}摇铃声{F2 01 01 01}时，\n　要提高警惕……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 04 01 02 01}{F5 61 02 01 01 01 01 01 BB 08}{F5 C1 03 01 01 01 01 01 02 01}顺平队员，有发现！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 FE 07}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}什、什么！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 9A 08}前面不是也有一堆纸片吗？\n上面说不定写着什么，\n去调查一下吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 0B 01 0C 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:14:0",
+  "message_id": "MSG_0122",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0F 01 04 01 01 01}{F5 61 02 01 01 01 01 01 F0 07}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 03 01}在这种地方，给我正常说话！\n拜托你了！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:15:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 86 08}{F5 C1 03 01 01 01 01 01 0B 01}哦、哦……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:16:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 0C 01 0B 01 03 01 02 01}{F5 61 02 01 01 01 01 01 84 08}{F5 C1 03 01 01 01 01 01 0A 01}……你也小心别踩雷。\n她现在可是相当烦躁。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_121.bf.json:17:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞调查一下掉在前方的\n　{F2 01 03 01}那堆纸片{F2 01 01 01}吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

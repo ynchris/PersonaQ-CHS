@@ -1,0 +1,27 @@
+[
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(011).BMD.json:0:0",
+  "message_id": "BTL_MES_H123_012_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2C 01}哦，有稀有敌人呢。\n还请各位务必将其击败。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(011).BMD.json:1:0",
+  "message_id": "BTL_MES_H123_012_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2D 01}哦，那是稀有敌人呢。\n请不要让它逃走。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(011).BMD.json:2:0",
+  "message_id": "BTL_MES_H123_012_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2E 01}稀有敌人出现了呢。\n那么……能否将其击败呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(011).BMD.json:3:0",
+  "message_id": "BTL_MES_H123_012_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2F 01}有稀有敌人呢……\n那道光芒……简直让人看入了迷。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(011).BMD.json:4:0",
+  "message_id": "BTL_MES_H123_012_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 30 01}哦，竟然遇到了稀有敌人……\n今天说不定会有好事发生。\n{F2 26 00 00}{00}"
+ }
+]

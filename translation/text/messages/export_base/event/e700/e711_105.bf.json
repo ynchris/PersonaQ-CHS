@@ -1,0 +1,27 @@
+[
+ {
+  "key": "export_base/event/e700/e711_105.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 06 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 57 04}啊，{F1 81}。\n收下这个吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_105.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞从雪子那里获得了５个{F4 84 04 01 01 01 02 06}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_105.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}玛格丽特小姐说，\n“受伤的时候就用这个”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_105.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 04 01 01 01 07 01}{F5 61 02 01 01 01 01 01 81 07}哦哦～\n玛格丽特大人真温柔熊～\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_105.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞有人受伤时，\n　就给他用吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,1232 @@
+[
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:0:0",
+  "message_id": "Y_FCL_DIALOG_MSG_EITHER",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:0:1",
+  "message_id": "Y_FCL_DIALOG_MSG_EITHER",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:1:0",
+  "message_id": "Y_FCLSHOP_BUY_MSG",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 45 04 01 00 00 01 01}，\n确定购买吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:2:0",
+  "message_id": "Y_FCLSHOP_USE_BUY_MSG",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}个，共{F2 44 02 01}日元。\n确定购买吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:3:0",
+  "message_id": "Y_FCLSHOP_SELL_MSG",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 45 04 01 00 00 01 01}，共{F2 44 02 01}个，\n您愿意出售吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:4:0",
+  "message_id": "Y_FCLSHOP_SELL_MULUTI_MS",
+  "translation": "{F2 05 FF FF}{F1 41}出售这{F2 44 01 01}个物品，\n可获得{F2 44 02 01}日元。\n可以吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:5:0",
+  "message_id": "Y_FCLSHOP_ADD_LIST",
+  "translation": "{F2 05 FF FF}{F1 41}＞{F4 45 04 01 00 00 01 01}已加入商品列表！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:6:0",
+  "message_id": "Y_FCLSHOP_EQUIP",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 45 04 01 00 00 01 01}，\n要立即装备吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:7:0",
+  "message_id": "Y_FCLSHOP_TRADE",
+  "translation": "{F2 05 FF FF}{F1 41}要出售之前装备的\n{F4 45 04 01 00 00 01 01}\n吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:8:0",
+  "message_id": "Y_FCLSHOP_ALLSELL",
+  "translation": "{F2 05 FF FF}{F1 41}出售持有的全部素材，\n可获得{F2 44 01 01}日元。\n可以吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:9:0",
+  "message_id": "Y_FCLSHOP_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}在“达伊达拉”出售“素材道具”，\n就能增加武器、防具和饰品的种类。\n　\n“素材道具”光留在身上没有用，\n尽管拿来出售吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:13:0",
+  "message_id": "WSHOP_HELLO_RAIN",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 14 01 02 01 01 01 02 01}欢迎光临。今天下雨啊…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:13:1",
+  "message_id": "WSHOP_HELLO_RAIN",
+  "translation": "{F2 05 FF FF}{F1 41}这种日子，总让人创作欲高涨。\n不知道能不能弄到些稀奇的素材啊…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:14:0",
+  "message_id": "Y_FCLSHOP_ADD_MES",
+  "translation": "{F2 05 FF FF}{F1 41}哦，那是{F4 45 04 01 00 00 01 01}吧？\n有这么多的话…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:14:1",
+  "message_id": "Y_FCLSHOP_ADD_MES",
+  "translation": "{F2 05 FF FF}{F1 41}请稍等。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:15:0",
+  "message_id": "Y_FCLSHOP_ADD_MES_RARE",
+  "translation": "{F2 05 FF FF}{F1 41}那是{F4 45 04 01 00 00 01 01}！？\n居然能弄到这样的稀罕货…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:15:1",
+  "message_id": "Y_FCLSHOP_ADD_MES_RARE",
+  "translation": "{F2 05 FF FF}{F1 41}稍等一下！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:16:0",
+  "message_id": "Y_FCLSHOP_ADD_MES2",
+  "translation": "{F2 05 FF FF}{F1 41}＞叮叮当，叮叮当\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:17:0",
+  "message_id": "Y_FCLSHOP_ADD_MES3",
+  "translation": "{F2 05 FF FF}{F1 41}…让您久等了。\n这艺术品连我自己都很满意。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:19:0",
+  "message_id": "Y_FCLSHOP_ADD_MES_MARGAR",
+  "translation": "{F2 05 FF FF}{F1 41}我构思了一些新商品。\n请务必看看。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:20:0",
+  "message_id": "Y_FCLSHOP_SELL_MES_NORMA",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 20 01}有这个的话，说不定…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:21:0",
+  "message_id": "Y_FCLSHOP_SELL_MES_NORMA",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 22 01}那么，我来加工一下，\n还请稍等。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:22:0",
+  "message_id": "Y_FCLSHOP_SELL_MES_RARE1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 24 01}这真是非同寻常的素材…\n怎么回事，心中悸动不已…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:22:1",
+  "message_id": "Y_FCLSHOP_SELL_MES_RARE1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 25 01}这难道就是，创作欲…！？\n啊、啊啊，手自己动起来了…！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:23:0",
+  "message_id": "Y_FCLSHOP_SELL_MES_RARE2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 27 01}什么，这个素材是…！！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:23:1",
+  "message_id": "Y_FCLSHOP_SELL_MES_RARE2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 28 01}…啊，不，只是灰尘…\n总之，我先试着开发…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:24:0",
+  "message_id": "Y_FCLSHOP_SELL_MES_HIGH_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 2B 01}哦…这黯淡的光泽、些许恶臭…\n以及保持在１０℃的内部…\n真是难得一见的优质素材…！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:24:1",
+  "message_id": "Y_FCLSHOP_SELL_MES_HIGH_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 2C 01}那么，就由不才迪奥多，\n倾注心血来开发！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:25:0",
+  "message_id": "Y_FCLSHOP_ADD_MES_NORMAL",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 21 01}让您久等了。\n还请多多使用。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:26:0",
+  "message_id": "Y_FCLSHOP_ADD_MES_NORMAL",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 23 01}呼…您觉得如何？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:27:0",
+  "message_id": "Y_FCLSHOP_ADD_MES_RARE1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 26 01}呼…让您久等了。\n总算完成了\n配得上这素材的逸品…！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:28:0",
+  "message_id": "Y_FCLSHOP_ADD_MES_RARE2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 29 01}怎么样？\n它焕然一新了吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:28:1",
+  "message_id": "Y_FCLSHOP_ADD_MES_RARE2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 2A 01}万物都是尚未雕琢的原石…\n只要发掘其中潜藏的光辉…\n啊，我还没说完呢！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:29:0",
+  "message_id": "Y_FCLSHOP_ADD_MES_HIGH_R",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 2D 01}……对不起。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:29:1",
+  "message_id": "Y_FCLSHOP_ADD_MES_HIGH_R",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 2E 01}刚才我说了“倾注心血”，\n但绝不意味着平时\n没有倾注心血哦？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:29:2",
+  "message_id": "Y_FCLSHOP_ADD_MES_HIGH_R",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 2F 01}一想到这点，\n就没法专心开发了……\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:29:3",
+  "message_id": "Y_FCLSHOP_ADD_MES_HIGH_R",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 30 01}总、总之，已经完成了。\n还请多多使用。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:30:0",
+  "message_id": "WSHOP_NO_MAKE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 14 01 02 01 01 01 02 01}…做了不少啊。\n还有没有什么有趣的素材呢…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:31:0",
+  "message_id": "WSHOP_NO_MATERIAL",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 14 01 02 01 01 01 02 01}“{F2 01 03 01}{F2 44 01 01}{F2 01 01 01}”，要是有就好了…\n感觉能做出点有趣的东西啊…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:32:0",
+  "message_id": "WSHOP_KEEP_MATERIAL",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 14 01 02 01 01 01 02 01}“{F2 01 03 01}{F2 44 01 01}{F2 01 01 01}”，要是再多些…\n{F2 44 02 01}的新作似乎就能做出来了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:33:0",
+  "message_id": "WSHOP_EXIT_CONF",
+  "translation": "{F2 05 FF FF}{F1 41}＞要离开“达伊达拉”。\n　确定吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:34:0",
+  "message_id": "CSHOP_DEP_CONF",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}个物品，\n要寄存吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:35:0",
+  "message_id": "CSHOP_DEP_CONF_OK",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}个物品，\n已经寄存了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:36:0",
+  "message_id": "CSHOP_PUL_CONF",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}个物品，\n要取出吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:37:0",
+  "message_id": "CSHOP_PUL_CONF_OK",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}个物品，\n已经归还了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:38:0",
+  "message_id": "CSHOP_COMMON_NG_1",
+  "translation": "{F2 05 FF FF}{F1 41}非常抱歉。\n已经没有空储物格，\n无法寄存…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:39:0",
+  "message_id": "CSHOP_COMMON_NG_2",
+  "translation": "{F2 05 FF FF}{F1 41}非常抱歉。\n该物品的存放数量已满，\n无法继续寄存…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:40:0",
+  "message_id": "CSHOP_COMMON_NG_3",
+  "translation": "{F2 05 FF FF}{F1 41}非常抱歉。\n您持有的物品似乎已满，\n暂时无法归还…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:42:0",
+  "message_id": "WSHOP_MULUTI_ADD_ITEM_LA",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 07 01 01 00 00}{F4 45 04 01 00 00 01 01}{F3 07 8D 01 00 00}{F4 45 04 01 00 00 02 01}　\n{F3 07 01 01 00 00}{F4 45 04 01 00 00 03 01}{F3 07 8D 01 00 00}{F4 45 04 01 00 00 04 01}　\n{F3 07 01 01 00 00}{F4 45 04 01 00 00 05 01}{F3 07 8D 01 00 00}{F4 45 04 01 00 00 06 01}　\n{F3 07 01 01 00 00}{F4 45 04 01 00 00 07 01}{F3 07 8D 01 00 00}{F4 45 04 01 00 00 08 01}　\n{F3 07 01 01 00 00}已加入商品。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:43:0",
+  "message_id": "WSHOP_EXP_NEW_ITEM_T",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 02 01}新增商品需要用到\n在迷宫中获得的各种“素材”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:43:1",
+  "message_id": "WSHOP_EXP_NEW_ITEM_T",
+  "translation": "{F2 05 FF FF}{F1 41}获得新素材后，\n还请来这里出售。\n或许能开发出新的商品。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:43:2",
+  "message_id": "WSHOP_EXP_NEW_ITEM_T",
+  "translation": "{F2 05 FF FF}{F1 41}有些情况下，\n可能需要复数个素材，\n还请您多多关照。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:44:0",
+  "message_id": "WSHOP_EXP_NEW_ITEM_M",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}新增商品需要用到\n在迷宫中获得的各种“素材”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:44:1",
+  "message_id": "WSHOP_EXP_NEW_ITEM_M",
+  "translation": "{F2 05 FF FF}{F1 41}获得新素材后，\n拿到这里出售，\n或许就能开发出新的商品。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:44:2",
+  "message_id": "WSHOP_EXP_NEW_ITEM_M",
+  "translation": "{F2 05 FF FF}{F1 41}有些情况下，\n可能需要复数个素材，\n请努力收集吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:45:0",
+  "message_id": "WSHOP_EXP_RARE_MATERIAL_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 02 01}有些阴影似乎会掉落\n难以获得的\n稀有素材。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:45:1",
+  "message_id": "WSHOP_EXP_RARE_MATERIAL_",
+  "translation": "{F2 05 FF FF}{F1 41}必须满足每种阴影各自的\n“特殊条件”将其击倒，\n才能获得。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:45:2",
+  "message_id": "WSHOP_EXP_RARE_MATERIAL_",
+  "translation": "{F2 05 FF FF}{F1 41}对于会掉落稀有素材的阴影，\n不妨尝试用不同的方法\n将其击倒。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:45:3",
+  "message_id": "WSHOP_EXP_RARE_MATERIAL_",
+  "translation": "{F2 05 FF FF}{F1 41}例如，嗯…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:45:4",
+  "message_id": "WSHOP_EXP_RARE_MATERIAL_",
+  "translation": "{F2 05 FF FF}{F1 41}除了用弱点属性击倒，\n也可以刻意使用它耐受的属性…\n您觉得如何？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:46:0",
+  "message_id": "WSHOP_EXP_RARE_MATERIAL_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}有些阴影似乎会掉落\n难以获得的\n稀有素材。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:46:1",
+  "message_id": "WSHOP_EXP_RARE_MATERIAL_",
+  "translation": "{F2 05 FF FF}{F1 41}不满足每种阴影各自的\n“特殊条件”将其击倒，\n是拿不到的哦。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:46:2",
+  "message_id": "WSHOP_EXP_RARE_MATERIAL_",
+  "translation": "{F2 05 FF FF}{F1 41}对于会掉落稀有素材的阴影，\n不妨尝试用不同的方法\n将其击倒吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:46:3",
+  "message_id": "WSHOP_EXP_RARE_MATERIAL_",
+  "translation": "{F2 05 FF FF}{F1 41}例如，嗯…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:46:4",
+  "message_id": "WSHOP_EXP_RARE_MATERIAL_",
+  "translation": "{F2 05 FF FF}{F1 41}除了用弱点属性击倒，\n也可以刻意使用它耐受的属性…\n你觉得怎么样？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:47:0",
+  "message_id": "WSHOP_EXP_EFFECT_T",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 02 01}武器选攻击力高的，\n防具选防御力高的，\n一般来说不会有错。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:47:1",
+  "message_id": "WSHOP_EXP_EFFECT_T",
+  "translation": "{F2 05 FF FF}{F1 41}不过，有些装备\n还具有特殊效果。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:47:2",
+  "message_id": "WSHOP_EXP_EFFECT_T",
+  "translation": "{F2 05 FF FF}{F1 41}比如附带特定属性，\n或者增加体力等。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:47:3",
+  "message_id": "WSHOP_EXP_EFFECT_T",
+  "translation": "{F2 05 FF FF}{F1 41}除了攻击力和防御力，\n也把这些附加效果纳入考虑，\n我觉得也是不错的选择。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:48:0",
+  "message_id": "WSHOP_EXP_EFFECT_M",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}武器选攻击力高的，\n防具选防御力高的，一般不会错。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:48:1",
+  "message_id": "WSHOP_EXP_EFFECT_M",
+  "translation": "{F2 05 FF FF}{F1 41}不过，有些装备\n还具有特殊效果。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:48:2",
+  "message_id": "WSHOP_EXP_EFFECT_M",
+  "translation": "{F2 05 FF FF}{F1 41}比如附带特定属性，\n或者增加体力等。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:48:3",
+  "message_id": "WSHOP_EXP_EFFECT_M",
+  "translation": "{F2 05 FF FF}{F1 41}除了攻击力和防御力，\n也把这些附加效果纳入考虑，\n我觉得也是不错的选择。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:49:0",
+  "message_id": "WSHOP_EXP_ITEM_MAX_T",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 02 01}各位能够携带的道具数量\n是有限的。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:49:1",
+  "message_id": "WSHOP_EXP_ITEM_MAX_T",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 84 04 01 01 01 02 06}和{F4 84 04 01 01 01 36 06}虽然好用，\n但携带太多，可能就得丢掉\n在迷宫里获得的物品了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:49:2",
+  "message_id": "WSHOP_EXP_ITEM_MAX_T",
+  "translation": "{F2 05 FF FF}{F1 41}建议出发前，\n将道具数量控制在１０个左右。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:50:0",
+  "message_id": "WSHOP_EXP_ITEM_MAX_M",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}你们能够携带的道具数量\n是有限的。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:50:1",
+  "message_id": "WSHOP_EXP_ITEM_MAX_M",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 84 04 01 01 01 02 06}和{F4 84 04 01 01 01 36 06}虽然好用，\n但携带太多，可能就得丢掉\n好不容易从迷宫里获得的物品。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:50:2",
+  "message_id": "WSHOP_EXP_ITEM_MAX_M",
+  "translation": "{F2 05 FF FF}{F1 41}出发前，\n控制在１０个左右会比较好吧？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:51:0",
+  "message_id": "WSHOP_EXP_CLOAKROOM_T",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 02 01}各位是否持有迷宫中找到的\n奇特装备，或是\n暂时用不到的道具？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:51:1",
+  "message_id": "WSHOP_EXP_CLOAKROOM_T",
+  "translation": "{F2 05 FF FF}{F1 41}我在这个房间的一角，\n准备了大约“９９格”\n储物空间。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:51:2",
+  "message_id": "WSHOP_EXP_CLOAKROOM_T",
+  "translation": "{F2 05 FF FF}{F1 41}每１格可存放\n１种物品，\n最多“９９个”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:51:3",
+  "message_id": "WSHOP_EXP_CLOAKROOM_T",
+  "translation": "{F2 05 FF FF}{F1 41}暂时不需要的东西，\n不妨寄存在这里。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:51:4",
+  "message_id": "WSHOP_EXP_CLOAKROOM_T",
+  "translation": "{F2 05 FF FF}{F1 41}不收取费用，\n还请随意使用。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:52:0",
+  "message_id": "WSHOP_EXP_CLOAKROOM_M",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}你们是否珍藏着迷宫中找到的\n奇特装备，或是\n暂时用不到的道具？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:52:1",
+  "message_id": "WSHOP_EXP_CLOAKROOM_M",
+  "translation": "{F2 05 FF FF}{F1 41}我在这个房间的一角，\n准备了大约“９９格”\n储物空间。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:52:2",
+  "message_id": "WSHOP_EXP_CLOAKROOM_M",
+  "translation": "{F2 05 FF FF}{F1 41}每１格可存放\n１种物品，\n最多“９９个”哦。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:52:3",
+  "message_id": "WSHOP_EXP_CLOAKROOM_M",
+  "translation": "{F2 05 FF FF}{F1 41}暂时不需要的东西，\n寄存在这里就好。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:52:4",
+  "message_id": "WSHOP_EXP_CLOAKROOM_M",
+  "translation": "{F2 05 FF FF}{F1 41}这次特地免费提供，\n请随意使用吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:53:0",
+  "message_id": "WSHOP_MATERIAL_HELP_NONE",
+  "translation": "{F2 05 FF FF}{F1 41}暂无信息\n{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:54:0",
+  "message_id": "Y_FCLSHOP_BUY_MSG_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 45 04 01 00 00 01 01}，\n确定购买吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:55:0",
+  "message_id": "Y_FCLSHOP_USE_BUY_MSG_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}个，共{F2 44 02 01}日元。\n确定购买吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:56:0",
+  "message_id": "Y_FCLSHOP_SELL_MSG_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 45 04 01 00 00 01 01}，共{F2 44 02 01}个，\n要出售吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:57:0",
+  "message_id": "Y_FCLSHOP_SELL_MULUTI_MS",
+  "translation": "{F2 05 FF FF}{F1 41}出售这{F2 44 01 01}个物品，\n可获得{F2 44 02 01}日元。\n可以吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:58:0",
+  "message_id": "Y_FCLSHOP_ADD_LIST_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}＞{F4 45 04 01 00 00 01 01}已加入商品列表！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:59:0",
+  "message_id": "Y_FCLSHOP_EQUIP_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 45 04 01 00 00 01 01}，\n要立即装备吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:60:0",
+  "message_id": "Y_FCLSHOP_TRADE_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}要出售之前装备的\n{F4 45 04 01 00 00 01 01}\n吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:61:0",
+  "message_id": "Y_FCLSHOP_ALLSELL_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}出售持有的全部素材，\n可获得{F2 44 01 01}日元。\n可以吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:62:0",
+  "message_id": "CSHOP_DEP_CONF_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}个物品，\n要寄存吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:63:0",
+  "message_id": "CSHOP_DEP_CONF_OK_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}个物品，\n已经寄存了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:64:0",
+  "message_id": "CSHOP_PUL_CONF_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}个物品，\n要取出吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:65:0",
+  "message_id": "CSHOP_PUL_CONF_OK_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 44 01 01}个物品，\n已经归还了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:66:0",
+  "message_id": "CSHOP_COMMON_NG_1_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}已经没有空储物格了，\n无法再寄存物品。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:67:0",
+  "message_id": "CSHOP_COMMON_NG_2_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}这件物品的寄存数量已达上限。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:68:0",
+  "message_id": "CSHOP_COMMON_NG_3_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}你持有的物品太多，\n暂时无法归还。\n先腾出一些空间吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:69:0",
+  "message_id": "WSHOP_TUTORIAL_EFFECT_01",
+  "translation": "{F2 05 FF FF}{F1 41}武器附带属性效果时，\n普通攻击也会附带该属性。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:69:1",
+  "message_id": "WSHOP_TUTORIAL_EFFECT_01",
+  "translation": "{F2 05 FF FF}{F1 41}防具附带属性效果时，\n对该属性的耐性会提升。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:70:0",
+  "message_id": "WSHOP_TUTORIAL_EFFECT_02",
+  "translation": "{F2 05 FF FF}{F1 41}武器附带异常状态效果时，\n普通攻击有概率造成该异常状态。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:70:1",
+  "message_id": "WSHOP_TUTORIAL_EFFECT_02",
+  "translation": "{F2 05 FF FF}{F1 41}防具附带异常状态效果时，\n对该异常状态的耐性会提升。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:71:0",
+  "message_id": "WSHOP_TUTORIAL_EFFECT_03",
+  "translation": "{F2 05 FF FF}{F1 41}无论武器还是防具，带有能力提升效果时，\n相应能力都会提升。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:72:0",
+  "message_id": "WSHOP_TUTORIAL_EFFECT_04",
+  "translation": "{F2 05 FF FF}{F1 41}使用带有范围攻击效果的武器时，\n普通攻击会变成范围攻击。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:73:0",
+  "message_id": "Y_FCLSHOP_HAVE_MAX_T_MSG",
+  "translation": "{F2 05 FF FF}{F1 41}非常抱歉。\n您的行李似乎已经满了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:74:0",
+  "message_id": "Y_FCLSHOP_HAVE_MAX_M_MSG",
+  "translation": "{F2 05 FF FF}{F1 41}不好意思。\n你的行李似乎已经满了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:75:0",
+  "message_id": "Y_FCLSHOP_SELL_RARE_MAT_",
+  "translation": "{F2 05 FF FF}{F1 41}感谢您\n出售如此稀有的素材。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:76:0",
+  "message_id": "Y_FCLSHOP_SELL_RARE_MAT_",
+  "translation": "{F2 05 FF FF}{F1 41}你卖给了我稀有素材呢。\n谢谢。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:77:0",
+  "message_id": "CSHOP_COMMON_NG_4",
+  "translation": "{F2 05 FF FF}{F1 41}非常抱歉。\n这里的储物格已满，\n有部分物品无法寄存…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:78:0",
+  "message_id": "CSHOP_COMMON_NG_4_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}这里的储物格已经满了，\n有些物品无法寄存哦。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:79:0",
+  "message_id": "CSHOP_COMMON_NG_5",
+  "translation": "{F2 05 FF FF}{F1 41}很遗憾，您似乎拿不下了…\n最多可以交给您{F2 44 01 01}个。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:80:0",
+  "message_id": "CSHOP_COMMON_NG_5_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}很遗憾，你似乎拿不下了。\n最多可以交给你{F2 44 01 01}个哦。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:81:0",
+  "message_id": "WSHOP_TALK000",
+  "translation": "{F2 05 FF FF}{F1 41}…想要称手的东西，\n就带素材来。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:81:1",
+  "message_id": "WSHOP_TALK000",
+  "translation": "{F2 05 FF FF}{F1 41}先说好…老夫可\n不喜欢那些寻常货！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:81:2",
+  "message_id": "WSHOP_TALK000",
+  "translation": "{F2 05 FF FF}{F1 41}找些让人吃惊的稀奇货，\n拿过来吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:81:3",
+  "message_id": "WSHOP_TALK000",
+  "translation": "{F2 05 FF FF}{F1 41}…那样，老夫倒可以\n给你做点更气派的。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:81:4",
+  "message_id": "WSHOP_TALK000",
+  "translation": "{F2 05 FF FF}{F1 41}做的东西不同，\n素材的种类和数量也不同。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:81:5",
+  "message_id": "WSHOP_TALK000",
+  "translation": "{F2 05 FF FF}{F1 41}等这儿攒够一定的素材，\n老夫就凭灵感把它变成艺术品。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:81:6",
+  "message_id": "WSHOP_TALK000",
+  "translation": "{F2 05 FF FF}{F1 41}不过，做什么由老夫说了算。\n毕竟这是艺术嘛。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:81:7",
+  "message_id": "WSHOP_TALK000",
+  "translation": "{F2 05 FF FF}{F1 41}老夫可盼着呢！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:82:0",
+  "message_id": "WSHOP_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}…欢迎光临！！\n今天想来点什么“艺术”？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:82:1",
+  "message_id": "WSHOP_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}…不要太重的？\n要藏在校服下面？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:82:2",
+  "message_id": "WSHOP_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}…你小子的爱好还真奇怪。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:82:3",
+  "message_id": "WSHOP_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}…算了，喜欢就没办法。\n多试试吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:83:0",
+  "message_id": "WSHOP_TALK002",
+  "translation": "{F2 05 FF FF}{F1 41}听说旅馆的独生女闷闷不乐，\n…整个商店街都在嚼舌根，真吵。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:83:1",
+  "message_id": "WSHOP_TALK002",
+  "translation": "{F2 05 FF FF}{F1 41}不过…那旅馆有一部分生意，\n确实靠着女儿的好名声。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:83:2",
+  "message_id": "WSHOP_TALK002",
+  "translation": "{F2 05 FF FF}{F1 41}听说可能是离家出走，\n希望别因不孝遭报应啊…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:83:3",
+  "message_id": "WSHOP_TALK002",
+  "translation": "{F2 05 01 FF}{F1 41}什么都不缺的大小姐想什么，\n老夫可不懂。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:84:0",
+  "message_id": "WSHOP_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}你…从城里来的？\n从那个满是恶意的荒凉地方啊…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:84:1",
+  "message_id": "WSHOP_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}老夫年轻时，\n对那边也挺熟悉…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:84:2",
+  "message_id": "WSHOP_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}这儿空气好，水好，米也香…\n…早把那边忘光了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:85:0",
+  "message_id": "WSHOP_TALK004",
+  "translation": "{F2 05 FF FF}{F1 41}…欢迎光临！！\n带来什么好货了吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:85:1",
+  "message_id": "WSHOP_TALK004",
+  "translation": "{F2 05 FF FF}{F1 41}嗯？…完二？\n那小毛孩又惹什么事了？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:85:2",
+  "message_id": "WSHOP_TALK004",
+  "translation": "{F2 05 FF FF}{F1 41}说起来，他是不是上过\n什么奇怪的搞笑电视节目？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:85:3",
+  "message_id": "WSHOP_TALK004",
+  "translation": "{F2 05 FF FF}{F1 41}难道…被星探看中去东京了！\n…准没错…是吧？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:86:0",
+  "message_id": "WSHOP_TALK005",
+  "translation": "{F2 05 FF FF}{F1 41}说起来，最近没见巽屋的完二。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:86:1",
+  "message_id": "WSHOP_TALK005",
+  "translation": "{F2 05 FF FF}{F1 41}那小子…装得一副坏样，\n可怎么看都只是胆大包天…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:86:2",
+  "message_id": "WSHOP_TALK005",
+  "translation": "{F2 05 FF FF}{F1 41}突然说要和暴走族干一架，\n抢了老夫得意的盾牌就走…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:86:3",
+  "message_id": "WSHOP_TALK005",
+  "translation": "{F2 05 FF FF}{F1 41}拿去打小孩子的架，\n简直是侮辱“艺术”…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:87:0",
+  "message_id": "WSHOP_TALK006",
+  "translation": "{F2 05 FF FF}{F1 41}完二那家伙，\n听说突然回来了啊。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:87:1",
+  "message_id": "WSHOP_TALK006",
+  "translation": "{F2 05 FF FF}{F1 41}问他原因也不肯说…\n真是个不孝的家伙…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:87:2",
+  "message_id": "WSHOP_TALK006",
+  "translation": "{F2 05 FF FF}{F1 41}不过…年轻时，\n谁没有不想说的事呢。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:88:0",
+  "message_id": "WSHOP_TALK007",
+  "translation": "{F2 05 FF FF}{F1 41}…欢迎光临！\n听说你和完二关系不错啊。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:88:1",
+  "message_id": "WSHOP_TALK007",
+  "translation": "{F2 05 FF FF}{F1 41}能把那匹野马收作小弟…\n你还真行啊。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:88:2",
+  "message_id": "WSHOP_TALK007",
+  "translation": "{F2 05 FF FF}{F1 41}嗯？不是小弟？\n…别害羞嘛。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:89:0",
+  "message_id": "WSHOP_TALK008",
+  "translation": "{F2 05 FF FF}{F1 41}…怎么？你小子…\n看着挺兴奋啊。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:89:1",
+  "message_id": "WSHOP_TALK008",
+  "translation": "{F2 05 FF FF}{F1 41}林间学校？…不会吧！\n难道要带去当换洗衣服！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:89:2",
+  "message_id": "WSHOP_TALK008",
+  "translation": "{F2 05 FF FF}{F1 41}什么东西？当然是老夫的“艺术”！\n哇哈哈哈哈哈！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:89:3",
+  "message_id": "WSHOP_TALK008",
+  "translation": "{F2 05 FF FF}{F1 41}啊？…不是吗。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:90:0",
+  "message_id": "WSHOP_TALK009",
+  "translation": "{F2 05 FF FF}{F1 41}…你林间学校过得怎么样？\n…怎么垂头丧气的？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:90:1",
+  "message_id": "WSHOP_TALK009",
+  "translation": "{F2 05 FF FF}{F1 41}吃饭差点吃死了？\n…那是什么情况？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:90:2",
+  "message_id": "WSHOP_TALK009",
+  "translation": "{F2 05 FF FF}{F1 41}趁现在才能享受的事，\n就应该多做做。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:91:0",
+  "message_id": "WSHOP_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}最近湿气太重，\n想集中精神都费劲…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:91:1",
+  "message_id": "WSHOP_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}湿气可是“艺术品”的天敌。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:91:2",
+  "message_id": "WSHOP_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}老夫有时真想…让它们\n全都尽情释放一下。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:91:3",
+  "message_id": "WSHOP_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}…不过，很危险啊。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:92:0",
+  "message_id": "WSHOP_TALK011",
+  "translation": "{F2 05 FF FF}{F1 41}丸久家的理世，听说\n回这边来了啊…\n…老夫还没见到。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:92:1",
+  "message_id": "WSHOP_TALK011",
+  "translation": "{F2 05 FF FF}{F1 41}…为什么？老夫一直在这儿啊。\n其实老夫挺害羞的。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:92:2",
+  "message_id": "WSHOP_TALK011",
+  "translation": "{F2 05 FF FF}{F1 41}…问老夫是不是粉丝？\n…干吗非得回答你。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:92:3",
+  "message_id": "WSHOP_TALK011",
+  "translation": "{F2 05 FF FF}{F1 41}…随便啦！\n别打扰老夫专心搞“艺术”！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:93:0",
+  "message_id": "WSHOP_TALK012",
+  "translation": "{F2 05 FF FF}{F1 41}丸久家的理世，听说回来了啊…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:93:1",
+  "message_id": "WSHOP_TALK012",
+  "translation": "{F2 05 FF FF}{F1 41}其实老夫和四六家、丸久家，\n关系都相当不错。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:93:2",
+  "message_id": "WSHOP_TALK012",
+  "translation": "{F2 05 FF FF}{F1 41}理世就像老夫的\n亲孙女一样啊…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:93:3",
+  "message_id": "WSHOP_TALK012",
+  "translation": "{F2 05 FF FF}{F1 41}也受了丸久老太太不少照顾…\n人情这东西真好啊。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:94:0",
+  "message_id": "WSHOP_TALK013",
+  "translation": "{F2 05 FF FF}{F1 41}你认识叫诸冈的老师吗？\n听说他被杀了…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:94:1",
+  "message_id": "WSHOP_TALK013",
+  "translation": "{F2 05 FF FF}{F1 41}以前他也来过这里，\n张口家长会，闭口心理健康…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:94:2",
+  "message_id": "WSHOP_TALK013",
+  "translation": "{F2 05 FF FF}{F1 41}像条小狗似的吵个没完…\n真是个麻烦家伙。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:94:3",
+  "message_id": "WSHOP_TALK013",
+  "translation": "{F2 05 FF FF}{F1 41}还说什么有害心理健康…\n他自己才不正常呢。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:95:0",
+  "message_id": "WSHOP_TALK014",
+  "translation": "{F2 05 FF FF}{F1 41}…嗯。最近总觉得…\n你小子身上有股霸气。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:95:1",
+  "message_id": "WSHOP_TALK014",
+  "translation": "{F2 05 FF FF}{F1 41}倒不是邪气…\n像战国武将那样的气势。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:95:2",
+  "message_id": "WSHOP_TALK014",
+  "translation": "{F2 05 FF FF}{F1 41}要是拿“艺术”去打无聊的架，\n老夫可饶不了你！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:96:0",
+  "message_id": "WSHOP_TALK015",
+  "translation": "{F2 05 FF FF}{F1 41}喜笑颜开…啊？\n你小子真是神清气爽啊。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:96:1",
+  "message_id": "WSHOP_TALK015",
+  "translation": "{F2 05 FF FF}{F1 41}扫除了心中的污泥与恶意…\n这副表情不错…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:96:2",
+  "message_id": "WSHOP_TALK015",
+  "translation": "{F2 05 FF FF}{F1 41}能理解老夫“艺术”的是你，\n老夫很高兴…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:97:0",
+  "message_id": "WSHOP_TALK016",
+  "translation": "{F2 05 FF FF}{F1 41}整天沉迷祭典之类的，\n暑假一眨眼就结束了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:97:1",
+  "message_id": "WSHOP_TALK016",
+  "translation": "{F2 05 FF FF}{F1 41}不是说打铁要趁热吗！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:97:2",
+  "message_id": "WSHOP_TALK016",
+  "translation": "{F2 05 FF FF}{F1 41}你们也该趁满腔热情时，\n把想做的事做了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:98:0",
+  "message_id": "WSHOP_TALK017",
+  "translation": "{F2 05 FF FF}{F1 41}你的霸气都开花了啊？\n碰上什么好事了吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:98:1",
+  "message_id": "WSHOP_TALK017",
+  "translation": "{F2 05 FF FF}{F1 41}嗯！！旅行…？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:98:2",
+  "message_id": "WSHOP_TALK017",
+  "translation": "{F2 05 FF FF}{F1 41}…给老夫带壬生仙贝就行。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:98:3",
+  "message_id": "WSHOP_TALK017",
+  "translation": "{F2 05 FF FF}{F1 41}…什么，不去京都？\n反正老夫也没期待…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:99:0",
+  "message_id": "WSHOP_TALK018",
+  "translation": "{F2 05 FF FF}{F1 41}…你是去修学旅行了吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:99:1",
+  "message_id": "WSHOP_TALK018",
+  "translation": "{F2 05 FF FF}{F1 41}难…难道带了伴手礼…\n不…不对，老夫才没期待！！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:99:2",
+  "message_id": "WSHOP_TALK018",
+  "translation": "{F2 05 FF FF}{F1 41}…总之，平平安安的，\n就是好事嘛。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:100:0",
+  "message_id": "WSHOP_TALK019",
+  "translation": "{F2 05 FF FF}{F1 41}嗯？…什么？\n“侦探王子”？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:100:1",
+  "message_id": "WSHOP_TALK019",
+  "translation": "{F2 05 FF FF}{F1 41}…真不顺耳…比起“王子”，\n老夫还是更喜欢“武将”…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:100:2",
+  "message_id": "WSHOP_TALK019",
+  "translation": "{F2 05 FF FF}{F1 41}…跟老夫的“艺术”\n有什么关系吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:100:3",
+  "message_id": "WSHOP_TALK019",
+  "translation": "{F2 05 FF FF}{F1 41}…没有？\n…白费老夫认真听了！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:101:0",
+  "message_id": "WSHOP_TALK020",
+  "translation": "{F2 05 FF FF}{F1 41}秋意深…铁的气味亦染红叶色…\n怎么样？这句不错吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:101:1",
+  "message_id": "WSHOP_TALK020",
+  "translation": "{F2 05 FF FF}{F1 41}嗯…说没什么意义…\n唔…这可是老夫的日常啊…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:101:2",
+  "message_id": "WSHOP_TALK020",
+  "translation": "{F2 05 FF FF}{F1 41}算了…\n赶紧把素材拿出来吧…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:101:3",
+  "message_id": "WSHOP_TALK020",
+  "translation": "{F2 05 FF FF}{F1 41}…刚才那句可不是诗。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:102:0",
+  "message_id": "WSHOP_TALK021",
+  "translation": "{F2 05 FF FF}{F1 41}已经秋天了…和你认识\n都过了半年多了吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:102:1",
+  "message_id": "WSHOP_TALK021",
+  "translation": "{F2 05 FF FF}{F1 41}…嗯？\n问老夫脸上的刀疤？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:102:2",
+  "message_id": "WSHOP_TALK021",
+  "translation": "{F2 05 FF FF}{F1 41}男人之间，就别问那么细了…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:102:3",
+  "message_id": "WSHOP_TALK021",
+  "translation": "{F2 05 FF FF}{F1 41}…就说这也是老夫的“艺术”\n好了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:103:0",
+  "message_id": "WSHOP_TALK022",
+  "translation": "{F2 05 FF FF}{F1 41}怎么…脸色都青了？\n…男人之间，老夫什么也不问。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:103:1",
+  "message_id": "WSHOP_TALK022",
+  "translation": "{F2 05 FF FF}{F1 41}守护想守护的东西…\n你这眼神，像条汉子。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:104:0",
+  "message_id": "WSHOP_TALK023",
+  "translation": "{F2 05 FF FF}{F1 41}…你的表情看着很难受啊。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:104:1",
+  "message_id": "WSHOP_TALK023",
+  "translation": "{F2 05 FF FF}{F1 41}男人有时候，\n确实得不动声色地忍耐…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:104:2",
+  "message_id": "WSHOP_TALK023",
+  "translation": "{F2 05 FF FF}{F1 41}…不过，也别把太多事憋心里。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:105:0",
+  "message_id": "WSHOP_TALK024",
+  "translation": "{F2 05 FF FF}{F1 41}那怪雾想熄灭老夫工坊的炉火…\n唔…绝不饶它！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:105:1",
+  "message_id": "WSHOP_TALK024",
+  "translation": "{F2 05 FF FF}{F1 41}多亏这炉火，\n老夫手脚冰凉的毛病都好了…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:105:2",
+  "message_id": "WSHOP_TALK024",
+  "translation": "{F2 05 FF FF}{F1 41}这种严冬要是关门，\n老夫可怎么活啊…！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:106:0",
+  "message_id": "WSHOP_TALK025",
+  "translation": "{F2 05 FF FF}{F1 41}哪个时代，恶都不会绝迹…\n确实如此啊…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:106:1",
+  "message_id": "WSHOP_TALK025",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 82}…记住了。\n邪恶必受惩罚，正义终将得胜。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:106:2",
+  "message_id": "WSHOP_TALK025",
+  "translation": "{F2 05 FF FF}{F1 41}这就是世间的道理。\n…虽然现在反过来了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:106:3",
+  "message_id": "WSHOP_TALK025",
+  "translation": "{F2 05 FF FF}{F1 41}希望你用正直的眼光，\n看清究竟什么是恶…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:107:0",
+  "message_id": "WSHOP_TALK026",
+  "translation": "{F2 05 FF FF}{F1 41}打工？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:107:1",
+  "message_id": "WSHOP_TALK026",
+  "translation": "{F2 05 FF FF}{F1 41}不理解老夫的“艺术”，\n就别想在这儿打工。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:107:2",
+  "message_id": "WSHOP_TALK026",
+  "translation": "{F2 05 FF FF}{F1 41}这世上若真有谁\n能够理解老夫的“艺术”…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:107:3",
+  "message_id": "WSHOP_TALK026",
+  "translation": "{F2 05 FF FF}{F1 41}也就你了！\n哇哈哈哈哈哈！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:107:4",
+  "message_id": "WSHOP_TALK026",
+  "translation": "{F2 05 FF FF}{F1 41}不过，老夫压根儿\n没招过打工的就是了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:108:0",
+  "message_id": "WSHOP_TALK027",
+  "translation": "{F2 05 FF FF}{F1 41}那怪雾已经散得一干二净了啊。\n简直像从来没出现过。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:108:1",
+  "message_id": "WSHOP_TALK027",
+  "translation": "{F2 05 FF FF}{F1 41}干吗？一副得意洋洋的样子。\n难道这事跟你有关系？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:108:2",
+  "message_id": "WSHOP_TALK027",
+  "translation": "{F2 05 FF FF}{F1 41}哇哈哈哈哈哈！老夫喜欢！\n你这家伙活得很有艺术啊！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:109:0",
+  "message_id": "WSHOP_TALK028",
+  "translation": "{F2 05 FF FF}{F1 41}哟，来得好！\n新年快乐啊。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:109:1",
+  "message_id": "WSHOP_TALK028",
+  "translation": "{F2 05 FF FF}{F1 41}本想至少正月休息一下…\n看到你这张脸，创作欲又压不住了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:109:2",
+  "message_id": "WSHOP_TALK028",
+  "translation": "{F2 05 FF FF}{F1 41}打起精神，\n开始新年的艺术创作吧！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:110:0",
+  "message_id": "WSHOP_TALK029",
+  "translation": "{F2 05 FF FF}{F1 41}哎呀，外头每天都冷得要命！\n但这里很热吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:110:1",
+  "message_id": "WSHOP_TALK029",
+  "translation": "{F2 05 FF FF}{F1 41}因为老夫燃烧的艺术之心，\n正打着刚强又可爱的节拍！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:110:2",
+  "message_id": "WSHOP_TALK029",
+  "translation": "{F2 05 FF FF}{F1 41}什么？说是炉火的缘故？你小子…\n嗯，确实快有１０００度了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:111:0",
+  "message_id": "WSHOP_TALK030",
+  "translation": "{F2 05 FF FF}{F1 41}可能你们总是轻松进出，\n来参观的客人也比以前多了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:111:1",
+  "message_id": "WSHOP_TALK030",
+  "translation": "{F2 05 FF FF}{F1 41}有人说想拜老夫为师，\n可艺术不是靠人教的。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:111:2",
+  "message_id": "WSHOP_TALK030",
+  "translation": "{F2 05 FF FF}{F1 41}倾听内心的声音，燃尽灵魂！\n这样才叫艺术！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:112:0",
+  "message_id": "WSHOP_TALK031",
+  "translation": "{F2 05 FF FF}{F1 41}哟，怎么了。\n你不是要回城里去吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:112:1",
+  "message_id": "WSHOP_TALK031",
+  "translation": "{F2 05 FF FF}{F1 41}…嗯，看你这表情，\n像是还有什么事没做完啊。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:112:2",
+  "message_id": "WSHOP_TALK031",
+  "translation": "{F2 05 FF FF}{F1 41}算了，别说那些扫兴话。\n咱俩谁跟谁？尽管看吧！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:113:0",
+  "message_id": "WSHOP_TALKCMM001",
+  "translation": "{F2 05 FF FF}{F1 41}唔…老夫收了一个家里的\n仓库藏品，那家的男主人去世了…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:113:1",
+  "message_id": "WSHOP_TALKCMM001",
+  "translation": "{F2 05 FF FF}{F1 41}结果翻出了些意味深长的信…\n是情书啊…棘手吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:113:2",
+  "message_id": "WSHOP_TALKCMM001",
+  "translation": "{F2 05 FF FF}{F1 41}扔了也太无情…\n可送回去又有点…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:113:3",
+  "message_id": "WSHOP_TALKCMM001",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞是久乃说过的那些信吗…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:113:4",
+  "message_id": "WSHOP_TALKCMM001",
+  "translation": "{F2 05 FF FF}{F1 41}＞决定代为保管信件。\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:113:5",
+  "message_id": "WSHOP_TALKCMM001",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了{F4 45 04 01 00 00 01 01}。\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:114:0",
+  "message_id": "WSHOP_TALKCMM002",
+  "translation": "{F2 05 FF FF}{F1 41}唔！你来得正好！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:114:1",
+  "message_id": "WSHOP_TALKCMM002",
+  "translation": "{F2 05 FF FF}{F1 41}上次那些信啊…\n又翻出来一些。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:114:2",
+  "message_id": "WSHOP_TALKCMM002",
+  "translation": "{F2 05 FF FF}{F1 41}方便的话，能再替老夫保管吗…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:114:3",
+  "message_id": "WSHOP_TALKCMM002",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞决定代为保管信件。\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/msg_weapon.bmd.json:114:4",
+  "message_id": "WSHOP_TALKCMM002",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了{F4 45 04 01 00 00 01 01}。\n{F1 24}{00}"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/battle/message/persona_get.bmd.json:0:0",
+  "message_id": "P_GET_MSGID_GET",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了人格面具\n“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/persona_get.bmd.json:1:0",
+  "message_id": "P_GET_MSGID_RUNKUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞等级提升了！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/persona_get.bmd.json:2:0",
+  "message_id": "P_GET_MSGID_TUTORIAL",
+  "translation": "{F2 05 FF FF}{F1 41}＞教程\n{F1 21}{00}"
+ }
+]

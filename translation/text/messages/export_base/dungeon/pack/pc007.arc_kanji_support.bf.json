@@ -1,0 +1,257 @@
+[
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:0:0",
+  "message_id": "KANJI_FOE_FOLLOW_START1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 45 02}Ｆ．Ｏ．Ｅ\n追过来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:1:0",
+  "message_id": "KANJI_FOE_FOLLOW_START2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 46 02}那个Ｆ什么的来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:2:0",
+  "message_id": "KANJI_FOE_FOLLOW_START3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 47 02}那只Ｆ．Ｏ．Ｅ，\n要往这边来吗！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:3:0",
+  "message_id": "KANJI_FOE_SENSOR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 48 02}呜哇，糟了！\nＦ．Ｏ．Ｅ离得好近！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:4:0",
+  "message_id": "KANJI_FOE_SENSOR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 49 02}是Ｆ．Ｏ．Ｅ，\n请小心点。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:5:0",
+  "message_id": "KANJI_FOE_SENSOR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4A 02}啧……有Ｆ．Ｏ．Ｅ在啊。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:6:0",
+  "message_id": "KANJI_FOE_FOLLOW_END1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4B 02}那个Ｆ什么的，\n没再追来了啊。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:7:0",
+  "message_id": "KANJI_FOE_FOLLOW_END2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4C 02}嘿嘿，\n把那个Ｆ什么的甩掉了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:8:0",
+  "message_id": "KANJI_FOE_FOLLOW_END3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4D 02}好耶！\n甩掉刚才那只Ｆ．Ｏ．Ｅ了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:9:0",
+  "message_id": "KANJI_PARTY_HPTP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4E 02}抱、抱歉……\n能稍微歇会儿吗……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:10:0",
+  "message_id": "KANJI_PARTY_HPTP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4F 02}可恶……\n哪能在这种地方……累趴啊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:11:0",
+  "message_id": "KANJI_PARTY_HPTP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 50 02}不、不行…没力气了…\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:12:0",
+  "message_id": "KANJI_PARTY_HP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 51 02}啧……\n身子开始晃了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:13:0",
+  "message_id": "KANJI_PARTY_HP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 52 02}体力不妙啊……\n能帮我恢复一下吗……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:14:0",
+  "message_id": "KANJI_PARTY_HP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 53 02}怎么能……\n倒在这儿……咳！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:15:0",
+  "message_id": "KANJI_PARTY_TP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 54 02}糟了，已经打不起精神了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:16:0",
+  "message_id": "KANJI_PARTY_TP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 55 02}精力快耗尽了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:17:0",
+  "message_id": "KANJI_PARTY_TP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 56 02}可恶，耐力耗尽了吗……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:18:0",
+  "message_id": "KANJI_STAIR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 57 02}找到楼梯了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:19:0",
+  "message_id": "KANJI_STAIR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 58 02}哦，是楼梯！\n往前走吧！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:20:0",
+  "message_id": "KANJI_STAIR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 59 02}是楼梯啊。\n当然要走吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:21:0",
+  "message_id": "KANJI_TREASURE1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 5A 02}好耶，是宝贝！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:22:0",
+  "message_id": "KANJI_TREASURE2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 5B 02}找到宝箱了。\n怎么办？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:23:0",
+  "message_id": "KANJI_TREASURE3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 5C 02}是宝箱啊。\n把它打开吧！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:24:0",
+  "message_id": "KANJI_FOUNTAIN1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 5D 02}那个冒气的东西，\n又出现了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:25:0",
+  "message_id": "KANJI_FOUNTAIN2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 5E 02}哦！那边的，\n是什么能量滴管吧！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:26:0",
+  "message_id": "KANJI_FOUNTAIN3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 5F 02}哦，是能量海绵！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:27:0",
+  "message_id": "KANJI_SEARCH_OBJ1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 60 02}那儿是不是有点可疑？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:28:0",
+  "message_id": "KANJI_SEARCH_OBJ2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 61 02}这附近，\n绝对有什么东西！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:29:0",
+  "message_id": "KANJI_SEARCH_OBJ3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 62 02}……啊？\n前面是不是有什么？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:30:0",
+  "message_id": "KANJI_SWITCH1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 63 02}哦，那个，\n不就是开关吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:31:0",
+  "message_id": "KANJI_SWITCH2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 64 02}那是控制什么的开关啊。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:32:0",
+  "message_id": "KANJI_SWITCH3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 65 02}有个像是\n开关的东西！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:33:0",
+  "message_id": "KANJI_SHORTCUT1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 66 02}那面墙，\n是不是有点奇怪？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:34:0",
+  "message_id": "KANJI_SHORTCUT2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 67 02}那面墙好像能砸破……\n要动手吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:35:0",
+  "message_id": "KANJI_SHORTCUT3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 68 02}那面墙，怎么说呢……\n总觉得有点在意啊。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:36:0",
+  "message_id": "KANJI_PARTY_HPTP15_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4E 02}抱、抱歉……\n能稍微歇会儿吗……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:37:0",
+  "message_id": "KANJI_PARTY_HPTP15_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4F 02}可恶……\n哪能在这种地方……累趴啊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:38:0",
+  "message_id": "KANJI_PARTY_HPTP15_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 50 02}不、不行…没力气了…\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:39:0",
+  "message_id": "KANJI_PARTY_TP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 54 02}糟了，已经打不起精神了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:40:0",
+  "message_id": "KANJI_PARTY_TP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 55 02}精力快耗尽了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:41:0",
+  "message_id": "KANJI_PARTY_TP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 56 02}可恶，耐力耗尽了吗……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:42:0",
+  "message_id": "KANJI_PARTY_HP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 51 02}啧……\n身子开始晃了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:43:0",
+  "message_id": "KANJI_PARTY_HP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 52 02}体力不妙啊……\n能帮我恢复一下吗……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:44:0",
+  "message_id": "KANJI_PARTY_HP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 53 02}怎么能……\n倒在这儿……咳！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:45:0",
+  "message_id": "KANJI_FOE_NEAR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 45 02}Ｆ．Ｏ．Ｅ\n追过来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:46:0",
+  "message_id": "KANJI_FOE_NEAR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 46 02}那个Ｆ什么的来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:47:0",
+  "message_id": "KANJI_FOE_NEAR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 47 02}那只Ｆ．Ｏ．Ｅ，\n要往这边来吗！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:48:0",
+  "message_id": "KANJI_ME_LEVEL_UP1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 69 02}我马上就升级啦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:49:0",
+  "message_id": "KANJI_ME_LEVEL_UP2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 6A 02}男子汉，巽完二！升级啦！\n……啊，还没呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc007.arc_kanji_support.bf.json:50:0",
+  "message_id": "KANJI_ME_LEVEL_UP3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 6B 02}真的要升级啦！\n凭直觉说的！\n{F2 26 00 00}{00}"
+ }
+]

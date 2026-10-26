@@ -1,0 +1,52 @@
+[
+ {
+  "key": "export_base/event/e700/e722_150.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞门后传来阴影的气息……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_150.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}刚才的声音，\n好像就是从这扇门这边传来的吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_150.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 07 01 65 01 01 01}{F5 61 02 01 01 01 01 01 DE 04}怎么回事啊。\n刚才明明什么都感觉不到……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_150.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}不过，门后肯定\n有阴影在埋伏……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_150.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0B 01 06 01 02 01}{F5 61 02 01 01 01 01 01 2E 07}{F5 C1 03 01 01 01 01 01 06 01}这是爱的试炼熊……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_150.bf.json:4:0",
+  "message_id": "MSG_0032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}和小熊一起打开这扇门，\n证明爱情的\n命定公主……会是谁！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_150.bf.json:4:1",
+  "message_id": "MSG_0032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 81 07}{F5 C1 03 01 01 01 01 01 09 01}我们的爱情，现在正面临考验！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_150.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0F 01 0D 01 65 01 04 01}{F5 61 02 01 01 01 01 01 96 11}队长。\n准备好了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_150.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0B 01 01 01 05 01}{F5 61 02 01 01 01 01 01 03 07}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 0C 01}居然隔着老远无视小熊！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_150.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 4E 0A}看来……\n很可能是个相当强大的敌人。\n先回去准备一下，也是个办法。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

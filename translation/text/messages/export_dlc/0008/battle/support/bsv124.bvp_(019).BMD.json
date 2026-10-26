@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(019).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_020_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 10 01}咦……好像很强啊。\n也没有资料。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(019).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_020_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 11 01}那个是不是很强？\n是很强的家伙吧？\n{F2 26 00 00}{00}"
+ }
+]

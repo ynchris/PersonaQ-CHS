@@ -1,0 +1,147 @@
+[
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞美食广场……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伙伴们似乎正在休息……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 04 01 08 01 03 01 02 01}{F5 61 02 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 04 01}呜啊……累死了……\n时钟塔也太长了吧？而且好难啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 11 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0A 07}小熊引以为傲的毛都卷起来了熊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 0D 01 01 01 01 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 01 01}越来越艰难，\n应该说明我们离玲更近了吧。\n……大概。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}总觉得就差一点了，\n其实却还早得很……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}要说时钟塔最折磨人的地方……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:5:0",
+  "message_id": "SEL_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 03 01 02 01 01 01 01 01}画地图很累{F5 47 02 01 03 01 0B 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:5:1",
+  "message_id": "SEL_005",
+  "translation": "{F2 05 FF FF}{F1 41}机关很难{F5 47 02 01 03 01 0B 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:5:2",
+  "message_id": "SEL_005",
+  "translation": "{F2 05 FF FF}{F1 41}阴影很强{F5 47 02 01 03 01 0B 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:5:3",
+  "message_id": "SEL_005",
+  "translation": "{F2 05 FF FF}{F1 41}倒不觉得难受{F5 47 02 01 03 01 09 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 03 01 03 01 02 01}{F5 61 02 01 01 01 01 01 04 07}是啊——\n小熊已经很努力地走了，\n可里面实在太大了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 01 01 02 01 02 01}{F5 61 02 01 01 01 01 01 01 01}导航没能顾及到这些，\n对不起……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 01 01 02 01 02 01}{F5 61 02 01 01 01 01 01 D1 0A}要是也能通过导航\n告诉大家机关的解法就好了……\n对不起。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 83 08}{F5 C1 03 01 01 01 01 01 04 01}为什么强成那样啊？\n实在搞不懂……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 01 01 02 01 02 01}{F5 61 02 01 01 01 01 01 01 01}分析起来，\n也全都是强敌呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 85 08}{F5 C1 03 01 01 01 01 01 07 01}真的假的。\n你也太厉害了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 09 01 02 01 02 01}{F5 61 02 01 01 01 01 01 48 0B}呵呵，真可靠呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞大家纷纷叹起气来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 02 01 01 01 02 01}{F5 86 02 01 0D 01 01 01 04 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 01 01}也只剩最后一点了。\n想到马上就能结束，\n不觉得开心起来了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 88 08}{F5 C1 03 01 01 01 01 01 0A 01}并没有。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:15:1",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}不过，也是啊。\n不能在这里放弃，\n总得试着享受其中吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 BA 02}重新打起精神，继续爬吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 18 07}{F5 C1 03 01 01 01 01 01 07 01}一定要再次见到小玲熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 06 0B}我也会努力的！\n大家一定要一起坚持到最后！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 04 01 02 01}{F5 61 02 01 01 01 01 01 8D 08}区区迷宫算什么！\n有种放马过来！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 F0 0A}{F5 C1 03 01 01 01 01 01 0B 01}放……放马过来！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:21:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞感受到了大家的热情……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e905_260.bf.json:22:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞重新打起精神，\n　前往玲所在的时钟塔吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

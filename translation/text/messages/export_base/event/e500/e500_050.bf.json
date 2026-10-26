@@ -1,0 +1,242 @@
+[
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞来到了一处稍显开阔的地方……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞决定稍作休息……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 08 01 01 01 04 01}{F5 86 0D 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}美鹤，又在钻牛角尖吗？\n你也真不嫌累。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 03 01}我在反省。\n觉得自己和柯罗诺斯一样……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 03 01 01 01 01 01 05 01}一样？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 05 01}无论是影时间，还是这里的事……\n我满脑子只想着\n让事态平息……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 06 01}本应并肩作战的岳羽她们的想法，\n却被我排在后面……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:4:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0B 01 04 01 01 01}{F5 61 02 01 01 01 01 01 07 01}“伙伴”说来很容易，\n可在这句话背后，我也许\n把他们当成了棋子……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}岳羽说过吧。\n她不只是棋子。\n能来到这里，真好……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}我现在也这么觉得。\n如果没来这里，我们之间\n也许一直会有隔阂。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 05 01 05 01}{F5 61 02 01 01 01 01 01 0A 01}……这种事，我其实早就明白。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0B 01}明明知道，却装作不知道……\n那样不过是在逃避。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:6:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0C 01}我还真渺小啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}是“我们”吧？\n逃避的，不也包括我吗。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0E 01}以后，必须\n坦诚相对才行。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:8:0",
+  "message_id": "SEL_TALK008",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 03 01 02 01 01 01 02 01}大胆迈出这一步{F5 47 02 01 03 01 03 01 01 01}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:8:1",
+  "message_id": "SEL_TALK008",
+  "translation": "{F2 05 FF FF}{F1 41}尽管冲我来{F5 47 02 01 03 01 03 01 01 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}呵呵……是啊。\n那就让我\n不客气地迈出这一步吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 10 01}呵呵……真可靠。\n那对你，我也就\n不客气了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 11 01}是啊……\n我也得勇敢去面对……\n过去的自己……还有那家伙。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}我也……有些事，\n想更多地依靠伙伴，向大家坦白……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:12:1",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 02 01 01 01 02 01}{F5 86 0E 01 01 01 02 01 04 01}{F5 61 02 01 01 01 01 01 13 01}虽然还是害怕……\n可也得勇敢迈出去。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 01 01 05 01}{F5 61 02 01 01 01 01 01 14 01}回去后，看来会忙起来啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:14:0",
+  "message_id": "SEL_TALK014",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 03 01 02 01 01 01 01 01}先办派对{F5 47 02 01 03 01 07 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:14:1",
+  "message_id": "SEL_TALK014",
+  "translation": "{F2 05 FF FF}{F1 41}一起到处玩吧{F5 47 02 01 03 01 07 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:14:2",
+  "message_id": "SEL_TALK014",
+  "translation": "{F2 05 FF FF}{F1 41}不许再隐瞒{F5 47 02 01 03 01 07 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 15 01}是啊。\n现在就想好要吃什么吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 06 01 01 01}{F5 61 02 01 01 01 01 01 16 01}松饼！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 17 01}{F5 C1 03 01 01 01 01 01 0A 01}又没问你。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 18 01}呵呵……干脆\n去命运乐园吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:18:1",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 19 01}……其实，我一直想去看看。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1A 01}我连游乐园都没去过。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1B 01}那是女人小孩去的地方吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:21:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 06 01 01 01}{F5 61 02 01 01 01 01 01 1C 01}……你去过？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:22:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 1D 01}……没去过。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:23:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1E 01}那就决定了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:24:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 1F 01}嗯。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:25:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 06 01 01 01}{F5 61 02 01 01 01 01 01 20 01}那把所有房间的锁都拆了吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:26:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 21 01}……驳回。\n万一伊织住进我房间\n不走了怎么办。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:27:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 22 01}{F5 C1 03 01 01 01 01 01 0A 01}说得像虫子一样。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:28:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 23 01}{F5 C1 03 01 01 01 01 01 04 01}{F5 C1 04 01 01 01 01 01 02 01}我有事进过他的房间……\n实在惨不忍睹……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:29:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 24 01}啊……能想象出来。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:30:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 02 01}{F5 86 0E 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 25 01}总之，觉得肩上的担子轻了。\n是我擅自背上的担子。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:30:1",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 26 01}这一切，都多亏你\n作为队长带领着我们……\n今后也请多关照。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:31:0",
+  "message_id": "SEL_TALK031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}知道了{F5 47 02 01 03 01 07 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:31:1",
+  "message_id": "SEL_TALK031",
+  "translation": "{F2 05 FF FF}{F1 41}好麻烦{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:32:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 04 01 01 01}{F5 61 02 01 01 01 01 01 27 01}好，大家一定要一起回去。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_050.bf.json:33:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 28 01}呵呵，以后或许还会\n给你添更多麻烦呢。\n做好觉悟吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

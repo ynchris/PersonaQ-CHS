@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(002).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_003_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 50 01}咦……虽说是Ｆ．Ｏ．Ｅ……\n现在是不是能打赢？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(002).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_003_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 51 01}这个Ｆ．Ｏ．Ｅ的话……\n说不定能赢？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(002).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_003_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 52 01}虽说是Ｆ．Ｏ．Ｅ……\n也许不是打不赢。\n{F2 26 00 00}{00}"
+ }
+]

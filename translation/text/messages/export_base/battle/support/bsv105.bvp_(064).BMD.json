@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:0:0",
+  "message_id": "BTL_MES_H105_065_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 16 02}前辈现在只能\n使用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:1:0",
+  "message_id": "BTL_MES_H105_065_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0D 02}副队长现在只能\n使用物理技能！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:2:0",
+  "message_id": "BTL_MES_H105_065_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 17 02}花村前辈现在只能用物理技能，\n要注意。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:3:0",
+  "message_id": "BTL_MES_H105_065_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 18 02}千枝前辈，现在只能\n使用物理技能。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:4:0",
+  "message_id": "BTL_MES_H105_065_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 19 02}雪子前辈，现在只能\n使用物理技能！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:6:0",
+  "message_id": "BTL_MES_H105_065_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1A 02}完二现在只能\n进行物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:7:0",
+  "message_id": "BTL_MES_H105_065_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1C 02}直斗，现在只能用物理技能，\n要注意。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:8:0",
+  "message_id": "BTL_MES_H105_065_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1B 02}小熊，现在只能\n使用物理技能。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:9:0",
+  "message_id": "BTL_MES_H105_065_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0E 02}由加莉，现在只能\n进行物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:10:0",
+  "message_id": "BTL_MES_H105_065_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0F 02}顺平先生现在只能\n使用物理技能！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:11:0",
+  "message_id": "BTL_MES_H105_065_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 10 02}真田先生现在只能\n使用物理技能。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:12:0",
+  "message_id": "BTL_MES_H105_065_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 11 02}美鹤女士只能使用物理技能。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:14:0",
+  "message_id": "BTL_MES_H105_065_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 14 02}埃癸斯现在只能\n使用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:15:0",
+  "message_id": "BTL_MES_H105_065_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 12 02}乾现在只能\n进行物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:16:0",
+  "message_id": "BTL_MES_H105_065_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 13 02}小虎，现在只能\n进行物理攻击！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:17:0",
+  "message_id": "BTL_MES_H105_065_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 15 02}荒垣先生只能\n使用物理技能。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:18:0",
+  "message_id": "BTL_MES_H105_065_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1D 02}善，只能使用物理技能，\n要注意哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:19:0",
+  "message_id": "BTL_MES_H105_065_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1D 02}善，只能使用物理技能，\n要注意哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:20:0",
+  "message_id": "BTL_MES_H105_065_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0C 02}前辈，只能用物理技能，\n要注意！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(064).BMD.json:21:0",
+  "message_id": "BTL_MES_H105_065_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0B 02}队长，现在只能\n进行物理攻击。\n{F2 26 00 00}{00}"
+ }
+]

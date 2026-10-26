@@ -1,0 +1,52 @@
+[
+ {
+  "key": "export_base/event/e700/e722_140.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 23 04}……啊，完全不行。\n这扇门似乎打不开。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_140.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}啊，真的。\n看来只能从别的路绕过去了。\n走吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_140.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3D 04}……小乾啊，\n就像小动物一样，真可爱。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_140.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 07 01}……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_140.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 26 0C}{F5 C1 03 01 01 01 01 01 0B 01}请、请别这么说！\n就算夸我可爱，\n我也不会高兴的！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_140.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 05 01}咦，是这样吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_140.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 07 01}{F5 61 02 01 01 01 01 01 9A 08}你看，这家伙正值青春期嘛。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_140.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 37 0C}{F5 C1 03 01 01 01 01 01 03 01}别说我青春期！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_140.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 02 01 02 01}{F5 61 02 01 01 01 01 01 01 01}啊，果然是青春期啊。\n正中靶心、货真价实的青春期。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_140.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2C 0C}{F5 C1 03 01 01 01 01 01 0B 01}都、都说了别这样！\n好了，走吧！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

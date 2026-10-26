@@ -1,0 +1,82 @@
+[
+ {
+  "key": "export_base/event/e700/e723_330.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞地上又出现了{F4 84 04 01 01 01 09 07}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_330.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞捡起了{F4 84 04 01 01 01 09 07}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_330.bf.json:2:0",
+  "message_id": "MSG_0003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_330.bf.json:2:1",
+  "message_id": "MSG_0003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞在黑暗中似乎不会消失……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_330.bf.json:3:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 08 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 8A 05}{F5 C1 03 01 01 01 01 01 07 01}哦！\n真的没消失啊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_330.bf.json:3:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}不过，已经消失的钥匙，\n为什么又出现了呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_330.bf.json:4:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 23 04}说不定……是有人放的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_330.bf.json:5:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 FE 07}{F5 C1 03 01 01 01 01 01 02 01}喂，别说了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_330.bf.json:6:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 AC 11}{F5 C1 03 01 01 01 01 01 05 01}有人……谁啊？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_330.bf.json:7:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0F 01 04 01 01 01}{F5 61 02 01 01 01 01 01 82 11}{F5 C1 03 01 01 01 01 01 0B 01}学、学长也是！\n别问得那么具体啊！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_330.bf.json:7:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 03 01}这世上有很多事情，\n还是不知道比较幸福！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_330.bf.json:8:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 D5 0C}{F5 C1 03 01 01 01 01 01 0A 01}哦、哦。\n也是，抱歉……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_330.bf.json:9:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 01 01 02 01 01 01 04 01}{F5 86 10 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}钥匙似乎会{F2 01 03 01}因接触到光线\n而消失{F2 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_330.bf.json:9:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}捡起钥匙之后，\n请注意不要开灯。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_330.bf.json:10:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 02 01}{F5 61 02 01 01 01 01 01 B9 06}可是，不开灯的话，\n人偶Ｆ．Ｏ．Ｅ\n就会挡住道路……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_330.bf.json:10:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}再看看地图，找找有没有\n不开灯就能把钥匙\n带到门前的路线吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

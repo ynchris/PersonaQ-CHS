@@ -1,0 +1,172 @@
+[
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞来到一处开阔的地方，\n　决定在这里休息……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞女生们在稍远的地方坐了下来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 04 01 02 01}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 0A 01}啊，好累……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 03 01 01 01 01 01 04 01}这里好像还会继续问问题呢。\n真是的，什么命中注定的另一半啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 04 01}据我推测……\n命中注定的另一半，应该就是我。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 03 01 01 01 01 01 05 01}诶！？\n……啊，我们都是按队长的答案走，\n所以要找的是队长命定的另一半……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 03 01 01 01 01 01 01 01}……等等，\n是从我们中间选！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 07 01}{F5 61 02 01 01 01 01 01 07 01}嗯……确实有这种可能。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}也有可能是从全世界选。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 09 01}{F5 C1 03 01 01 01 01 01 07 01}范围也太大了吧！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}那、那么，{F5 C1 10 01 01 01 01 01 01 01}和\n埃癸斯果然是……那种关系？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}就是那种关系。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 0B 01 0F 01 04 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}{F5 C1 03 01 01 01 01 01 0B 01}不，不是啦！真是的，埃癸斯！\n没明白意思就不要随便回答！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}哎呀～？\n是不是碰到不该碰的话题了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}什么叫不该碰的话题……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0F 01}{F5 C1 04 01 01 01 01 01 02 01}那个，就是……三角关系？\n之类的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0B 01 01 01 05 01}{F5 61 02 01 01 01 01 01 10 01}诶，真的吗！？\n你们在抢他！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0F 01 04 01 01 01}{F5 61 02 01 01 01 01 01 11 01}才不……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 12 01}{F5 C1 04 01 01 01 01 01 02 01}哦～原来如此！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 13 01}不是“哦～原来如此”！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 15 01 02 01 01 01 05 01}{F5 86 29 01 03 01 02 01 02 01}{F5 61 02 01 01 01 01 01 14 01}哦～原来这样如此！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 15 01}{F5 C1 03 01 01 01 01 01 07 01}喂，连玲也……！\n而且善也在听啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 05 01}{F5 61 02 01 01 01 01 01 16 01}啊，抱歉，由加莉。\n我听见的话，会让你为难吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 11 01 04 01 01 01}{F5 61 02 01 01 01 01 01 17 01}{F5 C1 03 01 01 01 01 01 0B 01}不、不是那个意思！？\n什么事都没有，我真的不在意！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 02 01 65 01 04 01}{F5 86 07 01 05 01 65 01 02 01}{F5 61 02 01 01 01 01 01 18 01}喂～！\n趁我不在聊这种话题，太狡猾了！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:20:1",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 19 01}对吧，风花！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:21:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 03 01 65 01 01 01}{F5 61 02 01 01 01 01 01 1A 01}嗯、嗯。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:22:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 0A 01 03 01 01 01 04 01}{F5 61 02 01 01 01 01 01 1B 01}喂——！\n那边的女生，偷偷摸摸的，\n原来在聊恋爱话题吗，熊！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:22:1",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1C 01}有什么烦恼，小熊都愿意倾听！\n说不定还能交到恋人，\n尝到甜蜜滋味哦，熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:23:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 1D 01}啊，这种就不用了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:24:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1E 01}{F5 C1 03 01 01 01 01 01 04 01}城里的女生太会无视别人了，熊……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:24:1",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1F 01}小玲，安慰一下小熊嘛……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:25:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0F 01 03 01 02 01}{F5 61 02 01 01 01 01 01 20 01}{F5 C1 03 01 01 01 01 01 08 01}蕉……甜蜜滋味！？\n是说把小熊剥开就很好吃吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_100.bf.json:26:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 21 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 0B 01}呀啊啊！小熊不能吃啊，熊！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,107 @@
+[
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善从房间深处供奉的箱子里，\n　取出了什么……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 05 01}留言卡……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 03 01}“安息吧”……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 04 01}这、这听起来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 05 01}“每个人都有各种各样的一面”……吗。\n确实如此吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 06 01}可是，即使如此，\n也不可能“接受”啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 29 01 08 01 02 01 01 01}{F5 61 02 01 01 01 01 01 07 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 08 01}玲，我……全都想起来了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}我是掌管时间的“柯罗诺斯”……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:7:0",
+  "message_id": "MSG_0062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}……原来我是来迎接你的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}不明白……\n我什么……都不知道……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}你一直害怕着迷宫。\n在他们到来之前，\n你绝不肯靠近……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:9:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}你不愿触及的，是隐藏在\n迷宫深处的“真相”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:9:2",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0E 01}可是，你又想和他们待在一起……\n为了和他们在一起，\n连可怕的迷宫也走了进去……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:9:3",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0F 01}因为，你想和他们\n变得“一样”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:9:4",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 10 01}想回到“同一个地方”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:9:5",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0B 01 05 01 01 01}{F5 61 02 01 01 01 01 01 11 01}……可是，不一样。\n你和他们，不一样啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 12 01}{F5 C1 02 01 01 01 01 01 02 01}没有不一样……没有！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 05 01 01 01}{F5 61 02 01 01 01 01 01 13 01}那时的我错了。\n你必须和我一起走。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 14 01}善，别说了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_071.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 15 01}我要……解开你的记忆了。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

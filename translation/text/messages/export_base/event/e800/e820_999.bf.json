@@ -1,0 +1,42 @@
+[
+ {
+  "key": "export_base/event/e800/e820_999.bf.json:0:0",
+  "message_id": "MSG_TEST",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 02 01}人生是一幕戏剧\n人人皆是不知剧本的业余演员\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_999.bf.json:0:1",
+  "message_id": "MSG_TEST",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}终幕尚未演出\n舞台的帷幕已然落下……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_999.bf.json:0:2",
+  "message_id": "MSG_TEST",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}再无灯光照亮演员\n过于沉重的面具　就此摘下吧\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_999.bf.json:0:3",
+  "message_id": "MSG_TEST",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}留下的唯有一夜之梦……\n虚幻而渐渐消逝的一夜之梦……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_999.bf.json:1:0",
+  "message_id": "MSG_TEST2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 06 01}人生是一幕戏剧\n人人皆是不知剧本的业余演员\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_999.bf.json:1:1",
+  "message_id": "MSG_TEST2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 07 01}随着演员们的努力\n舞台的帷幕已然落下……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_999.bf.json:1:2",
+  "message_id": "MSG_TEST2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}再无人知晓演员\n唯有化作泡沫消失……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_999.bf.json:1:3",
+  "message_id": "MSG_TEST2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}直至永远……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

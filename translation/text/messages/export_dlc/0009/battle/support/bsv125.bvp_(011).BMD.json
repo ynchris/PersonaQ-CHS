@@ -1,0 +1,27 @@
+[
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(011).BMD.json:0:0",
+  "message_id": "BTL_MES_H125_012_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2C 01}啊，那个敌人闪闪发光！\n好漂亮啊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(011).BMD.json:1:0",
+  "message_id": "BTL_MES_H125_012_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2D 01}哇，有闪闪发光的！\n菜菜子想摆在房间里！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(011).BMD.json:2:0",
+  "message_id": "BTL_MES_H125_012_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2E 01}啊，那个很少见，对吧？\n得加油打倒它！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(011).BMD.json:3:0",
+  "message_id": "BTL_MES_H125_012_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2F 01}啊，是闪闪发光的！\n不快点就要逃走了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(011).BMD.json:4:0",
+  "message_id": "BTL_MES_H125_012_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 30 01}那个闪闪发光的敌人……\n为什么会闪闪发光呢？\n{F2 26 00 00}{00}"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这里放着一个花盆……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:1:1",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞开花了……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:2:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 B3 08}{F5 C1 03 01 01 01 01 01 07 01}哦哦，开花了啊！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:2:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}……咦？\n花怎么掉下来了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 C3 07}{F5 C1 03 01 01 01 01 01 01 01}咦，不会吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞好不容易绽放的花朵\n落在了泥土上……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 07 01 65 01 01 01}{F5 61 02 01 01 01 01 01 EA 0A}真可惜。\n好不容易才开花的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 B7 0D}有开始，就有结束。\n盛极必衰，这是法则。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 03 01 02 01 01 01 04 01}{F5 86 0C 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 D1 08}……这朵花，\n我们还是带回去吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:7:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}风花在那边也看不到吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 03 01 65 01 01 01}{F5 61 02 01 01 01 01 01 48 0B}啊，嗯！\n谢谢你，顺平！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞获得了{F4 84 04 01 01 01 07 05}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 07 01 01 01}{F5 61 02 01 01 01 01 01 D8 07}哎呀，顺平。\n有点让人刮目相看了嘛。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 9A 08}{F5 C1 03 01 01 01 01 01 08 01}嗯？又迷上我了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 C6 07}收回前言。\n你可以入土了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 88 11}{F5 C1 03 01 01 01 01 01 0B 01}死亡宣告……！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 02 01 01 01 04 01}{F5 86 10 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}另外，经调查，\n发现这朵花具有不可思议的能力。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:14:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}若有需要，可以让某位队员带着它。\n以上，导航汇报完毕。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_374.bf.json:15:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}啊，辛、辛苦了。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

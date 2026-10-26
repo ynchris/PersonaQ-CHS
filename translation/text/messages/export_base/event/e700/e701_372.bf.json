@@ -1,0 +1,77 @@
+[
+ {
+  "key": "export_base/event/e700/e701_372.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这里放着一个花盆……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_372.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_372.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞植物长出了水灵灵的叶子……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_372.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 03 01 65 01 02 01}{F5 61 02 01 01 01 01 01 F8 0A}啊，太好了……\n它长大了呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_372.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 07 01 01 01}{F5 61 02 01 01 01 01 01 01 01}看样子还能继续长呢。\n要不要给它浇点水？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_372.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}＞试着用洒水壶给它浇水吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_372.bf.json:4:0",
+  "message_id": "SEL_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 02 01}浇水{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_372.bf.json:4:1",
+  "message_id": "SEL_004",
+  "translation": "{F2 05 FF FF}{F1 41}现在先不了{F5 47 02 01 03 01 05 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_372.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞给花盆里的植物浇了水……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_372.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞干燥的泥土渐渐吸收了水分……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_372.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 D8 07}快快长大吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_372.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 9A 08}{F5 C1 03 01 01 01 01 01 08 01}那我们下次再来吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_372.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0B 01 65 01 01 01}{F5 61 02 01 01 01 01 01 CE 0A}{F5 C1 03 01 01 01 01 01 05 01}队、队长？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_372.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}给它浇点水，\n又不会遭天谴……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_372.bf.json:10:0",
+  "message_id": "MSG_0082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 0B 01 65 01 01 01}{F5 61 02 01 01 01 01 01 CE 0A}{F5 C1 03 01 01 01 01 01 05 01}队、队长？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

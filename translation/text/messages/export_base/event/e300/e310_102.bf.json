@@ -1,0 +1,112 @@
+[
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 03 01 02 01}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 02 01}呀啊啊！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 02 01 04 01}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 03 01 01 01 01 01 01 01}怎么了，玲！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 04 01 01 01 01 01 02 01}眼、眼前……\n鬼娃娃……出、出现……哇啊啊啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 04 01 01 01 01 01 02 01}往、往右一看……\n鬼娃娃……出、出现……哇啊啊啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 04 01 01 01 01 01 02 01}往、往左一看……\n鬼娃娃……出、出现……哇啊啊啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 07 01}{F5 C1 03 01 01 01 01 01 07 01}是Ｆ．Ｏ．Ｅ……！\n玲，快回来！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}{F5 C1 04 01 01 01 01 01 02 01}咿……呜……\n不、行……走不动了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:7:0",
+  "message_id": "SEL_TALK007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 02 01}你们两个都冷静点{F5 47 02 01 02 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:7:1",
+  "message_id": "SEL_TALK007",
+  "translation": "{F2 05 FF FF}{F1 41}绕开就没问题{F5 47 02 01 02 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}太悠闲了！\n要是遭到Ｆ．Ｏ．Ｅ袭击……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0A 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:9:0",
+  "message_id": "MSG_0082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}是吗……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:9:1",
+  "message_id": "MSG_0082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0C 01}只要不主动走向Ｆ．Ｏ．Ｅ，\n就不会受到袭击。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}是吗……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:10:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0E 01}只要不主动走向Ｆ．Ｏ．Ｅ，\n就不会受到袭击。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0F 01}{F5 C1 03 01 01 01 01 01 04 01}{F5 C1 04 01 01 01 01 01 02 01}呜……\n可、可是……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 10 01}冷静下来。\n听好，那是“章鱼烧”。\n是玲最喜欢的“章鱼烧”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 11 01}{F5 C1 03 01 01 01 01 01 05 01}{F5 C1 04 01 01 01 01 01 02 01}章、章鱼烧……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:13:1",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 12 01}{F5 C1 04 01 01 01 01 01 02 01}这、这样啊……这是章鱼烧……\n刚烤好、热腾腾的巨大章鱼烧……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:13:2",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 13 01}{F5 C1 04 01 01 01 01 01 02 01}嗯、嗯……\n这……一定是章鱼烧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 02 01}{F5 86 15 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 14 01}{F2 01 03 01}Ｆ．Ｏ．Ｅ也能作为１个路标。\n玲遇到时，最好标在地图上。{F2 01 01 01}\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e300/e310_102.bf.json:14:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 15 01}为了不让玲迷路，\n请把得到的信息记在地图上。\n……拜托了。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

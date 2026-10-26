@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(177).BMD.json:0:0",
+  "message_id": "BTL_MES_H105_178_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 30 03}啊，脚又复活了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(177).BMD.json:1:0",
+  "message_id": "BTL_MES_H105_178_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 31 03}脚又复活了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(177).BMD.json:2:0",
+  "message_id": "BTL_MES_H105_178_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 32 03}真狡猾！脚又复活了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(177).BMD.json:3:0",
+  "message_id": "BTL_MES_H105_178_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 33 03}啊，真是的！脚又复活了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(177).BMD.json:4:0",
+  "message_id": "BTL_MES_H105_178_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 34 03}那些脚各自在不同时间\n复活呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(177).BMD.json:5:0",
+  "message_id": "BTL_MES_H105_178_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 35 03}如果把４条脚差不多同时打坏……\n{F2 26 00 00}{00}"
+ }
+]

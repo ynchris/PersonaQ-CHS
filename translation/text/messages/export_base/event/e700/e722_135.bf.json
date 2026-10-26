@@ -1,0 +1,42 @@
+[
+ {
+  "key": "export_base/event/e700/e722_135.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 0B 01 65 01 02 01}{F5 61 02 01 01 01 01 01 41 05}{F5 C1 03 01 01 01 01 01 07 01}啊，停一下！\n门后面有阴影的气息！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_135.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 01 01 07 01 01 01}{F5 61 02 01 01 01 01 01 8A 11}来吧！\n我随时奉陪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_135.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 A4 06}{F5 C1 03 01 01 01 01 01 0B 01}请等一下。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_135.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}这里和刚才的迷宫，\n气氛完全不同。\n阴影可能也变得更强了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_135.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}先冷静下来。\n做好准备再开门吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_135.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 04 01 02 01 01 01}{F5 61 02 01 01 01 01 01 4F 09}呼……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_135.bf.json:4:0",
+  "message_id": "MSG_0032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 01 01 07 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……好，我冷静下来了！\n１回合就把它ＫＯ！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_135.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 C7 02}{F5 C1 03 01 01 01 01 01 0B 01}看起来根本没变啊！？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_base/event/e700/e701_410.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 0B 01 65 01 02 01}{F5 61 02 01 01 01 01 01 2E 0B}{F5 C1 03 01 01 01 01 01 07 01}那扇门的后面……\n有非常强大的气息！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_410.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 01 01}如果要继续前进，\n请一定先做好充分准备！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_410.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞门后传来强大的气息……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_410.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞要开门继续前进吗……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_410.bf.json:3:0",
+  "message_id": "SEL_003",
+  "translation": "{F2 05 FF FF}{F1 41}打开门{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_410.bf.json:3:1",
+  "message_id": "SEL_003",
+  "translation": "{F2 05 FF FF}{F1 41}现在还是算了{00}{00}"
+ }
+]

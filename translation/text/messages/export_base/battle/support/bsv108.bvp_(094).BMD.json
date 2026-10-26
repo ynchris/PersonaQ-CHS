@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(094).BMD.json:0:0",
+  "message_id": "BTL_MES_H108_095_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B5 02}要上了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(094).BMD.json:1:0",
+  "message_id": "BTL_MES_H108_095_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B6 02}这点事我也能！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(094).BMD.json:2:0",
+  "message_id": "BTL_MES_H108_095_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B7 02}人格面具！\n{F2 26 00 00}{00}"
+ }
+]

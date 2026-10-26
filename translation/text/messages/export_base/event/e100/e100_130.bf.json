@@ -1,0 +1,347 @@
+[
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 02 01 02 01}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 04 01}唉……走了挺远了啊。\n要不要稍微休息一下？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 03 01}什么，这点路就累趴下了，\n也太不像话了。\n你是不是缺乏锻炼？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 04 01 01 01 01 01 02 01}不是吧，肯定不只我一个人啊。\n对吧？玲。对吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 05 01}啊，是的！\n肚子当然已经饿了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 06 01}那么，我提议就在这处\n似乎能刺激食欲的地方，\n稍作休息。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 05 01}{F5 61 02 01 01 01 01 01 07 01}看起来是很好吃……\n不过应该不能吃吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 08 01}这粗糙的手感、飘散的油墨味……\n毫无疑问，是 100％纸浆！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}{F5 C1 04 01 01 01 01 01 04 01}这样啊，是纸浆呀！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:8:0",
+  "message_id": "MSG_0072",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}{F5 C1 04 01 01 01 01 01 04 01}嗯，真是口感奇妙的点心呢。\n这个叫纸浆的东西……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:9:0",
+  "message_id": "MSG_0073",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0B 01}{F5 C1 04 01 01 01 01 01 04 01}呸。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:10:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 0C 01 0B 01 02 01 02 01}{F5 61 02 01 01 01 01 01 0C 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 02 01}就是纸啊，纸！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:11:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 0E 01 09 01 02 01 04 01}{F5 61 02 01 01 01 01 01 0D 01}原来如此……再怎么逼真，\n这里也是童话书中的世界。\n周围自然都是没有生命的东西。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:12:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0E 01}不过，不能吃也许是好事。\n如果真的是点心，\n体重可就不只是危险那么简单了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:13:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}{F5 C1 03 01 01 01 01 01 01 01}小由加，你不喜欢点心吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:14:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 10 01}小、小由加？\n感觉……好可爱……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:14:1",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 11 01}我喜欢点心呀，毕竟是女孩子嘛。\n玲吃了那么多，\n居然都不会胖呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:15:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}{F5 C1 03 01 01 01 01 01 07 01}变胖……\n善，我变胖了吗！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:16:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 05 01 02 01 07 01}{F5 61 02 01 01 01 01 01 13 01}没有变化。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:17:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 06 01 01 01}{F5 61 02 01 01 01 01 01 14 01}{F5 C1 03 01 01 01 01 01 04 01}什么嘛。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:18:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 15 01}居然觉得遗憾吗……呜……好羡慕……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:19:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 02 01 01 01 04 01}{F5 86 15 01 02 01 01 01 07 01}{F5 86 11 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 16 01}玲没有讨厌吃的东西吗？\n比如苦苦的青椒、苦苦的咖啡……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:20:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 17 01}{F5 C1 03 01 01 01 01 01 04 01}嗯……纸浆。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:21:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 18 01}{F5 C1 03 01 01 01 01 01 0A 01}那不是食物……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:22:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 19 01}只要是有味道的食物，我都喜欢！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:23:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 08 01 01 01 02 01}{F5 61 02 01 01 01 01 01 1A 01}范围也太广了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:24:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 1B 01}还挺有干劲的嘛。\n好，给你个好东西。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:25:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 07 01 01 01}{F5 61 02 01 01 01 01 01 1C 01}{F5 C1 03 01 01 01 01 01 07 01}哇，这是蛋糕吗！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:26:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1D 01}比蛋糕更厉害……是蛋白棒！\n尝尝看。来，快点！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:27:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1E 01}{F5 C1 04 01 01 01 01 01 04 01}好！我这就赶快吃！\n我开动了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:28:0",
+  "message_id": "MSG_0252",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1F 01}{F5 C1 03 01 01 01 01 01 08 01}{F5 C1 04 01 01 01 01 01 04 01}……嗯，粉粉的！\n好次！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:29:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 20 01}只要 1 根，居然就能\n补充 20 克以上的蛋白质。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:29:1",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 21 01}吃下去就能让全身充满力量，\n热血沸腾、浑身肌肉都跃动起来。\n这就是魔法般的食物。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:30:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 07 01 01 01}{F5 61 02 01 01 01 01 01 22 01}{F5 C1 03 01 01 01 01 01 01 01}吃下去就能让全身充满力量，\n滴着血的肉能随便烤，\n还能活蹦乱跳着吃的魔法食物！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:31:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 23 01}啊，没错！\n只要坚持锻炼，总有一天\n连熊都能徒手打倒。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:32:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 24 01}徒手打倒熊？\n……真的？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:33:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 13 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 25 01}{F5 C1 03 01 01 01 01 01 04 01}适可而止吧，阿明。\n他们会真的相信的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:34:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 26 01}{F5 C1 03 01 01 01 01 01 05 01}我说谎了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:35:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 27 01}你打算一直吃蛋白粉，\n吃到能徒手打倒熊为止吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:35:1",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 28 01}你这个满脑子肌肉的笨蛋。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:36:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 29 01}{F5 C1 03 01 01 01 01 01 07 01}喂……你刚才说笨蛋了吧？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:36:1",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 2A 01}先说别人是笨蛋的才是笨蛋。\n而且，蛋白粉才不是笨蛋。\n注意你的措辞。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:37:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2B 01}……说得对，还得加上白痴才行。\n你这个肌肉白痴大笨蛋。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:38:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 01 01 07 01 01 01}{F5 61 02 01 01 01 01 01 2C 01}{F5 C1 03 01 01 01 01 01 03 01}你说什么！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:38:1",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 2D 01}我要是白痴大笨蛋，\n你就是白痴白痴大笨蛋！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:39:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 0B 01 02 01 01 01 02 01}{F5 86 0C 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 2E 01}{F5 C1 03 01 01 01 01 01 0A 01}他们两个凑在一起，\n就突然变得像小孩子一样啊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:39:1",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 2F 01}从以前起就这样吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:40:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 30 01}我哪知道……\n交给桐条学姐\n不就好了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:41:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 03 01 02 01 01 01 02 01}{F5 86 15 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 31 01}{F1 82}。\n所以，吃了那个叫蛋白……的东西，\n到底会怎么样？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:42:0",
+  "message_id": "SEL_TALK039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}会变得无敌{F5 47 02 01 03 01 03 01 01 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:42:1",
+  "message_id": "SEL_TALK039",
+  "translation": "{F2 05 FF FF}{F1 41}很好吃{F5 47 02 01 03 01 03 01 01 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:42:2",
+  "message_id": "SEL_TALK039",
+  "translation": "{F2 05 FF FF}{F1 41}能抱得美人归{F5 47 02 01 03 01 03 01 01 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:43:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 32 01}{F5 C1 03 01 01 01 01 01 07 01}连你的脑袋里\n也塞满蛋白粉了吗！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:43:1",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 33 01}善，你听听就好，\n最多相信百分之一吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:44:0",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 34 01}好吃……吗？\n以前参加社团时，为了长肌肉，\n倒是喝过一小阵子……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:44:1",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 35 01}真田学长那些蛋白粉神话，\n善，你听听就好，\n最多相信百分之一吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:45:0",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 36 01}{F5 C1 03 01 01 01 01 01 05 01}抱得……抱起来？\n我能把玲抱起来。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:46:0",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 37 01}{F5 C1 03 01 01 01 01 01 0A 01}不，不是这个意思……\n话说队长，别把话题弄得更复杂啦……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:46:1",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 38 01}真田学长那些蛋白粉神话，\n善，你听听就好，\n最多相信百分之一吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:47:0",
+  "message_id": "MSG_044",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0F 01 02 01 02 01}{F5 61 02 01 01 01 01 01 39 01}这样啊……我明白了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:48:0",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3A 01}{F5 C1 03 01 01 01 01 01 04 01}喂，喂，你们看……\n他们还在吵呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:49:0",
+  "message_id": "MSG_046",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 13 01 02 01 01 01 04 01}{F5 86 0D 01 01 01 07 01 02 01}{F5 61 02 01 01 01 01 01 3B 01}说到底，你从以前起就斤斤计较。\n老为一点小事生气……\n是不是缺钙啊？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:50:0",
+  "message_id": "MSG_047",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 01 01 06 01 01 01}{F5 61 02 01 01 01 01 01 3C 01}{F5 C1 03 01 01 01 01 01 03 01}你这家伙……\n往整锅煮好的饭里倒蛋白粉，\n换谁都会想生气啊！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:50:1",
+  "message_id": "MSG_047",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 3D 01}给米饭道歉！\n你这个超级大笨蛋！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:51:0",
+  "message_id": "MSG_048",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 3E 01}{F5 C1 03 01 01 01 01 01 03 01}{F5 C1 04 01 01 01 01 01 02 01}我只是注重效率，\n又没有浪费过食物！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:51:1",
+  "message_id": "MSG_048",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 3F 01}{F5 C1 03 01 01 01 01 01 07 01}{F5 C1 04 01 01 01 01 01 02 01}我若是超级大笨蛋，\n你就是奇迹大笨蛋！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:52:0",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 05 01 04 01 05 01}{F5 61 02 01 01 01 01 01 40 01}{F5 C1 03 01 01 01 01 01 03 01}你们两个，都适可而止！\n差不多该走了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:53:0",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 41 01}哼。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:54:0",
+  "message_id": "MSG_051",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 42 01}……切。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_130.bf.json:55:0",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 43 01}{F5 C1 03 01 01 01 01 01 04 01}真是的……\n有没有身为学长的自觉？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

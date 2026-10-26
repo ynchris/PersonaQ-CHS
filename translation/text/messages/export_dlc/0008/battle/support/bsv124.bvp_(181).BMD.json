@@ -1,0 +1,97 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_182_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 59 03}副队长的倒计时到１了哦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_182_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 50 03}哇！\n副队长，倒计时到１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_182_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5A 03}哇，阳介危险了！\n已经到１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:3:0",
+  "message_id": "BTL_MES_H124_182_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5B 03}千枝的倒计时到１了哦？\n你注意到了吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:4:0",
+  "message_id": "BTL_MES_H124_182_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5C 03}啊！\n雪子的倒计时到１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:6:0",
+  "message_id": "BTL_MES_H124_182_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5D 03}完二的倒计时很危险！\n已经到１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:7:0",
+  "message_id": "BTL_MES_H124_182_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5F 03}直斗的倒计时到１了。\n离死就差一步了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:8:0",
+  "message_id": "BTL_MES_H124_182_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5E 03}小熊的倒计时到１了吧？\n就是１啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:9:0",
+  "message_id": "BTL_MES_H124_182_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 51 03}有看由加莉的倒计时吗？\n已经到１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:10:0",
+  "message_id": "BTL_MES_H124_182_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 52 03}等等……顺平的倒计时，\n已经到１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:11:0",
+  "message_id": "BTL_MES_H124_182_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 53 03}真田，倒计时到１了哦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:12:0",
+  "message_id": "BTL_MES_H124_182_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 54 03}哇！美鹤没问题吗？\n是１啊，１！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:14:0",
+  "message_id": "BTL_MES_H124_182_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 57 03}等等，注意到了吗？注意到了吧？\n埃癸斯已经到１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:15:0",
+  "message_id": "BTL_MES_H124_182_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 55 03}啊！乾的倒计时到１了！\n离绝境只剩５秒了啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:16:0",
+  "message_id": "BTL_MES_H124_182_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 56 03}哇！看狗狗，看狗狗！\n倒计时到１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:17:0",
+  "message_id": "BTL_MES_H124_182_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 58 03}哇！荒垣已经到１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:19:0",
+  "message_id": "BTL_MES_H124_182_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 60 03}善的倒计时到１了！\n你、你注意到了吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:20:0",
+  "message_id": "BTL_MES_H124_182_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4F 03}你、你的倒计时到１了哦！\n不、不着急吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(181).BMD.json:21:0",
+  "message_id": "BTL_MES_H124_182_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4E 03}队长的倒计时到１了。\n死亡就在眼前了！\n{F2 26 00 00}{00}"
+ }
+]

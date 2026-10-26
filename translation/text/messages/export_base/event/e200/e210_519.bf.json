@@ -1,0 +1,197 @@
+[
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 04 01 01 01 01 01 04 01}这是……我和你的婚礼照片吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 04 01 01 01 01 01 04 01}真伤脑筋……瞒着主人，\n擅自与客人结为夫妻，\n这可是天鹅绒丑闻呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 04 01 01 01 01 01 04 01}呵呵，那似乎也很有趣……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:0:3",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 04 01 01 01 01 01 04 01}……开玩笑的。\n虽然很想配合一下，\n不过这仿造品也太粗糙了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞正如玛格丽特所说，\n　这似乎是合成照片……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 01 01 02 01 04 01}{F5 61 02 01 01 01 01 01 06 01}是为了烘托气氛，\n才特意准备的吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 07 01}可惜，对我们这些“住人”而言，\n结婚没有任何意义。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}就和听童话故事一样……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:2:3",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 09 01}……啊，不过倒是有一件\n让我感兴趣的事。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:2:4",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0A 01}那种抱人的姿势……\n抱人的一方，如果没锻炼过\n肱二头肌和背阔肌，应该很难做到。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:2:5",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}那需要肌肉之间\n绝妙配合的姿势……\n你能做到吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:3:0",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 12 01 02 01 01 01}可别小看我{F5 47 02 01 3D 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:3:1",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}没什么自信……{F5 47 02 01 3D 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:3:2",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}像照片里一样抱起她{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}哎呀……真可靠呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}毕竟是我看好的客人。\n这点小事自然不在话下……呵呵。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:4:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}不过，嘴上谁都会说。\n如果可以，真希望有一天……\n能亲身体验一下。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:4:3",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0F 01}当然，到时候要选在\n主人看不到的地方……\n我很期待。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 10 01}呵呵……真诚实。\n不过，你是不是太谦虚了？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 11 01}你可是蕴藏着“无限可能性”的\n不羁之人……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:5:2",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 12 01}这点事就喊吃不消，\n可就不是不羁……而是不济了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:6:0",
+  "message_id": "MSG_005a",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 3D 01 12 01 02 01 01 01}{F5 61 02 01 01 01 01 01 13 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:6:1",
+  "message_id": "MSG_005a",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 12 01 02 01 01 01}{F5 61 02 01 01 01 01 01 14 01}……８５分。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 01 01 04 01 04 01}{F5 61 02 01 01 01 01 01 15 01}哎呀……意外地强壮呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:7:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 16 01}呵呵……臂力强的人，\n很有男子气概，也很迷人。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:7:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 17 01}不愧是“不羁”，果然狂野不羁……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:7:3",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 18 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:7:4",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 19 01}太直接了呢……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:7:5",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 1A 01}那么，差不多可以放我下来了吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:8:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞把玛格丽特放了下来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 11 01 02 01 04 01}{F5 61 02 01 01 01 01 01 1B 01}呵呵……\n没想到会瞒着主人，\n与身为客人的您做这种事呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:9:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1C 01}这份亲近的回忆，\n就悄悄珍藏在心中吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 1D 01}看来在这里，\n已经不会有更多发现了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:10:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 1E 01}不过……\n一只手被束缚着，\n果然无法自由行动，很不方便呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:10:2",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 1F 01}我就把自己交给你了，\n请好好护送我到最后。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:10:3",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 20 01}那么，继续前进吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_519.bf.json:11:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞气氛变得有些微妙……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

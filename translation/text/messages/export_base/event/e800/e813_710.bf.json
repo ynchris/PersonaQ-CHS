@@ -1,0 +1,72 @@
+[
+ {
+  "key": "export_base/event/e800/e813_710.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 E7 0E}这是{F5 C1 0B 01 01 01 01 01 01 01}先生的委托。\n请稍等。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_710.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 29 11}让您久等了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_710.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 03 01 0D 01 04 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 D0 01}本来应该马上去救玲的……\n不过，有件事\n让我有些在意。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e813_710.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}委托的话，决定权就在你手上，\n所以我想试着提出来。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_710.bf.json:3:0",
+  "message_id": "SEL_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}在意的事？{F5 47 02 01 01 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_710.bf.json:3:1",
+  "message_id": "SEL_003",
+  "translation": "{F2 05 FF FF}{F1 41}真可靠啊{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_710.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 E9 01}嗯……\n是关于善的事。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_710.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 03 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 FA 01}呵呵。\n毕竟我是副队长嘛。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e813_710.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}让我在意的……\n是关于善的事。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_710.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 09 01 04 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 E2 01}善一直盯着{F2 01 03 01}时钟塔{F2 01 01 01}里的蜘蛛网，\n看上去似乎\n有些寂寞……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e813_710.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}是想起了玲，\n还是有别的什么在意的事……\n具体原因我也不清楚。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e813_710.bf.json:6:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}总觉得有点在意……\n要不要找他问问？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_710.bf.json:7:0",
+  "message_id": "MSG_0062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 55 02}我在学校里等你。\n拜托了，队长。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_710.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞从菜单的{F2 01 03 01}“校内散策”{F2 01 01 01}中，\n　找善聊聊吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

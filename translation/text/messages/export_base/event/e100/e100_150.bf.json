@@ -1,0 +1,602 @@
+[
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞天鹅绒房间……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 02 01}这里就是天鹅绒房间……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 03 01 01 01 01 01 05 01}……？\n那两扇门是什么？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 04 01}无论看几次，都觉得\n这两扇门有些不对劲……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 05 01}关于这两扇门，查到什么了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 06 01}果然还是很在意这两扇门……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 07 01}很遗憾，并不清楚。\n正如各位所见，门被锁住了，\n也无从确认门后的情况。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}这个地方不会发生没有意义的事……\n总有一天，它们的作用\n会展现在我们面前吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}……善，玲。\n你们知道这两扇门吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 05 01}{F5 86 29 01 01 01 0B 01 02 01}{F5 61 02 01 01 01 01 01 0A 01}嗯……不知道。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 01 01 05 01}{F5 61 02 01 01 01 01 01 0B 01}不清楚……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}……不过，恐怕……\n它们通往你们原来的地方……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}也就是说……出口？\n你怎么知道的？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0E 01}{F5 C1 04 01 01 01 01 01 05 01}在你们来之前，\n连这间小屋本身都不存在……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:9:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0F 01}{F5 C1 04 01 01 01 01 01 05 01}所以，这里是属于你们的地方……\n里面的门，也是属于你们的门……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:9:2",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 10 01}……我只是，有这种感觉。\n没有确切的证据……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:9:3",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 11 01}……当我没说吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 0E 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}{F5 C1 04 01 01 01 01 01 04 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}＞美鹤走近门，\n　试着转动了门把手……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 13 01}果然还是打不开……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:12:1",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 14 01}看来眼下只能先放着不管了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 22 01 02 01 01 01 02 01}{F5 86 10 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 15 01}那么，请容我进入正题。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:13:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 16 01}我们是来询问，\n究竟为何不让我方队长\n获得新的人格面具。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 17 01}哎呀……这是为什么呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 18 01}这该由我们来问才是。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 03 01 02 01}{F5 61 02 01 01 01 01 01 19 01}{F5 C1 03 01 01 01 01 01 0A 01}小埃，你说话都被她传染了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 1A 01}那么，虽然我还不太熟练，\n就稍微替各位看看吧。\n请坐到那边。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞按照伊丽莎白的指示，\n　在沙发上坐了下来……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:18:1",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞由加莉也被安排坐在自己身旁……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1B 01}这是塔罗牌。\n用于窥探各位的命运……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白在桌上\n　摊开了大约 20 张卡片……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:21:0",
+  "message_id": "MSG_0202",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞然后翻开了\n　{F1 82}面前的一张卡片……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:22:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 1C 01}“塔”……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:22:1",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 22 01 02 01 04 01 01 01}{F5 61 02 01 01 01 01 01 1D 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:23:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1E 01}怎、怎么了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:24:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 1F 01}我不知道。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:25:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 20 01}{F5 C1 03 01 01 01 01 01 05 01}……哈？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:26:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 21 01}卡片上的图案……阿尔卡那，\n可以有多种解释……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:26:1",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 22 01 02 01 04 01 01 01}{F5 61 02 01 01 01 01 01 22 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:26:2",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 02 01 04 01 01 01}{F5 61 02 01 01 01 01 01 23 01}现在重要的并非出现了“塔”，\n而是没有出现“愚者”。\n这件事有着重要的意义。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:27:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 07 01}{F5 61 02 01 01 01 01 01 24 01}{F5 C1 03 01 01 01 01 01 05 01}愚者？\n……就是笨蛋的意思？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:28:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 25 01}不是。“愚者”的数字是 0……\n是象征“开始”\n以及“无限可能性”的阿尔卡那。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:28:1",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 26 01}正如其含义，客人能够\n自由运用\n多个人格面具……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:28:2",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 27 01}我们把这种能力\n称为“不羁”……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:29:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 28 01}不羁……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:30:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 29 01}不过，不知是否受到此地的影响，\n原本的“不羁”之力\n似乎改变了形态……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:31:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 03 01 02 01 01 01 04 01}{F5 86 22 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 2A 01}您自身的“俄耳甫斯”，\n在这里似乎无法卸下。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:32:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 03 01 02 01 01 01 04 01}{F5 86 22 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 2B 01}您自身的“弥赛亚”，\n在这里似乎无法卸下。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:33:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2C 01}也就是说……无法切换？\n那对战力将是个重大打击……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:34:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2D 01}不，“不羁”之力\n并没有消失。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:35:0",
+  "message_id": "MSG_0332",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 2E 01}真可谓“无限的可能性”……\n竟然会有这种事……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:36:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2F 01}到、到底是什么意思？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:37:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 30 01}在那个无法切换的人格面具“之外”，\n似乎“还能再装备\n另一个人格面具”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:37:1",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 31 01}而那“另一个”\n可以自由召唤……\n也就是说，似乎可以切换……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:38:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 32 01}{F5 C1 03 01 01 01 01 01 01 01}同时使用两个……吗！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:39:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 33 01}不过，可以切换的那一个\n无法发挥本来的全部力量，\n最好将其视为辅助性的存在。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:40:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 34 01}如果把“俄耳甫斯”当作“主”，\n能够切换的人格面具就是“副”……\n这两个可以同时装备……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:40:1",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 35 01}这样理解就好了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:41:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 36 01}如果把“弥赛亚”当作“主”，\n能够切换的人格面具就是“副”……\n这两个可以同时装备……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:41:1",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 37 01}这样理解就好了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:42:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0C 01 01 01 01 01}{F5 61 02 01 01 01 01 01 38 01}{F5 C1 03 01 01 01 01 01 0A 01}“不羁”真厉害啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:43:0",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 39 01}而且，难道说……\n请稍等一下。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:44:0",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白再次在桌上\n　摊开了大约 20 张卡片……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:45:0",
+  "message_id": "MSG_0422",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞然后翻开了\n　由加莉面前的一张卡片……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:46:0",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 05 01 04 01 01 01}{F5 61 02 01 01 01 01 01 3A 01}“愚者”……\n竟然会有这种事……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:47:0",
+  "message_id": "MSG_044",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3B 01}{F5 C1 03 01 01 01 01 01 0B 01}咦，咦，怎么了？\n难道我也有不羁……哈哈，不会吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:48:0",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3C 01}不只是岳羽由加莉大人。\n在场的各位，全都获得了\n“愚者”的庇护。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:49:0",
+  "message_id": "MSG_046",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3D 01}{F5 C1 03 01 01 01 01 01 05 01}咦？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:50:0",
+  "message_id": "MSG_047",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3E 01}所有人……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:51:0",
+  "message_id": "MSG_048",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3F 01}将自己的人格面具作为“主”，\n将能够切换的人格面具作为“副”，\n同时装备……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:51:1",
+  "message_id": "MSG_048",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 40 01}看来各位\n也都能够做到了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:52:0",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 41 01}两个……\n总觉得有点难以置信……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:52:1",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 42 01}……不过，感觉自己变强了呢！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:53:0",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 43 01}可是，如此异常的情况……为什么……？\n仿佛“愚者”的力量增强了一般……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:53:1",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 44 01}简直就像还有另一位\n不羁之力的持有者……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:53:2",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 45 01}难道，这两扇门中的一扇……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:54:0",
+  "message_id": "MSG_051",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 46 01}{F5 C1 03 01 01 01 01 01 05 01}另一位不羁之力的持有者……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:55:0",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 47 01}……啊，不，没什么。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:56:0",
+  "message_id": "MSG_053",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 01 01}{F5 61 02 01 01 01 01 01 48 01}我和善也能拥有人格面具吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:57:0",
+  "message_id": "MSG_054",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 49 01}……抱歉。\n善大人和玲大人原本\n就没有人格面具，恐怕无法做到。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:58:0",
+  "message_id": "MSG_055",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 0B 01 01 01}{F5 61 02 01 01 01 01 01 4A 01}这样啊……\n人格面具明明很帅的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:59:0",
+  "message_id": "MSG_056",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 4B 01}善和玲没有人格面具，\n这究竟是怎么回事？\n与阴影战斗，不是必须有它吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:60:0",
+  "message_id": "MSG_057",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 4C 01}……这或许与\n这个地方本身的谜团密切相关。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:60:1",
+  "message_id": "MSG_057",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 4D 01}这里是“夹缝之地”……\n如同轻轻漂浮在\n意识深处的一座浮岛……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:60:2",
+  "message_id": "MSG_057",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 4E 01}本来并不是\n血肉之躯的人类该存在的地方。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:60:3",
+  "message_id": "MSG_057",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 4F 01}既然两位一直身处其中……\n也许已经与人格面具或阴影\n这类存在同化了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:61:0",
+  "message_id": "MSG_058",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 50 01}{F5 C1 03 01 01 01 01 01 01 01}善他们是人格面具……！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:62:0",
+  "message_id": "MSG_059",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 51 01}从没听说过人格面具或阴影\n会拥有自我意识……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:63:0",
+  "message_id": "MSG_060",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 52 01}这终究……只是我的假说。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:64:0",
+  "message_id": "MSG_061",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 53 01}{F5 C1 04 01 01 01 01 01 04 01}可是……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:65:0",
+  "message_id": "MSG_0612",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 54 01}……算了，现在确实什么也不清楚……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:66:0",
+  "message_id": "MSG_062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 55 01}那么各位，手中有这个吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:67:0",
+  "message_id": "MSG_063",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白取出了\n“空白卡片”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:68:0",
+  "message_id": "MSG_064",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 56 01}这些“空白卡片”……\n应该是各位在此前的战斗中，\n从阴影那里获得的吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:68:1",
+  "message_id": "MSG_064",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 57 01}这些卡片一片空白……\n也就是说，它们出现时，\n尚未受到任何命运的指引……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:68:2",
+  "message_id": "MSG_064",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 58 01}原本只能召唤自己固有人格面具的各位，\n如今变得能够召唤\n各种人格面具……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:68:3",
+  "message_id": "MSG_064",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 59 01}既然命运如此期望，\n这些卡片自然也会开始履行其使命……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:69:0",
+  "message_id": "MSG_0642",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 5A 01}请使用这些卡片吧。\n这是新的人格面具卡片。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:70:0",
+  "message_id": "MSG_065",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞“空白卡片”分别\n　变成了不同的人格面具！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:71:0",
+  "message_id": "MSG_066",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 5C 01}那么，各位还有什么疑问吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:72:0",
+  "message_id": "SEL_TALK067",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 03 01 02 01 01 01 01 01}也就是说，怎么回事？{F5 47 02 01 03 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:72:1",
+  "message_id": "SEL_TALK067",
+  "translation": "{F2 05 FF FF}{F1 41}所有人都有不羁之力？{F5 47 02 01 03 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:72:2",
+  "message_id": "SEL_TALK067",
+  "translation": "{F2 05 FF FF}{F1 41}为什么会发生这种事？{F5 47 02 01 03 01 09 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:73:0",
+  "message_id": "MSG_068",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 5D 01}您和各位同伴\n变成了相同的状态。\n恐怕仅限于这个地方……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:73:1",
+  "message_id": "MSG_068",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 5E 01}将自己的人格面具作为“主”，\n将能够切换的人格面具作为“副”，\n同时装备……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:73:2",
+  "message_id": "MSG_068",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 5F 01}各位现在都能这么做了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:74:0",
+  "message_id": "MSG_069",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 60 01}不，原本的不羁之力\n依旧只属于您……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:74:1",
+  "message_id": "MSG_069",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 61 01}其他各位由于某种原因，\n获得了那份“庇护”……\n也就是所谓的“沾了光”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:75:0",
+  "message_id": "MSG_070",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 62 01}这个嘛……目前还无法断言……\n应该是这个地方特有的现象……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:75:1",
+  "message_id": "MSG_070",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 63 01}此地还有许多\n令人在意的事情，\n我也想稍作调查。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:76:0",
+  "message_id": "MSG_071",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 64 01}那么，如果与阴影交战时陷入苦战，\n建议尝试切换\n正在召唤的人格面具。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:76:1",
+  "message_id": "MSG_071",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 65 01}其他各位还不习惯切换人格面具，\n所以还请您\n多多尝试各种搭配。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:77:0",
+  "message_id": "MSG_072",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 05 01}{F5 61 02 01 01 01 01 01 66 01}说得对……希望你和以前一样，\n以队长的身份统领大家。\n拜托了，{F1 81}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:78:0",
+  "message_id": "SEL_TALK073",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}交给我吧{F5 47 02 01 03 01 03 01 01 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:78:1",
+  "message_id": "SEL_TALK073",
+  "translation": "{F2 05 FF FF}{F1 41}没什么干劲{F5 47 02 01 03 01 0B 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:79:0",
+  "message_id": "MSG_074",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 67 01}呵呵，真不愧是你。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:80:0",
+  "message_id": "MSG_075",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 68 01}呵呵，你总是这么说，\n最后不还是完成得很出色吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:81:0",
+  "message_id": "MSG_076",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 22 01 09 01 02 01 02 01}{F5 61 02 01 01 01 01 01 69 01}那么各位，请一路小心。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:82:0",
+  "message_id": "MSG_077",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞按 X 键打开的菜单中，\n　新增了{F2 01 03 01}“人格面具”{F2 01 01 01}选项。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_150.bf.json:82:1",
+  "message_id": "MSG_077",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞可以从{F2 01 03 01}“人格面具”{F2 01 01 01}中\n　装备副人格面具。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "key": "export_base/event/e700/e711_236.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这里堆着大量杂物……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_236.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 8C 0D}大多像是垃圾……\n不过，里面似乎也有能用的东西。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_236.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 02 01 02 01 01 01 02 01}{F5 86 04 01 03 01 05 01 04 01}{F5 61 02 01 01 01 01 01 BA 02}{F5 C1 03 01 01 01 01 01 08 01}那把剑，\n搭档应该也能用吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_236.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 07 01 01 01 05 01}{F5 61 02 01 01 01 01 01 01 01}确实，能省一点\n总是好事……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_236.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}……不过，这里是迷宫。\n这把剑也可能并非普通的剑……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_236.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 E7 02}唔。\n也是，说得没错……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_236.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}那就由搭档决定吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_236.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞大量杂物中有一把剑。\n　要捡起来看看吗……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_236.bf.json:6:0",
+  "message_id": "SEL_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 02 01}伸手拿剑{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_236.bf.json:6:1",
+  "message_id": "SEL_006",
+  "translation": "{F2 05 FF FF}{F1 41}现在还是算了{F5 47 02 01 02 01 05 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_236.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}＞……！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_236.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}好。\n那就继续前进吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,212 @@
+[
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞来到了一处稍显开阔的地方……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞决定稍作休息后，\n　雪子和千枝聊了起来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 02 01 01 01 04 01}{F5 86 06 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}我们之前所在的文化祭，\n是玲所期望的虚构世界吧……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}创造出这里的玲是什么心情……\n我稍微能够理解。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:1:2",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 04 01}想去一个远离现实的地方。\n希望有谁能来救自己……\n因为我也曾一直这样期盼。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 05 01 01 01}{F5 61 02 01 01 01 01 01 05 01}雪子……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 06 01}无论生还是死，\n对我来说都太沉重了，\n不知道该对她说什么……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 07 01}但我不觉得，\n玲活过的人生毫无意义。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:3:2",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}就像大家曾经帮助我一样，\n我也想帮助\n悲伤中的玲……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:3:3",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}虽然我总是被千枝帮助，\n说这种话可能有些自不量力……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0F 01 05 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}不，才没有！\n我觉得雪子很坚强。\n我也被雪子帮助过啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 09 01 05 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}{F5 C1 03 01 01 01 01 01 05 01}咦……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 11 01 05 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}我真的特别怕吓人的东西……\n刚才在鬼屋，Ｆ．Ｏ．Ｅ靠近时，\n我不是完全慌了吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0D 01}四周又黑，什么也看不清，\n我怕得要命，真觉得自己死定了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:6:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 04 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}可雪子却拉住了\n那样的我的手。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}那种事……\n又不是什么了不起的事。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 10 01}{F5 C1 04 01 01 01 01 01 04 01}对我来说，就是很了不起啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:9:0",
+  "message_id": "MSG_0082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 02 01 01 01 02 01}{F5 86 05 01 0B 01 05 01 04 01}{F5 61 02 01 01 01 01 01 11 01}要不是雪子拉着我的手，\n我可能连一步都迈不出去。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}千枝……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:10:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 05 01 05 01 01 01}{F5 61 02 01 01 01 01 01 13 01}原来我也有\n能保护千枝的时候呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 14 01}当然有，而且有很多啊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:11:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 15 01}就像这样，我做不到时，\n请雪子帮忙；雪子有困难时，\n就由我来帮忙……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:11:2",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 16 01}我觉得，\n这样不就很好了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:12:0",
+  "message_id": "MSG_0102",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 11 01 05 01 01 01}{F5 61 02 01 01 01 01 01 17 01}我一直都想保护雪子，\n不过被你保护，\n好像也不错……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:13:0",
+  "message_id": "SEL_TALK011",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 02 01 02 01 01 01 02 01}很好的关系呢{F5 47 02 01 02 01 07 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:13:1",
+  "message_id": "SEL_TALK011",
+  "translation": "{F2 05 FF FF}{F1 41}一起成长就好{F5 47 02 01 02 01 07 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:14:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0A 01 01 01 01 01}{F5 61 02 01 01 01 01 01 18 01}{F5 C1 03 01 01 01 01 01 08 01}嘿嘿……对吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:15:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 19 01}{F5 C1 03 01 01 01 01 01 08 01}嗯！\n这就是伙伴吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:16:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 02 01}{F5 86 05 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 1A 01}不是一方保护、另一方被保护……\n而是平等的关系吧……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:16:1",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1B 01}当然，我想保护雪子\n和大家的心情没有改变……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:16:2",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1C 01}但我想更相信，\n大家也会帮助我。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:17:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 05 01 05 01 02 01}{F5 61 02 01 01 01 01 01 1D 01}千枝……\n感觉好像稍微长大了一点呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:18:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 13 01 05 01 01 01}{F5 61 02 01 01 01 01 01 1E 01}{F5 C1 03 01 01 01 01 01 01 01}咦？\n真、真的！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:19:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1F 01}{F5 C1 04 01 01 01 01 01 02 01}嗯……\n还有，我也……是吧？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:19:1",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 02 01 01 01 04 01}{F5 86 06 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 20 01}要是以前，\n我可能会讨厌千枝改变，\n会觉得寂寞……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:19:2",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 05 01 05 01 01 01}{F5 61 02 01 01 01 01 01 21 01}但现在，我觉得很开心。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:19:3",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 22 01}大家都在一点点改变，\n但那一定就是\n成长吧……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:19:4",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 23 01}我想和大家一起成长，\n也想在身边见证大家的成长。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:20:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 06 01 01 01}{F5 61 02 01 01 01 01 01 24 01}这样啊。\n那我重新说一次……\n以后也请多多关照！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:21:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 05 01 05 01 01 01}{F5 61 02 01 01 01 01 01 25 01}嗯，请多关照。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:22:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 26 01}那就赶紧齐心协力，\n救出玲吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_060.bf.json:23:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0B 01 05 01 01 01}{F5 61 02 01 01 01 01 01 27 01}呵呵，好！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

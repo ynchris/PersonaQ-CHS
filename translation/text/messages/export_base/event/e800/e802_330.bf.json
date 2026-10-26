@@ -1,0 +1,457 @@
+[
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞３Ｆ　摊位街\n　“甜蜜地狱”前……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 05 01}{F5 86 01 01 02 01 01 01 02 01}{F5 86 22 01 03 01 05 01 04 01}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 05 01}姐姐，还有{F1 82}大人……\n二位怎么来了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 03 01}来看看你的情况。\n所以，这里是什么地方？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 04 01}是极其美妙的地狱。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 05 01 01 01}{F5 61 02 01 01 01 01 01 05 01}越吃越甜，甜得令人\n毛骨悚然的“妖羹”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:3:2",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 06 01}在口中轻轻碎裂，转瞬消融，\n令人联想到人生的“丧中饼”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:3:3",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 07 01}最绝妙的是“附身馒兽”……\n令人沉迷到非驱邪不可，\n堪称无间地狱……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:4:0",
+  "message_id": "SEL_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}太夸张了……{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:4:1",
+  "message_id": "SEL_004",
+  "translation": "{F2 05 FF FF}{F1 41}听起来很好吃{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 08 01}失礼了。\n眼花缭乱的地狱景象，\n似乎令我有些激动。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白似乎只反省了一瞬间……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 09 01}不，味道反而还在普通水准之下。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞然而伊丽莎白似乎很满足……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}……你玩得开心就好。\n那我们去下一处吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}{F5 C1 03 01 01 01 01 01 07 01}这样可不行，姐姐！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:10:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0C 01}我们好歹也是女子。\n至少该表现出\n“呀～甜点好可爱～☆”的兴趣。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 23 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}{F5 C1 03 01 01 01 01 01 0A 01}{F5 C1 04 01 01 01 01 01 05 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:11:1",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}{F5 C1 03 01 01 01 01 01 0B 01}呀、呀～甜点好可爱～☆\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}{F5 C1 03 01 01 01 01 01 03 01}可笑！！\n完全看不出对甜点的敬意！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 10 01}{F5 C1 03 01 01 01 01 01 04 01}敬意……？\n说到底，为什么要用\n可爱来形容点心……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 01 01}{F5 61 02 01 01 01 01 01 11 01}这就是女子。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:15:0",
+  "message_id": "MSG_0142",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 05 01}{F5 86 22 01 03 01 05 01 04 01}{F5 61 02 01 01 01 01 01 12 01}我已通过名为“甜点特辑”的书籍，\n学会了“甜点装在另一个胃里”\n等咒语。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:15:1",
+  "message_id": "MSG_0142",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 13 01}想必玛丽小姐也已习得。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:16:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 14 01}玛丽……\n是啊，那孩子和我们不同。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:17:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 05 01 01 01}{F5 61 02 01 01 01 01 01 15 01}尤其是她刻在信纸上的内心呐喊……\n那些我们根本想不到的词句……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:17:1",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 16 01}实在深奥……\n令人心痒难耐，恨不得抓挠一番……\n蕴藏着如此神奇的力量。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:18:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 17 01}是啊。\n写作虚饰，\n却读作谎言呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:19:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 18 01}没错。\n给月亮撒上糖粉，\n搅拌之后就成了星屑呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:20:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 01 01 05 01 01 01}{F5 61 02 01 01 01 01 01 19 01}{F5 C1 03 01 01 01 01 01 02 01}蒙昧之民啊，呼唤她的名字吧！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:20:1",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1A 01}{F5 C1 03 01 01 01 01 01 07 01}背影孤独，步履愚直，\n目光却凝望高处！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:20:2",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1B 01}{F5 C1 03 01 01 01 01 01 02 01}凝望那高处啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:21:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 09 01 07 01 01 01}{F5 61 02 01 01 01 01 01 1C 01}{F5 C1 03 01 01 01 01 01 01 01}Ａｒｅ　ｙｏｕ　ｒｅａｄｙ？\n世界改变之日已来临\n没准备好的家伙就甩在后头！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:21:1",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1D 01}{F5 C1 03 01 01 01 01 01 07 01}Ｉ　ａｍ　ｌａｄｙ．\n也紧跟潮流\n没有我做不到的事！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:21:2",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1E 01}Ｏｈ　Ｙｅｓ……发自内心……\nＴｈａｎｋ　Ｙｏｕ……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:22:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞不知为何，诗歌对决开始了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:23:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 02 01 05 01 04 01}{F5 86 23 01 0B 01 02 01 05 01}{F5 61 02 01 01 01 01 01 1F 01}呼……差不多了吧。\n那么，你的判定呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:24:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:25:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 20 01}我与姐姐，究竟是谁\n释放了更多的“激情”……\n请说说您的看法。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:26:0",
+  "message_id": "SEL_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}玛格丽特{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:26:1",
+  "message_id": "SEL_025",
+  "translation": "{F2 05 FF FF}{F1 41}伊丽莎白{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:26:2",
+  "message_id": "SEL_025",
+  "translation": "{F2 05 FF FF}{F1 41}算是平手吧{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:27:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 21 01}{F5 C1 04 01 01 01 01 01 05 01}呵呵，\n我这可谈不上什么激情，\n不过是模仿罢了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:27:1",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 22 01}{F5 C1 03 01 01 01 01 01 08 01}不过……感觉倒是挺不错的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:28:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玛格丽特露出\n完成了一件大事般的\n笑容……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:29:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 11 01 05 01 01 01}{F5 61 02 01 01 01 01 01 23 01}是的，其实我已完全理解\n所谓的激情。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:29:1",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 24 01}那是激射而出、顷刻消逝的\n灵魂灯火……\n美丽而短暂的生命初啼……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:30:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白深深点着头……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:31:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 25 01}不愧是姐姐。\n方才的激情令我感触颇深。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:32:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 26 01}只是模仿玛丽罢了。\n不过，你也相当不错。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:33:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞两人亲密地互相称赞着……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:34:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 05 01}{F5 86 22 01 03 01 05 01 04 01}{F5 61 02 01 01 01 01 01 27 01}可是，姐姐。\n不能就此满足。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:34:1",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 28 01}少女的养分是“亢奋”……\n也就是胸中的怦☆怦心跳……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:34:2",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 29 01}我们是不是稍微，不，\n极其缺乏这种感受呢？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:34:3",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 05 01 01 01}{F5 61 02 01 01 01 01 01 2A 01}少女心可能已干涸到\n连激情都无法轻易涌现的地步……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:35:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2B 01}也不是没有可能。\n和迪奥、主人、玛丽相处时，\n完全感受不到什么“亢奋”呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:35:1",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 2C 01}可是，该怎么做才好？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:36:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 2D 01}那么，就让我在此\n为姐姐献上一点亢奋吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:36:1",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 2E 01}那就是，“终极二选一”……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:37:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2F 01}{F5 C1 03 01 01 01 01 01 05 01}“终极二选一”……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:38:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 30 01}向Ｃ提出这样的问题：\n“Ａ与Ｂ，你更想和谁\n　共度一整天？”\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:38:1",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 31 01}无论是选择者还是被选择者，\n都保证能度过刺激的\n怦☆怦心跳时光。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:39:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 32 01}怦☆怦心跳时光……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:40:0",
+  "message_id": "MSG_0382",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 23 01 0C 01 02 01 01 01}{F5 61 02 01 01 01 01 01 33 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:41:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玛格丽特正看着这边……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:42:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0C 01 02 01 01 01}{F5 61 02 01 01 01 01 01 34 01}那么，Ｃ先生。\n我要提问了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:42:1",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 35 01}我和伊丽莎白……\n你更想和谁共度一整天？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:43:0",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这是个重大的选择……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:44:0",
+  "message_id": "SEL_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}玛格丽特{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:44:1",
+  "message_id": "SEL_042",
+  "translation": "{F2 05 FF FF}{F1 41}伊丽莎白{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:44:2",
+  "message_id": "SEL_042",
+  "translation": "{F2 05 FF FF}{F1 41}选不出来{F5 47 02 01 01 01 05 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:45:0",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 36 01}{F5 C1 03 01 01 01 01 01 08 01}{F5 C1 04 01 01 01 01 01 05 01}哎呀……谢谢。\n与你相处，我也很开心。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:45:1",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 37 01}这就是所谓的\n怦☆怦心跳时光吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:46:0",
+  "message_id": "MSG_044",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玛格丽特似乎很开心……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:47:0",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 05 01 01 01}{F5 61 02 01 01 01 01 01 38 01}这是怎么回事呢。\n胸口好像有些不平静……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:47:1",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 39 01}正所谓，女医不自医。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:47:2",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 05 01 01 01}{F5 61 02 01 01 01 01 01 3A 01}{F5 C1 03 01 01 01 01 01 04 01}无论如何，至今那些\n美好的回忆都毁于一旦……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:47:3",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 3B 01}还是将这段时光\n全部忘掉吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:48:0",
+  "message_id": "MSG_046",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白叹着气……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:49:0",
+  "message_id": "MSG_047",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 11 01 05 01 01 01}{F5 61 02 01 01 01 01 01 3C 01}{F5 C1 03 01 01 01 01 01 08 01}哎呀……\n您的这番话，我感激地收下了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:50:0",
+  "message_id": "MSG_048",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白似乎很开心……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:51:0",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 23 01 0C 01 02 01 01 01}{F5 61 02 01 01 01 01 01 3D 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:51:1",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 3E 01}与其说是怦☆怦心跳时光，\n不如说是烦☆躁时光呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:51:2",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 3F 01}{F5 C1 03 01 01 01 01 01 04 01}明明之前还挺开心，全毁了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:52:0",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玛格丽特叹着气……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:53:0",
+  "message_id": "MSG_051",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 40 01}{F5 C1 04 01 01 01 01 01 05 01}……真是优柔寡断。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:54:0",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 41 01}是啊……真软弱。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:55:0",
+  "message_id": "MSG_053",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 42 01}{F5 C1 04 01 01 01 01 01 05 01}是啊……真窝囊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:56:0",
+  "message_id": "MSG_054",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 01 01}{F5 61 02 01 01 01 01 01 43 01}是啊……真没出息。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:57:0",
+  "message_id": "MSG_055",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞两人都失去了兴致……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:58:0",
+  "message_id": "MSG_056",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 05 01}{F5 86 22 01 03 01 05 01 04 01}{F5 61 02 01 01 01 01 01 44 01}差不多该去屋顶\n稍作休息了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e802_330.bf.json:59:0",
+  "message_id": "MSG_057",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞离开摊位街，\n前往美食广场。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

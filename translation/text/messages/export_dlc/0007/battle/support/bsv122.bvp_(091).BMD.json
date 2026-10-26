@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(091).BMD.json:0:0",
+  "message_id": "BTL_MES_H105_092_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A5 02}我这就调查！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(091).BMD.json:1:0",
+  "message_id": "BTL_MES_H105_092_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A6 02}分析一清二楚！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(091).BMD.json:2:0",
+  "message_id": "BTL_MES_H105_092_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A7 02}全都看穿了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(091).BMD.json:3:0",
+  "message_id": "BTL_MES_H105_092_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A8 02}是什么家伙呢……\n{F2 26 00 00}{00}"
+ }
+]

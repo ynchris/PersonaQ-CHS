@@ -1,0 +1,37 @@
+[
+ {
+  "key": "export_base/event/e700/e725_812.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 01 01}蜘蛛的跳跃力很强！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e725_812.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}它会进行长距离移动，\n请留意它的行动！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_812.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 E6 07}{F5 C1 03 01 01 01 01 01 0B 01}就算你这么说，\n我们也没办法啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_812.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 0B 01 65 01 02 01}{F5 61 02 01 01 01 01 01 E1 04}{F5 C1 03 01 01 01 01 01 01 01}咦！？\n等等，大家！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e725_812.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}那只蜘蛛散发着强烈的杀气……\n正朝大家这边来！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e725_812.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 86 07 01 05 01 65 01 01 01}{F5 61 02 01 01 01 01 01 3E 05}{F5 C1 03 01 01 01 01 01 02 01}快逃！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_812.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 6A 03}{F5 C1 03 01 01 01 01 01 0B 01}都说了逃不掉啊——！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,157 @@
+[
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:0:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 03 01 02 01}{F5 61 02 01 01 01 01 01 2A 06}{F5 C1 03 01 01 01 01 01 07 01}这是……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:0:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}……似乎和１层发现的\n那扇打不开的门\n十分相似。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:1:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 03 01 02 01}{F5 61 02 01 01 01 01 01 2A 06}{F5 C1 03 01 01 01 01 01 05 01}这是……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:1:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}样式和其他门不同。\n稍微调查一下吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:2:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞直斗开始调查门……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:3:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}这个开关，还有横向开合的门……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:4:0",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}看来是电梯。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 21 0C}{F5 C1 03 01 01 01 01 01 08 01}真的吗！？\n这样紧急时就放心了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}不过，还不能完全确定……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:7:0",
+  "message_id": "MSG_0062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 09 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 90 06}我想亲自乘坐一次，\n确认一下。\n可以吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0B 01}喂、喂。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:9:0",
+  "message_id": "MSG_0072",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 01 01 06 01 01 01}{F5 61 02 01 01 01 01 01 6E 05}……一、一个人太危险了吧。\n我也陪你去。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:10:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}巽同学……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:10:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 5A 06}……明白了。\n那我们就去了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:11:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞直斗和完二离开了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:11:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……稍微等一会儿吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:12:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:12:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞…………\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:13:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞两人回来了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:14:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 01 01 02 01}{F5 86 11 01 0B 01 02 01 04 01}{F5 61 02 01 01 01 01 01 F5 0B}啊，欢迎回来！\n怎么样？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:15:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3C 06}嗯，和预料的一样。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:15:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}这部电梯似乎{F2 01 03 01}通往１层{F2 01 01 01}。\n在地图上做个标记吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:16:0",
+  "message_id": "MSG_0132",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 02 01 01 01 04 01}{F5 86 09 01 07 01 02 01 02 01}{F5 61 02 01 01 01 01 01 01 01}巽同学，谢谢你。\n有你在真让人安心。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:17:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 AF 05}{F5 C1 03 01 01 01 01 01 0B 01}是、是吗。\n那就好……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:18:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 01 01 02 01 01 01 02 01}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 11 01 02 01 01 01 04 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 05 01}……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:18:1",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……巽学长在直斗面前，\n好像总是有点不自在呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:19:0",
+  "message_id": "SEL_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}是你的错觉吧？{F5 47 02 01 01 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:19:1",
+  "message_id": "SEL_016",
+  "translation": "{F2 05 FF FF}{F1 41}长大后你就懂了{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:20:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 A1 11}是这样吗……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:21:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 26 0C}{F5 C1 03 01 01 01 01 01 0B 01}请、请不要把我当小孩子！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e725_500.bf.json:22:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞电梯似乎开通了。\n　返回入口应该会方便许多……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

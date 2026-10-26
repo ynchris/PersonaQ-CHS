@@ -1,0 +1,72 @@
+[
+ {
+  "key": "export_base/facility/town.bf.json:1:0",
+  "message_id": "TOWN_PRE_PARTY_JOIN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 03 01}“编队”{F2 01 01 01}\n功能已开放。\n　\n来实际编组一下队伍吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/town.bf.json:2:0",
+  "message_id": "TOWN_TUTORIAL_CAMP_PERSO",
+  "translation": "{F2 05 FF FF}{F1 41}按X键打开的菜单里\n{F2 01 03 01}“人格面具”{F2 01 01 01}项目已追加。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/town.bf.json:2:1",
+  "message_id": "TOWN_TUTORIAL_CAMP_PERSO",
+  "translation": "{F2 05 FF FF}{F1 41}可以更换的“副人格面具”，可以在\n{F2 01 03 01}“人格面具”{F2 01 01 01}项目中进行装备。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/town.bf.json:3:0",
+  "message_id": "TOWN_TUTORIAL_PARTY_JOIN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 03 01}新成员{F2 01 01 01}已加入。\n　\n队伍编成的范围被拓展了，\n尝试各种各样不同的组合\n也是不错的选择。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/town.bf.json:4:0",
+  "message_id": "TOWN_TUTORIAL_VELVET_OPE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 03 01}“天鹅绒房间”{F2 01 01 01}\n已经可以使用了。\n　\n可以通过合体来创造新的人格面具，\n或是通过人格面具全书\n阅览·召唤人格面具。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/town.bf.json:5:0",
+  "message_id": "TOWN_TUTORIAL_NOFFICE_OP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 03 01}“保健室”{F2 01 01 01}\n已经可以使用了。\n　\n可以通过接受治疗\n来使受伤的成员恢复。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/town.bf.json:6:0",
+  "message_id": "TOWN_TUTORIAL_SHOP_OPEN",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 03 01}“手工工坊”{F2 01 01 01}\n现已开放。\n　\n可以在这里买卖装备和道具，\n也可以寄存随身物品。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/town.bf.json:7:0",
+  "message_id": "TOWN_TUTORIAL_ODEKAKE_OP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 03 01}通过“校内散步”{F2 01 01 01}\n可以在校内\n和同伴一起度过了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/town.bf.json:8:0",
+  "message_id": "TOWN_TUTORIAL_VELVET_TRI",
+  "translation": "{F2 05 FF FF}{F1 41}可以在天鹅绒房间\n使用3个人格面具进行合体的\n{F2 01 03 01}“三身合体”{F2 01 01 01}\n已经可以使用了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/town.bf.json:9:0",
+  "message_id": "TOWN_TUTORIAL_NOFFICE_QU",
+  "translation": "{F2 05 FF FF}{F1 41}可以在保健室接受{F2 01 03 01}“委托”{F2 01 01 01}了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/town.bf.json:10:0",
+  "message_id": "TOWN_TUTORIAL_CAMP_QUEST",
+  "translation": "{F2 05 FF FF}{F1 41}委托可以在X键打开的菜单中\n{F2 01 03 01}“SYSTEM”{F2 01 01 01}中进行确认。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/town.bf.json:11:0",
+  "message_id": "TOWN_TUTORIAL_CAMP_QUEST",
+  "translation": "{F2 05 FF FF}{F1 41}您可以确认收到的委托。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/town.bf.json:12:0",
+  "message_id": "TOWN_TUTORIAL_CAMP_QUEST",
+  "translation": "{F2 05 FF FF}{F1 41}选择委托后，\n还可以确认{F2 01 03 01}“详细”{F2 01 01 01}内容。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/town.bf.json:13:0",
+  "message_id": "TOWN_TUTORIAL_QUEST_REPO",
+  "translation": "{F2 05 FF FF}{F1 41}达成委托条件后，\n到保健室进行{F2 01 03 01}“报告”{F2 01 01 01}吧。\n　\n请注意。\n不进行报告的话无法领取报酬。\n{F1 21}{00}"
+ }
+]

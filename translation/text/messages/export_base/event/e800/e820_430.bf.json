@@ -1,0 +1,72 @@
+[
+ {
+  "key": "export_base/event/e800/e820_430.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 02 01 01 01 05 01}{F5 86 23 01 02 01 01 01 02 01}{F5 86 09 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 38 06}打扰一下。\n有些事情想请教两位。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_430.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 01 01}＞直斗简要说明了\n　“肉羊羹失窃案”的经过……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_430.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 01 01}请问两位当时在做什么？\n方便的话，可以告诉我们吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_430.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 0F}最近我一直待在这里……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_430.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}我也是。\n不过有出去散步。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_430.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 04 01}{F5 61 02 01 01 01 01 01 01 01}也就是说，\n两位并非一直在一起……对吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_430.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 FD 0E}没错……\n我们无法互相证明\n对方不是犯人。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_430.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 BE 0F}{F2 01 03 01}我不是犯人{F2 01 01 01}就是了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_430.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 ED 0F}不过，要是{F2 01 03 01}我是犯人，\n肯定会说谎{F2 01 01 01}。绝对会。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_430.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 72 06}{F5 C1 04 01 01 01 01 01 04 01}原来如此……\n玛格丽特小姐，您怎么看？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_430.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 09 01 02 01 05 01}{F5 61 02 01 01 01 01 01 FD 0E}这个嘛……依我看，\n{F2 01 03 01}玛丽没有说谎{F2 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_430.bf.json:9:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 03 01 02 01 05 01}{F5 61 02 01 01 01 01 01 01 01}另外，这也是当然的，\n{F2 01 03 01}我不是犯人{F2 01 01 01}。\n我可没那个闲工夫。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_430.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 36 06}原来如此……明白了。\n感谢两位的配合。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_430.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞听取了玛格丽特和玛丽的证词。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

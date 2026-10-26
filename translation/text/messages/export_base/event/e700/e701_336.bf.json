@@ -1,0 +1,27 @@
+[
+ {
+  "key": "export_base/event/e700/e701_336.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 02 01 65 01 02 01}{F5 86 0B 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 C6 07}{F5 C1 03 01 01 01 01 01 04 01}路是打通了……\n可这座迷宫到底还有多深啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_336.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}再、再走一会儿，\n好像就到这一层的尽头了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_336.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 03 01 65 01 01 01}{F5 61 02 01 01 01 01 01 48 0B}所以打起精神来吧。\n好吗，由加莉？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_336.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 0B 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}唔……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_336.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}抱、抱歉。\n得再加把劲才行呢。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

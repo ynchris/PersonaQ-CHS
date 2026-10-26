@@ -1,0 +1,472 @@
+[
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:0:0",
+  "message_id": "MSG_GCONSELECT_CONFIM",
+  "translation": "{F2 05 FF FF}{F1 41}真的选这个吗？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:1:0",
+  "message_id": "SEL_GCONSELECT_CONFIM",
+  "translation": "{F2 05 FF FF}{F1 41}就选这个{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:1:1",
+  "message_id": "SEL_GCONSELECT_CONFIM",
+  "translation": "{F2 05 FF FF}{F1 41}重新选择{00}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:4:0",
+  "message_id": "GCONSELECT_SELECT_YESNO",
+  "translation": "{F2 05 FF FF}{F1 41}是\n否\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:6:0",
+  "message_id": "GCONSELECT_001",
+  "translation": "{F2 05 FF FF}{F1 41}只要有爱，\n不光年龄差，连性别都无所谓？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:7:0",
+  "message_id": "GCONSELECT_002_1",
+  "translation": "{F2 05 FF FF}{F1 41}希望喜欢的人怎么追求你？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:8:0",
+  "message_id": "GCONSELECT_002_2",
+  "translation": "{F2 05 FF FF}{F1 41}一起玩的话？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:9:0",
+  "message_id": "GCONSELECT_002_SELECT_1",
+  "translation": "{F2 05 FF FF}{F1 41}想被热烈追求\n想被含蓄追求\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:10:0",
+  "message_id": "GCONSELECT_002_SELECT_2",
+  "translation": "{F2 05 FF FF}{F1 41}当然是户外！\n一定要室内！\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:11:0",
+  "message_id": "GCONSELECT_003_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}性别有关系\n完全没关系！\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:12:0",
+  "message_id": "GCONSELECT_004",
+  "translation": "{F2 05 FF FF}{F1 41}如何向喜欢的人倾诉心意？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:13:0",
+  "message_id": "GCONSELECT_004_SELECT_2",
+  "translation": "{F2 05 FF FF}{F1 41}鼓起勇气告白\n在河边打一架！\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:14:0",
+  "message_id": "GCONSELECT_005",
+  "translation": "{F2 05 FF FF}{F1 41}来，你也一起？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:15:0",
+  "message_id": "GCONSELECT_005_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}出去玩吧！\n没辙是也！\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:16:0",
+  "message_id": "GCONSELECT_006",
+  "translation": "{F2 05 FF FF}{F1 41}说到吃饭的搭档，就是它。\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:17:0",
+  "message_id": "GCONSELECT_006_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}大盒装牛奶\n温热的绿茶\n摩洛纳敏Ｇ\n一起吃饭的人\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:18:0",
+  "message_id": "GCONSELECT_007",
+  "translation": "{F2 05 FF FF}{F1 41}冰箱里塞得满满的是什么？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:19:0",
+  "message_id": "GCONSELECT_007_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}吃剩的晚饭\n冰凉的麦茶\n某种草\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:20:0",
+  "message_id": "GCONSELECT_008",
+  "translation": "{F2 05 FF FF}{F1 41}可爱的人的特点是？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:21:0",
+  "message_id": "GCONSELECT_008_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}笑容很迷人\n戴着眼镜\n句尾会加“熊”\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:22:0",
+  "message_id": "GCONSELECT_009",
+  "translation": "{F2 05 FF FF}{F1 41}想得到疗愈的话？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:23:0",
+  "message_id": "GCONSELECT_009_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}疗愈音乐\n按摩\n软乎乎的肉垫\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:24:0",
+  "message_id": "GCONSELECT_010",
+  "translation": "{F2 05 FF FF}{F1 41}说到牛肉盖饭的配料，当然是…？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:25:0",
+  "message_id": "GCONSELECT_010_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}红姜丝\n蛋白粉\n葱花\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:26:0",
+  "message_id": "GCONSELECT_011",
+  "translation": "{F2 05 FF FF}{F1 41}说到催泪电影？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:27:0",
+  "message_id": "GCONSELECT_011_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}战争片\n悲恋片\n汪喵王国\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:28:0",
+  "message_id": "GCONSELECT_012",
+  "translation": "{F2 05 FF FF}{F1 41}恋人遇到了危险！\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:29:0",
+  "message_id": "GCONSELECT_012_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}全力赶去救援\n用弩迎战\n温柔地守望\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:30:0",
+  "message_id": "GCONSELECT_013",
+  "translation": "{F2 05 FF FF}{F1 41}这些问题差不多让你腻了？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:31:0",
+  "message_id": "GCONSELECT_013_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}没有这回事\n也许是吧\n无所谓\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:32:0",
+  "message_id": "GCONSELECT_014",
+  "translation": "{F2 05 FF FF}{F1 41}如果能转世重生？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:33:0",
+  "message_id": "GCONSELECT_014_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}统领弟妹的长子\n被姐姐们折腾的弟弟\n可靠的长女\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:34:0",
+  "message_id": "GCONSELECT_015",
+  "translation": "{F2 05 FF FF}{F1 41}两个人独处的话…\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:35:0",
+  "message_id": "GCONSELECT_015_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}在咖啡店悠闲度过\n在游乐园尽情玩耍\n在热气腾腾的大浴场练对撞\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:36:0",
+  "message_id": "GCONSELECT_016",
+  "translation": "{F2 05 FF FF}{F1 41}肚子有点饿的话？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:37:0",
+  "message_id": "GCONSELECT_016_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}饭团\n肉口香糖\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:38:0",
+  "message_id": "GCONSELECT_017",
+  "translation": "{F2 05 FF FF}{F1 41}你会选哪一个！？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:39:0",
+  "message_id": "GCONSELECT_017_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}身材傲人的阿巴顿\n钛合金身体的美少女\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:40:0",
+  "message_id": "GCONSELECT_018",
+  "translation": "{F2 05 FF FF}{F1 41}她俏皮可爱的地方是？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:41:0",
+  "message_id": "GCONSELECT_018_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}一本正经地逆行上扶梯\n吃饭掉渣引来动物\n每次来房间都拿走一件家电\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:42:0",
+  "message_id": "GCONSELECT_019",
+  "translation": "{F2 05 FF FF}{F1 41}说到主食？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:43:0",
+  "message_id": "GCONSELECT_019_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}米饭\n面包\n甜甜圈\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:44:0",
+  "message_id": "GCONSELECT_020",
+  "translation": "{F2 05 FF FF}{F1 41}想和大家一起热闹一下时？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:45:0",
+  "message_id": "GCONSELECT_020_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}在夜店玩国王游戏\n在卡拉ＯＫ比拼歌喉\n在游戏厅打锦标赛\n在图书室轮流看书\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:46:0",
+  "message_id": "GCONSELECT_021",
+  "translation": "{F2 05 FF FF}{F1 41}喜欢的人有怎样意外的一面？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:47:0",
+  "message_id": "GCONSELECT_021_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}以为是人，其实是仙鹤\n以为是王子，其实是女生\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:48:0",
+  "message_id": "GCONSELECT_022",
+  "translation": "{F2 05 FF FF}{F1 41}被喜欢的人夸奖了。\n会怎样夸你？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:49:0",
+  "message_id": "GCONSELECT_022_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}好棒！\n真帅！\nBrilliant！\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:50:0",
+  "message_id": "GCONSELECT_023",
+  "translation": "{F2 05 FF FF}{F1 41}一定要精通这条道！\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:51:0",
+  "message_id": "GCONSELECT_023_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}书道\n花道\n弓道\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:52:0",
+  "message_id": "GCONSELECT_024",
+  "translation": "{F2 05 FF FF}{F1 41}想治愈疲惫的心灵？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:53:0",
+  "message_id": "GCONSELECT_024_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}老字号温泉旅馆\n豪华度假酒店\n山间小屋\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:54:0",
+  "message_id": "GCONSELECT_025",
+  "translation": "{F2 05 FF FF}{F1 41}你喜欢什么样的姐姐？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:55:0",
+  "message_id": "GCONSELECT_025_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}擅长老爸笑话的姐姐\n体贴会照顾人的姐姐\n以为是姐姐，其实是哥哥\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:56:0",
+  "message_id": "GCONSELECT_026",
+  "translation": "{F2 05 FF FF}{F1 41}想加入什么社团？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:57:0",
+  "message_id": "GCONSELECT_026_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}园艺社\n潜水社\n机械社\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:58:0",
+  "message_id": "GCONSELECT_027",
+  "translation": "{F2 05 FF FF}{F1 41}在意的那个人掉了什么东西？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:59:0",
+  "message_id": "GCONSELECT_027_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}花纹手帕\n蕾丝阳伞\n手写诗歌\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:60:0",
+  "message_id": "GCONSELECT_028",
+  "translation": "{F2 05 FF FF}{F1 41}转世重生的话，选男还是女？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:61:0",
+  "message_id": "GCONSELECT_028_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}当然是男的\n当然是女的\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:62:0",
+  "message_id": "GCONSELECT_029",
+  "translation": "{F2 05 FF FF}{F1 41}非吃不可的话，你会选？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:63:0",
+  "message_id": "GCONSELECT_029_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}满满一盘芥末\n满满一盘砂糖\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:64:0",
+  "message_id": "GCONSELECT_030",
+  "translation": "{F2 05 FF FF}{F1 41}衣食住，最想在哪方面花钱？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:65:0",
+  "message_id": "GCONSELECT_030_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}一定是衣\n果然还是食\n基础的住\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:66:0",
+  "message_id": "GCONSELECT_031",
+  "translation": "{F2 05 FF FF}{F1 41}把重要的人惹生气了！\n怎么办？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:67:0",
+  "message_id": "GCONSELECT_031_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}不停地道歉\n送礼物哄对方\n反过来发火蒙混过去\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:68:0",
+  "message_id": "GCONSELECT_032",
+  "translation": "{F2 05 FF FF}{F1 41}去游乐园一定想坐什么？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:69:0",
+  "message_id": "GCONSELECT_032_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}必定尖叫的过山车\n浪漫的旋转木马\n转个不停的咖啡杯\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:70:0",
+  "message_id": "GCONSELECT_033",
+  "translation": "{F2 05 FF FF}{F1 41}说到拿手菜，当然是…\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:71:0",
+  "message_id": "GCONSELECT_033_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}咖喱饭\n土豆炖肉\n醋腌鲭鱼\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:72:0",
+  "message_id": "GCONSELECT_034",
+  "translation": "{F2 05 FF FF}{F1 41}被不是自己喜欢类型的人告白？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:73:0",
+  "message_id": "GCONSELECT_034_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}先交往试试\n从朋友做起\n委婉地拒绝\n干脆地拒绝\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:74:0",
+  "message_id": "GCONSELECT_035",
+  "translation": "{F2 05 FF FF}{F1 41}彩票中奖的话，想要哪一种？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:75:0",
+  "message_id": "GCONSELECT_035_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}只中一次大奖\n几乎永远不断的小奖\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:76:0",
+  "message_id": "GCONSELECT_036",
+  "translation": "{F2 05 FF FF}{F1 41}被关进去的话，哪个更能接受？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:77:0",
+  "message_id": "GCONSELECT_036_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}有鲨鱼游动的水池\n有狮子的笼子\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:78:0",
+  "message_id": "GCONSELECT_037",
+  "translation": "{F2 05 FF FF}{F1 41}你的武器是什么？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:79:0",
+  "message_id": "GCONSELECT_037_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}迷人的笑容\n热情的眼神\n令人着迷的口才\n纯真的心\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:204:0",
+  "message_id": "GCONSELECT_100",
+  "translation": "{F2 05 FF FF}{F1 41}对男性的期待果然是…\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:205:0",
+  "message_id": "GCONSELECT_100_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}令人眼前一亮的幽默感\n千锤百炼的体魄\n能承载众人信赖的气度\n除此之外的…\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:206:0",
+  "message_id": "GCONSELECT_101",
+  "translation": "{F2 05 FF FF}{F1 41}什么样的人会让你心动？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:207:0",
+  "message_id": "GCONSELECT_101_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}憧憬大人、努力逞强的孩子\n内心纯真的气氛活跃者\n人人喜爱的可爱家伙\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:208:0",
+  "message_id": "GCONSELECT_102",
+  "translation": "{F2 05 FF FF}{F1 41}对男性的期待果然是…\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:209:0",
+  "message_id": "GCONSELECT_102_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}像妈妈一样会照顾人\n看似冷酷、实则狂野\n心灵手巧\n除此之外的…\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:210:0",
+  "message_id": "GCONSELECT_103",
+  "translation": "{F2 05 FF FF}{F1 41}什么样的人会让你心动？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:211:0",
+  "message_id": "GCONSELECT_103_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}长得好看却有点遗憾的人\n誓死守护弱者的骑士\n举止温和的小弟弟\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:212:0",
+  "message_id": "GCONSELECT_104",
+  "translation": "{F2 05 FF FF}{F1 41}对女孩子的期待果然是…\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:213:0",
+  "message_id": "GCONSELECT_104_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}才貌双全的凛然气质\n无敌的偶像笑容\n彬彬有礼的言辞\n除此之外的…\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:214:0",
+  "message_id": "GCONSELECT_105",
+  "translation": "{F2 05 FF FF}{F1 41}什么样的人会让你心动？\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:215:0",
+  "message_id": "GCONSELECT_105_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}嘴硬又毒舌，却怕寂寞\n活力十足，却爱哭鼻子\n态度温顺，身体是钢铁\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:216:0",
+  "message_id": "GCONSELECT_106",
+  "translation": "{F2 05 FF FF}{F1 41}对女孩子的期待果然是…\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:217:0",
+  "message_id": "GCONSELECT_106_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}眼光独特的传统淑女\n丰富的感受力和语言才华\n与进口车相衬的神秘气质\n除此之外的…\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:218:0",
+  "message_id": "GCONSELECT_107",
+  "translation": "{F2 05 FF FF}{F1 41}还是说，对女孩子的期待是…\n{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestionMessage.bmd.json:219:0",
+  "message_id": "GCONSELECT_107_SELECT",
+  "translation": "{F2 05 FF FF}{F1 41}默默照顾周围人的体贴\n让大人也甘拜下风的超强头脑\n吃相让人忍不住想投喂\n{00}"
+ }
+]

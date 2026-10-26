@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:0:0",
+  "message_id": "BTL_MES_H121_066_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 29 02}副队长大人现在\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:1:0",
+  "message_id": "BTL_MES_H121_066_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 20 02}副队长大人现在\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:2:0",
+  "message_id": "BTL_MES_H121_066_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2A 02}很遗憾，花村阳介先生现在\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:3:0",
+  "message_id": "BTL_MES_H121_066_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2B 02}里中千枝小姐的行动被封住了。\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:4:0",
+  "message_id": "BTL_MES_H121_066_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2C 02}天城雪子小姐的行动被封住了。\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:6:0",
+  "message_id": "BTL_MES_H121_066_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2D 02}巽完二先生的行动被封住了。\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:7:0",
+  "message_id": "BTL_MES_H121_066_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2F 02}白钟直斗小姐现在\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:8:0",
+  "message_id": "BTL_MES_H121_066_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2E 02}小熊大人的行动被封住了。\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:9:0",
+  "message_id": "BTL_MES_H121_066_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 21 02}岳羽由加莉小姐的行动被封住了。\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:10:0",
+  "message_id": "BTL_MES_H121_066_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 22 02}伊织顺平先生的行动被封住了。\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:11:0",
+  "message_id": "BTL_MES_H121_066_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 23 02}真田明彦先生的行动被封住了。\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:12:0",
+  "message_id": "BTL_MES_H121_066_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 24 02}桐条美鹤小姐的行动被封住了。\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:14:0",
+  "message_id": "BTL_MES_H121_066_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 27 02}埃癸斯小姐的行动被封住了。\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:15:0",
+  "message_id": "BTL_MES_H121_066_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 25 02}天田乾先生的行动被封住了。\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:16:0",
+  "message_id": "BTL_MES_H121_066_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 26 02}虎狼丸大人的行动被封住了。\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:17:0",
+  "message_id": "BTL_MES_H121_066_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 28 02}荒垣真次郎先生现在\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:18:0",
+  "message_id": "BTL_MES_H121_066_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 30 02}善大人和玲小姐的行动被封住了……\n现在无法闪避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:19:0",
+  "message_id": "BTL_MES_H121_066_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 31 02}善大人的行动被封住了。\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:20:0",
+  "message_id": "BTL_MES_H121_066_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1F 02}队长大人的行动被封住了。\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(065).BMD.json:21:0",
+  "message_id": "BTL_MES_H121_066_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1E 02}队长大人的行动被封住了。\n无法闪避或逃跑！\n{F2 26 00 00}{00}"
+ }
+]

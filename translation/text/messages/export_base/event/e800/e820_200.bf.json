@@ -1,0 +1,212 @@
+[
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0F 01 05 01 02 01}{F5 61 02 01 01 01 01 01 4A 11}哎呀，贵客驾到……\n再次欢迎您来到保健室。\n我是这里的“主人”伊丽莎白。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 CD 0E}请问这次有何贵干……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 71 07}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 02 01}{F5 C1 04 01 01 01 01 01 03 01}呀啊啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞保健室的门突然打开，\n　小熊、\n善和玲一股脑儿冲了进来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 0A 01 0C 01 01 01 02 01}{F5 86 29 01 02 01 02 01 04 01}{F5 86 15 01 01 01 08 01 07 01}{F5 61 02 01 01 01 01 01 F1 0D}{F5 C1 03 01 01 01 01 01 02 01}站住，别动。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 05 01 0D 01 04 01}{F5 61 02 01 01 01 01 01 7C 10}{F5 C1 03 01 01 01 01 01 07 01}善、善！\n你会射中小熊的！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 0B 01}{F5 C1 04 01 01 01 01 01 02 01}这是天大的误会熊！\n小熊可是人畜无害的好熊熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:6:0",
+  "message_id": "MSG_0052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 02 01 02 01 04 01}{F5 86 15 01 02 01 01 01 07 01}{F5 86 0A 01 11 01 03 01 02 01}{F5 61 02 01 01 01 01 01 01 01}小熊明白小玲失去记忆，\n在这个世界里彷徨的心情熊！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:6:1",
+  "message_id": "MSG_0052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}所以才会担心你熊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 0B 01 04 01}{F5 61 02 01 01 01 01 01 CA 11}小熊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 19 07}所以说……\n小玲，跟小熊约会吧！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:8:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 09 01}来一场甜蜜到忘乎所以的约会！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 02 01 01 01}{F5 61 02 01 01 01 01 01 2D 10}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}约、约会！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 07 01}{F5 61 02 01 01 01 01 01 01 01}不行。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}到此为止！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 07 01}{F5 86 29 01 01 01 02 01 04 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 07 01}哇啊！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}身为此处的“主人”，\n理应平息在这里发生的争执！\n为此，我想出了这样一场对决。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:13:1",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0B 01 07 01 02 01}{F5 61 02 01 01 01 01 01 01 01}就叫……“以物易物对决”！\n来，鼓掌！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 02 01 04 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 05 01}以物易物……对决？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:15:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}两位同时与人交换物品，\n谁最后换到的东西更合玲大人的心意，\n谁就获胜。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:15:1",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}胜者将与玲大人约会，\n享受一次心满意足之旅！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:16:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 02 01 04 01}{F5 61 02 01 01 01 01 01 9B 10}{F5 C1 03 01 01 01 01 01 01 01}吃得心满意足之旅！？\n我要去！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:17:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 02 01}{F5 61 02 01 01 01 01 01 32 11}那么，就这么定了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:18:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 01 01 04 01}{F5 61 02 01 01 01 01 01 34 10}{F5 C1 03 01 01 01 01 01 08 01}好耶！\n以物易物对决！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:19:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3A 07}小熊也参加！\n最适合当小玲骑士的，\n就是小熊熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:20:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 01 01 04 01}{F5 86 15 01 07 01 01 01 07 01}{F5 61 02 01 01 01 01 01 97 0D}虽然不太明白，\n但看来不能就此退让。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:21:0",
+  "message_id": "MSG_0192",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 02 01 05 01 02 01}{F5 86 15 01 01 01 01 01 07 01}{F5 61 02 01 01 01 01 01 01 01}只要进行那个叫作……\n以物易物的事情就行了吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:22:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}……这场对决，\n善大人显然处于不利地位。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:22:1",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}因此，我还有一个提议。\n您不妨发布一项委托。\n当然，是委托眼前这位。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:23:0",
+  "message_id": "SEL_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 04 01 01 01 01 01}{F5 86 01 01 02 01 01 01 04 01}我来帮忙{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:23:1",
+  "message_id": "SEL_021",
+  "translation": "{F2 05 FF FF}{F1 41}别擅自替我决定{F5 47 02 01 01 01 05 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:24:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 05 01 02 01 07 01}{F5 61 02 01 01 01 01 01 86 0D}是吗。\n有你在，我就放心了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:25:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善似乎松了一口气……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:26:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}我可是这里的“主人”。\n这里的一切都归主人管辖。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:27:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白显得十分得意……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:28:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 05 01 02 01 07 01}{F5 61 02 01 01 01 01 01 8C 0D}嗯……\n那我就委托你吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:29:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 07 01}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}啊，报酬方面请放心。\n我已经准备了许多上好的物品。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:29:1",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}想必这会是一项符合委托人心意、\n令人难忘的委托……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:30:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 07 01}{F5 61 02 01 01 01 01 01 01 01}……你准备得真周全。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:31:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 CE 0E}善大人的委托已经添加。\n如需了解承接委托的方法，\n请另行向我询问。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:32:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞新增委托\n　{F2 01 03 01}“帮忙进行以物易物对决”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_200.bf.json:33:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}部分委托有时间限制。\n请注意不要错过期限。\n{F1 21}{00}"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(015).BMD.json:0:0",
+  "message_id": "BTL_MES_H125_016_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 08 01}敌人有……一……二……\n啊，也有不认识的……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(015).BMD.json:1:0",
+  "message_id": "BTL_MES_H125_016_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 09 01}敌人有……那个……\n一……二……４名哦！\n{F2 26 00 00}{00}"
+ }
+]

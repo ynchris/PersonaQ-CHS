@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:0:0",
+  "message_id": "BTL_MES_H105_064_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 03 02}前辈的物理技能\n被封住，无法使用了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:1:0",
+  "message_id": "BTL_MES_H105_064_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 FA 01}副队长的物理攻击\n被封住了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:2:0",
+  "message_id": "BTL_MES_H105_064_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 04 02}花村前辈的物理技能\n被封住，无法使用了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:3:0",
+  "message_id": "BTL_MES_H105_064_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 05 02}千枝前辈的物理技能\n被封住了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:4:0",
+  "message_id": "BTL_MES_H105_064_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 06 02}雪子前辈，现在不能\n使用物理技能哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:6:0",
+  "message_id": "BTL_MES_H105_064_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 07 02}完二的物理技能\n被封住了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:7:0",
+  "message_id": "BTL_MES_H105_064_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 09 02}直斗，现在不能用物理攻击，\n要小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:8:0",
+  "message_id": "BTL_MES_H105_064_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 08 02}小熊的物理技能\n被封住了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:9:0",
+  "message_id": "BTL_MES_H105_064_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 FB 01}由加莉，已经无法\n进行物理攻击了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:10:0",
+  "message_id": "BTL_MES_H105_064_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 FC 01}顺平先生的物理攻击\n被封住了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:11:0",
+  "message_id": "BTL_MES_H105_064_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 FD 01}真田先生，物理攻击\n被封住了哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:12:0",
+  "message_id": "BTL_MES_H105_064_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 FE 01}美鹤小姐的物理攻击\n被封住，无法使用了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:14:0",
+  "message_id": "BTL_MES_H105_064_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 01 02}埃癸斯，不能使用\n物理攻击哦！要小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:15:0",
+  "message_id": "BTL_MES_H105_064_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 FF 01}乾，现在不能\n使用物理技能哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:16:0",
+  "message_id": "BTL_MES_H105_064_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 00 01}虎狼丸的物理技能\n被封住了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:17:0",
+  "message_id": "BTL_MES_H105_064_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 02 02}荒垣先生不能进行物理攻击。\n要小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:18:0",
+  "message_id": "BTL_MES_H105_064_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0A 02}善，现在不能进行物理攻击，\n要小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:19:0",
+  "message_id": "BTL_MES_H105_064_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0A 02}善，现在不能进行\n物理攻击，要小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:20:0",
+  "message_id": "BTL_MES_H105_064_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 F9 01}前辈，现在不能使用物理技能哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(063).BMD.json:21:0",
+  "message_id": "BTL_MES_H105_064_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 F8 01}队长，现在不能使用\n物理攻击。要小心！\n{F2 26 00 00}{00}"
+ }
+]

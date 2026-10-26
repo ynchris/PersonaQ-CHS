@@ -1,0 +1,97 @@
+[
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 22 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}天鹅绒房间将您和您的朋友们\n带到了这里……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}而现在，它变成了一间\n无法移动的普通房间……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}如果这是“必然”，那各位在这里\n应该还有必须完成的事吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:1:0",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}必须完成的事？{F5 47 02 01 03 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:1:1",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}不做会怎样？{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 05 01}在各位完成该做的事情之前，\n恐怕就只能维持现状……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 06 01}至于该做什么，\n还请各位自行确认。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:3:0",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}真冷淡啊{F5 47 02 01 03 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:3:1",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}请帮帮我们{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}这间天鹅绒房间的客人，\n是您……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}所以，眼下的状况，\n也与您的命运相连。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:4:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}当然，我和迪奥仍会一如既往，\n为您提供“协助”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:4:3",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0A 01}……仅仅是“协助”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞看来她并不打算\n　提供“协助”之外的帮助……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}不过话说回来，\n这两扇矗立于此的“门”，\n实在令人在意……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 22 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0C 01}这两扇门上，\n挂着“四把锁”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:8:0",
+  "message_id": "MSG_0072",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}我对自己的力气还算有几分自信，\n可它们竟纹丝不动……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:8:1",
+  "message_id": "MSG_0072",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 22 01 02 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_120.bf.json:9:0",
+  "message_id": "MSG_0073",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}各位想必也差不多该回来了。\n我们回刚才的地方去吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

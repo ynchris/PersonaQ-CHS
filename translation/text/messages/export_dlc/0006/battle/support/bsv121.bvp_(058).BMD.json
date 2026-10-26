@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:0:0",
+  "message_id": "BTL_MES_H121_059_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8C 01}哎呀……副队长大人……\n睡着了呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:1:0",
+  "message_id": "BTL_MES_H121_059_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 83 01}副队长大人似乎正在休息。\n就别打扰了吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:2:0",
+  "message_id": "BTL_MES_H121_059_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8D 01}花村阳介先生……竟在这里睡觉……\n真是令人失望。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:3:0",
+  "message_id": "BTL_MES_H121_059_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8E 01}里中千枝小姐，竟一边睡一边打……\n啊！？这就是传说中的“睡拳”！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:4:0",
+  "message_id": "BTL_MES_H121_059_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8F 01}天城雪子小姐似乎在休息。\n各位，请保持安静。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:6:0",
+  "message_id": "BTL_MES_H121_059_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 90 01}巽完二先生……\n睡得真香呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:7:0",
+  "message_id": "BTL_MES_H121_059_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 92 01}白钟直斗小姐似乎在休息。\n别打扰她吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:8:0",
+  "message_id": "BTL_MES_H121_059_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 91 01}小熊大人……睡得真熟。\n要是被敌人打醒，就有意思了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:9:0",
+  "message_id": "BTL_MES_H121_059_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 84 01}岳羽由加莉小姐……\n睡得真香呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:10:0",
+  "message_id": "BTL_MES_H121_059_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 85 01}伊织顺平先生睡着了。\n但愿不会在睡梦中遭到袭击……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:11:0",
+  "message_id": "BTL_MES_H121_059_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 86 01}请放心。真田明彦先生一定……\n是在“装睡”。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:12:0",
+  "message_id": "BTL_MES_H121_059_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 87 01}桐条美鹤小姐正在睡觉。\n各位，请安静。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:14:0",
+  "message_id": "BTL_MES_H121_059_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8A 01}埃癸斯小姐似乎睡着了……\n原来她也会睡觉呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:15:0",
+  "message_id": "BTL_MES_H121_059_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 88 01}天田乾先生……竟在敌前休息……\n真是前途无量……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:16:0",
+  "message_id": "BTL_MES_H121_059_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 89 01}虎狼丸大人竟在敌前熟睡……\n真是大胆。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:17:0",
+  "message_id": "BTL_MES_H121_059_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8B 01}荒垣真次郎先生……竟在战斗中\n睡觉……在下佩服。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:18:0",
+  "message_id": "BTL_MES_H121_059_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 93 01}善大人和玲小姐双双睡着了。\n但愿不会在睡梦中遭到袭击……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:19:0",
+  "message_id": "BTL_MES_H121_059_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 94 01}善大人，睡得真香呢……\n……简直是毫无戒心……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:20:0",
+  "message_id": "BTL_MES_H121_059_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 82 01}竟敢在敌人面前酣睡……\n不愧是队长大人……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(058).BMD.json:21:0",
+  "message_id": "BTL_MES_H121_059_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 81 01}队长大人……竟在敌人面前\n休息……何等大胆……\n{F2 26 00 00}{00}"
+ }
+]

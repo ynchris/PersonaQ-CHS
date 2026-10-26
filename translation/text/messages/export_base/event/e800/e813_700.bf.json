@@ -1,0 +1,52 @@
+[
+ {
+  "key": "export_base/event/e800/e813_700.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 B1 11}{F5 C1 03 01 01 01 01 01 07 01}啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_700.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 CA 01}……嗯？怎么了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_700.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 B7 0D}{F5 C1 04 01 01 01 01 01 02 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_700.bf.json:3:0",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 88 0D}……不，没什么。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e813_700.bf.json:3:1",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}这里很危险。\n身后的蜘蛛也在虎视眈眈。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e813_700.bf.json:3:2",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 C7 0D}快点……往前走吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_700.bf.json:4:0",
+  "message_id": "MSG_0023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 88 0D}……不，没什么。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e813_700.bf.json:4:1",
+  "message_id": "MSG_0023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 C7 0D}快点……往前走吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_700.bf.json:5:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 62 11}{F5 C1 03 01 01 01 01 01 05 01}{F5 C1 04 01 01 01 01 01 04 01}……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_700.bf.json:6:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞新增委托\n　{F2 01 03 01}“善纠结的原因”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

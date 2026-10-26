@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_base/dungeon/pack/field/f01_02.arc_dungeon02f.gsd_dungeon02f.bf.json:1:0",
+  "message_id": "MSG_D02_RABBIT_LID",
+  "translation": "{F2 05 FF FF}{F1 41}＞墙上挂着风景画…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f01_02.arc_dungeon02f.gsd_dungeon02f.bf.json:2:0",
+  "message_id": "MSG_D02_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}＞门后有阴影的气息…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f01_02.arc_dungeon02f.gsd_dungeon02f.bf.json:3:0",
+  "message_id": "MSG_D02_SEL_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}打开门{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f01_02.arc_dungeon02f.gsd_dungeon02f.bf.json:3:1",
+  "message_id": "MSG_D02_SEL_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}暂时算了{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f01_02.arc_dungeon02f.gsd_dungeon02f.bf.json:4:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}＞似乎无法从这边打开…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f01_02.arc_dungeon02f.gsd_dungeon02f.bf.json:5:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}＞打开了门锁！\n{F1 21}{00}"
+ }
+]

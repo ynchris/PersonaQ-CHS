@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:0:0",
+  "message_id": "BTL_MES_H125_059_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8C 01}哥哥，醒醒！\n可怕的敌人来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:1:0",
+  "message_id": "BTL_MES_H125_059_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 83 01}醒醒，副队长！\n很危险啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:2:0",
+  "message_id": "BTL_MES_H125_059_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8D 01}真是的，阳介哥哥……\n现在可不是说梦话的时候！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:3:0",
+  "message_id": "BTL_MES_H125_059_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8E 01}千枝姐姐，醒醒！\n睡在那种地方很危险啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:4:0",
+  "message_id": "BTL_MES_H125_059_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8F 01}雪子姐姐睡着了！\n要怎么才能叫醒她呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:6:0",
+  "message_id": "BTL_MES_H125_059_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 90 01}完二哥哥睡着了！？\n这种时候不能睡觉啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:7:0",
+  "message_id": "BTL_MES_H125_059_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 92 01}直斗姐姐，怎么了！？\n困了吗！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:8:0",
+  "message_id": "BTL_MES_H125_059_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 91 01}小熊先生，快醒醒——！\n那里很危险啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:9:0",
+  "message_id": "BTL_MES_H125_059_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 84 01}由加莉姐姐！\n不能睡在那种地方啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:10:0",
+  "message_id": "BTL_MES_H125_059_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 85 01}顺平哥哥，醒醒啊——！\n有可怕的敌人啊——！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:11:0",
+  "message_id": "BTL_MES_H125_059_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 86 01}啊，真田哥哥，\n睡着了！！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:12:0",
+  "message_id": "BTL_MES_H125_059_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 87 01}咦！？\n美鹤姐姐睡着了？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:14:0",
+  "message_id": "BTL_MES_H125_059_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8A 01}不好了，埃癸斯姐姐\n睡着了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:15:0",
+  "message_id": "BTL_MES_H125_059_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 88 01}乾，真是的！\n得快点醒来啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:16:0",
+  "message_id": "BTL_MES_H125_059_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 89 01}哇，小虎，\n睡在那种地方很危险啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:17:0",
+  "message_id": "BTL_MES_H125_059_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8B 01}怎么办……荒垣哥哥……\n要怎么才能叫醒他呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:18:0",
+  "message_id": "BTL_MES_H125_059_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 93 01}哇！善哥哥和玲姐姐，\n两个人都睡着了！！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:19:0",
+  "message_id": "BTL_MES_H125_059_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 94 01}善哥哥，振作一点！\n不能睡觉啊！！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:20:0",
+  "message_id": "BTL_MES_H125_059_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 82 01}哥哥，醒醒！\n睡在那种地方很危险啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(058).BMD.json:21:0",
+  "message_id": "BTL_MES_H125_059_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 81 01}咦！？\n队长睡着了！？\n{F2 26 00 00}{00}"
+ }
+]

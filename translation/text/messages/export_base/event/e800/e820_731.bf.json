@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_base/event/e800/e820_731.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 05 01 65 01 02 01}{F5 61 02 01 01 01 01 01 29 05}{F5 C1 03 01 01 01 01 01 02 01}是新类型的阴影！\n而且看起来很强！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_731.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 01 01 04 01}{F5 61 02 01 01 01 01 01 D2 09}呵……真让人跃跃欲试。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_731.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 01 01}啊，还有还有！\n它后面有个奇怪的地方！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_731.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 07 01 65 01 02 01}{F5 61 02 01 01 01 01 01 01 01}应该就是伊丽莎白小姐说的\n那处奇妙的空间。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_731.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 CC 09}好，打倒它们，再过去看看。\n我要把它们击倒在擂台上！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_731.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 01 01}要冲过去的话，一定要小心哦！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

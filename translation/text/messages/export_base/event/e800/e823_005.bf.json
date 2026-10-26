@@ -1,0 +1,117 @@
+[
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:0:0",
+  "message_id": "MSG_999",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这里似乎只是一条死路……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:1:0",
+  "message_id": "MSG_9992",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:1:1",
+  "message_id": "MSG_9992",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞天田似乎想问什么……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:2:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 11 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 A5 11}那个……我一直有点在意，\n文化祭里，这种……\n不正经的节目很常见吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:3:0",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}怎么可能{F5 47 02 01 01 01 05 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:3:1",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}就是这样{F5 47 02 01 01 01 03 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:4:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0B 01 02 01 01 01}{F5 61 02 01 01 01 01 01 36 0C}就、就是说啊！？\n太好了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:5:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1A 03}说起来也是。\n小学生没什么文化祭吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:6:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0C 0C}{F5 C1 03 01 01 01 01 01 01 01}诶！？\n真的吗！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:7:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 BE 02}{F5 C1 03 01 01 01 01 01 0A 01}喂，别骗小学生。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:7:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1A 03}说起来也是。\n小学生没什么文化祭吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:8:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 10 0C}啊，是的。\n虽然从外面参观过……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:9:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 0A 01}第一次体验居然是这样，真可怜……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:9:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}还有很多其他节目呢。\n有的班表演魔术，\n也有办寻宝活动的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:10:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 20 0C}寻宝吗？\n听起来很有趣呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:10:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……顺、顺便问一下，\n我不是感兴趣，只是想问问，\n有没有英雄表演之类的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:11:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 AC 02}应该有学校会办吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:12:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0B 01 02 01 01 01}{F5 61 02 01 01 01 01 01 84 0C}{F5 C1 03 01 01 01 01 01 07 01}是这样啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:13:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 03 01 01 01}{F5 61 02 01 01 01 01 01 BA 02}……你很喜欢英雄啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:14:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 8B 0C}不，那个……\n只是大家都看，所以我也看。\n不然就跟不上话题了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:15:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 04 01}{F5 86 04 01 0E 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:16:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 25 0C}{F5 C1 03 01 01 01 01 01 0B 01}为什么不说话了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_005.bf.json:17:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞新增委托\n　{F2 01 03 01}“招募寻宝参加者”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

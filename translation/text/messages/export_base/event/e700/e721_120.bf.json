@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_base/event/e700/e721_120.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}也可以在地图上确认Ｆ．Ｏ．Ｅ的位置。\n{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e721_120.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 03 01}小心前进，\n避免撞上紫色图标{F2 01 01 01}。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e721_120.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}遇敌指示器表示\n{F2 01 03 01}发生战斗的危险程度{F2 01 01 01}。\n{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e721_120.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 03 01}蓝色表示安全{F2 01 01 01}，随后会逐渐变为绿色、\n黄色，{F2 01 03 01}红色则表示危险{F2 01 01 01}。\n{F1 21}{00}"
+ }
+]

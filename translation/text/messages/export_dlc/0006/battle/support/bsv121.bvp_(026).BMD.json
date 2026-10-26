@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(026).BMD.json:0:0",
+  "message_id": "BTL_MES_H121_027_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1E 01}虽然资料中没有……\n却是……杂兵。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(026).BMD.json:1:0",
+  "message_id": "BTL_MES_H121_027_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1F 01}唉……只有１名弱敌，\n各位也很无聊吧……？\n{F2 26 00 00}{00}"
+ }
+]

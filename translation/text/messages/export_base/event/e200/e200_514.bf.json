@@ -1,0 +1,187 @@
+[
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 04 01}咦……婚礼！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 04 01 01 01 01 01 04 01}……啊，这是合成的啦。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 04 01 01 01 01 01 04 01}你看，轮廓那里，\n模糊处理得还不够好。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞正如理世所说，\n　这似乎是合成照片……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 11 01 02 01 04 01}{F5 61 02 01 01 01 01 01 05 01}没想到这种地方\n会出现合成照片，\n刚才一下子吓到了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 06 01}合成照片我早就看惯了。\n经常有人寄过来。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 07 01}……不过，都是更过分的。\n可不是那种王子和公主\n幸福结婚的照片。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:2:3",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 08 01}要是那样的合成照片，\n我倒是完全欢迎。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:2:4",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 09 01}被喜欢的人像抱公主一样\n紧紧抱在怀里……\n果然是女孩子的憧憬嘛。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:3:0",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 12 01 02 01 01 01}理解不了{F5 47 02 01 47 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:3:1",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}要不真的结婚吧{F5 47 02 01 47 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:3:2",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}像照片那样抱起她{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 07 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}不懂就不懂嘛。\n女孩子的憧憬，\n果然只有女孩子才明白！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0B 01}不过，至少牵着手的时候，\n稍微配合我一点\n也没关系吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:5:0",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 14 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}至少现在，我们扮演的是恋人……对吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}呵呵，说这种话……\n其实你早就说惯了吧？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:6:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}真遗憾。\n小理世可没那么\n容易被骗哦。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:6:2",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 47 01 12 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:6:3",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 14 01 02 01 01 01}{F5 61 02 01 01 01 01 01 10 01}可、可是……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:6:4",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 09 01 03 01 01 01}{F5 61 02 01 01 01 01 01 11 01}就算是玩笑，靠这么近说，\n我也可能……心跳加速了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:6:5",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 12 01}……不过，也许我也在开玩笑呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 02 01 04 01 04 01}{F5 61 02 01 01 01 01 01 13 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}呀！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:7:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 14 01}咦，讨厌……突然干什么！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:7:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 47 01 02 01 04 01 01 01}{F5 61 02 01 01 01 01 01 15 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:7:3",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 02 01 04 01 01 01}{F5 61 02 01 01 01 01 01 16 01}啊，该不会是因为\n我说了……很憧憬吧？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:7:4",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 17 01}呵呵，你真温柔。\n谢谢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:7:5",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 47 01 02 01 04 01 01 01}{F5 61 02 01 01 01 01 01 18 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:7:6",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 19 01}……说、说话离得太近了，\n已经可以了啦。\n把我放下来，好吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:8:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞把害羞的理世放了下来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 11 01 02 01 04 01}{F5 61 02 01 01 01 01 01 1A 01}真有点意外。\n你看着挺瘦，力气却不小呢。\n而且，好像很会应付女孩子……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:9:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 1B 01}突然把人抱起来，\n这可是电视剧里的情节。\n还真有人会这么做啊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:9:2",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 1C 01}……不过，倒是稍微\n体验了一下当公主的感觉。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:10:0",
+  "message_id": "MSG_0082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 09 01 03 01 01 01}{F5 61 02 01 01 01 01 01 1D 01}{F5 C1 03 01 01 01 01 01 0B 01}但、但是，不许搞突然袭击！\n心脏都受不了啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:11:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 47 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 1E 01}一直待在这里也没用，\n差不多该走了吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:12:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_514.bf.json:12:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞气氛变得有一点微妙……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

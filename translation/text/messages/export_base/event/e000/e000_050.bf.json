@@ -1,0 +1,57 @@
+[
+ {
+  "key": "export_base/event/e000/e000_050.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F2 01 08 01}＞不断移动的天鹅绒房间，\n　吱呀一声停了下来……\n{F2 22 4E 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_050.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 02 01}{F3 06 00 01 00 01}停、停了……？\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_050.bf.json:2:0",
+  "message_id": "MSG_0012",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}总觉得这情形，\n有点像过山车啊……\n{F5 C1 14 01 01 01 01 01 65 01}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_050.bf.json:3:0",
+  "message_id": "MSG_0013",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}一直往上爬，然后突然停下来……\n{F5 C1 14 01 01 01 01 01 51 01}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_050.bf.json:4:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 04 01}{F3 06 00 01 00 01}别、别说了！\n那岂不是要往下……掉……\n{F5 C1 14 01 01 01 01 01 56 01}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_050.bf.json:5:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}呀啊啊啊！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_050.bf.json:6:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}正在以自由落体的速度\n向下移动。\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_050.bf.json:7:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}……看来是在往下掉呢。\n{F5 C1 14 01 01 01 01 01 29 01}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_050.bf.json:8:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}这样会撞上的吧……！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_050.bf.json:9:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}撞、撞到哪里！？\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_050.bf.json:10:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}哪里，那个……下面啊！！\n{F5 C1 14 01 01 01 01 01 4E 01}{00}"
+ }
+]

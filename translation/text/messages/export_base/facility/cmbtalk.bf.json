@@ -1,0 +1,2072 @@
+[
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:1:0",
+  "message_id": "VELVET_OUT_MARGARET",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 05 01 05 01 02 01}{F5 61 08 01 01 01 01 01 12 01}那么，再会。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:2:0",
+  "message_id": "VELVET_OUT_ELIZABETH",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 09 01 02 01 02 01}{F5 61 08 01 01 01 01 01 09 01}欢迎您再次光临。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:3:0",
+  "message_id": "VELVET_TALK_GREET_MARGAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 05 01 05 01 02 01}{F5 61 08 01 01 01 01 01 39 01}欢迎来到天鹅绒房间……\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:4:0",
+  "message_id": "VELVET_TALK_GREET_MARGAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}{F5 61 08 01 01 01 01 01 3A 01}那么……\n您想做些什么？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:5:0",
+  "message_id": "VELVET_TALK_GREET_ELIZAB",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 09 01 02 01 02 01}{F5 61 08 01 01 01 01 01 38 01}欢迎来到天鹅绒房间……\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:8:0",
+  "message_id": "VELVET_BATTLE_BEFORE_MAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}{F5 61 08 01 01 01 01 01 3B 01}哎呀……\n这一刻终于到来了呢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:8:1",
+  "message_id": "VELVET_BATTLE_BEFORE_MAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 3C 01}弟弟妹妹也马上就到，\n你真的已经准备好了吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:9:0",
+  "message_id": "SEL_VELVET_BATTLE_BEFORE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}准备好了{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:9:1",
+  "message_id": "SEL_VELVET_BATTLE_BEFORE",
+  "translation": "{F2 05 FF FF}{F1 41}稍等一下{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:10:0",
+  "message_id": "VELVET_BATTLE_START_MARG",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}{F5 61 08 01 01 01 01 01 3D 01}呵呵……来一场激烈的战斗吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:11:0",
+  "message_id": "VELVET_BATTLE_LATER_MARG",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}{F5 61 08 01 01 01 01 01 3E 01}这样啊……\n那么，下次再说……\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:13:0",
+  "message_id": "MARIE_SASOI_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3F 08}咦…你来了。\n有点意外，还以为你没兴趣。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:13:1",
+  "message_id": "MARIE_SASOI_01",
+  "translation": "{F2 05 FF FF}{F1 41}那个，你应该已经知道了吧，\n…我想让你带我出去。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:13:2",
+  "message_id": "MARIE_SASOI_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 08 01 01 01 02 01}又窄又暗，鼻子又不说话。\n这里真闷。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:13:3",
+  "message_id": "MARIE_SASOI_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}其实我不能随便离开这个房间，\n不过和你一起就可以。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:13:4",
+  "message_id": "MARIE_SASOI_01",
+  "translation": "{F2 05 FF FF}{F1 41}我啊…那个…\n…算了，没什么。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:13:5",
+  "message_id": "MARIE_SASOI_01",
+  "translation": "{F2 05 FF FF}{F1 41}喂，你会带我去吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:13:6",
+  "message_id": "MARIE_SASOI_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽似乎是有什么目的才想出门…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:13:7",
+  "message_id": "MARIE_SASOI_01",
+  "translation": "{F2 05 FF FF}{F1 41}＞关系变好了，或许她会告诉自己…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:14:0",
+  "message_id": "MARIE_SEL_1ST",
+  "translation": "{F2 05 FF FF}{F1 41}好啊{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:14:1",
+  "message_id": "MARIE_SEL_1ST",
+  "translation": "{F2 05 FF FF}{F1 41}下次吧{00}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:15:0",
+  "message_id": "MARIE_SASOI_01_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 06 01 01 01 02 01}真的！？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:15:1",
+  "message_id": "MARIE_SASOI_01_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}…你是不是太老好人了？\n这样会被人“玩弄于股掌”的哦？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:15:2",
+  "message_id": "MARIE_SASOI_01_YES",
+  "translation": "{F2 05 FF FF}{F1 41}……。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:15:3",
+  "message_id": "MARIE_SASOI_01_YES",
+  "translation": "{F2 05 FF FF}{F1 41}“玩弄于股掌”…用得没错吧？\n我可是认真记住了的。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:15:4",
+  "message_id": "MARIE_SASOI_01_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 6C 08}总之，走吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:15:5",
+  "message_id": "MARIE_SASOI_01_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞决定带着玛丽\n　离开天鹅绒房间…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:16:0",
+  "message_id": "MARIE_SASOI_COMMON_NO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 08 01 01 01 02 01}{F5 61 02 01 01 01 01 01 56 08}…没意思。\n笨蛋讨厌差劲小气鬼。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:16:1",
+  "message_id": "MARIE_SASOI_COMMON_NO",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽鼓起了脸颊…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:17:0",
+  "message_id": "MARIE_SASOI_01_SUMI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 08 01 01 01 02 01}又窄又暗鼻子又不说话。\n无聊死了快死了受不了了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:17:1",
+  "message_id": "MARIE_SASOI_01_SUMI",
+  "translation": "{F2 05 FF FF}{F1 41}…你会带我出去吧？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:18:0",
+  "message_id": "MARIE_SASOI_02",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3F 08}啊…来了。\n喂，带我出去走走吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:18:1",
+  "message_id": "MARIE_SASOI_02",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽似乎想出去走走…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:19:0",
+  "message_id": "MARIE_SASOI_HOUKAGO",
+  "translation": "{F2 05 FF FF}{F1 41}＞放学后要和玛丽一起度过吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:20:0",
+  "message_id": "MARIE_SASOI_GOGO",
+  "translation": "{F2 05 FF FF}{F1 41}＞白天要和玛丽一起度过吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:21:0",
+  "message_id": "MARIE_SEL",
+  "translation": "{F2 05 FF FF}{F1 41}和玛丽一起度过{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:21:1",
+  "message_id": "MARIE_SEL",
+  "translation": "{F2 05 FF FF}{F1 41}查看社群属性{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:21:2",
+  "message_id": "MARIE_SEL",
+  "translation": "{F2 05 FF FF}{F1 41}还是算了{00}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:22:0",
+  "message_id": "MARIE_SASOI_02_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 6C 08}嗯，走吧！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:22:1",
+  "message_id": "MARIE_SASOI_02_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F4 AD 01 01 0B 01 3A 01}＞玛丽看起来很高兴…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:22:2",
+  "message_id": "MARIE_SASOI_02_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}今天想去热闹的地方。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:22:3",
+  "message_id": "MARIE_SASOI_02_YES",
+  "translation": "{F2 05 FF FF}{F1 41}想去“朱尼斯”。\n听说有这么个地方。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:22:4",
+  "message_id": "MARIE_SASOI_02_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽似乎想去朱尼斯。\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:22:5",
+  "message_id": "MARIE_SASOI_02_YES",
+  "translation": "{F2 05 FF FF}{F1 41}＞决定带着玛丽前往朱尼斯…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:23:0",
+  "message_id": "MARIE_SASOI_COMMON_SUMI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 42 08}喂，我想出去走走。\n带我去嘛。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:24:0",
+  "message_id": "MARIE_SASOI_03",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3F 08}啊…来了。\n喂，出去走走吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:24:1",
+  "message_id": "MARIE_SASOI_03",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽似乎想出去走走…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:25:0",
+  "message_id": "MARIE_SASOI_03_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 6C 08}嗯，走吧！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:25:1",
+  "message_id": "MARIE_SASOI_03_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F4 AD 01 01 0B 01 3A 01}＞玛丽看起来很高兴…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:25:2",
+  "message_id": "MARIE_SASOI_03_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}今天想去“城里”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:25:3",
+  "message_id": "MARIE_SASOI_03_YES",
+  "translation": "{F2 05 FF FF}{F1 41}听说有好多东西哦？\n所以带我去嘛。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:25:4",
+  "message_id": "MARIE_SASOI_03_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞这附近的大城市，是指冲奈市吧…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:25:5",
+  "message_id": "MARIE_SASOI_03_YES",
+  "translation": "{F2 05 FF FF}{F1 41}＞决定带着玛丽前往冲奈市…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:26:0",
+  "message_id": "MARIE_SASOI_04",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3F 08}啊…来了。\n喂，带我出去走走吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:26:1",
+  "message_id": "MARIE_SASOI_04",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽似乎想出去走走…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:27:0",
+  "message_id": "MARIE_SASOI_04_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 6C 08}嗯，走吧！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:27:1",
+  "message_id": "MARIE_SASOI_04_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F4 AD 01 01 0B 01 3A 01}＞玛丽看起来很高兴…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:27:2",
+  "message_id": "MARIE_SASOI_04_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 43 08}那个，能去看看“学校”吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:27:3",
+  "message_id": "MARIE_SASOI_04_YES",
+  "translation": "{F2 05 FF FF}{F1 41}你不是在那里上学吗？\n所以我想去看看，好吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:27:4",
+  "message_id": "MARIE_SASOI_04_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞决定带着玛丽前往学校…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:28:0",
+  "message_id": "MARIE_SASOI_05",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3F 08}啊…来了。\n喂，带我出去走走吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:28:1",
+  "message_id": "MARIE_SASOI_05",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽似乎想出去走走…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:29:0",
+  "message_id": "MARIE_SASOI_05_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 6C 08}嗯，走吧！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:29:1",
+  "message_id": "MARIE_SASOI_05_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F4 AD 01 01 0B 01 3A 01}＞玛丽看起来很高兴…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:29:2",
+  "message_id": "MARIE_SASOI_05_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}今天要去“朱尼斯”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:29:3",
+  "message_id": "MARIE_SASOI_05_YES",
+  "translation": "{F2 05 FF FF}{F1 41}拿到了叫零钱的东西，\n有想去看看的东西。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:29:4",
+  "message_id": "MARIE_SASOI_05_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞决定带着玛丽前往朱尼斯…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:30:0",
+  "message_id": "MARIE_SASOI_06",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 40 08}啊，来了！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:30:1",
+  "message_id": "MARIE_SASOI_06",
+  "translation": "{F2 05 FF FF}{F1 41}喂，出去走走吧。\n你说过会帮我找回记忆吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:30:2",
+  "message_id": "MARIE_SASOI_06",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞说起来，曾和玛丽约好\n　要一起寻找记忆…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:31:0",
+  "message_id": "MARIE_SASOI_06_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 6D 08}嗯，走吧！\n好想快点记起来。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:31:1",
+  "message_id": "MARIE_SASOI_06_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 AD 01 01 0B 01 3A 01}{F4 87 01 01 01 01 01 01}＞玛丽似乎已经等不及了。\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:31:2",
+  "message_id": "MARIE_SASOI_06_YES",
+  "translation": "{F2 05 FF FF}{F1 41}＞决定先到外面去…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:32:0",
+  "message_id": "MARIE_SASOI_0607_NO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 08 01 01 01 02 01}…哼。\n笨蛋讨厌差劲讨厌。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:32:1",
+  "message_id": "MARIE_SASOI_0607_NO",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽鼓起了脸颊…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:33:0",
+  "message_id": "MARIE_SASOI_0607_SUMI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 42 08}喂，出去走走嘛。\n你说过会帮我找回记忆吧？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:34:0",
+  "message_id": "MARIE_SASOI_07",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 40 08}啊，来了！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:34:1",
+  "message_id": "MARIE_SASOI_07",
+  "translation": "{F2 05 FF FF}{F1 41}喂，出去走走吧。\n你说过会帮我找回记忆吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:34:2",
+  "message_id": "MARIE_SASOI_07",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞说起来，曾和玛丽约好\n　要一起寻找记忆…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:35:0",
+  "message_id": "MARIE_SASOI_07_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 6D 08}嗯，走吧！\n喂，你觉得能想起什么吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:35:1",
+  "message_id": "MARIE_SASOI_07_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 AD 01 01 0B 01 3A 01}{F4 87 01 01 01 01 01 01}＞玛丽似乎已经等不及了。\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:35:2",
+  "message_id": "MARIE_SASOI_07_YES",
+  "translation": "{F2 05 FF FF}{F1 41}＞决定先到外面去…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:36:0",
+  "message_id": "MARIE_SASOI_08",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}啊…你来了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:36:1",
+  "message_id": "MARIE_SASOI_08",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 4C 08}……。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:36:2",
+  "message_id": "MARIE_SASOI_08",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽似乎没什么精神…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:37:0",
+  "message_id": "MARIE_SASOI_08_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}……。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:37:1",
+  "message_id": "MARIE_SASOI_08_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 47 08}嗯…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:37:2",
+  "message_id": "MARIE_SASOI_08_YES",
+  "translation": "{F2 05 FF FF}{F1 41}那就…走吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:37:3",
+  "message_id": "MARIE_SASOI_08_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 AD 01 01 0B 01 3A 01}{F4 87 01 01 01 01 01 01}＞玛丽轻轻点了点头…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:37:4",
+  "message_id": "MARIE_SASOI_08_YES",
+  "translation": "{F2 05 01 FF}{F1 41}＞决定带着玛丽到外面去…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:38:0",
+  "message_id": "MARIE_SASOI_08_NO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}{F5 61 02 01 01 01 01 01 4A 08}…哦。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:38:1",
+  "message_id": "MARIE_SASOI_08_NO",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽叹了口气…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:39:0",
+  "message_id": "MARIE_SASOI_09",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}啊…你来了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:39:1",
+  "message_id": "MARIE_SASOI_09",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 4C 08}……。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:39:2",
+  "message_id": "MARIE_SASOI_09",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽似乎很沮丧…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:40:0",
+  "message_id": "MARIE_SASOI_09_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}{F5 61 02 01 01 01 01 01 47 08}嗯…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:40:1",
+  "message_id": "MARIE_SASOI_09_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F4 AD 01 01 0B 01 3A 01}＞玛丽轻轻点了点头…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:40:2",
+  "message_id": "MARIE_SASOI_09_YES",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}那个…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:40:3",
+  "message_id": "MARIE_SASOI_09_YES",
+  "translation": "{F2 05 01 FF}{F1 41}上次，对不…起。\n…我想去外面说。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:40:4",
+  "message_id": "MARIE_SASOI_09_YES",
+  "translation": "{F2 05 01 FF}{F1 41}{F4 87 01 01 01 01 01 01}＞决定带着玛丽到外面去…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:41:0",
+  "message_id": "MARIE_SASOI_09_NO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}{F5 61 02 01 01 01 01 01 4A 08}…这样啊。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:41:1",
+  "message_id": "MARIE_SASOI_09_NO",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽看起来很难过…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:42:0",
+  "message_id": "MARIE_SASOI_10_K",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3F 08}啊…那个…你来，啦？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:42:1",
+  "message_id": "MARIE_SASOI_10_K",
+  "translation": "{F2 05 FF FF}{F1 41}呃…有空吗？没空也得抽空。\n不如说，你就该抽空。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:42:2",
+  "message_id": "MARIE_SASOI_10_K",
+  "translation": "{F2 05 FF FF}{F1 41}…因为我想和你创造回忆。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:42:3",
+  "message_id": "MARIE_SASOI_10_K",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽似乎想去外面…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:43:0",
+  "message_id": "MARIE_SASOI_10_K_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 6C 08}嗯，走吧！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:43:1",
+  "message_id": "MARIE_SASOI_10_K_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F4 AD 01 01 0B 01 3A 01}＞玛丽看起来很高兴…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:43:2",
+  "message_id": "MARIE_SASOI_10_K_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 07 01 01 01 02 01}今天想去你的房间。\n…可以吧，好不好？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:43:3",
+  "message_id": "MARIE_SASOI_10_K_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞决定带着玛丽前往自己的房间…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:44:0",
+  "message_id": "MARIE_SASOI_10_K_NO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 08 01 01 01 02 01}…哼。\n笨蛋讨厌差劲大白痴。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:44:1",
+  "message_id": "MARIE_SASOI_10_K_NO",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽看起来很失望…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:45:0",
+  "message_id": "MARIE_SASOI_10_K_SUMI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 42 08}喂，你有空吧？肯定有空。\n不如说，我认定你有空了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:45:1",
+  "message_id": "MARIE_SASOI_10_K_SUMI",
+  "translation": "{F2 05 FF FF}{F1 41}…我想和你创造回忆。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:46:0",
+  "message_id": "MARIE_SASOI_10_S",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3F 08}啊，来了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:46:1",
+  "message_id": "MARIE_SASOI_10_S",
+  "translation": "{F2 05 FF FF}{F1 41}喂，出去走走吧？\n我想创造好多回忆。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:46:2",
+  "message_id": "MARIE_SASOI_10_S",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽似乎想去外面逛逛…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:47:0",
+  "message_id": "MARIE_SASOI_10_S_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 6C 08}嗯，走吧！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:47:1",
+  "message_id": "MARIE_SASOI_10_S_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F4 AD 01 01 0B 01 3A 01}＞玛丽看起来很高兴…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:47:2",
+  "message_id": "MARIE_SASOI_10_S_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 43 08}那个，我有个想去的地方。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:47:3",
+  "message_id": "MARIE_SASOI_10_S_YES",
+  "translation": "{F2 05 FF FF}{F1 41}吃肉串的地方。\n喂，可以吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:47:4",
+  "message_id": "MARIE_SASOI_10_S_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}决定带着玛丽前往熟食大学…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:48:0",
+  "message_id": "MARIE_SASOI_10_S_NO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 08 01 01 01 02 01}…哼。\n笨蛋讨厌差劲没良心。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:48:1",
+  "message_id": "MARIE_SASOI_10_S_NO",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽看起来很失望…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:49:0",
+  "message_id": "MARIE_SASOI_10_S_SUMI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 42 08}喂，出去走走吧？\n我想创造好多回忆。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:50:0",
+  "message_id": "MARIE_SASOI_COMMON",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3F 08}啊…来了。\n那个，今天我有想去的地方。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:50:1",
+  "message_id": "MARIE_SASOI_COMMON",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽似乎有\n　想去的地方…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:51:0",
+  "message_id": "MARIE_SASOI_COMMON_5_7",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 40 08}啊…来了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:51:1",
+  "message_id": "MARIE_SASOI_COMMON_5_7",
+  "translation": "{F2 05 FF FF}{F1 41}那个，在寻找记忆之前，\n我有个想去的地方。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:51:2",
+  "message_id": "MARIE_SASOI_COMMON_5_7",
+  "translation": "{F2 05 FF FF}{F1 41}想做那个叫“鼓劲”的事。\n可以吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:51:3",
+  "message_id": "MARIE_SASOI_COMMON_5_7",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽似乎有\n　想去的地方…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:52:0",
+  "message_id": "MARIE_SASOI_COMMON_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 6C 08}嗯，走吧！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:52:1",
+  "message_id": "MARIE_SASOI_COMMON_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F4 AD 01 01 0B 01 3A 01}＞玛丽看起来很高兴…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:52:2",
+  "message_id": "MARIE_SASOI_COMMON_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}好想快点去，快点。\n喂，带我去嘛。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:52:3",
+  "message_id": "MARIE_SASOI_COMMON_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞决定带着玛丽到外面去…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:53:0",
+  "message_id": "MARIE_DUNGEON_IN",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3F 08}咦…你来了？\n可现在不是在电视里吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:53:1",
+  "message_id": "MARIE_DUNGEON_IN",
+  "translation": "{F2 05 FF FF}{F1 41}在电视里就不能拜托你了。\n有空时再来…好吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:53:2",
+  "message_id": "MARIE_DUNGEON_IN",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞现在似乎无法听玛丽的请求…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:53:3",
+  "message_id": "MARIE_DUNGEON_IN",
+  "translation": "{F2 05 FF FF}{F1 41}＞离开电视后，\n　再和玛丽聊聊吧…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:54:0",
+  "message_id": "MARIE_DUNGEON_IN_SUMI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}你很忙吧？\n离开电视后再来…好吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:54:1",
+  "message_id": "MARIE_DUNGEON_IN_SUMI",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞现在似乎无法听玛丽的请求…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:54:2",
+  "message_id": "MARIE_DUNGEON_IN_SUMI",
+  "translation": "{F2 05 FF FF}{F1 41}＞离开电视后，\n　再和玛丽聊聊吧…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:55:0",
+  "message_id": "MARIE_KIKANGAI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3F 08}咦…你来了？\n可是现在我不能出去。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:55:1",
+  "message_id": "MARIE_KIKANGAI",
+  "translation": "{F2 05 FF FF}{F1 41}好像“存在不稳定”的时候，\n就不准出去。我也搞不懂。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:55:2",
+  "message_id": "MARIE_KIKANGAI",
+  "translation": "{F2 05 FF FF}{F1 41}能出门时，我会在这个房间外面等你。\n到时再叫我…好吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:55:3",
+  "message_id": "MARIE_KIKANGAI",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽现在似乎无法出门…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:55:4",
+  "message_id": "MARIE_KIKANGAI",
+  "translation": "{F2 05 FF FF}{F1 41}＞等玛丽站在天鹅绒房间外面时，\n　再和她聊聊吧…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:56:0",
+  "message_id": "MARIE_KIKANGAI_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3F 08}咦…你来了？\n不过，你好像很忙。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:56:1",
+  "message_id": "MARIE_KIKANGAI_2",
+  "translation": "{F2 05 FF FF}{F1 41}这样就不能拜托你了。\n有空时再来…好吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:56:2",
+  "message_id": "MARIE_KIKANGAI_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞确实，现在正在寻找\n　与真凶有关的信息…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:56:3",
+  "message_id": "MARIE_KIKANGAI_2",
+  "translation": "{F2 05 FF FF}{F1 41}＞还是下次再找机会吧…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:57:0",
+  "message_id": "MARIE_NO_CLUE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3F 08}咦…你来了？\n不过，你好像很忙。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:57:1",
+  "message_id": "MARIE_NO_CLUE",
+  "translation": "{F2 05 FF FF}{F1 41}这样就不能拜托你了。\n有空时再来…好吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:57:2",
+  "message_id": "MARIE_NO_CLUE",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞确实，现在正在调查案件…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:57:3",
+  "message_id": "MARIE_NO_CLUE",
+  "translation": "{F2 05 FF FF}{F1 41}＞还是下次再找机会吧…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:58:0",
+  "message_id": "MARIE_AFTER_FOODCOAT_COM",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3F 08}咦…你来了？\n不过，有点晚了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:58:1",
+  "message_id": "MARIE_AFTER_FOODCOAT_COM",
+  "translation": "{F2 05 FF FF}{F1 41}好像现在“存在不稳定”。\n这种时候不准离开这个房间。\n我也搞不懂。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:58:2",
+  "message_id": "MARIE_AFTER_FOODCOAT_COM",
+  "translation": "{F2 05 FF FF}{F1 41}等我又能\n出门的时候，\n会在这个房间外面等你。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:58:3",
+  "message_id": "MARIE_AFTER_FOODCOAT_COM",
+  "translation": "{F2 05 FF FF}{F1 41}到时再叫我…好吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:58:4",
+  "message_id": "MARIE_AFTER_FOODCOAT_COM",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽现在似乎无法出门…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:58:5",
+  "message_id": "MARIE_AFTER_FOODCOAT_COM",
+  "translation": "{F2 05 FF FF}{F1 41}＞等玛丽站在天鹅绒房间外面时，\n　再和她聊聊吧…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:59:0",
+  "message_id": "MARIE_AFTER_FOODCOAT_BEF",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3F 08}咦…你来了？\n不过，有点晚了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:59:1",
+  "message_id": "MARIE_AFTER_FOODCOAT_BEF",
+  "translation": "{F2 05 FF FF}{F1 41}好像现在“存在不稳定”。\n这种时候不准离开这个房间。\n我也搞不懂。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:59:2",
+  "message_id": "MARIE_AFTER_FOODCOAT_BEF",
+  "translation": "{F2 05 FF FF}{F1 41}下次再叫我…好吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:59:3",
+  "message_id": "MARIE_AFTER_FOODCOAT_BEF",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽现在似乎无法出门…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:59:4",
+  "message_id": "MARIE_AFTER_FOODCOAT_BEF",
+  "translation": "{F2 05 FF FF}{F1 41}＞还是下次再找机会吧…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:60:0",
+  "message_id": "MARIE_KOIBITO_AFTERMAX_K",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 29 01 01 01 02 01}哇…你来了。\n吓我一跳。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:60:1",
+  "message_id": "MARIE_KOIBITO_AFTERMAX_K",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 07 01 01 01 02 01}……。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:60:2",
+  "message_id": "MARIE_KOIBITO_AFTERMAX_K",
+  "translation": "{F2 05 FF FF}{F1 41}刚好在想你。\n我们一起去过好多地方呢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:60:3",
+  "message_id": "MARIE_KOIBITO_AFTERMAX_K",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 03 01 01 01 02 01}…回忆真的好神奇。\n一想起来，就很开心。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:60:4",
+  "message_id": "MARIE_KOIBITO_AFTERMAX_K",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 4E 08}谢谢…都是因为你。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:60:5",
+  "message_id": "MARIE_KOIBITO_AFTERMAX_K",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 0A 01 01 01 02 01}就算没有以前的记忆，也没关系了。\n和你一起创造的回忆更加重要。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:60:6",
+  "message_id": "MARIE_KOIBITO_AFTERMAX_K",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽害羞地笑着…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:60:7",
+  "message_id": "MARIE_KOIBITO_AFTERMAX_K",
+  "translation": "{F2 05 FF FF}{F1 41}＞感到与玛丽的深厚羁绊，\n　是无可替代的珍宝…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:61:0",
+  "message_id": "MARIE_SINYU_AFTERMAX_KIK",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 0A 01 01 01 02 01}啊，你来了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:61:1",
+  "message_id": "MARIE_SINYU_AFTERMAX_KIK",
+  "translation": "{F2 05 FF FF}{F1 41}刚才在想你的事。\n还有你的那些朋友。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:61:2",
+  "message_id": "MARIE_SINYU_AFTERMAX_KIK",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 03 01 01 01 02 01}…回忆真的好神奇。\n只是想起来，就很快乐。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:61:3",
+  "message_id": "MARIE_SINYU_AFTERMAX_KIK",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 4E 08}谢谢…都是因为你。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:61:4",
+  "message_id": "MARIE_SINYU_AFTERMAX_KIK",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 0A 01 01 01 02 01}今后也一起创造好多回忆吧。\n多到以前的事都不再重要。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:61:5",
+  "message_id": "MARIE_SINYU_AFTERMAX_KIK",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽露出开朗的笑容…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:61:6",
+  "message_id": "MARIE_SINYU_AFTERMAX_KIK",
+  "translation": "{F2 05 FF FF}{F1 41}＞感到与玛丽的深厚羁绊，\n　是无可替代的珍宝…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:62:0",
+  "message_id": "MARIE_KOIBITO_AFTERMAX",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 29 01 01 01 02 01}哇…你来了。\n吓我一跳。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:62:1",
+  "message_id": "MARIE_KOIBITO_AFTERMAX",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 07 01 01 01 02 01}……。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:62:2",
+  "message_id": "MARIE_KOIBITO_AFTERMAX",
+  "translation": "{F2 05 FF FF}{F1 41}刚好在想你。\n我们一起去过好多地方呢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:62:3",
+  "message_id": "MARIE_KOIBITO_AFTERMAX",
+  "translation": "{F2 05 FF FF}{F1 41}…回忆真的好神奇。\n一想起来，就很开心。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:62:4",
+  "message_id": "MARIE_KOIBITO_AFTERMAX",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 4E 08}谢谢…都是因为你。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:62:5",
+  "message_id": "MARIE_KOIBITO_AFTERMAX",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 0A 01 01 01 02 01}就算没有以前的记忆，也没关系了。\n和你一起创造的回忆更加重要。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:62:6",
+  "message_id": "MARIE_KOIBITO_AFTERMAX",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽害羞地笑着…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:62:7",
+  "message_id": "MARIE_KOIBITO_AFTERMAX",
+  "translation": "{F2 05 FF FF}{F1 41}＞感到与玛丽的深厚羁绊，\n　是无可替代的珍宝…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:62:8",
+  "message_id": "MARIE_KOIBITO_AFTERMAX",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 86 3D 01 07 01 01 01 02 01}啊，那个…出去走走吗？\n只要和你一起，哪里都行哦？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:62:9",
+  "message_id": "MARIE_KOIBITO_AFTERMAX",
+  "translation": "{F2 05 01 FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽似乎想一起出去…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:63:0",
+  "message_id": "MARIE_AFTERMAX_YESNO",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞…感觉关系似乎\n　已经不会更进一步了…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:63:1",
+  "message_id": "MARIE_AFTERMAX_YESNO",
+  "translation": "{F2 05 FF FF}{F1 41}＞接下来要一起度过吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:64:0",
+  "message_id": "MARIE_AFTERMAX_SEL",
+  "translation": "{F2 05 FF FF}{F1 41}和玛丽一起度过{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:64:1",
+  "message_id": "MARIE_AFTERMAX_SEL",
+  "translation": "{F2 05 FF FF}{F1 41}查看社群属性{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:64:2",
+  "message_id": "MARIE_AFTERMAX_SEL",
+  "translation": "{F2 05 FF FF}{F1 41}还是算了{00}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:65:0",
+  "message_id": "MARIE_KOIBITO_AFTERMAX_Y",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 0A 01 01 01 02 01}{F5 61 02 01 01 01 01 01 6C 08}嗯，走吧！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:65:1",
+  "message_id": "MARIE_KOIBITO_AFTERMAX_Y",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽看起来很高兴…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:65:2",
+  "message_id": "MARIE_KOIBITO_AFTERMAX_Y",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 0A 01 01 01 02 01}那个，我有想去的地方。\n喂，带我去嘛。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:65:3",
+  "message_id": "MARIE_KOIBITO_AFTERMAX_Y",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞决定带着玛丽到外面去…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:66:0",
+  "message_id": "MARIE_KOIBITO_AFTERMAX_N",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 08 01 01 01 02 01}…哼。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:66:1",
+  "message_id": "MARIE_KOIBITO_AFTERMAX_N",
+  "translation": "{F2 05 FF FF}{F1 41}你不是笨蛋，也不讨厌。\n但是，是个大白痴！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:66:2",
+  "message_id": "MARIE_KOIBITO_AFTERMAX_N",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}玛丽鼓起了脸颊…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:67:0",
+  "message_id": "MARIE_SINYU_AFTERMAX",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 0A 01 01 01 02 01}啊，你来了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:67:1",
+  "message_id": "MARIE_SINYU_AFTERMAX",
+  "translation": "{F2 05 FF FF}{F1 41}刚才在想你的事。\n还有你的那些朋友。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:67:2",
+  "message_id": "MARIE_SINYU_AFTERMAX",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 03 01 01 01 02 01}…回忆真的好神奇。\n只是想起来，就很快乐。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:67:3",
+  "message_id": "MARIE_SINYU_AFTERMAX",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 4E 08}谢谢…都是因为你。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:67:4",
+  "message_id": "MARIE_SINYU_AFTERMAX",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 0A 01 01 01 02 01}今后也一起创造好多回忆吧。\n多到以前的事都不再重要。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:67:5",
+  "message_id": "MARIE_SINYU_AFTERMAX",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽露出开朗的笑容…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:67:6",
+  "message_id": "MARIE_SINYU_AFTERMAX",
+  "translation": "{F2 05 FF FF}{F1 41}＞感到与玛丽的深厚羁绊，\n　是无可替代的珍宝…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:67:7",
+  "message_id": "MARIE_SINYU_AFTERMAX",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 86 3D 01 0A 01 01 01 02 01}啊，那个…出去走走吗？\n哪里都可以哦？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:67:8",
+  "message_id": "MARIE_SINYU_AFTERMAX",
+  "translation": "{F2 05 01 FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽似乎想一起出去…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:68:0",
+  "message_id": "MARIE_SINYU_AFTERMAX_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 0A 01 01 01 02 01}{F5 61 02 01 01 01 01 01 6C 08}嗯，走吧！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:68:1",
+  "message_id": "MARIE_SINYU_AFTERMAX_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽看起来很高兴…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:68:2",
+  "message_id": "MARIE_SINYU_AFTERMAX_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 0A 01 01 01 02 01}那个，我有想去的地方。\n喂，带我去嘛。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:68:3",
+  "message_id": "MARIE_SINYU_AFTERMAX_YES",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞决定带着玛丽到外面去…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:69:0",
+  "message_id": "MARIE_SINYU_AFTERMAX_NO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 08 01 01 01 02 01}…哼。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:69:1",
+  "message_id": "MARIE_SINYU_AFTERMAX_NO",
+  "translation": "{F2 05 FF FF}{F1 41}你不是笨蛋，也不讨厌，\n但就是个大白痴！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:69:2",
+  "message_id": "MARIE_SINYU_AFTERMAX_NO",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽鼓起了脸颊…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:70:0",
+  "message_id": "MARIE_DOUZOKUSEI",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞因为有{F2 44 03 01}的人格面具“{F2 01 02 01}{F2 44 06 01}{F2 01 01 01}”，\n　感觉能和她更加亲近…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:71:0",
+  "message_id": "MARIE_ZOKUSEI",
+  "translation": "{F2 05 FF FF}{F1 41}＞{F2 44 01 01}…\n　{F2 44 02 01}社群　等级“{F2 01 03 01}{F2 44 05 01}{F2 01 01 01}”\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:71:1",
+  "message_id": "MARIE_ZOKUSEI",
+  "translation": "{F2 05 FF FF}{F1 41}＞阿尔卡那属性为“{F2 44 03 01}”。\n　{F2 44 04 01}\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:71:2",
+  "message_id": "MARIE_ZOKUSEI",
+  "translation": "{F2 05 FF FF}{F1 41}＞能看见{F2 44 03 01}属性的人格面具之力…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:72:0",
+  "message_id": "PER_KOE",
+  "translation": "{F2 05 FF FF}{F1 41}　等级{F2 44 01 01}；{F2 44 02 01}\n　\n　持有的技能是…\n　　{F2 44 03 01}\n　　{F2 44 04 01}\n　　{F2 44 05 01}\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:73:0",
+  "message_id": "ZOKUSEI_NOTYET",
+  "translation": "{F2 05 FF FF}{F1 41}＞似乎还隐藏着某种力量…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:74:0",
+  "message_id": "ZOKUSEI_NOMORE",
+  "translation": "{F2 05 FF FF}{F1 41}＞这个阿尔卡那属性的人格面具\n　已经全部解禁…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:75:0",
+  "message_id": "MARIE_DOKO_ON",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}您是在关心玛丽的下落吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:75:1",
+  "message_id": "MARIE_DOKO_ON",
+  "translation": "{F2 05 FF FF}{F1 41}不必担心，准备就绪后，\n我便会带您前往她所在的地方。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:75:2",
+  "message_id": "MARIE_DOKO_ON",
+  "translation": "{F2 05 FF FF}{F1 41}在此之前，还请稍候。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:76:0",
+  "message_id": "MARIE_DOKO_ON_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}您是在关心玛丽的下落吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:76:1",
+  "message_id": "MARIE_DOKO_ON_2",
+  "translation": "{F2 05 FF FF}{F1 41}十分抱歉。\n目前还未能掌握她的所在。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:76:2",
+  "message_id": "MARIE_DOKO_ON_2",
+  "translation": "{F2 05 FF FF}{F1 41}带您前去找她时，\n可能会伴随危险…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:76:3",
+  "message_id": "MARIE_DOKO_ON_2",
+  "translation": "{F2 05 FF FF}{F1 41}在我前来迎接您之前，\n请先做好准备。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:77:0",
+  "message_id": "MARIE_DOKO_ON_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}您是在关心玛丽的下落吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:77:1",
+  "message_id": "MARIE_DOKO_ON_3",
+  "translation": "{F2 05 FF FF}{F1 41}我正在尽力寻找，\n还请再给我一点时间。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:77:2",
+  "message_id": "MARIE_DOKO_ON_3",
+  "translation": "{F2 05 FF FF}{F1 41}在我前来迎接您之前，\n请先做好准备。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:78:0",
+  "message_id": "MARIE_DOKO_ON_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}您是在关心玛丽的下落吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:78:1",
+  "message_id": "MARIE_DOKO_ON_4",
+  "translation": "{F2 05 FF FF}{F1 41}已经逐渐找到她的行踪，\n还请再给我一点时间。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:78:2",
+  "message_id": "MARIE_DOKO_ON_4",
+  "translation": "{F2 05 FF FF}{F1 41}在我前来迎接您之前，\n请先做好准备。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:79:0",
+  "message_id": "MARIE_DOKO_ON_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}您是在关心玛丽的下落吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:79:1",
+  "message_id": "MARIE_DOKO_ON_5",
+  "translation": "{F2 05 FF FF}{F1 41}不必担心，准备就绪后，\n我便会带您前往她所在的地方。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:79:2",
+  "message_id": "MARIE_DOKO_ON_5",
+  "translation": "{F2 05 FF FF}{F1 41}在此之前，还请稍候。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:80:0",
+  "message_id": "MARIE_DUNGEON",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}正如之前所说，玛丽仍将自己\n封闭在“空洞之森”中。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:80:1",
+  "message_id": "MARIE_DUNGEON",
+  "translation": "{F2 05 FF FF}{F1 41}离那个世界封闭，只剩下很短的时间…\n过了那时，就再也见不到她了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:80:2",
+  "message_id": "MARIE_DUNGEON",
+  "translation": "{F2 05 FF FF}{F1 41}…如果您打算去见她，\n我建议您稍微抓紧些。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:81:0",
+  "message_id": "MARIE_DOKO_OFF_FIRST",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}十分抱歉，我们也\n不清楚她的去向。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:81:1",
+  "message_id": "MARIE_DOKO_OFF_FIRST",
+  "translation": "{F2 05 FF FF}{F1 41}附近已经没有她的气息，\n恐怕也无从得知她的所在。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:81:2",
+  "message_id": "MARIE_DOKO_OFF_FIRST",
+  "translation": "{F2 05 FF FF}{F1 41}您不必再挂念她。\n请继续您自己的旅途吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:82:0",
+  "message_id": "MARIE_DOKO_OFF",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}正如之前所说，\n玛丽已经离开这个房间了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:82:1",
+  "message_id": "MARIE_DOKO_OFF",
+  "translation": "{F2 05 FF FF}{F1 41}想必是因为，她留在这里的意义\n已经完成了吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:82:2",
+  "message_id": "MARIE_DOKO_OFF",
+  "translation": "{F2 05 FF FF}{F1 41}她承担的“职责”将由我接手…\n还请放心。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:83:0",
+  "message_id": "MARIE_D_CLEAR_00",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 43 08}呃…那个，\n能问你件奇怪的事吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:83:1",
+  "message_id": "MARIE_D_CLEAR_00",
+  "translation": "{F2 05 FF FF}{F1 41}……。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:83:2",
+  "message_id": "MARIE_D_CLEAR_00",
+  "translation": "{F2 05 FF FF}{F1 41}你偷看洗澡了吧？\n是想看…我吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:84:0",
+  "message_id": "SEL_MARIE_D_CLEAR_00",
+  "translation": "{F2 05 FF FF}{F1 41}我没有偷看{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:84:1",
+  "message_id": "SEL_MARIE_D_CLEAR_00",
+  "translation": "{F2 05 FF FF}{F1 41}那是意外{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:84:2",
+  "message_id": "SEL_MARIE_D_CLEAR_00",
+  "translation": "{F2 05 FF FF}{F1 41}是想看{00}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:85:0",
+  "message_id": "MARIE_D_CLEAR_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 08 01 01 01 02 01}…哼。\n没看啊。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:85:1",
+  "message_id": "MARIE_D_CLEAR_01",
+  "translation": "{F2 05 FF FF}{F1 41}骗子笨蛋变态差劲。\n偷看一点也不帅。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:85:2",
+  "message_id": "MARIE_D_CLEAR_01",
+  "translation": "{F2 05 FF FF}{F1 41}…再劈你一次雷。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:86:0",
+  "message_id": "MARIE_D_CLEAR_02",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 08 01 01 01 02 01}…哼。\n这就是所谓的“借口”吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:86:1",
+  "message_id": "MARIE_D_CLEAR_02",
+  "translation": "{F2 05 FF FF}{F1 41}话说，你居然还活着…\n要再来一道雷吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:87:0",
+  "message_id": "MARIE_D_CLEAR_03",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 07 01 01 01 02 01}这样…啊。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:87:1",
+  "message_id": "MARIE_D_CLEAR_03",
+  "translation": "{F2 05 FF FF}{F1 41}……。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:87:2",
+  "message_id": "MARIE_D_CLEAR_03",
+  "translation": "{F2 05 FF FF}{F1 41}…嗯，我想想。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:88:0",
+  "message_id": "MARIE_D_CLEAR_04",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 07 01 01 01 02 01}……。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:88:1",
+  "message_id": "MARIE_D_CLEAR_04",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 4E 08}那个…谢谢你，来救我。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:88:2",
+  "message_id": "MARIE_D_CLEAR_04",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 0A 01 01 01 02 01}没有你和你的朋友们，\n我就会永远孤零零的。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:88:3",
+  "message_id": "MARIE_D_CLEAR_04",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 03 01 01 01 02 01}…所以，谢谢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:88:4",
+  "message_id": "MARIE_D_CLEAR_04",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽露出发自内心的笑容…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:89:0",
+  "message_id": "MARIE_D_CLEAR_SUMI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 0A 01 01 01 02 01}{F5 61 02 01 01 01 01 01 4E 08}那个…谢谢你，来救我。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:89:1",
+  "message_id": "MARIE_D_CLEAR_SUMI",
+  "translation": "{F2 05 FF FF}{F1 41}没有你和你的朋友们，\n我就会永远孤零零的。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:89:2",
+  "message_id": "MARIE_D_CLEAR_SUMI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 03 01 01 01 02 01}…所以，谢谢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:89:3",
+  "message_id": "MARIE_D_CLEAR_SUMI",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽露出发自内心的笑容…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:90:0",
+  "message_id": "MSG_IZANAMI_DUNGEON",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 08 01 01 01 02 01}真是的…你可真傻。\n这种时候还跑来找我？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:90:1",
+  "message_id": "MSG_IZANAMI_DUNGEON",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}…我的愿望只有１个。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:90:2",
+  "message_id": "MSG_IZANAMI_DUNGEON",
+  "translation": "{F2 05 FF FF}{F1 41}希望你不被任何事迷惑，也不动摇，\n沿着自己相信的道路走下去。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:90:3",
+  "message_id": "MSG_IZANAMI_DUNGEON",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 03 01 01 01 02 01}我…不，不只是我。\n所有与你相连的人，都在支持着你。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:90:4",
+  "message_id": "MSG_IZANAMI_DUNGEON",
+  "translation": "{F2 05 FF FF}{F1 41}没问题，你们一定\n能找到“真相”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:91:0",
+  "message_id": "MARIE_CMU_NOTYET",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}请求？没什么。\n虽然有…但现在没有。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:91:1",
+  "message_id": "MARIE_CMU_NOTYET",
+  "translation": "{F2 05 FF FF}{F1 41}…跟你说也没用。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:91:2",
+  "message_id": "MARIE_CMU_NOTYET",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞她似乎不太感兴趣…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:91:3",
+  "message_id": "MARIE_CMU_NOTYET",
+  "translation": "{F2 05 FF FF}{F1 41}＞要和玛丽加深关系，\n　似乎还需要某个契机…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:92:0",
+  "message_id": "MARIE_HAJIKI_RANK_3_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}啊…你来了？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:92:1",
+  "message_id": "MARIE_HAJIKI_RANK_3_5",
+  "translation": "{F2 05 FF FF}{F1 41}那个…今天就算了。\n总觉得没那个心情。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:92:2",
+  "message_id": "MARIE_HAJIKI_RANK_3_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽似乎在思考什么…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:92:3",
+  "message_id": "MARIE_HAJIKI_RANK_3_5",
+  "translation": "{F2 05 FF FF}{F1 41}＞要和玛丽进一步加深关系，\n　似乎还需要某个契机…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:93:0",
+  "message_id": "MARIE_HAJIKI_SISSOU_MAE_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}啊…你来了？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:93:1",
+  "message_id": "MARIE_HAJIKI_SISSOU_MAE_",
+  "translation": "{F2 05 FF FF}{F1 41}请求…今天就算了。\n没那个心情。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:94:0",
+  "message_id": "SEL_MARIE_HAJIKI_SISSOU_",
+  "translation": "{F2 05 FF FF}{F1 41}在烦恼什么？{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:94:1",
+  "message_id": "SEL_MARIE_HAJIKI_SISSOU_",
+  "translation": "{F2 05 FF FF}{F1 41}说再见？{00}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:95:0",
+  "message_id": "MARIE_HAJIKI_SISSOU_MAE_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}咦…？\n才、才没有…什么烦恼呢。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:96:0",
+  "message_id": "MARIE_HAJIKI_SISSOU_MAE_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}咦…！？\n你、你怎么会知道…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:96:1",
+  "message_id": "MARIE_HAJIKI_SISSOU_MAE_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}…我、我没说过那种话。\n你是不是做梦了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:97:0",
+  "message_id": "MARIE_HAJIKI_SISSOU_MAE_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}……。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:97:1",
+  "message_id": "MARIE_HAJIKI_SISSOU_MAE_",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽似乎在思考什么…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:98:0",
+  "message_id": "MARIE_HAJIKI_SISSOU_MAE_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}请求…今天就算了。\n没那个心情。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:98:1",
+  "message_id": "MARIE_HAJIKI_SISSOU_MAE_",
+  "translation": "{F2 05 FF FF}{F1 41}……。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:98:2",
+  "message_id": "MARIE_HAJIKI_SISSOU_MAE_",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽似乎在思考什么…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:99:0",
+  "message_id": "MARIE_0103_ABOUT_MARIE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}哎呀…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:99:1",
+  "message_id": "MARIE_0103_ABOUT_MARIE",
+  "translation": "{F2 05 FF FF}{F1 41}莫非，您是在关心\n玛丽的下落吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:99:2",
+  "message_id": "MARIE_0103_ABOUT_MARIE",
+  "translation": "{F2 05 FF FF}{F1 41}如果您愿意，\n我可以带您前往她所在的地方。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:99:3",
+  "message_id": "MARIE_0103_ABOUT_MARIE",
+  "translation": "{F2 05 FF FF}{F1 41}…不过，可能会有些危险，\n您意下如何？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:100:0",
+  "message_id": "SEL_MARIE_0103",
+  "translation": "{F2 05 FF FF}{F1 41}请她带路{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:100:1",
+  "message_id": "SEL_MARIE_0103",
+  "translation": "{F2 05 FF FF}{F1 41}还是拒绝{00}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:101:0",
+  "message_id": "MARIE_0103_WHERE_GO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}这样啊…\n我明白了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:101:1",
+  "message_id": "MARIE_0103_WHERE_GO",
+  "translation": "{F2 05 FF FF}{F1 41}既然这是您的愿望，\n我就带您前往她所在的地方。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:101:2",
+  "message_id": "MARIE_0103_WHERE_GO",
+  "translation": "{F2 05 FF FF}{F1 41}准备就绪后，我会通知您。\n在此之前，还请稍候。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:101:3",
+  "message_id": "MARIE_0103_WHERE_GO",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞玛丽究竟去了哪里呢…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:101:4",
+  "message_id": "MARIE_0103_WHERE_GO",
+  "translation": "{F2 05 FF FF}{F1 41}＞现在先等待\n　玛格丽特前来迎接吧…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:102:0",
+  "message_id": "MARIE_0103_DONT_KNOW",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}是我多言了。\n…您还有什么需要吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:103:0",
+  "message_id": "MSG_RANKUP_OK",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞感觉和玛丽的关系快要加深了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:104:0",
+  "message_id": "MSG_RANKUP_MADA",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞感觉和玛丽的关系还不会加深…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:105:0",
+  "message_id": "YELL_HELP0_mar",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}那我来详细说明一下“救援请求”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:105:1",
+  "message_id": "YELL_HELP0_mar",
+  "translation": "{F2 05 FF FF}{F1 41}发送救援请求后，你的声音\n就能传给“别的世界”里的你。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:105:2",
+  "message_id": "YELL_HELP0_mar",
+  "translation": "{F2 05 FF FF}{F1 41}所以，在电视里遇到危险时，\n可以向“别的世界”里的你，\n发送救援请求。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:105:3",
+  "message_id": "YELL_HELP0_mar",
+  "translation": "{F2 05 FF FF}{F1 41}如果“别的世界”里的你回应了，\n这个世界的你就能收到支援。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:105:4",
+  "message_id": "YELL_HELP0_mar",
+  "translation": "{F2 05 FF FF}{F1 41}顺便说一下，发送救援请求\n不用花钱，不如试试看？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:105:5",
+  "message_id": "YELL_HELP0_mar",
+  "translation": "{F2 05 FF FF}{F1 41}反过来，有时也会收到\n“别的世界”里的你发来的救援请求。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:105:6",
+  "message_id": "YELL_HELP0_mar",
+  "translation": "{F2 05 FF FF}{F1 41}回应也不花钱，\n不如帮帮忙吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:105:7",
+  "message_id": "YELL_HELP0_mar",
+  "translation": "{F2 05 FF FF}{F1 41}啊，那时也能发送你的留言，\n请在“编写救援请求”里设定。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:106:0",
+  "message_id": "YELL_HELP0_mag",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}明白了，下面就为您\n说明“救援请求”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:106:1",
+  "message_id": "YELL_HELP0_mag",
+  "translation": "{F2 05 FF FF}{F1 41}救援请求是将您的声音\n传达给“别的世界”的功能。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:106:2",
+  "message_id": "YELL_HELP0_mag",
+  "translation": "{F2 05 FF FF}{F1 41}所谓“别的世界”，\n是与您此刻所在的世界平行存在的\n“另一个世界”…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:106:3",
+  "message_id": "YELL_HELP0_mag",
+  "translation": "{F2 05 FF FF}{F1 41}您发出的救援请求会跨越世界的壁垒，\n传达给生活在众多“别的世界”中的\n“另一个您”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:106:4",
+  "message_id": "YELL_HELP0_mag",
+  "translation": "{F2 05 FF FF}{F1 41}救援请求无需付费，在电视里\n陷入危机时，请务必试试。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:106:5",
+  "message_id": "YELL_HELP0_mag",
+  "translation": "{F2 05 FF FF}{F1 41}若“别的世界”里的您回应了，\n您便会收到支援。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:106:6",
+  "message_id": "YELL_HELP0_mag",
+  "translation": "{F2 05 FF FF}{F1 41}同样，您有时也会收到\n“别的世界”发来的救援请求。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:106:7",
+  "message_id": "YELL_HELP0_mag",
+  "translation": "{F2 05 FF FF}{F1 41}回应同样无需付费，\n还请尽量给予帮助。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:106:8",
+  "message_id": "YELL_HELP0_mag",
+  "translation": "{F2 05 FF FF}{F1 41}届时，可以向“别的世界”里的您\n发送留言。\n内容可以在这个房间里编写。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:106:9",
+  "message_id": "YELL_HELP0_mag",
+  "translation": "{F2 05 FF FF}{F1 41}需要时，请选择“编写救援请求”，\n告知我们。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:107:0",
+  "message_id": "YELL_HELP0_mar2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}那我…来详细说明一下\n“救援请求”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:107:1",
+  "message_id": "YELL_HELP0_mar2",
+  "translation": "{F2 05 FF FF}{F1 41}发送救援请求后，你的声音\n就能传给“别的世界”里的你…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:107:2",
+  "message_id": "YELL_HELP0_mar2",
+  "translation": "{F2 05 FF FF}{F1 41}所以…在电视里遇到危险时，\n可以试着向“别的世界”里的你，\n发送救援请求。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:107:3",
+  "message_id": "YELL_HELP0_mar2",
+  "translation": "{F2 05 FF FF}{F1 41}“别的世界”里的你回应了，\n这个世界的你就能收到支援。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:107:4",
+  "message_id": "YELL_HELP0_mar2",
+  "translation": "{F2 05 FF FF}{F1 41}…发送救援请求不用花钱，\n你先试试看吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:107:5",
+  "message_id": "YELL_HELP0_mar2",
+  "translation": "{F2 05 FF FF}{F1 41}反过来…有时也会收到\n“别的世界”里的你发来的救援请求。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:107:6",
+  "message_id": "YELL_HELP0_mar2",
+  "translation": "{F2 05 FF FF}{F1 41}…回应也不花钱，\n我觉得可以帮帮忙。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:107:7",
+  "message_id": "YELL_HELP0_mar2",
+  "translation": "{F2 05 FF FF}{F1 41}那时也能发送你的留言，\n请在“编写留言”里设定。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:108:0",
+  "message_id": "YELL_HELP1",
+  "translation": "{F2 05 FF FF}{F1 41}连接网络后，\n就可以使用救援请求。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:109:0",
+  "message_id": "YELL_HELP2",
+  "translation": "{F2 05 FF FF}{F1 41}探索迷宫时，触摸屏幕（触摸屏）上的\n按钮，就能\n发送救援请求。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:110:0",
+  "message_id": "YELL_HELP3",
+  "translation": "{F2 05 FF FF}{F1 41}如果有人回应了救援请求，\n下一场战斗开始时就会恢复ＨＰ和ＳＰ。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:111:0",
+  "message_id": "YELL_HELP4",
+  "translation": "{F2 05 FF FF}{F1 41}收到救援请求时，\n也可以同样触摸屏幕进行回应。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:113:0",
+  "message_id": "book_bonus001_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}哎呀…不知不觉间，\n原本空白的全书里，\n已登记了许多人格面具呢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:113:1",
+  "message_id": "book_bonus001_01",
+  "translation": "{F2 05 FF FF}{F1 41}这都是你努力的成果…\n就让我送上一份\n小小的礼物吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:113:2",
+  "message_id": "book_bonus001_01",
+  "translation": "{F2 05 FF FF}{F1 41}持有这个，\n从人格面具全书中召唤的费用，\n就可以享受折扣。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:114:0",
+  "message_id": "book_bonus001_02",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了{F4 84 04 01 01 01 15 07}！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:114:1",
+  "message_id": "book_bonus001_02",
+  "translation": "{F2 05 FF FF}{F1 41}＞从全书中召唤的费用\n　现在可减免１０％！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:115:0",
+  "message_id": "book_bonus001_03",
+  "translation": "{F2 05 FF FF}{F1 41}今后，当您创造出更多\n人格面具时，我仍会……\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:115:1",
+  "message_id": "book_bonus001_03",
+  "translation": "{F2 05 FF FF}{F1 41}像这次一样送上礼物，\n还请多多创造\n新的人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:115:2",
+  "message_id": "book_bonus001_03",
+  "translation": "{F2 05 FF FF}{F1 41}那么…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:116:0",
+  "message_id": "book_bonus002_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}至今由你创造的\n人格面具…\n似乎比之前更多了呢…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:116:1",
+  "message_id": "book_bonus002_01",
+  "translation": "{F2 05 FF FF}{F1 41}那么，就按约定，\n由我送上一份礼物。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:117:0",
+  "message_id": "book_bonus002_02",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了{F4 84 04 01 01 01 16 07}！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:117:1",
+  "message_id": "book_bonus002_02",
+  "translation": "{F2 05 FF FF}{F1 41}＞从全书中召唤的费用\n　现在可减免１５％！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:118:0",
+  "message_id": "book_bonus002_03",
+  "translation": "{F2 05 FF FF}{F1 41}持有这个，\n从人格面具全书中召唤的费用，\n就可以享受更多折扣。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:118:1",
+  "message_id": "book_bonus002_03",
+  "translation": "{F2 05 FF FF}{F1 41}不过，\n似乎仍有许多\n你尚未认识的人格面具…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:118:2",
+  "message_id": "book_bonus002_03",
+  "translation": "{F2 05 FF FF}{F1 41}你们还会创造出\n怎样的人格面具，\n我也十分感兴趣呢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:118:3",
+  "message_id": "book_bonus002_03",
+  "translation": "{F2 05 FF FF}{F1 41}期待你们今后\n创造出更多的人格面具…\n我会准备好礼物等着。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:118:4",
+  "message_id": "book_bonus002_03",
+  "translation": "{F2 05 FF FF}{F1 41}那么…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:119:0",
+  "message_id": "book_bonus003_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}不知不觉，已有相当多的\n人格面具从你心中诞生了呢…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:119:1",
+  "message_id": "book_bonus003_01",
+  "translation": "{F2 05 FF FF}{F1 41}在全书中登记\n所有人格面具的日子，\n或许已经不远了…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:119:2",
+  "message_id": "book_bonus003_01",
+  "translation": "{F2 05 FF FF}{F1 41}哎呀……\n差点忘了。\n这个送给你。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:120:0",
+  "message_id": "book_bonus003_02",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了{F4 84 04 01 01 01 17 07}！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:120:1",
+  "message_id": "book_bonus003_02",
+  "translation": "{F2 05 FF FF}{F1 41}＞从全书中召唤的费用\n　现在可减免２０％！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:121:0",
+  "message_id": "book_bonus003_03",
+  "translation": "{F2 05 FF FF}{F1 41}人格面具全书就快完成了……\n希望这个能助你一臂之力。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:121:1",
+  "message_id": "book_bonus003_03",
+  "translation": "{F2 05 FF FF}{F1 41}创造出世上\n所有的人格面具…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:121:2",
+  "message_id": "book_bonus003_03",
+  "translation": "{F2 05 FF FF}{F1 41}你的话，或许真能做到呢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:121:3",
+  "message_id": "book_bonus003_03",
+  "translation": "{F2 05 FF FF}{F1 41}我期待着那一刻…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:122:0",
+  "message_id": "book_bonus004_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}没想到你竟拥有\n如此强大的能力…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:122:1",
+  "message_id": "book_bonus004_01",
+  "translation": "{F2 05 FF FF}{F1 41}就在此刻，所有人格面具\n都已登记到全书中了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:122:2",
+  "message_id": "book_bonus004_01",
+  "translation": "{F2 05 FF FF}{F1 41}为赞赏你的努力，\n我将送上最好的礼物。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:123:0",
+  "message_id": "book_bonus004_02",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了{F4 84 04 01 01 01 18 07}！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:123:1",
+  "message_id": "book_bonus004_02",
+  "translation": "{F2 05 FF FF}{F1 41}＞从全书中召唤的费用\n　现在可减免２５％！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:124:0",
+  "message_id": "book_bonus004_03",
+  "translation": "{F2 05 FF FF}{F1 41}持有这个，\n人格面具全书使用起来\n应该会更加方便。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:124:1",
+  "message_id": "book_bonus004_03",
+  "translation": "{F2 05 FF FF}{F1 41}不过，这可不意味着\n召唤免费哦。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:124:2",
+  "message_id": "book_bonus004_03",
+  "translation": "{F2 05 FF FF}{F1 41}毕竟，世间常理就是如此。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:124:3",
+  "message_id": "book_bonus004_03",
+  "translation": "{F2 05 FF FF}{F1 41}那么…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:125:0",
+  "message_id": "book_bonus001_ex_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 02 01}哎呀…不知不觉间，\n原本空白的全书里，\n已登记了许多人格面具呢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:125:1",
+  "message_id": "book_bonus001_ex_01",
+  "translation": "{F2 05 FF FF}{F1 41}这都是您努力的成果…\n就让我送上一份\n小小的礼物吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:125:2",
+  "message_id": "book_bonus001_ex_01",
+  "translation": "{F2 05 FF FF}{F1 41}持有这个，\n从人格面具全书中召唤的费用，\n就可以享受折扣。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:126:0",
+  "message_id": "book_bonus001_ex_02",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了{F4 84 04 01 01 01 15 07}！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:126:1",
+  "message_id": "book_bonus001_ex_02",
+  "translation": "{F2 05 FF FF}{F1 41}＞从全书中召唤的费用\n　现在可减免１０％！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:127:0",
+  "message_id": "book_bonus001_ex_03",
+  "translation": "{F2 05 FF FF}{F1 41}今后，当您创造出更多\n人格面具时，我仍会……\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:127:1",
+  "message_id": "book_bonus001_ex_03",
+  "translation": "{F2 05 FF FF}{F1 41}像这次一样送上礼物，\n还请多多创造\n新的人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:127:2",
+  "message_id": "book_bonus001_ex_03",
+  "translation": "{F2 05 FF FF}{F1 41}那么…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:128:0",
+  "message_id": "book_bonus002_ex_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 02 01}至今由您创造的\n人格面具…\n似乎比之前更多了呢…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:128:1",
+  "message_id": "book_bonus002_ex_01",
+  "translation": "{F2 05 FF FF}{F1 41}那么，就按照约定，\n为您送上一份礼物吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:129:0",
+  "message_id": "book_bonus002_ex_02",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了{F4 84 04 01 01 01 16 07}！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:129:1",
+  "message_id": "book_bonus002_ex_02",
+  "translation": "{F2 05 FF FF}{F1 41}＞从全书中召唤的费用\n　现在可减免１５％！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:130:0",
+  "message_id": "book_bonus002_ex_03",
+  "translation": "{F2 05 FF FF}{F1 41}持有这个，\n从人格面具全书中召唤的费用，\n就可以享受更多折扣。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:130:1",
+  "message_id": "book_bonus002_ex_03",
+  "translation": "{F2 05 FF FF}{F1 41}不过，\n似乎仍有许多\n您尚未认识的人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:130:2",
+  "message_id": "book_bonus002_ex_03",
+  "translation": "{F2 05 FF FF}{F1 41}各位还会创造出\n怎样的人格面具，\n我也十分感兴趣…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:130:3",
+  "message_id": "book_bonus002_ex_03",
+  "translation": "{F2 05 FF FF}{F1 41}期待各位今后\n创造出更多的人格面具，\n我会准备好礼物。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:130:4",
+  "message_id": "book_bonus002_ex_03",
+  "translation": "{F2 05 FF FF}{F1 41}那么…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:131:0",
+  "message_id": "book_bonus003_ex_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 02 01}不知不觉，已有相当多的\n人格面具从您心中诞生了…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:131:1",
+  "message_id": "book_bonus003_ex_01",
+  "translation": "{F2 05 FF FF}{F1 41}在这本全书中登记\n所有人格面具的日子，\n或许已经不远了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:131:2",
+  "message_id": "book_bonus003_ex_01",
+  "translation": "{F2 05 FF FF}{F1 41}那么，就按照约定，\n请您收下这个。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:132:0",
+  "message_id": "book_bonus003_ex_02",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了{F4 84 04 01 01 01 17 07}！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:132:1",
+  "message_id": "book_bonus003_ex_02",
+  "translation": "{F2 05 FF FF}{F1 41}＞从全书中召唤的费用\n　现在可减免２０％！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:133:0",
+  "message_id": "book_bonus003_ex_03",
+  "translation": "{F2 05 FF FF}{F1 41}人格面具全书就快完成了……\n请务必善加利用\n这份礼物。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:133:1",
+  "message_id": "book_bonus003_ex_03",
+  "translation": "{F2 05 FF FF}{F1 41}创造出世上\n所有的人格面具…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:133:2",
+  "message_id": "book_bonus003_ex_03",
+  "translation": "{F2 05 FF FF}{F1 41}您的话，或许真能做到。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:133:3",
+  "message_id": "book_bonus003_ex_03",
+  "translation": "{F2 05 FF FF}{F1 41}我期待着那一刻…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:134:0",
+  "message_id": "book_bonus004_ex_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 02 01 01 01 02 01}没想到您竟拥有\n如此强大的能力…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:134:1",
+  "message_id": "book_bonus004_ex_01",
+  "translation": "{F2 05 FF FF}{F1 41}就在此刻，所有人格面具\n都已登记到全书中了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:134:2",
+  "message_id": "book_bonus004_ex_01",
+  "translation": "{F2 05 FF FF}{F1 41}这一切想必都是\n您努力的成果吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:134:3",
+  "message_id": "book_bonus004_ex_01",
+  "translation": "{F2 05 FF FF}{F1 41}那么，请收下这个。\n这是我为您准备的最好的礼物。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:135:0",
+  "message_id": "book_bonus004_ex_02",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了{F4 84 04 01 01 01 18 07}！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:135:1",
+  "message_id": "book_bonus004_ex_02",
+  "translation": "{F2 05 FF FF}{F1 41}＞从全书中召唤的费用\n　现在可减免２５％！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:136:0",
+  "message_id": "book_bonus004_ex_03",
+  "translation": "{F2 05 FF FF}{F1 41}持有这个，\n人格面具全书使用起来\n应该会更加方便。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:136:1",
+  "message_id": "book_bonus004_ex_03",
+  "translation": "{F2 05 FF FF}{F1 41}不过，这可不意味着\n召唤免费。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:136:2",
+  "message_id": "book_bonus004_ex_03",
+  "translation": "{F2 05 FF FF}{F1 41}世间之理，有来有往！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/cmbtalk.bf.json:136:3",
+  "message_id": "book_bonus004_ex_03",
+  "translation": "{F2 05 FF FF}{F1 41}还请牢记…\n{F1 21}{00}"
+ }
+]

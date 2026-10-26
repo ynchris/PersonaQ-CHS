@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_base/facility/scrgotodungeon.bf.json:0:0",
+  "message_id": "GOTO_DUNGEON_SCR_MSG",
+  "translation": "{F2 05 FF FF}{F1 41}欢迎。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/scrgotodungeon.bf.json:1:0",
+  "message_id": "GOTO_DUNGEON_QUEST_PARTY",
+  "translation": "{F2 05 FF FF}{F1 41}＞完成已接受的委托，\n　需要伙伴的协助。\n　要重新调整队伍吗……\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/scrgotodungeon.bf.json:2:0",
+  "message_id": "GOTO_DUNGEON_REVOLUTION_",
+  "translation": "{F2 05 FF FF}{F1 41}＞玛格丽特的委托要求\n　２位不羁能力者一同前往。\n　要重新调整队伍吗……\n　{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/scrgotodungeon.bf.json:3:0",
+  "message_id": "GOTO_DUNGEON_TUTORIAL_AR",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 03 01}“从最深到达层开始”{F2 01 01 01}，\n即可从最后到达的楼层\n开始探索了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/scrgotodungeon.bf.json:4:0",
+  "message_id": "GOTO_DUNGEON_LOST_KEY",
+  "translation": "{F2 05 FF FF}{F1 41}＞……！？\n　在迷宫里得到的\n　{F4 84 04 01 01 01 09 07}不见了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/scrgotodungeon.bf.json:4:1",
+  "message_id": "GOTO_DUNGEON_LOST_KEY",
+  "translation": "{F2 05 FF FF}{F1 41}＞看来在离开迷宫时\n　就消失了。\n{F1 21}{00}"
+ }
+]

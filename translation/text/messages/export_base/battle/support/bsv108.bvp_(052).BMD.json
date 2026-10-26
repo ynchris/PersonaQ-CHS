@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(052).BMD.json:0:0",
+  "message_id": "BTL_MES_H108_053_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6D 02}确认狂欢模式生效。\n埃癸斯的战斗力正在上升。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(052).BMD.json:1:0",
+  "message_id": "BTL_MES_H108_053_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6E 02}埃癸斯的狂欢模式持续中。\n攻击力提升。\n{F2 26 00 00}{00}"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/quest/quest_43.gsd_quest_43.bf.json:3:0",
+  "message_id": "MSG_CANCEL",
+  "translation": "{F2 05 FF FF}{F1 41}取消委托\n“击败收割者”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/quest/quest_43.gsd_quest_43.bf.json:4:1",
+  "message_id": "MSG_WARNING",
+  "translation": "{F2 05 FF FF}{F1 41}＞趁还没把它交出去，\n　先去报告比较好……\n{F1 21}{00}"
+ }
+]

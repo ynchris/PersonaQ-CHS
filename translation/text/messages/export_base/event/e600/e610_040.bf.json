@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 26 01 07 01 02 01 02 01}{F5 61 02 01 01 01 01 01 02 01}啊，哥哥终于起床了！\n上学要迟到啦。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 0B 01 02 01 01 01}{F5 61 02 01 01 01 01 01 03 01}今天放学后，\n要去JUNES对吧？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:1:1",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}说是要和完二叔……\n哥哥他们一起学习。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:1:2",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 05 01}在学校也有学习，\n哥哥们真了不起！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:2:0",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}菜菜子也去吗？{F5 47 02 01 02 01 07 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:2:1",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}菜菜子打算做什么？{F5 47 02 01 02 01 07 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 06 01}嗯……还没决定！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:3:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}今天小美和小洋\n都要去上兴趣班。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:3:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}喜欢的电视节目也停播，\n唔……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:3:3",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}我要晒衣服！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞菜菜子似乎没什么事做……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:5:0",
+  "message_id": "MSG_0032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……试着邀请菜菜子一起去JUNES。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:6:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}……可以吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:6:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}菜菜子也想去JUNES！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:7:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞决定带上菜菜子，\n　一起去JUNES……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:8:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}{F5 C1 03 01 01 01 01 01 08 01}Everyday Young Life！\nJUNES！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:9:0",
+  "message_id": "MSG_0062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}{F5 C1 03 01 01 01 01 01 02 01}太好啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:10:0",
+  "message_id": "MSG_0063",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 0B 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}{F5 C1 03 01 01 01 01 01 06 01}啊，菜菜子要带上书！\n哥哥买给我的书！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:10:1",
+  "message_id": "MSG_0063",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0F 01}要是聊天，\n会打扰哥哥们学习的嘛！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e610_040.bf.json:10:2",
+  "message_id": "MSG_0063",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 10 01}菜菜子要读好多书！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

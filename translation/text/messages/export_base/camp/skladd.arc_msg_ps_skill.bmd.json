@@ -1,0 +1,57 @@
+[
+ {
+  "key": "export_base/camp/skladd.arc_msg_ps_skill.bmd.json:0:0",
+  "message_id": "msg_ps_skill_sel",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/camp/skladd.arc_msg_ps_skill.bmd.json:0:1",
+  "message_id": "msg_ps_skill_sel",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/camp/skladd.arc_msg_ps_skill.bmd.json:1:0",
+  "message_id": "msg_ps_skill_get",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”学会了\n　“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/camp/skladd.arc_msg_ps_skill.bmd.json:2:0",
+  "message_id": "msg_ps_skill_rmskill",
+  "translation": "{F2 05 FF FF}{F1 41}＞技能栏已满。\n　请选择要遗忘的技能。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/camp/skladd.arc_msg_ps_skill.bmd.json:3:0",
+  "message_id": "msg_ps_skill_rmskill_q",
+  "translation": "{F2 05 FF FF}{F1 41}＞是否遗忘“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/camp/skladd.arc_msg_ps_skill.bmd.json:4:0",
+  "message_id": "msg_ps_skill_rmskill0",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”遗忘了\n　“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/camp/skladd.arc_msg_ps_skill.bmd.json:5:0",
+  "message_id": "msg_ps_skill_rmskill1",
+  "translation": "{F2 05 FF FF}{F1 41}＞已将“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”\n　替换为“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/camp/skladd.arc_msg_ps_skill.bmd.json:6:0",
+  "message_id": "msg_ps_skill_rmskill2",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”升级为\n　“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”了！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/camp/skladd.arc_msg_ps_skill.bmd.json:7:0",
+  "message_id": "msg_ps_skill_chgend",
+  "translation": "{F2 05 FF FF}{F1 41}＞结束技能替换。\n　确定吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/camp/skladd.arc_msg_ps_skill.bmd.json:8:0",
+  "message_id": "msg_ps_skill_check_money",
+  "translation": "{F2 05 FF FF}{F1 41}＞需要{F2 44 01 01}日元。\n　确定吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/camp/skladd.arc_msg_ps_skill.bmd.json:9:0",
+  "message_id": "msg_ps_skill_check_money",
+  "translation": "{F2 05 FF FF}{F1 41}＞金钱不足。\n{F1 21}{00}"
+ }
+]

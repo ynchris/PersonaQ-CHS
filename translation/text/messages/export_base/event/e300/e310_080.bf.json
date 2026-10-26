@@ -1,0 +1,67 @@
+[
+ {
+  "key": "export_base/event/e300/e310_080.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞“放学后的恶灵俱乐部”内，\n　男厕所……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e300/e310_080.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞陪着阳介，\n　和完二一起来到了这里……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_080.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 08 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 0A 01}这厕所，感觉\n一看就“会闹鬼”啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_080.bf.json:2:0",
+  "message_id": "SEL_TALK002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}害怕了？{F5 47 02 01 02 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_080.bf.json:2:1",
+  "message_id": "SEL_TALK002",
+  "translation": "{F2 05 FF FF}{F1 41}想快点出去{F5 47 02 01 02 01 07 01 01 01}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_080.bf.json:2:2",
+  "message_id": "SEL_TALK002",
+  "translation": "{F2 05 FF FF}{F1 41}完二身后有气息……{F5 47 02 01 02 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_080.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 03 01}啊？才没有！\n这点程度就害怕，\n还算什么男人。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_080.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 04 01}学长也害怕吗？\n面对阴影都毫不畏惧，\n却不擅长应付这种事呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_080.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 02 01}呜哇，等等！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e300/e310_080.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 03 01 01 01 01 01 0B 01}……这不是什么人都没有嘛！！\n学长，别那么一本正经地\n随口骗人啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_080.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e300/e310_080.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞远处似乎\n　传来了什么声音……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_080.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}花村学长，还没好吗？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

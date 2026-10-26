@@ -1,0 +1,82 @@
+[
+ {
+  "key": "export_base/event/e100/e110_112.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 07 01 05 01 02 01 02 01}{F5 61 02 01 01 01 01 01 02 01}学长，\n就像刚才说的，\n是不是该调整一下“编队”？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e110_112.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}既然大家都到齐了，\n就得好好安排一下，\n由谁站在前线！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_112.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 07 01 05 01 02 01 02 01}{F5 61 02 01 01 01 01 01 04 01}对了，学长！\n去迷宫之前，先重新调整“编队”，\n决定由谁出战吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e110_112.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}既然大家都到齐了，\n考虑好每个人的长处和短处，\n肯定能更有利！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_112.bf.json:2:0",
+  "message_id": "SEL_TALK002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}明白了{F5 47 02 01 02 01 03 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_112.bf.json:2:1",
+  "message_id": "SEL_TALK002",
+  "translation": "{F2 05 FF FF}{F1 41}该怎么做？{F5 47 02 01 02 01 09 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_112.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 04 01 01 01 01 01 02 01}我来说明一下\n编队时需要注意的事！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e110_112.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 07 01}{F5 C1 04 01 01 01 01 01 02 01}队列分为前列和后列。\n站在后面的人，\n受到敌人的伤害会比较少……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e110_112.bf.json:3:2",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}{F5 C1 04 01 01 01 01 01 02 01}但使用近战武器的人站在后面，\n攻击威力会减弱，\n也打不到敌人的后列。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_112.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 09 01}啊，确实从后面\n很难踢到敌人呢。\n果然还是得从前面冲过去！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_112.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0A 01}我、直斗和善的武器，\n从后面攻击也没问题哦。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_112.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 02 01}{F5 61 02 01 01 01 01 01 0B 01}关键是根据各自的武器，\n安排合适的队列。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e110_112.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0C 01}选择进攻、防守，\n还是平衡型……\n也可以根据情况随时调整。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_112.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 11 01 05 01 02 01}{F5 61 02 01 01 01 01 01 0D 01}{F5 C1 03 01 01 01 01 01 0B 01}唔，复杂的事情\n我不太懂……哈哈。\n所以，就拜托队长了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_112.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 05 01 02 01 02 01}{F5 61 02 01 01 01 01 01 0E 01}战斗中也可以\n在前列和后列之间移动。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e110_112.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0F 01}记得随机应变哦！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

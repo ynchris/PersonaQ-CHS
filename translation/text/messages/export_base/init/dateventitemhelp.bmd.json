@@ -1,0 +1,397 @@
+[
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:1:0",
+  "message_id": "eventitem_601",
+  "translation": "{F2 05 FF FF}{F1 41}与懦弱之魔影和嬉笑之桌战斗后，\n拾到的空白卡片。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:2:0",
+  "message_id": "eventitem_602",
+  "translation": "{F2 05 FF FF}{F1 41}与懦弱之魔影和嬉笑之桌战斗后，\n拾到的空白卡片。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:3:0",
+  "message_id": "eventitem_603",
+  "translation": "{F2 05 FF FF}{F1 41}与懦弱之魔影和嬉笑之桌战斗后，\n拾到的空白卡片。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:4:0",
+  "message_id": "eventitem_604",
+  "translation": "{F2 05 FF FF}{F1 41}园艺用的洒水壶。将水洒在\n涂了红色颜料的白玫瑰上，就会……\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:5:0",
+  "message_id": "eventitem_605",
+  "translation": "{F2 05 FF FF}{F1 41}生锈的钥匙。陈旧的木牌上\n写着“北栋”。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:6:0",
+  "message_id": "eventitem_606",
+  "translation": "{F2 05 FF FF}{F1 41}生锈的钥匙。陈旧的木牌上\n写着“实习栋”。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:7:0",
+  "message_id": "eventitem_607",
+  "translation": "{F2 05 FF FF}{F1 41}生锈的钥匙。陈旧的木牌上\n写着“南栋”。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:8:0",
+  "message_id": "eventitem_608",
+  "translation": "{F2 05 FF FF}{F1 41}在黑暗中捡到的神秘黑色钥匙。\n不知为何，一开灯就会消失。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:9:0",
+  "message_id": "eventitem_609",
+  "translation": "{F2 05 FF FF}{F1 41}玲找到的红色门禁卡。\n用于打开上锁的门。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:10:0",
+  "message_id": "eventitem_60A",
+  "translation": "{F2 05 FF FF}{F1 41}玲找到的黄色门禁卡。\n用于打开上锁的门。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:11:0",
+  "message_id": "eventitem_60B",
+  "translation": "{F2 05 FF FF}{F1 41}玲找到的蓝色门禁卡。\n用于打开上锁的门。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:12:0",
+  "message_id": "eventitem_60C",
+  "translation": "{F2 05 FF FF}{F1 41}善制作的简陋火把。\n点燃后便能携带火焰。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:13:0",
+  "message_id": "eventitem_60D",
+  "translation": "{F2 05 FF FF}{F1 41}从Ｆ．Ｏ．Ｅ那里获得的黑色兜裆布。\n不知原本就是黑色，还是被弄脏了。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:14:0",
+  "message_id": "eventitem_60E",
+  "translation": "{F2 05 FF FF}{F1 41}绣着“ＮＩＫＯ”字样的\n陈旧兔子玩偶。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:15:0",
+  "message_id": "eventitem_60F",
+  "translation": "{F2 05 FF FF}{F1 41}如同夜市摊上售卖的\n儿童玩具戒指。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:16:0",
+  "message_id": "eventitem_610",
+  "translation": "{F2 05 FF FF}{F1 41}一缕修长而美丽的头发。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:17:0",
+  "message_id": "eventitem_611",
+  "translation": "{F2 05 FF FF}{F1 41}写着“安息吧　有希”的\n留言卡片。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:18:0",
+  "message_id": "eventitem_612",
+  "translation": "{F2 05 FF FF}{F1 41}善为绘制地图而准备的\n皮封面笔记本。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:19:0",
+  "message_id": "eventitem_613",
+  "translation": "{F2 05 FF FF}{F1 41}喝下缩小药后获得的\n用于打开迷宫内房门的钥匙。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:20:0",
+  "message_id": "eventitem_614",
+  "translation": "{F2 05 FF FF}{F1 41}全书登记率达到２５％的证明。\n从全书召唤时费用减免１０％。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:21:0",
+  "message_id": "eventitem_615",
+  "translation": "{F2 05 FF FF}{F1 41}全书登记率达到５０％的证明。\n从全书召唤时费用减免１５％。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:22:0",
+  "message_id": "eventitem_616",
+  "translation": "{F2 05 FF FF}{F1 41}全书登记率达到７５％的证明。\n从全书召唤时费用减免２０％。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:23:0",
+  "message_id": "eventitem_617",
+  "translation": "{F2 05 FF FF}{F1 41}全书登记率达到１００％的证明。\n从全书召唤时费用减免２５％。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:24:0",
+  "message_id": "eventitem_618",
+  "translation": "{F2 05 FF FF}{F1 41}与懦弱之魔影和嬉笑之桌战斗后，\n拾到的空白卡片。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:25:0",
+  "message_id": "eventitem_619",
+  "translation": "{F2 05 FF FF}{F1 41}与懦弱之魔影和嬉笑之桌战斗后，\n拾到的空白卡片。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:26:0",
+  "message_id": "eventitem_61A",
+  "translation": "{F2 05 FF FF}{F1 41}生锈的钥匙。陈旧的木牌上\n写着“理科准备室”。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:27:0",
+  "message_id": "eventitem_61B",
+  "translation": "{F2 05 FF FF}{F1 41}在不可思议之国的你中\n获得的白玫瑰。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:28:0",
+  "message_id": "eventitem_61C",
+  "translation": "{F2 05 FF FF}{F1 41}在联谊咖啡厅中获得的\n神秘心形标记。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:29:0",
+  "message_id": "eventitem_61D",
+  "translation": "{F2 05 FF FF}{F1 41}在放学后的恶灵俱乐部中\n获得的可疑注射器。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:30:0",
+  "message_id": "eventitem_61E",
+  "translation": "{F2 05 FF FF}{F1 41}在稻羽乡土展中获得的\n拧成绳状的头巾。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:31:0",
+  "message_id": "eventitem_61F",
+  "translation": "{F2 05 FF FF}{F1 41}掉在时钟塔２层的齿轮。\n似乎能用于某种机械。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:64:0",
+  "message_id": "eventitem_640",
+  "translation": "{F2 05 FF FF}{F1 41}多处磨损的童话书。\n讨伐：红心女王\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:65:0",
+  "message_id": "eventitem_641",
+  "translation": "{F2 05 FF FF}{F1 41}有被撕去书页痕迹的福音书。\n讨伐：慈悲的圣职者\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:66:0",
+  "message_id": "eventitem_642",
+  "translation": "{F2 05 FF FF}{F1 41}断成两截的老式体温计。\n讨伐：温柔的医生\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:67:0",
+  "message_id": "eventitem_643",
+  "translation": "{F2 05 FF FF}{F1 41}缝线开绽的小马甲。\n讨伐：小伙伴\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:144:0",
+  "message_id": "eventitem_690",
+  "translation": "{F2 05 FF FF}{F1 41}常用作救生索的绳索。\n采用高强度、耐腐蚀的天然素材。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:145:0",
+  "message_id": "eventitem_691",
+  "translation": "{F2 05 FF FF}{F1 41}用来除去气体中杂质的瓶子。\n可以用来做化学实验。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:146:0",
+  "message_id": "eventitem_692",
+  "translation": "{F2 05 FF FF}{F1 41}眼形醒目的神秘偶像。\n光是带着它似乎就能得到保佑。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:147:0",
+  "message_id": "eventitem_693",
+  "translation": "{F2 05 FF FF}{F1 41}耳形醒目的神秘偶像。\n光是带着它似乎就能得到庇护。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:148:0",
+  "message_id": "eventitem_694",
+  "translation": "{F2 05 FF FF}{F1 41}嘴形醒目的神秘偶像。\n光是带着它似乎就能积累功德。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:149:0",
+  "message_id": "eventitem_695",
+  "translation": "{F2 05 FF FF}{F1 41}用于分析阴影身体组织的工具\n所需的特殊镜片零件。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:150:0",
+  "message_id": "eventitem_696",
+  "translation": "{F2 05 FF FF}{F1 41}用来制作特殊笛子的竹子。\n具有吸引魔物的力量。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:151:0",
+  "message_id": "eventitem_697",
+  "translation": "{F2 05 FF FF}{F1 41}用来制作特殊铃铛的银锡。\n具有驱魔的力量。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:152:0",
+  "message_id": "eventitem_698",
+  "translation": "{F2 05 FF FF}{F1 41}黑白两色的勾玉。\n被当成肉体和精神的容器。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:153:0",
+  "message_id": "eventitem_699",
+  "translation": "{F2 05 FF FF}{F1 41}据说能将映入之物的性质\n反转后映照出来的镜子。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:176:0",
+  "message_id": "eventitem_6B0",
+  "translation": "{F2 05 FF FF}{F1 41}附在洋装前端的神秘白色绒毛球。\n从扑克牌士兵手中得到的。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:177:0",
+  "message_id": "eventitem_6B1",
+  "translation": "{F2 05 FF FF}{F1 41}联谊咖啡厅的F.O.E射出的箭。\n通过迪奥多的委托得到的。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:178:0",
+  "message_id": "eventitem_6B2",
+  "translation": "{F2 05 FF FF}{F1 41}联谊咖啡厅梳妆台里的迷情药。\n被小熊喝掉了，如今所剩无几。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:179:0",
+  "message_id": "eventitem_6B3",
+  "translation": "{F2 05 FF FF}{F1 41}世间罕见的恐怖铝制奶嘴。\n掉在放学后的恶灵俱乐部教室内。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:180:0",
+  "message_id": "eventitem_6B4",
+  "translation": "{F2 05 FF FF}{F1 41}从放学后的恶灵俱乐部得到的泻药。\n伊丽莎白似乎误会了什么…\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:181:0",
+  "message_id": "eventitem_6B5",
+  "translation": "{F2 05 FF FF}{F1 41}写着“３３２４２×”的便条纸。\n伊丽莎白的秘密心意究竟是什么…\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:182:0",
+  "message_id": "eventitem_6B6",
+  "translation": "{F2 05 FF FF}{F1 41}背上写着“汉”的短褂。\n虽然满是汗水，但现在很干净。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:183:0",
+  "message_id": "eventitem_6B7",
+  "translation": "{F2 05 FF FF}{F1 41}用来打开塞满阴影的宝箱的钥匙。\n即使从钥匙上也能感受到阴影的气息。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:184:0",
+  "message_id": "eventitem_6B8",
+  "translation": "{F2 05 FF FF}{F1 41}时钟塔宝箱里的手表。\n已经老旧，指针也停止了…\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:185:0",
+  "message_id": "eventitem_6B9",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多反复试作后完成的物品。\n贯穿力太强，使用时要小心。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:186:0",
+  "message_id": "eventitem_6BA",
+  "translation": "{F2 05 FF FF}{F1 41}从伊丽莎白那里拿到的破烂钥匙。\n似乎只能使用１次。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:187:0",
+  "message_id": "eventitem_6BB",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多节省素材做成的冰钥匙。\n因为会马上融化，所以要尽早使用。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:188:0",
+  "message_id": "eventitem_6BC",
+  "translation": "{F2 05 FF FF}{F1 41}沾满红色铁锈的死神锁链。\n从收割者那里得到的。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:189:0",
+  "message_id": "eventitem_6BD",
+  "translation": "{F2 05 FF FF}{F1 41}在不可思议之国的你最终章出现的\n奇妙空间里得到的黄色圆珠。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:190:0",
+  "message_id": "eventitem_6BE",
+  "translation": "{F2 05 FF FF}{F1 41}在联谊咖啡厅终点出现的\n奇妙空间里得到的桃色圆珠。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:191:0",
+  "message_id": "eventitem_6BF",
+  "translation": "{F2 05 FF FF}{F1 41}在放学后的恶灵俱乐部最终怪出现的\n奇妙空间里得到的黑色圆珠。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:192:0",
+  "message_id": "eventitem_6C0",
+  "translation": "{F2 05 FF FF}{F1 41}在稻羽乡土展最终夜出现的\n奇妙空间里得到的红色圆珠。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:193:0",
+  "message_id": "eventitem_6C1",
+  "translation": "{F2 05 FF FF}{F1 41}因地狱瘴气而黯淡的脚环。\n可以合体召唤吐鲁达克了。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:194:0",
+  "message_id": "eventitem_6C2",
+  "translation": "{F2 05 FF FF}{F1 41}能带给见者恐惧的巨大翅膀。\n可以合体召唤巴西利斯克了。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:195:0",
+  "message_id": "eventitem_6C3",
+  "translation": "{F2 05 FF FF}{F1 41}以米酿成的日本最古老美酒。\n可以合体召唤大山津见了。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:196:0",
+  "message_id": "eventitem_6C4",
+  "translation": "{F2 05 FF FF}{F1 41}虽是顶级织品，但缠在腰上容易脱落。\n可以合体召唤重装宙斯了。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:197:0",
+  "message_id": "eventitem_6C5",
+  "translation": "{F2 05 FF FF}{F1 41}战胜伊丽莎白的奖品。\n可以合体召唤宙斯·改了。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:198:0",
+  "message_id": "eventitem_6C6",
+  "translation": "{F2 05 FF FF}{F1 41}据说没有其他素材的硬度能超过它。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:199:0",
+  "message_id": "eventitem_6C7",
+  "translation": "{F2 05 FF FF}{F1 41}打靶游戏得来的羊娃娃。\n外形让人忍不住想紧紧握住…\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:200:0",
+  "message_id": "eventitem_6C8",
+  "translation": "{F2 05 FF FF}{F1 41}玛格丽特和伊丽莎白赠送的贝壳。\n轻轻贴在耳边，便能听到某种声音。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:201:0",
+  "message_id": "eventitem_6C9",
+  "translation": "{F2 05 FF FF}{F1 41}购物时可减免１０％费用。\n可与其他优惠券并用。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:202:0",
+  "message_id": "eventitem_6CA",
+  "translation": "{F2 05 FF FF}{F1 41}购物时可减免１０％费用。\n可与其他优惠券并用。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:203:0",
+  "message_id": "eventitem_6CB",
+  "translation": "{F2 05 FF FF}{F1 41}抽取技能卡时可减免１０％费用的\n天鹅绒房间贵宾证明。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:204:0",
+  "message_id": "eventitem_6CC",
+  "translation": "{F2 05 FF FF}{F1 41}名副其实的“最强之证”。\n拥有此物者寥寥无几。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:205:0",
+  "message_id": "eventitem_6CD",
+  "translation": "{F2 05 FF FF}{F1 41}象征纯粹的花朵发饰。\n从爱之天使手中得到了。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:206:0",
+  "message_id": "eventitem_6CE",
+  "translation": "{F2 05 FF FF}{F1 41}难以形容的粘稠物体。\n从陈旧的人偶手中得到了。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:207:0",
+  "message_id": "eventitem_6CF",
+  "translation": "{F2 05 FF FF}{F1 41}宛如毛笔所书的漂亮眉毛。\n从祭典男手中得到了。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:208:0",
+  "message_id": "eventitem_6D0",
+  "translation": "{F2 05 FF FF}{F1 41}在迷宫中仅能为主角代受一次伤害。\n回到学校后可再次使用。\n{00}"
+ },
+ {
+  "key": "export_base/init/dateventitemhelp.bmd.json:209:0",
+  "message_id": "eventitem_6D1",
+  "translation": "{F2 05 FF FF}{F1 41}在迷宫中仅能为主角代受一次伤害。\n但如今已脱线，无法使用…\n{00}"
+ }
+]

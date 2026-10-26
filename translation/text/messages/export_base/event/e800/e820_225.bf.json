@@ -1,0 +1,392 @@
+[
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 02 01}{F5 86 0F 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 B6 0A}{F5 C1 03 01 01 01 01 01 05 01}咦？你们两个怎么啦？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞风花的桌上\n　放着一杯冰淇淋汽水。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}那是……冰淇淋汽水吧。\n玲喝过，所以我认识。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 01 01}嗯，是冰淇淋汽水……\n可我本来点的是“栗子红薯饭”。\n因为想吃点咸的东西。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 C8 0A}{F5 C1 03 01 01 01 01 01 04 01}可能是我发音不清楚，\n结果送来的却是这个……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 B0 11}既然没有满足你的要求，\n直接向对方说明不就好了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 35 0B}{F5 C1 04 01 01 01 01 01 04 01}嗯，话是这么说，\n可原因是我没有说清楚……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}这和原因有什么关系？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 F1 0A}{F5 C1 03 01 01 01 01 01 0B 01}{F5 C1 04 01 01 01 01 01 04 01}呃，这个……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞向疑惑的善解释了一番，\n　随后与风花告别。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 02 01}{F5 86 11 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 EA 0B}啊，你们好。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞天田的桌上\n　放着一杯咖啡。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}那是……咖啡吧。\n玲以前喝了一口就放弃了，\n所以我认识。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:11:1",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}不过玲说，咖啡是大人的味道。\n乾不是小孩子吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 05 01 01 01 04 01}{F5 61 02 01 01 01 01 01 37 0C}{F5 C1 03 01 01 01 01 01 0B 01}咖、咖啡这种东西，我当然能喝！\n请不要把我当小孩子。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:12:1",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 8B 0C}不、不过……真要说的话，\n要是有点甜食搭配就更好了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 82 0D}这样啊。\n抱歉把你当成小孩子了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:13:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}不过，时间对每个人都很公平。\n迟早会迎来那一天。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 0E 0C}{F5 C1 03 01 01 01 01 01 0A 01}啊，哦……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 79 0D}那么，再见。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞与天田告别。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 02 01}{F5 86 10 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 5A 0B}你们好。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞埃癸斯的桌上，散落着折断的\n　一次性筷子和被夹得稀烂的章鱼烧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 76 0D}你在做什么？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 9B 11}……力道很难控制。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:20:1",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}我想用一次性筷子夹起章鱼烧，\n同时保持它柔软的形状，\n结果全都被我破坏了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:20:2",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 04 01}章鱼烧还有１盒，\n可这个区域已经没有\n完好无损的一次性筷子了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:21:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞埃癸斯可能很快就会离开座位，\n　去寻找一次性筷子……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:22:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 86 0D}这样啊，明白了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:23:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞离开了埃癸斯的座位。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:24:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 02 01}{F5 86 0C 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 64 08}哦，是你们啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:25:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞顺平的桌上\n　放着拉面和冰淇淋。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:26:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}这是拉面……和冰淇淋吗。\n你怎么不吃？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:27:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 BD 08}{F5 C1 03 01 01 01 01 01 07 01}哦，你可算问对了！\n看看这个！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:28:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞顺平拿出了一双\n　弄脏的一次性筷子……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:29:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 FB 08}{F5 C1 03 01 01 01 01 01 04 01}吃到一半，筷子掉地上了。\n我想去拿双新的，\n可到处都找不到！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:29:1",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 05 01 01 01 04 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 03 01}谁把一次性筷子全占了啊！\n我还留着叉烧没吃呢！\n餐后的冰淇淋也一口没动！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:30:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 26 0E}埃癸斯也说过，\n这个区域没有一次性筷子了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:31:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 02 01 04 01}{F5 61 02 01 01 01 01 01 88 08}要不下楼去拿双筷子吧……\n真麻烦啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:32:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞顺平可能很快就会离开座位，\n　去寻找一次性筷子……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:33:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 BD 0D}原来如此，明白了。\n那么，再见。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:34:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞与顺平告别。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:35:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 6F 0D}{F5 C1 03 01 01 01 01 01 05 01}……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:35:1",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}那边的是完二和阳介吗……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:35:2",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 90 0D}{F5 C1 03 01 01 01 01 01 07 01}那是什么……？\n那个巨大的东西。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:36:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}＞和善一起，\n　急忙跑到了两人身旁。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:37:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 02 01 01 01 07 01}{F5 86 04 01 02 01 01 01 04 01}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}桌上的那个是什么？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:38:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 BB 02}{F5 C1 03 01 01 01 01 01 0A 01}叫巨型芭菲……\n算是个特别挑战项目吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:39:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 75 11}{F5 C1 03 01 01 01 01 01 04 01}学长，我好渴啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:40:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0B 01 03 01 01 01}{F5 61 02 01 01 01 01 01 BE 02}{F5 C1 03 01 01 01 01 01 03 01}不是说了不许叫苦吗，完二！\n吃完不光免费，还有豪华奖品呢！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:40:1",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}这么大一份，\n奖品肯定也值得期待吧。\n拿出男子汉的气概来，完二！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:41:0",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 DD 05}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 02 01}男子汉……！？\n我会加油的！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:42:0",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}你们从哪里买到的？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:43:0",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 02 01 01 01 07 01}{F5 86 04 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 01 01}好像叫摊位街来着？\n那里有卖。\n……不过我不推荐就是了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:44:0",
+  "message_id": "MSG_044",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 79 0D}摊位街吗……\n明白了。那么，再见。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:45:0",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}＞离开了正在与巨型芭菲奋战的\n　阳介和完二……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:46:0",
+  "message_id": "MSG_046",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 15 01 08 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}我们的策略可能失败了。\n没想到居然有那么巨大的食物……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:46:1",
+  "message_id": "MSG_046",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 A1 0D}{F5 C1 03 01 01 01 01 01 04 01}小熊现在恐怕已经……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:47:0",
+  "message_id": "SEL_047",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}别担心{F5 47 02 01 01 01 03 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:47:1",
+  "message_id": "SEL_047",
+  "translation": "{F2 05 FF FF}{F1 41}尽力做好眼前的事吧{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:48:0",
+  "message_id": "MSG_048",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}……是吗。\n听你这么说，我就放心了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:48:1",
+  "message_id": "MSG_048",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}那么，先整理一下信息吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:49:0",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}……也对。\n现在也不能再换地方了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:49:1",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}那么，先整理一下信息吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:50:0",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}风花有{F2 01 03 01}冰淇淋汽水{F2 01 01 01}。\n她似乎想吃{F2 01 03 01}咸的东西{F2 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:50:1",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}乾有{F2 01 03 01}咖啡{F2 01 01 01}。\n他似乎想要{F2 01 03 01}甜的东西{F2 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:50:2",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}埃癸斯想要{F2 01 03 01}一次性筷子{F2 01 01 01}。\n她有{F2 01 03 01}章鱼烧{F2 01 01 01}，\n但可能{F2 01 03 01}很快就会离开座位{F2 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:50:3",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}顺平也想要{F2 01 03 01}一次性筷子{F2 01 01 01}，\n他有{F2 01 03 01}冰淇淋{F2 01 01 01}。\n同样，他也可能{F2 01 03 01}很快就会离开座位{F2 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:50:4",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}最后是阳介和完二……\n他们正在吃{F2 01 03 01}巨型芭菲{F2 01 01 01}。\n两人都说自己{F2 01 03 01}口渴了{F2 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:50:5",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}如果能换到巨型芭菲，\n大概就能获胜……\n但最多只能和{F2 01 03 01}三个人{F2 01 01 01}交换。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:50:6",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}……怎么样？\n想到交换的顺序了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:51:0",
+  "message_id": "SEL_051",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}想到了！{F5 47 02 01 01 01 03 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:51:1",
+  "message_id": "SEL_051",
+  "translation": "{F2 05 FF FF}{F1 41}请再说一遍{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:52:0",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 86 0D}是吗。\n我实在想不明白，\n接下来就交给你了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:52:1",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}不过……\n请不要输给小熊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:53:0",
+  "message_id": "MSG_053",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}明白了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:54:0",
+  "message_id": "MSG_054",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善正以诚挚的目光注视着你。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_225.bf.json:54:1",
+  "message_id": "MSG_054",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞为了不辜负他的期待，\n　想想该怎样才能换到巨型芭菲吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

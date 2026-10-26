@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_base/event/e800/e823_031.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 08 01 01 01 04 01}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 11 01 08 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_031.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 08 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 0C}{F5 C1 03 01 01 01 01 01 0A 01}真是看错您了，{F1 81}先生。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_031.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_031.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞还是老老实实去报告比较好……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

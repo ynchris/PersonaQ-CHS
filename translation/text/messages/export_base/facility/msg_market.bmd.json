@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_base/facility/msg_market.bmd.json:0:0",
+  "message_id": "market_sel",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}是{F2 03 01 FF}的{F2 03 01 FF}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_market.bmd.json:0:1",
+  "message_id": "market_sel",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}不{F2 03 01 FF}需{F2 03 01 FF}要{F2 03 01 FF}{00}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_market.bmd.json:1:0",
+  "message_id": "MSHOP_BUY_MSG2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}＞{F2 03 01 FF}{F2 44 02 01}{F2 03 01 FF}个{F2 03 01 FF}共{F2 03 01 FF}{F2 44 03 01}{F2 03 01 FF}日{F2 03 01 FF}元{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}　{F2 03 01 FF}购{F2 03 01 FF}买{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_market.bmd.json:11:0",
+  "message_id": "market_conf",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}＞{F2 03 01 FF}就{F2 03 01 FF}这{F2 03 01 FF}样{F2 03 01 FF}出{F2 03 01 FF}售{F2 03 01 FF}，{F2 03 01 FF}可{F2 03 01 FF}以{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ }
+]

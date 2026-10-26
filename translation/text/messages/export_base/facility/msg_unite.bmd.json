@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_base/facility/msg_unite.bmd.json:0:0",
+  "message_id": "unite_sel",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/facility/msg_unite.bmd.json:0:1",
+  "message_id": "unite_sel",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_unite.bmd.json:1:0",
+  "message_id": "unite_check",
+  "translation": "{F2 05 FF FF}{F1 41}＞确定选择这件武器吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_unite.bmd.json:2:0",
+  "message_id": "msg_unite_ok",
+  "translation": "{F2 05 FF FF}{F1 41}＞{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}\n已获得。\n{F1 21}{00}"
+ }
+]

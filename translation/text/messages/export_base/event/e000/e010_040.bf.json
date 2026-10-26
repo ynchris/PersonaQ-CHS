@@ -1,0 +1,372 @@
+[
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞１４点过后……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞选美比赛等活动也已结束，\n　文化祭逐渐接近尾声……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞班级的活动项目“联谊咖啡厅”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:1:1",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……完全没人来。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:2:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 04 01}今天都文化祭最后一天了，\n怎么还是完全没人啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞花村阳介……\n　{F1 82}的同班同学兼搭档。\n　当地百货店“JUNES”店长的儿子。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 03 01}听说很热闹哦？\n除了咱们班……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞里中千枝……\n　{F1 82}的同班同学，\n　无比热爱功夫和肉的少女。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 04 01}我还挺感兴趣的呢……联谊。\n为什么不受欢迎呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞天城雪子……\n　{F1 82}的同班同学，\n　当地老字号“天城屋旅馆”的独生女。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 05 01}我倒是觉得挺好啊。\n别处可没有休息的地方！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 05 01 02 01 02 01}{F5 61 02 01 01 01 01 01 06 01}待在这里不会突然被拍照，\n也没人纠缠，轻松多了。\n策划得不错嘛，花村学长！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞久慈川理世……\n　{F1 82}的学妹，１年级学生。\n　正在休业的全国知名偶像。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}要是这样，我一开始\n直接提议弄个休息区就好了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 02 01 01 01 04 01}{F5 86 05 01 01 01 01 01 07 01}{F5 61 02 01 01 01 01 01 08 01}今天接下来还有后夜祭吧？\n会搞些什么呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}{F5 C1 03 01 01 01 01 01 08 01}听说卡拉OK可以临时上台报名哦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 07 01 06 01 02 01 02 01}{F5 86 09 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 0A 01}要是久慈川同学去唱，\n恐怕会聚集太多人，闹出大动静……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:15:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞白钟直斗……\n　{F1 82}的学弟，１年级学生。\n　以敏锐推理协助警方的侦探王子。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:16:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0B 01}小熊想参加～！\n继女装比赛之后，\n再拿一次冠军熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:17:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞小熊……\n　在电视内的异世界遇到的神秘生物。\n　目前寄住在阳介家的壁橱里。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:18:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0C 01}{F5 C1 04 01 01 01 01 01 02 01}小熊长大以后，\n要成为能歌善舞的魔术师熊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:18:1",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}想看小熊的魔术吗？\n嗯？　怎么样？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:18:2",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0E 01}真是的，拿你们没办法熊！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:18:3",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 01 01 08 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}{F5 C1 04 01 01 01 01 01 02 01}呼嘿呵～嘿！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:18:4",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 10 01}{F5 C1 03 01 01 01 01 01 08 01}{F5 C1 04 01 01 01 01 01 02 01}锵锵～！\n华丽王子，变～身☆\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 11 01}不就是脱了玩偶服吗。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 02 01 02 01 01 01 04 01}{F5 86 21 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 12 01}怎么样？　怎么样？\n老师，吓了一跳吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:21:0",
+  "message_id": "SEL_TALK021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}吓了一跳{F5 47 02 01 02 01 07 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:21:1",
+  "message_id": "SEL_TALK021",
+  "translation": "{F2 05 FF FF}{F1 41}早就看惯了{F5 47 02 01 02 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:21:2",
+  "message_id": "SEL_TALK021",
+  "translation": "{F2 05 FF FF}{F1 41}啊，嗯……{F5 47 02 01 02 01 03 01 01 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:22:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 03 01 01 01 02 01}{F5 86 05 01 0D 01 01 01 05 01}{F5 61 02 01 01 01 01 01 13 01}{F5 C1 03 01 01 01 01 01 0A 01}真是的，就是这么惯着它，\n这熊家伙才会得意忘形啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:23:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 14 01}哎呀～，这就是传说中的倦怠期？\n越被冷落越热情的小熊心，\n老师真懂呢～。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:24:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 15 01}真是的～。\n老师一点都不兴奋……\n不过这才有都市男孩的气质熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:25:0",
+  "message_id": "MSG_0242",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:25:1",
+  "message_id": "MSG_0242",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这个声音是……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:26:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 01 01 02 01 02 01}{F5 61 02 01 01 01 01 01 16 01}{F5 C1 03 01 01 01 01 01 05 01}嗯……刚才那是什么？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:27:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 17 01}好像是……钟声……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:28:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 01 01 05 01}{F5 61 02 01 01 01 01 01 18 01}可是，不是平时的上课铃吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:29:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 19 01}{F5 C1 03 01 01 01 01 01 07 01}啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:30:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 02 01 01 01 02 01}{F5 86 05 01 0B 01 01 01 05 01}{F5 61 02 01 01 01 01 01 1A 01}{F5 C1 03 01 01 01 01 01 01 01}怎、怎么了！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:31:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1B 01}听说半夜时，二宫金次郎的铜像\n会在操场上跑步……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:32:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1C 01}{F5 C1 03 01 01 01 01 01 04 01}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:33:0",
+  "message_id": "MSG_0312",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1D 01}{F5 C1 04 01 01 01 01 01 05 01}这都哪儿跟哪儿啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:34:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1E 01}咱们学校根本就\n没有铜像吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:35:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 1F 01}是常见的“校园七大不可思议”呢。\n这所学校也有吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:36:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 20 01}所以说，铜像会在操场上……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:37:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 21 01}都说没有啦。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:38:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 05 01 05 01 01 01}{F5 61 02 01 01 01 01 01 22 01}还有，第２个也很厉害哦。\n“音乐教室里的莫扎特眼睛会发光”！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:39:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 11 01 03 01 02 01}{F5 61 02 01 01 01 01 01 23 01}只是发光而已吗。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:40:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 24 01}{F5 C1 03 01 01 01 01 01 05 01}铜像也只是跑步呀？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:41:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 02 01 01 01 02 01}{F5 86 05 01 0D 01 01 01 05 01}{F5 61 02 01 01 01 01 01 25 01}{F5 C1 03 01 01 01 01 01 0A 01}所以说没有铜像啦。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:42:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 26 01}第３个是，“在保健室的联络本上\n写下愿望……就会实现”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:43:0",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 27 01}那只是个迷信说法吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:44:0",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:44:1",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞雪子还在继续讲……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:45:0",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 02 01 01 01 02 01}{F5 86 06 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 28 01}然后，从这里才是重点。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:46:0",
+  "message_id": "MSG_044",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 07 01 01 01 05 01}{F5 61 02 01 01 01 01 01 29 01}{F5 C1 03 01 01 01 01 01 0A 01}原来还有重点啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:47:0",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2A 01}第６个……你们猜是什么？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:47:1",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 2B 01}“把时钟塔的钟声听到最后，就会……”\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:48:0",
+  "message_id": "MSG_046",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 2C 01}{F5 C1 03 01 01 01 01 01 0A 01}不是，时钟塔也没有啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:49:0",
+  "message_id": "MSG_047",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 02 01 01 01 05 01}{F5 86 09 01 01 01 03 01 02 01}{F5 61 02 01 01 01 01 01 2D 01}时钟塔……\n我记得以前好像有。\n曾经听校长提起过。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:50:0",
+  "message_id": "MSG_048",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 2E 01}{F5 C1 03 01 01 01 01 01 07 01}……好像是有过。\n可那都是咱们上小学\n之前的事情了吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:51:0",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2F 01}这七大不可思议够老的啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:52:0",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 05 01}{F5 61 02 01 01 01 01 01 30 01}所以，把钟声听到最后会怎么样？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:53:0",
+  "message_id": "MSG_051",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 31 01}会死。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:54:0",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0B 01 01 01 02 01}{F5 86 04 01 0B 01 01 01 05 01}{F5 61 02 01 01 01 01 01 32 01}{F5 C1 03 01 01 01 01 01 07 01}喂，这也太随便了吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:55:0",
+  "message_id": "MSG_053",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 33 01}{F5 C1 03 01 01 01 01 01 05 01}咽气？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:56:0",
+  "message_id": "MSG_054",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 34 01}{F5 C1 03 01 01 01 01 01 07 01}不是措辞的问题啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:57:0",
+  "message_id": "MSG_055",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 02 01 01 01 05 01}{F5 86 05 01 07 01 02 01 02 01}{F5 61 02 01 01 01 01 01 35 01}{F5 C1 03 01 01 01 01 01 0B 01}好、好啦，这个话题到此为止！\n钟声一定是后夜祭开始的信号。\n走吧走吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:58:0",
+  "message_id": "MSG_056",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞千枝小跑着离开了教室……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:59:0",
+  "message_id": "MSG_057",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 36 01}{F5 C1 03 01 01 01 01 01 05 01}咦？\n千枝走掉了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:60:0",
+  "message_id": "MSG_058",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 37 01}都高中生了，居然还会有人\n怕这种七大不可思议啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:61:0",
+  "message_id": "MSG_059",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 09 01 02 01 01 01 02 01}{F5 86 08 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 38 01}你、你怕吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_040.bf.json:62:0",
+  "message_id": "MSG_060",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 39 01}{F5 C1 03 01 01 01 01 01 05 01}咦？不，\n完全不怕。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

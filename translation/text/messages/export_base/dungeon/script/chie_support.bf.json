@@ -1,0 +1,257 @@
+[
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:0:0",
+  "message_id": "CHIE_FOE_FOLLOW_START1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 8A 01}糟了，被Ｆ．Ｏ．Ｅ\n发现了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:1:0",
+  "message_id": "CHIE_FOE_FOLLOW_START2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 8B 01}呃啊！\n被Ｆ．Ｏ．Ｅ发现了！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:2:0",
+  "message_id": "CHIE_FOE_FOLLOW_START3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 8C 01}哇哇！\nＦ．Ｏ．Ｅ往这边来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:3:0",
+  "message_id": "CHIE_FOE_SENSOR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 8D 01}好近！Ｆ．Ｏ．Ｅ，好近！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:4:0",
+  "message_id": "CHIE_FOE_SENSOR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 8E 01}呃！\n这里有Ｆ．Ｏ．Ｅ啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:5:0",
+  "message_id": "CHIE_FOE_SENSOR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 8F 01}小心，有Ｆ．Ｏ．Ｅ！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:6:0",
+  "message_id": "CHIE_FOE_FOLLOW_END1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 90 01}咦？\n我们……甩掉Ｆ．Ｏ．Ｅ了……？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:7:0",
+  "message_id": "CHIE_FOE_FOLLOW_END2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 91 01}呼，得救了。\n它已经不追了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:8:0",
+  "message_id": "CHIE_FOE_FOLLOW_END3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 92 01}好，看来已经\n甩掉Ｆ．Ｏ．Ｅ了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:9:0",
+  "message_id": "CHIE_PARTY_HPTP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 93 01}得吃肉补充能量了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:10:0",
+  "message_id": "CHIE_PARTY_HPTP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 94 01}呜呜……不行了！\n累瘫啦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:11:0",
+  "message_id": "CHIE_PARTY_HPTP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 95 01}哈、哈……好累……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:12:0",
+  "message_id": "CHIE_PARTY_HP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 96 01}体力不妙啊！\n能帮我恢复一下吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:13:0",
+  "message_id": "CHIE_PARTY_HP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 97 01}好累……\n体力快耗尽了…\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:14:0",
+  "message_id": "CHIE_PARTY_HP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 98 01}要、要倒下了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:15:0",
+  "message_id": "CHIE_PARTY_TP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 99 01}呜，耐力耗尽了……\n回去吃肉吧，吃肉！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:16:0",
+  "message_id": "CHIE_PARTY_TP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 9A 01}耐力耗尽了……\n修行还不够…\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:17:0",
+  "message_id": "CHIE_PARTY_TP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 9B 01}好像有点吃不消……\n耐力耗尽了吗……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:18:0",
+  "message_id": "CHIE_STAIR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 9C 01}找到楼梯啦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:19:0",
+  "message_id": "CHIE_STAIR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 9D 01}发现楼梯！\n走吧走吧！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:20:0",
+  "message_id": "CHIE_STAIR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 9E 01}找到楼梯啦！\n好，继续前进！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:21:0",
+  "message_id": "CHIE_TREASURE1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 9F 01}哦，发现宝贝啦！\n打开看看吧！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:22:0",
+  "message_id": "CHIE_TREASURE2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A0 01}找到宝箱啦！\n是菲力牛排吗！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:23:0",
+  "message_id": "CHIE_TREASURE3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A1 01}嘿嘿，太好了，宝箱！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:24:0",
+  "message_id": "CHIE_FOUNTAIN1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A2 01}哦！\n在下发现能量点了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:25:0",
+  "message_id": "CHIE_FOUNTAIN2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A3 01}哎哎！\n又有那个神秘的点了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:26:0",
+  "message_id": "CHIE_FOUNTAIN3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A4 01}发现能量点！\n顺路去看看吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:27:0",
+  "message_id": "CHIE_SEARCH_OBJ1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A5 01}咦？\n那边是不是有东西？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:28:0",
+  "message_id": "CHIE_SEARCH_OBJ2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A6 01}这附近超可疑啊……\n要不要调查一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:29:0",
+  "message_id": "CHIE_SEARCH_OBJ3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A7 01}前面好像有什么……\n是什么呢？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:30:0",
+  "message_id": "CHIE_SWITCH1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A8 01}发现开关是也！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:31:0",
+  "message_id": "CHIE_SWITCH2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A9 01}前面\n有个像开关的东西！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:32:0",
+  "message_id": "CHIE_SWITCH3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 AA 01}唔……那是开关吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:33:0",
+  "message_id": "CHIE_SHORTCUT1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 AB 01}唔唔？\n那面墙不对劲是也！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:34:0",
+  "message_id": "CHIE_SHORTCUT2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 AC 01}咦、咦？那面墙，\n仔细一看……咦？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:35:0",
+  "message_id": "CHIE_SHORTCUT3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 AD 01}那面墙，\n总觉得很可疑……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:36:0",
+  "message_id": "CHIE_PARTY_HPTP15_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 93 01}得吃肉补充能量了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:37:0",
+  "message_id": "CHIE_PARTY_HPTP15_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 94 01}呜呜……不行了！\n累瘫啦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:38:0",
+  "message_id": "CHIE_PARTY_HPTP15_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 95 01}哈、哈……好累……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:39:0",
+  "message_id": "CHIE_PARTY_TP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 99 01}呜，耐力耗尽了……\n回去吃肉吧，吃肉！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:40:0",
+  "message_id": "CHIE_PARTY_TP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 9A 01}耐力耗尽了……\n修行还不够…\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:41:0",
+  "message_id": "CHIE_PARTY_TP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 9B 01}好像有点吃不消……\n耐力耗尽了吗……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:42:0",
+  "message_id": "CHIE_PARTY_HP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 96 01}体力不妙啊！\n能帮我恢复一下吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:43:0",
+  "message_id": "CHIE_PARTY_HP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 97 01}好累……\n体力快耗尽了…\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:44:0",
+  "message_id": "CHIE_PARTY_HP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 98 01}要、要倒下了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:45:0",
+  "message_id": "CHIE_FOE_NEAR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 8A 01}糟了，被Ｆ．Ｏ．Ｅ\n发现了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:46:0",
+  "message_id": "CHIE_FOE_NEAR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 8B 01}呃啊！\n被Ｆ．Ｏ．Ｅ发现了！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:47:0",
+  "message_id": "CHIE_FOE_NEAR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 8C 01}哇哇！\nＦ．Ｏ．Ｅ往这边来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:48:0",
+  "message_id": "CHIE_ME_LEVEL_UP1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 AE 01}呵呵呵……\n再过一会儿就升级是也！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:49:0",
+  "message_id": "CHIE_ME_LEVEL_UP2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 AF 01}我好像快升级了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/chie_support.bf.json:50:0",
+  "message_id": "CHIE_ME_LEVEL_UP3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 B0 01}感觉等级马上就要提升了！\n{F2 26 00 00}{00}"
+ }
+]

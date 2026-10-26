@@ -1,0 +1,182 @@
+[
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞与此同时，天鹅绒房间内……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞主人伊戈尔不在，\n　伊丽莎白独自坐在那里……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 22 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}欢迎来到天鹅绒房间……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}这里是梦境与现实、\n精神与物质之间的夹缝……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:1:2",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}真是难得呢。\n您竟会在主人不在的时候\n来到这里……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:2:0",
+  "message_id": "SEL_TALK002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}伊戈尔呢？{F5 47 02 01 03 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:2:1",
+  "message_id": "SEL_TALK002",
+  "translation": "{F2 05 FF FF}{F1 41}你一个人看家？{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 05 01}很不巧，主人现在不在。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 06 01}是的，此刻我就是这间房间的主人……\n这正是所谓的以下克上。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}若是要合成人格面具，\n我也略懂一二，\n还请您尽管吩咐。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}顺便一提，今天只能召唤\n“恶灵军团”，\n您没有意见吧？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:5:2",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 09 01}它的名字“Ｌｅｇｉｏｎ”，意为“军团”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:5:3",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0A 01}它那几张脸的表情各不相同，\n却都洋溢着丰富的痛苦与挣扎，\n真是令人百看不厌。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:5:4",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 0B 01}这可是我伊丽莎白的首推之选。\n那么，马上开始合成仪式吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}姐姐……说谎可不好。\n凭姐姐的本事，\n不是也能召唤其他人格面具吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞一名年轻男子\n　从其中一扇门走了出来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0D 01}哎呀，迪奥……你好。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}这是我不成器的弟弟，迪奥多。\n名字太长了，\n您就叫他“迪奥”吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 10 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}{F5 C1 03 01 01 01 01 01 0A 01}可我的名字比姐姐的还短啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 02 01}{F5 86 24 01 01 01 02 01 04 01}{F5 61 02 01 01 01 01 01 10 01}我叫迪奥多。\n家姐伊丽莎白\n一直承蒙您的关照。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:10:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 11 01}姐姐有些不谙世事，\n想必给您添了不少麻烦，\n今后也请您多多包涵。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:11:0",
+  "message_id": "MSG_0102",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}现在主人暂时离开了，\n以防万一，\n也请容我留在这里。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:12:0",
+  "message_id": "SEL_TALK011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}以防万一？{F5 47 02 01 03 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:12:1",
+  "message_id": "SEL_TALK011",
+  "translation": "{F2 05 FF FF}{F1 41}会发生什么吗？{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 13 01}主人不在的时候，\n天鹅绒房间本身的存在，\n会变得有些不稳定。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:13:1",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 14 01}而外面的世界正风雨交加……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:14:0",
+  "message_id": "SEL_TALK013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}你是说台风？{F5 47 02 01 03 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:14:1",
+  "message_id": "SEL_TALK013",
+  "translation": "{F2 05 FF FF}{F1 41}这有什么关系？{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:15:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 15 01}暴风雨会带来动摇……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:15:1",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 16 01}不仅动摇身体，也动摇内心……\n动摇决心、纠葛，以及一直深藏之物……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:15:2",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 17 01}在风雨中，人们会闭上双眼。\n于是，内心的世界便开始侵蚀现实……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:15:3",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 18 01}曾经逃避的目光，不得不直面\n自己一直深藏的事物……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:15:4",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 19 01}有些暴风雨，\n甚至能撼动命运与“时间”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:16:0",
+  "message_id": "SEL_TALK015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}也许确实如此{F5 47 02 01 03 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:16:1",
+  "message_id": "SEL_TALK015",
+  "translation": "{F2 05 FF FF}{F1 41}我不太明白{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_040.bf.json:17:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1A 01}还请您多加提防暴风雨……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

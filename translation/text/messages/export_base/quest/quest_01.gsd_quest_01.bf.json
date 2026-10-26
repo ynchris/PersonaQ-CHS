@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/quest/quest_01.gsd_quest_01.bf.json:3:0",
+  "message_id": "MSG_CANCEL",
+  "translation": "{F2 05 FF FF}{F1 41}取消委托\n“击败扑克牌士兵”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/quest/quest_01.gsd_quest_01.bf.json:4:1",
+  "message_id": "MSG_ITEM_MAX",
+  "translation": "{F2 05 FF FF}{F1 41}请整理道具后，\n再次前来报告。\n{F1 21}{00}"
+ }
+]

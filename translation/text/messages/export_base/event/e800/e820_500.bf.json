@@ -1,0 +1,117 @@
+[
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:0:0",
+  "message_id": "MSG_999",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这里似乎只是一条死路……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:0:1",
+  "message_id": "MSG_999",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:0:2",
+  "message_id": "MSG_999",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞由加莉疑惑地歪着头……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:1:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 03 08}{F5 C1 03 01 01 01 01 01 05 01}咦……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:1:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 1D 08}怎么说呢，这一带……有点怪吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:2:0",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}哪里怪？{F5 47 02 01 01 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:2:1",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}这一带……怪？{F5 47 02 01 01 01 09 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0F 01 04 01 02 01}{F5 61 02 01 01 01 01 01 CE 07}嗯，这一带怪怪的……\n我又不是在说绕口令！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 05 01 02 01}{F5 61 02 01 01 01 01 01 F4 07}好像有什么地方……跟之前不一样？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:4:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 C2 07}嗯……虽然说不上来，\n但总觉得有点不对劲。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 02 01 04 01}{F5 61 02 01 01 01 01 01 1A 03}觉得不对劲还放着不管，\n之后可是会出大事的哦。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:5:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}像我爸啊，\n之前就说腰感觉不太对劲。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 36 08}{F5 C1 03 01 01 01 01 01 05 01}咦？嗯。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 19 03}可他还是一直工作。\n你也知道，我家是百货店……\n还是该说超市？经常得搬重东西。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 0B 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 EC 07}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 01 01}结果嘛，\n也算是意料之中……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 09 01 02 01 02 01}{F5 61 02 01 01 01 01 01 01 01}这话题还没完吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0B 01 01 01 04 01}{F5 61 02 01 01 01 01 01 66 11}{F5 C1 03 01 01 01 01 01 07 01}……啊，对不起。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 04 08}{F5 C1 03 01 01 01 01 01 04 01}嗯……\n到底是哪里不对劲呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 04 01 0C 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:13:1",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 0A 01}她是不是……\n特别容易被踩到雷区的类型？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:14:0",
+  "message_id": "MSG_0122",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞由加莉究竟觉得哪里不对劲呢？\n　不妨先在地图上记下来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_500.bf.json:15:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞新增委托\n　{F2 01 03 01}“查明传闻的真假”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

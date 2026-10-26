@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:0:0",
+  "message_id": "BTL_MES_H123_059_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8C 01}啊！副队长大人，请醒醒！\n现在受到攻击会很危险！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:1:0",
+  "message_id": "BTL_MES_H123_059_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 83 01}怎么会……副队长大人竟在小睡……\n敌人可就在眼前啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:2:0",
+  "message_id": "BTL_MES_H123_059_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8D 01}花村大人，请快醒醒！\n哪、哪位能狠狠扇他一巴掌！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:3:0",
+  "message_id": "BTL_MES_H123_059_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8E 01}里中大人睡得正香！\n连梦话都说起来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:4:0",
+  "message_id": "BTL_MES_H123_059_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8F 01}天城大人，请醒醒！\n敌人就在眼前啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:6:0",
+  "message_id": "BTL_MES_H123_059_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 90 01}巽大人！现在可不是\n说梦话的时候…敌人就在眼前！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:7:0",
+  "message_id": "BTL_MES_H123_059_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 92 01}不好！白钟大人睡着了！\n现在被盯上会受到重创！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:8:0",
+  "message_id": "BTL_MES_H123_059_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 91 01}小熊大人……这样下去，\n会被敌人打醒的！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:9:0",
+  "message_id": "BTL_MES_H123_059_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 84 01}岳羽大人，请醒醒！\n淑女怎能睡在那种地方……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:10:0",
+  "message_id": "BTL_MES_H123_059_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 85 01}伊织大人……您睡着了吗？\n请哪位赏他一巴掌！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:11:0",
+  "message_id": "BTL_MES_H123_059_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 86 01}面对敌人还能如此熟睡……\n…真田大人果然不同凡响。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:12:0",
+  "message_id": "BTL_MES_H123_059_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 87 01}不、不愧是桐条大人……\n竟然站着睡着了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:14:0",
+  "message_id": "BTL_MES_H123_059_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8A 01}埃癸斯大人……您睡着了吗？\n……原来您也会睡觉吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:15:0",
+  "message_id": "BTL_MES_H123_059_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 88 01}不好！天田大人睡着了！\n现在被盯上会受到重创！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:16:0",
+  "message_id": "BTL_MES_H123_059_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 89 01}虎、虎狼丸大人，怎能轻易睡着，\n这有损地狱看门犬克鲁贝洛斯之名！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:17:0",
+  "message_id": "BTL_MES_H123_059_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8B 01}啊，荒垣大人睡着了！\n不快叫醒他，敌人的攻击就……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:18:0",
+  "message_id": "BTL_MES_H123_059_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 93 01}善大人，玲大人，请醒醒！\n敌人要过来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:19:0",
+  "message_id": "BTL_MES_H123_059_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 94 01}啊，不好！善大人，请醒醒！\n这一觉会要了您的命！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:20:0",
+  "message_id": "BTL_MES_H123_059_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 82 01}不行，队长大人！\n别输给困意，快醒醒！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(058).BMD.json:21:0",
+  "message_id": "BTL_MES_H123_059_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 81 01}队、队长大人，竟在敌前打鼾，\n未免太过大胆了！\n{F2 26 00 00}{00}"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_067_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 3D 02}副队长的攻击力下降了。\n……还是小心一点比较好……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_067_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 34 02}副队长的攻击力下降了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_067_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 3E 02}阳介的攻击力下降了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:3:0",
+  "message_id": "BTL_MES_H124_067_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 3F 02}千枝的攻击力下降了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:4:0",
+  "message_id": "BTL_MES_H124_067_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 40 02}雪子的攻击力下降了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:6:0",
+  "message_id": "BTL_MES_H124_067_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 41 02}完二的攻击力下降了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:7:0",
+  "message_id": "BTL_MES_H124_067_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 43 02}直斗的攻击力下降了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:8:0",
+  "message_id": "BTL_MES_H124_067_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 42 02}小熊的攻击力下降了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:9:0",
+  "message_id": "BTL_MES_H124_067_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 35 02}由加莉的攻击力下降了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:10:0",
+  "message_id": "BTL_MES_H124_067_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 36 02}顺平的攻击力下降了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:11:0",
+  "message_id": "BTL_MES_H124_067_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 37 02}真田的攻击力下降了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:12:0",
+  "message_id": "BTL_MES_H124_067_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 38 02}美鹤的攻击力下降了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:14:0",
+  "message_id": "BTL_MES_H124_067_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 3B 02}埃癸斯的攻击力下降了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:15:0",
+  "message_id": "BTL_MES_H124_067_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 39 02}乾的攻击力下降了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:16:0",
+  "message_id": "BTL_MES_H124_067_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 3A 02}狗狗变弱了。\n攻击力下降了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:17:0",
+  "message_id": "BTL_MES_H124_067_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 3C 02}荒垣的攻击力下降了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:18:0",
+  "message_id": "BTL_MES_H124_067_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 44 02}善的攻击力下降了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:19:0",
+  "message_id": "BTL_MES_H124_067_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 44 02}善的攻击力下降了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:20:0",
+  "message_id": "BTL_MES_H124_067_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 33 02}你的攻击力下降了。\n比平时弱了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(066).BMD.json:21:0",
+  "message_id": "BTL_MES_H124_067_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 32 02}队长，下降了哦。\n攻击力。\n{F2 26 00 00}{00}"
+ }
+]

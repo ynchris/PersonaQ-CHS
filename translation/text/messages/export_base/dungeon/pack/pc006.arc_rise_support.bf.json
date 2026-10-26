@@ -1,0 +1,577 @@
+[
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:0:0",
+  "message_id": "RISE_FOE_FOLLOW_START1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E7 01}Ｆ．Ｏ．Ｅ\n好像注意到这边了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:1:0",
+  "message_id": "RISE_FOE_FOLLOW_START2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E8 01}小心！那只Ｆ．Ｏ．Ｅ，\n已经发现大家了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:2:0",
+  "message_id": "RISE_FOE_FOLLOW_START3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E9 01}被Ｆ．Ｏ．Ｅ发现了！\n小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:3:0",
+  "message_id": "RISE_FOE_SENSOR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EA 01}那里有敌方Ｆ．Ｏ．Ｅ！\n小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:4:0",
+  "message_id": "RISE_FOE_SENSOR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EB 01}发现敌方Ｆ．Ｏ．Ｅ！\n大家小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:5:0",
+  "message_id": "RISE_FOE_SENSOR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EC 01}危险！\nＦ．Ｏ．Ｅ正在靠近！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:6:0",
+  "message_id": "RISE_FOE_FOLLOW_END1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 ED 01}那只Ｆ．Ｏ．Ｅ，\n好像不再追了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:7:0",
+  "message_id": "RISE_FOE_FOLLOW_END2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EE 01}成功甩掉Ｆ．Ｏ．Ｅ了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:8:0",
+  "message_id": "RISE_FOE_FOLLOW_END3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EF 01}太好了，\n好像没再追过来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:9:0",
+  "message_id": "RISE_PARTY_HARF_DEAD1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F0 01}好多人受伤了！\n要不要先回去重整状态？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:10:0",
+  "message_id": "RISE_PARTY_HARF_DEAD2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F1 01}大家还好吗！？\n别勉强，先重整状态吧！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:11:0",
+  "message_id": "RISE_PARTY_HARF_DEAD3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F2 01}危险，大危机！\n这样前进很危险！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:12:0",
+  "message_id": "RISE_PARTY_HPTP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F3 01}学长，你快倒下了！\n调整一下状态！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:13:0",
+  "message_id": "RISE_PARTY_HPTP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F4 01}不好了，学长！\n体力和精力都告急了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:14:0",
+  "message_id": "RISE_PARTY_HPTP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F5 01}学长，小心！\n再这样下去会倒下的！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:15:0",
+  "message_id": "RISE_PARTY_HPTP10_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F6 01}队长，你快累瘫了！\n调整一下状态！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:16:0",
+  "message_id": "RISE_PARTY_HPTP10_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F7 01}队长，小心！\n体力和精力都告急了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:17:0",
+  "message_id": "RISE_PARTY_HPTP10_6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F8 01}队长，小心！\n再这样下去会倒下的！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:18:0",
+  "message_id": "RISE_PARTY_HP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F9 01}学长，体力不妙啊！\n小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:19:0",
+  "message_id": "RISE_PARTY_HP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FA 01}体力下降了！\n学长，小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:20:0",
+  "message_id": "RISE_PARTY_HP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FB 01}学长，小心！\n不恢复体力的话会倒下的！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:21:0",
+  "message_id": "RISE_PARTY_HP10_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FC 01}队长，体力不妙啊！小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:22:0",
+  "message_id": "RISE_PARTY_HP10_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FD 01}体力下降了！\n队长，小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:23:0",
+  "message_id": "RISE_PARTY_HP10_6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FE 01}队长，小心！\n不恢复体力的话会倒下的！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:24:0",
+  "message_id": "RISE_PARTY_TP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FF 01}学长，是不是累了？\n还好吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:25:0",
+  "message_id": "RISE_PARTY_TP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 00 01}学长！\n精力下降了，小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:26:0",
+  "message_id": "RISE_PARTY_TP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 01 02}学长，是不是没油了！？\n小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:27:0",
+  "message_id": "RISE_PARTY_TP10_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 02 02}队长，是不是累了？\n还好吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:28:0",
+  "message_id": "RISE_PARTY_TP10_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 03 02}队长！\n精力下降了，小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:29:0",
+  "message_id": "RISE_PARTY_TP10_6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 04 02}队长，是不是没油了！？\n小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:30:0",
+  "message_id": "RISE_STAIR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 05 02}有楼梯！\n继续前进吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:31:0",
+  "message_id": "RISE_STAIR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 06 02}那个是不是楼梯？\n小心哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:32:0",
+  "message_id": "RISE_STAIR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 07 02}太好了，是楼梯。\n继续前进吧！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:33:0",
+  "message_id": "RISE_TREASURE1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 08 02}太好了，发现宝箱！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:34:0",
+  "message_id": "RISE_TREASURE2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 09 02}找到宝箱啦！\n里面说不定有宝贝哦？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:35:0",
+  "message_id": "RISE_TREASURE3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0A 02}真幸运，是宝箱！\n打开看看吧！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:36:0",
+  "message_id": "RISE_FOUNTAIN1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0B 02}前面是不是有那个能量点？\n过去看看！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:37:0",
+  "message_id": "RISE_FOUNTAIN2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0C 02}发现能量点！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:38:0",
+  "message_id": "RISE_FOUNTAIN3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0D 02}那个能量点，\n又出现了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:39:0",
+  "message_id": "RISE_SEARCH_OBJ1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0E 02}前面有东西！调查一下！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:40:0",
+  "message_id": "RISE_SEARCH_OBJ2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0F 02}那一带好像有东西…\n看看吧！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:41:0",
+  "message_id": "RISE_SEARCH_OBJ3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 10 02}前方能看见什么东西。\n调查一下！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:42:0",
+  "message_id": "RISE_SWITCH1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 11 02}附近好像有开关…\n稍微找找看！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:43:0",
+  "message_id": "RISE_SWITCH2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 12 02}那个…前面是不是有开关？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:44:0",
+  "message_id": "RISE_SWITCH3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 13 02}附近应该有开关。\n调查一下！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:45:0",
+  "message_id": "RISE_KARITORUMONO1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 14 02}感觉到“收割者”的气息！\n小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:46:0",
+  "message_id": "RISE_KARITORUMONO2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 15 02}这股气息…！\n“收割者”就在附近！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:47:0",
+  "message_id": "RISE_KARITORUMONO3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 16 02}小心！\n“收割者”正在靠近！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:48:0",
+  "message_id": "RISE_ARROW_DIZZINESS1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 17 02}没、没事吧？\n是不是没法直走了！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:49:0",
+  "message_id": "RISE_ARROW_DIZZINESS2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 18 02}哎，还好吗！？\n走那边没错吗！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:50:0",
+  "message_id": "RISE_ARROW_DIZZINESS3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 19 02}方向感好像暂时失常了！\n振作起来！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:51:0",
+  "message_id": "RISE_ARROW_FASCINATION1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1A 02}等、等等！\n是不是被Ｆ．Ｏ．Ｅ吸过去了？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:52:0",
+  "message_id": "RISE_ARROW_FASCINATION2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1B 02}不、不行！\n往那边走很危险！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:53:0",
+  "message_id": "RISE_ARROW_FASCINATION3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1C 02}清醒点！\n靠近Ｆ．Ｏ．Ｅ很危险啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:54:0",
+  "message_id": "RISE_SHORTCUT1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1D 02}咦？那面墙，\n好像有点怪…看看吧！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:55:0",
+  "message_id": "RISE_SHORTCUT2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1E 02}前面的墙是不是有点奇怪？\n调查一下！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:56:0",
+  "message_id": "RISE_SHORTCUT3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1F 02}那面墙好像藏着什么！\n检查，检查！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:57:0",
+  "message_id": "RISE_TRAVEL1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 20 02}这一层几乎都走遍了吧。\n已经没问题啦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:58:0",
+  "message_id": "RISE_TRAVEL2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 21 02}这一层的情况，\n你们已经全都了解了吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:59:0",
+  "message_id": "RISE_TRAVEL3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 22 02}太好了！这一层的情况，\n应该基本掌握了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:60:0",
+  "message_id": "RISE_ITEM_NOYHAVE1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 23 02}没带“回归道具”，\n没问题吗？返程也要准备好！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:61:0",
+  "message_id": "RISE_ITEM_NOYHAVE2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 24 02}也做好回去时的准备了吗？\n要仔细检查携带的物品哦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:62:0",
+  "message_id": "RISE_ITEM_NOYHAVE3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 25 02}对了，有没有带好\n“回归道具”？确认一下哦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:63:0",
+  "message_id": "RISE_ITEM_MAX1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 26 02}行李好多啊…\n整理物品也很重要哦？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:64:0",
+  "message_id": "RISE_ITEM_MAX2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 27 02}行李快装满了！\n整理一下吧！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:65:0",
+  "message_id": "RISE_ITEM_MAX3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 28 02}再不整理一下，\n行李就要装不下了哦？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:66:0",
+  "message_id": "RISE_PARTY_HPTP15_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F3 01}学长，你快倒下了！\n调整一下状态！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:67:0",
+  "message_id": "RISE_PARTY_HPTP15_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F4 01}不好了，学长！\n体力和精力都告急了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:68:0",
+  "message_id": "RISE_PARTY_HPTP15_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F5 01}学长，小心！\n再这样下去会倒下的！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:69:0",
+  "message_id": "RISE_PARTY_HPTP15_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F6 01}队长，你快累瘫了！\n调整一下状态！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:70:0",
+  "message_id": "RISE_PARTY_HPTP15_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F7 01}队长，小心！\n体力和精力都告急了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:71:0",
+  "message_id": "RISE_PARTY_HPTP15_6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F8 01}队长，小心！\n再这样下去会倒下的！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:72:0",
+  "message_id": "RISE_PARTY_TP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FF 01}学长，是不是累了？\n还好吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:73:0",
+  "message_id": "RISE_PARTY_TP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 00 01}学长！\n精力下降了，小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:74:0",
+  "message_id": "RISE_PARTY_TP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 01 02}学长，是不是没油了！？\n小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:75:0",
+  "message_id": "RISE_PARTY_TP20_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 02 02}队长，是不是累了？\n还好吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:76:0",
+  "message_id": "RISE_PARTY_TP20_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 03 02}队长！\n精力下降了，小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:77:0",
+  "message_id": "RISE_PARTY_TP20_6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 04 02}队长，是不是没油了！？\n小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:78:0",
+  "message_id": "RISE_PARTY_HP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F9 01}学长，体力不妙啊！\n小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:79:0",
+  "message_id": "RISE_PARTY_HP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FA 01}体力下降了！\n学长，小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:80:0",
+  "message_id": "RISE_PARTY_HP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FB 01}学长，小心！\n不恢复体力的话会倒下的！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:81:0",
+  "message_id": "RISE_PARTY_HP20_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FC 01}队长，体力不妙啊！\n小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:82:0",
+  "message_id": "RISE_PARTY_HP20_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FD 01}体力下降了！\n队长，小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:83:0",
+  "message_id": "RISE_PARTY_HP20_6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FE 01}队长，小心！\n不恢复体力的话会倒下的！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:84:0",
+  "message_id": "RISE_PARTY_HP50_P4HERO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 29 02}学长，你还好吗？\n谁来恢复学长体力…！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:85:0",
+  "message_id": "RISE_PARTY_HP50_P3HERO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2A 02}队长，你还好吗？\n有没有人能恢复体力？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:86:0",
+  "message_id": "RISE_PARTY_HP50_YOSUKE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2B 02}花村学长，还好吗？\n注意体力哦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:87:0",
+  "message_id": "RISE_PARTY_HP50_CHIE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2C 02}千枝学姐，还好吗？\n体力不妙啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:88:0",
+  "message_id": "RISE_PARTY_HP50_YUKIKO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2D 02}雪子学姐，还好吗？\n能恢复体力吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:89:0",
+  "message_id": "RISE_PARTY_HP50_KUMA",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2E 02}小熊，体力不妙啊！\n小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:90:0",
+  "message_id": "RISE_PARTY_HP50_KANJI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2F 02}完二，体力不妙啊！\n你知道吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:91:0",
+  "message_id": "RISE_PARTY_HP50_NAOTO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 30 02}直斗同学，你还好吗？\n是不是该恢复体力了？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:92:0",
+  "message_id": "RISE_PARTY_HP50_SUB_HERO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 31 02}副队长，你还好吗？\n有没有人能恢复体力？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:93:0",
+  "message_id": "RISE_PARTY_HP50_YUKARI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 32 02}小由加莉，你还好吗？\n体力不妙啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:94:0",
+  "message_id": "RISE_PARTY_HP50_MITHURU",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 33 02}谁来帮美鹤姐恢复体力！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:95:0",
+  "message_id": "RISE_PARTY_HP50_AEGIS",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 34 02}埃癸斯，你还好吗？\n注意体力！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:96:0",
+  "message_id": "RISE_PARTY_HP50_JUNPEI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 35 02}顺平哥，你还好吗？\n不恢复体力可不行啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:97:0",
+  "message_id": "RISE_PARTY_HP50_SANADA",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 36 02}谁来帮真田哥恢复体力！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:98:0",
+  "message_id": "RISE_PARTY_HP50_AMADA",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 37 02}小乾，你还好吗？\n能恢复体力吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:99:0",
+  "message_id": "RISE_PARTY_HP50_ARAGAKI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 38 02}谁来帮荒垣哥恢复体力！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:100:0",
+  "message_id": "RISE_PARTY_HP50_KOROMARU",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 39 02}小虎，你还好吗？\n找人帮你恢复一下！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:101:0",
+  "message_id": "RISE_PARTY_HP50_ZEN",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3A 02}善同学，还好吗？\n注意体力哦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:102:0",
+  "message_id": "RISE_PARTY_HP50_REI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3B 02}小玲，你还好吗？\n注意体力！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:103:0",
+  "message_id": "RISE_FOE_NEAR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E7 01}Ｆ．Ｏ．Ｅ\n好像注意到这边了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:104:0",
+  "message_id": "RISE_FOE_NEAR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E8 01}小心！那只Ｆ．Ｏ．Ｅ，\n已经发现大家了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:105:0",
+  "message_id": "RISE_FOE_NEAR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E9 01}被Ｆ．Ｏ．Ｅ发现了！\n小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:106:0",
+  "message_id": "RISE_FOE_ALL_CLEAR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3C 02}啊…这一层的\nＦ．Ｏ．Ｅ气息好像消失了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:107:0",
+  "message_id": "RISE_FOE_ALL_CLEAR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3D 02}太好了！这一层\n好像已经没有Ｆ．Ｏ．Ｅ了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:108:0",
+  "message_id": "RISE_FOE_ALL_CLEAR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3E 02}Ｆ．Ｏ．Ｅ的气息消失了！\n放心前进吧！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:109:0",
+  "message_id": "RISE_ME_LEVEL_UP1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3F 02}再过一会儿，学长就要升级了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:110:0",
+  "message_id": "RISE_ME_LEVEL_UP2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 40 02}再过一会儿，学长就升——级！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:111:0",
+  "message_id": "RISE_ME_LEVEL_UP3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 41 02}学长，\n好像马上就要升级了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:112:0",
+  "message_id": "RISE_ME_LEVEL_UP4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 42 02}再过一会儿，\n队长就要升级了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:113:0",
+  "message_id": "RISE_ME_LEVEL_UP5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 43 02}再过一会儿，\n队长就升——级！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc006.arc_rise_support.bf.json:114:0",
+  "message_id": "RISE_ME_LEVEL_UP6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 44 02}队长，\n好像马上就要升级了！\n{F2 26 00 00}{00}"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(173).BMD.json:0:0",
+  "message_id": "BTL_MES_H125_174_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 28 03}啊，脚消失了！\n还剩２条呢！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(173).BMD.json:1:0",
+  "message_id": "BTL_MES_H125_174_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 29 03}太好了！\n还剩２条哦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(173).BMD.json:2:0",
+  "message_id": "BTL_MES_H125_174_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2A 03}啊，脚不见了！\n还剩２条呢！\n{F2 26 00 00}{00}"
+ }
+]

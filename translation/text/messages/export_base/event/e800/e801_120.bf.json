@@ -1,0 +1,337 @@
+[
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞３Ｆ　摊位街……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞从手工工坊叫来迪奥，\n　两人一起逛文化祭……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞迪奥正好奇地观察摊位上的苹果糖……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 24 01 05 01 06 01 02 01}{F5 61 02 01 01 01 01 01 02 01}苹果……糖……\n苹果外面像糖一样，\n变得很硬……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}原来还有蜜汁多到\n溢出表面的苹果啊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:1:2",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}记得有些鸟类会吃苹果。\n啄着这黏糊糊的蜜汁外壳，\n鸟嘴不会被粘住吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:2:0",
+  "message_id": "SEL_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}你是认真的？{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:2:1",
+  "message_id": "SEL_002",
+  "translation": "{F2 05 FF FF}{F1 41}鸟也不容易啊{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 13 01 04 01 01 01}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 03 01 01 01 01 01 07 01}我……我当然知道。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0B 01 04 01 01 01}{F5 61 02 01 01 01 01 01 06 01}那个……鸟类也会适应这种苹果，\n随之进化吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞不知为何，迪奥一副很了不起的样子……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 07 01}{F5 C1 04 01 01 01 01 01 02 01}会不会有些鸟嘴上插着苹果，\n就再也动不了了呢……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}{F5 C1 04 01 01 01 01 01 02 01}说不定将来还会发现那样的化石……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:5:2",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}{F5 C1 04 01 01 01 01 01 02 01}倒是有点可怜……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞迪奥望向了远方……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞苹果糖摊位前，\n站着玛丽……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 25 01 09 01 02 01 02 01}{F5 61 02 01 01 01 01 01 0A 01}我是苹果糖……\n不知如何融化的悲哀存在……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0B 01}……太普通了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玛丽正独自嘀咕着什么……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 24 01 03 01 04 01 07 01}{F5 61 02 01 01 01 01 01 0C 01}哎呀，玛丽。\n真是美丽的诗。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0D 01}{F5 C1 04 01 01 01 01 01 02 01}没错，那是美丽的诗……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:11:1",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 86 25 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}……等等，呜诶！？\n你们什么时候来的！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:12:0",
+  "message_id": "SEL_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}刚刚{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:12:1",
+  "message_id": "SEL_012",
+  "translation": "{F2 05 FF FF}{F1 41}在你不知如何融化之前{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}是、是吗？　那就好。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 10 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 0B 01}什……什么啊，莫名其妙！\n笨蛋讨厌差劲悲哀的存在！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 11 01}我觉得这些词搭配得很美……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:15:1",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 86 24 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 12 01}也希望您能教教我。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 13 01}哈？\n……那、那就……用苹果糖写首诗。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 13 01 04 01 01 01}{F5 61 02 01 01 01 01 01 14 01}诶……好、好的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:17:1",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 08 01 04 01 01 01}{F5 61 02 01 01 01 01 01 15 01}呃……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞迪奥多正在苦思……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0B 01 04 01 01 01}{F5 61 02 01 01 01 01 01 16 01}{F5 C1 03 01 01 01 01 01 07 01}想好了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:20:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 02 01 01 01 02 01}{F5 86 01 01 02 01 01 01 04 01}{F5 86 24 01 03 01 04 01 07 01}{F5 61 02 01 01 01 01 01 18 01}怎么样？\n我想，这些词搭配起来\n相当可爱吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:21:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 19 01}６０分。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:22:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 05 01 04 01 01 01}{F5 61 02 01 01 01 01 01 1A 01}算是……及格了吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:23:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1B 01}满分１０００分。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:24:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 13 01 04 01 01 01}{F5 61 02 01 01 01 01 01 1C 01}{F5 C1 03 01 01 01 01 01 01 01}也、也就是６分……！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:25:0",
+  "message_id": "SEL_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}没那么差{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:25:1",
+  "message_id": "SEL_026",
+  "translation": "{F2 05 FF FF}{F1 41}还可以更低{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:26:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 1D 01}{F5 C1 03 01 01 01 01 01 0B 01}看、看吧！\n懂的人还是懂的！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:27:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1E 01}那不就是说，\n不懂的人就不懂嘛。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:28:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 05 01 04 01 01 01}{F5 61 02 01 01 01 01 01 1F 01}{F5 C1 03 01 01 01 01 01 0A 01}呜……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:29:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 20 01}那就２０分。\n也就是２分。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:30:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 21 01}{F5 C1 03 01 01 01 01 01 0A 01}{F5 C1 04 01 01 01 01 01 07 01}怎么会……\n倒不如说，那２分又是\n从哪里拿到的呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:31:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 22 01}所以，你们两个在干什么？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:32:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 23 01}我正和客人一起游览文化祭。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:32:1",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 24 01}方便的话，玛丽也一起如何？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:32:2",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0B 01 04 01 01 01}{F5 61 02 01 01 01 01 01 25 01}比起独处，人多一些，\n也更容易产生新想法。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:33:0",
+  "message_id": "SEL_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}就这么办{F5 47 02 01 01 01 03 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:33:1",
+  "message_id": "SEL_034",
+  "translation": "{F2 05 FF FF}{F1 41}要开诗歌大会吗？{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:34:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 26 01}也行。\n反正无聊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:34:1",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 27 01}{F5 C1 03 01 01 01 01 01 0B 01}……只是因为无聊哦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:35:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 11 01 04 01 01 01}{F5 61 02 01 01 01 01 01 28 01}那真是……好主意！\n向玛丽学习的话，\n一定能发现语言的深奥之处。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:36:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 29 01}不要。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:37:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 13 01 04 01 01 01}{F5 61 02 01 01 01 01 01 2A 01}{F5 C1 03 01 01 01 01 01 07 01}这、这样啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:38:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2B 01}只是逛逛的话，倒也行。\n反正无聊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:38:1",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2C 01}{F5 C1 03 01 01 01 01 01 0B 01}……只是因为无聊哦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:39:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玛丽也一起加入了文化祭游览……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:40:0",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 02 01 04 01 07 01}{F5 86 25 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 2D 01}迪奥，你把那个脱了吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:41:0",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 2E 01}啊……这条围裙吗？\n不，这可是姐姐特意送给我的……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:41:1",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 2F 01}我通过制作装备和道具，\n为大家提供帮助。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:41:2",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 30 01}可以说，这是我的身份象征。\n而且……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:41:3",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0B 01 04 01 01 01}{F5 61 02 01 01 01 01 01 31 01}……不觉得很适合我吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:42:0",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 32 01}……去下一个地方吧，{F1 82}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e801_120.bf.json:43:0",
+  "message_id": "MSG_044",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 08 01 06 01 01 01}{F5 61 02 01 01 01 01 01 33 01}{F5 C1 03 01 01 01 01 01 0B 01}请、请等一下！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:0:0",
+  "message_id": "BTL_MES_H108_064_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 03 02}副队长无法使用物理攻击。\n请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:1:0",
+  "message_id": "BTL_MES_H108_064_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 FA 01}副队长的物理攻击被封住了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:2:0",
+  "message_id": "BTL_MES_H108_064_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 04 02}花村的物理攻击被封住了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:3:0",
+  "message_id": "BTL_MES_H108_064_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 05 02}千枝的物理攻击被封住了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:4:0",
+  "message_id": "BTL_MES_H108_064_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 06 02}雪子无法使用物理攻击。\n请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:6:0",
+  "message_id": "BTL_MES_H108_064_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 07 02}巽的物理攻击被封住了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:7:0",
+  "message_id": "BTL_MES_H108_064_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 09 02}直斗的物理攻击被封住了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:8:0",
+  "message_id": "BTL_MES_H108_064_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 08 02}小熊无法使用物理攻击。\n请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:9:0",
+  "message_id": "BTL_MES_H108_064_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 FB 01}由加莉的物理攻击被封住了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:10:0",
+  "message_id": "BTL_MES_H108_064_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 FC 01}顺平\n的物理攻击被封住了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:11:0",
+  "message_id": "BTL_MES_H108_064_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 FD 01}真田前辈\n的物理攻击被封住了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:12:0",
+  "message_id": "BTL_MES_H108_064_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 FE 01}桐条前辈\n的物理攻击被封住了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:14:0",
+  "message_id": "BTL_MES_H108_064_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 01 02}埃癸斯无法使用物理攻击。\n请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:15:0",
+  "message_id": "BTL_MES_H108_064_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 FF 01}天田\n的物理攻击被封住了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:16:0",
+  "message_id": "BTL_MES_H108_064_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 00 01}小虎无法使用物理攻击。\n请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:17:0",
+  "message_id": "BTL_MES_H108_064_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 02 02}荒垣前辈的物理攻击被封住了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:18:0",
+  "message_id": "BTL_MES_H108_064_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0A 02}善无法使用物理攻击。\n请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:19:0",
+  "message_id": "BTL_MES_H108_064_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0A 02}善无法使用物理攻击。\n请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:20:0",
+  "message_id": "BTL_MES_H108_064_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 F9 01}队长无法使用物理攻击。\n请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(063).BMD.json:21:0",
+  "message_id": "BTL_MES_H108_064_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 F8 01}队长无法使用物理攻击。\n请小心。\n{F2 26 00 00}{00}"
+ }
+]

@@ -1,0 +1,52 @@
+[
+ {
+  "key": "export_base/event/e000/e010_010.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 19 01 01 01 01 01 01 01}{F5 86 02 01 10 01 21 01 04 01}{F5 C1 19 01 01 01 01 01 01 01}{F5 86 23 01 03 01 06 01 02 01}{F5 61 02 01 01 01 01 01 02 01}欢迎来到天鹅绒房间……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_010.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 01 01 06 01 01 01}{F5 61 02 01 01 01 01 01 03 01}这里是梦境与现实、\n精神与物质之间的场所……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_010.bf.json:1:1",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}看来您果然\n拥有不同寻常的命运。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_010.bf.json:1:2",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}卡牌正在低语。\n一场有些不同寻常的“事件”，\n正等待着您……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_010.bf.json:1:3",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 01 01 06 01 01 01}{F5 61 02 01 01 01 01 01 06 01}您是否已经有所预感？\n与您的命运之线交织的，\n究竟会是谁呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_010.bf.json:2:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞听了玛格丽特的话，\n　脑海中闪过一个声音……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_010.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 07 01}{F5 C1 04 01 01 01 01 01 03 01}真让人吃惊……你们很强呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_010.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_010.bf.json:4:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这就是玛格丽特所说的\n　命运……吗……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_010.bf.json:4:2",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞如果是这样，他的名字是……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

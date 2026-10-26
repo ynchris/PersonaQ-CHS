@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞过了一会儿……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞理世来了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 04 01 02 01}{F5 61 02 01 01 01 01 01 67 08}哦！\n理世，这边这边！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 05 01 02 01 04 01}{F5 61 02 01 01 01 01 01 C5 04}{F5 C1 03 01 01 01 01 01 05 01}啊，顺平学长？\n你怎么在这里？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 9B 08}哎呀，我也被\nＸ先生邀请来了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 09 05}哦，是这样啊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 01 01}我说，Ｘ先生\n自称恋爱大师，对吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 03 01 02 01}{F5 61 02 01 01 01 01 01 89 08}{F5 C1 03 01 01 01 01 01 0A 01}是、是啊。\n好像……有女朋友吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 49 05}而且听说有七个左右！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 01 01}每天换人约会，见谁都撩，\n还在同伴中接连交女朋友，\n瞒着其他同伴！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:6:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 05 01 01 01 04 01}{F5 61 02 01 01 01 01 01 FC 04}{F5 C1 03 01 01 01 01 01 03 01}真是烂透了！\n我一定要好好骂他一顿！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 B5 08}{F5 C1 03 01 01 01 01 01 0A 01}呃，这个……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 06 09}哎呀！\n我给忘了！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:7:2",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 A8 08}Ｘ先生那家伙说，\n因为感情纠纷闹得不可开交，\n这次取消了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 08 05}咦？\n什么嘛，原来如此。\n那也是他自作自受。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 04 01 02 01}{F5 61 02 01 01 01 01 01 75 08}果然会遭天谴啊！\n那就下次再说吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞理世回去了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 A4 08}{F5 C1 03 01 01 01 01 01 0A 01}喂喂……\n她到底是怎么理解的。\n不如说，你到底怎么邀请的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:11:1",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 A3 08}{F5 C1 03 01 01 01 01 01 04 01}下一个没问题吧……？\n话说，还会有下一个吧……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e800_833.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞等其他女生来吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

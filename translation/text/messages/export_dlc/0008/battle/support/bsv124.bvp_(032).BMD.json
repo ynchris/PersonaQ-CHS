@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(032).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_033_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2A 01}弱敌太多了！简直不敢相信！\n还有资料里没有的！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(032).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_033_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2B 01}弱敌太多了！烦死了！\n搞不懂！\n{F2 26 00 00}{00}"
+ }
+]

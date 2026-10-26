@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_base/title/nameentry.bin_nameentry.bmd.json:0:0",
+  "message_id": "MSG_NAME_ENTRY_HERO",
+  "translation": "{F2 05 FF FF}{F1 41}＞请输入所选主人公的姓名。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/title/nameentry.bin_nameentry.bmd.json:1:0",
+  "message_id": "MSG_NAME_ENTRY_GUEST",
+  "translation": "{F2 05 FF FF}{F1 41}＞请输入他的姓名。\n　\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/title/nameentry.bin_nameentry.bmd.json:2:0",
+  "message_id": "MSG_NAME_ENTRY_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}请输入主人公的姓名。\n触摸下屏即可选择文字。\n{00}"
+ },
+ {
+  "key": "export_base/title/nameentry.bin_nameentry.bmd.json:3:0",
+  "message_id": "MSG_NAME_ENTRY_GUEST_HEL",
+  "translation": "{F2 05 FF FF}{F1 41}请输入他的姓名。\n触摸下屏即可选择文字。\n{00}"
+ },
+ {
+  "key": "export_base/title/nameentry.bin_nameentry.bmd.json:4:0",
+  "message_id": "MSG_NOTEBOOKINPUT_NAME_H",
+  "translation": "{F2 05 FF FF}{F1 41}请输入擦肩通信昵称。\n触摸下屏即可选择文字。\n{00}"
+ },
+ {
+  "key": "export_base/title/nameentry.bin_nameentry.bmd.json:5:0",
+  "message_id": "MSG_NOTEBOOKINPUT_WORD_H",
+  "translation": "{F2 05 FF FF}{F1 41}请输入留言。\n触摸下屏即可选择文字。\n{00}"
+ }
+]

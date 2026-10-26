@@ -1,0 +1,262 @@
+[
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞看来这里是条死路……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 03 01 03 01 02 01}{F5 61 02 01 01 01 01 01 1E 07}{F5 C1 03 01 01 01 01 01 04 01}好累熊……\n想休息熊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 06 01 01 01}{F5 61 02 01 01 01 01 01 88 08}{F5 C1 03 01 01 01 01 01 04 01}太热了……\n汗根本停不下来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞看来大家都被热得够呛……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 03 01 65 01 02 01}{F5 61 02 01 01 01 01 01 F6 04}{F5 C1 03 01 01 01 01 01 08 01}热的时候，\n想想凉快的事情就好了呀！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 05 01}哈？\n这样怎么可能凉快……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0B 01}没、没那回事！\n不是说心态也会影响身体吗！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 E7 02}……可要想什么呢？\n说是“凉快的事情”……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞说到“凉快的事情”……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:9:0",
+  "message_id": "SEL_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}去海边游泳！{F5 47 02 01 01 01 0D 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:9:1",
+  "message_id": "SEL_009",
+  "translation": "{F2 05 FF FF}{F1 41}待在开着空调的室内！{F5 47 02 01 01 01 0D 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:9:2",
+  "message_id": "SEL_009",
+  "translation": "{F2 05 FF FF}{F1 41}理世和风花待的地方！{F5 47 02 01 01 01 0D 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:9:3",
+  "message_id": "SEL_009",
+  "translation": "{F2 05 FF FF}{F1 41}顺平的笑话！{F5 47 02 01 01 01 0D 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 9B 02}{F5 C1 03 01 01 01 01 01 07 01}啊，大海啊。\n说起来，我们一起去过呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 7F 03}{F5 C1 03 01 01 01 01 01 08 01}虽然出了点意外，\n不过玩得很开心呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 05 01 02 01 02 01}{F5 61 02 01 01 01 01 01 AA 05}{F5 C1 03 01 01 01 01 01 0B 01}那、那也是没办法啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 02 01}{F5 61 02 01 01 01 01 01 86 08}{F5 C1 03 01 01 01 01 01 01 01}海边，意外……！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:13:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 0B 01}难、难道你们！\n在海边犯下了夏日的错误！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 0A 01}某种意义上也算错误……吧。\n不过不是你想象的那种事，\n放心吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}我说顺平。\n我们不也一起去过屋久岛吗。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 84 08}{F5 C1 03 01 01 01 01 01 0A 01}那、那不一样吧……\n总觉得不好的回忆更多……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}是、是啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞休息之后，\n　心情反而低落了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:18:1",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 61 07 01 01 01 01 01 2F 02}＞全员体力恢复了，\n　但全员的精力下降了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 03 01 06 01 01 01}{F5 61 02 01 01 01 01 01 C0 03}开着空调的室内……\n比如图书馆？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 04 01 02 01}{F5 61 02 01 01 01 01 01 9A 08}{F5 C1 03 01 01 01 01 01 08 01}哦，图书馆不错啊！\n我也只有夏天才会去！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:21:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 05 01}咦，为什么只在夏天去呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:22:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 09 01 02 01 02 01}{F5 61 02 01 01 01 01 01 C6 07}还不是为了蹭空调。\n万一顺平真的去学习，\n那年夏天肯定会下雪。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:23:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 03 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}啊，也是呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:24:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 05 01 01 01 02 01}{F5 61 02 01 01 01 01 01 89 11}{F5 C1 03 01 01 01 01 01 0B 01}太过分了！\n风花你也别认同啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:25:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞大家忘记了时间，\n　好好休息了一番……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:25:1",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 61 07 01 01 01 01 01 2F 02}＞全员体力恢复了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:26:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0B 01 65 01 01 01}{F5 61 02 01 01 01 01 01 71 11}{F5 C1 03 01 01 01 01 01 05 01}诶？\n我和风花待的地方？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:27:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 02 01}{F5 61 02 01 01 01 01 01 01 01}啊，叫天鹅绒房间来着？\n那里的确凉飕飕的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:28:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 07 01 65 01 01 01}{F5 61 02 01 01 01 01 01 11 0B}{F5 C1 03 01 01 01 01 01 0A 01}的、的确……\n我们进行导航的天鹅绒房间，\n凉快倒是很凉快……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:29:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}可还得顾虑玛格丽特和玛丽，\n总觉得特别累呢！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:29:1",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}可不是光坐着享福哦！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:30:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 83 08}{F5 C1 03 01 01 01 01 01 0A 01}这、这样啊……\n那确实够辛苦的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:31:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 08 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}可能……两边都是地狱啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:32:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞休息之后，\n　心情反而低落了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:32:1",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 61 07 01 01 01 01 01 2F 02}＞全员体力恢复了，\n　但精力下降了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:33:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 89 11}{F5 C1 03 01 01 01 01 01 02 01}什……！？\n也不用说得这么直白吧！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:34:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 BA 02}只是说凉快而已哦？\n又没说是冷笑话，对吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:35:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}啊，也是。\n那就算了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:36:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 07 01}也太随便了！\n这就没事了！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:37:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 9B 08}{F5 C1 03 01 01 01 01 01 08 01}差点就举手投降，\n变成“不战而寒”的武士了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:38:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 0F 01 08 01 65 01 04 01}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 07 01 02 01 66 01 02 01}{F5 61 02 01 01 01 01 01 01 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:38:1",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 02 01 66 01 02 01}{F5 61 02 01 01 01 01 01 01 01}风花……\n你有没有觉得这边变冷了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:39:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}{F5 C1 04 01 01 01 01 01 04 01}是、是呢。\n有点冷……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:40:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 C7 02}{F5 C1 03 01 01 01 01 01 01 01}居然跨越次元了啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:41:0",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 61 07 01 01 01 01 01 2F 02}＞经过休息，\n全员体力恢复了！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e724_280.bf.json:41:1",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 61 07 01 01 01 01 01 2F 02}＞而且因为凉快了下来，\n　全员精力也恢复了！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

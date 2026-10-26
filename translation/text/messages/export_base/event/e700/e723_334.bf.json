@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_base/event/e700/e723_334.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞捡起了{F4 84 04 01 01 01 09 07}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_334.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞然而，手中的钥匙，\n　像被影子吸进去一样消失了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_334.bf.json:2:0",
+  "message_id": "MSG_0003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞{F4 84 04 01 01 01 09 07}消失了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_334.bf.json:2:1",
+  "message_id": "MSG_0003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞钥匙再次出现在脚边，\n　但现在捡起来，似乎也无法使用……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_334.bf.json:3:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 11 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 A1 11}亮着灯时捡起来，\n还是会消失的吧……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_334.bf.json:3:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}既然是接触光线就会消失，\n要不要试着把灯关掉？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

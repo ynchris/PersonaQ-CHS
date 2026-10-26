@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:0:0",
+  "message_id": "BTL_MES_H125_067_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 3D 02}哥哥攻击的力量，\n变弱了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:1:0",
+  "message_id": "BTL_MES_H125_067_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 34 02}副队长攻击的力量，\n好像变弱了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:2:0",
+  "message_id": "BTL_MES_H125_067_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 3E 02}阳介哥哥攻击的力量，\n变弱了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:3:0",
+  "message_id": "BTL_MES_H125_067_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 3F 02}千枝姐姐攻击的力量，\n变弱了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:4:0",
+  "message_id": "BTL_MES_H125_067_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 40 02}怎么办……雪子姐姐，\n攻击变弱了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:6:0",
+  "message_id": "BTL_MES_H125_067_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 41 02}完二哥哥攻击的力量，\n变弱了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:7:0",
+  "message_id": "BTL_MES_H125_067_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 43 02}直斗姐姐，要小心！\n攻击被削弱了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:8:0",
+  "message_id": "BTL_MES_H125_067_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 42 02}小熊先生攻击的力量，\n好像变弱了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:9:0",
+  "message_id": "BTL_MES_H125_067_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 35 02}由加莉姐姐攻击的力量，\n变弱了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:10:0",
+  "message_id": "BTL_MES_H125_067_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 36 02}顺平哥哥攻击的力量，\n好像变弱了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:11:0",
+  "message_id": "BTL_MES_H125_067_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 37 02}真田哥哥攻击的力量，\n变弱了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:12:0",
+  "message_id": "BTL_MES_H125_067_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 38 02}美鹤姐姐攻击的力量，\n好像变弱了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:14:0",
+  "message_id": "BTL_MES_H125_067_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 3B 02}埃癸斯姐姐攻击的力量，\n好像变弱了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:15:0",
+  "message_id": "BTL_MES_H125_067_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 39 02}乾攻击的力量，\n好像变弱了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:16:0",
+  "message_id": "BTL_MES_H125_067_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 3A 02}小虎攻击的力量，\n好像变弱了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:17:0",
+  "message_id": "BTL_MES_H125_067_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 3C 02}怎么办……荒垣哥哥的\n攻击变弱了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:18:0",
+  "message_id": "BTL_MES_H125_067_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 44 02}善哥哥攻击的力量，\n变弱了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:19:0",
+  "message_id": "BTL_MES_H125_067_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 44 02}善哥哥攻击的力量，\n变弱了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:20:0",
+  "message_id": "BTL_MES_H125_067_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 33 02}哥哥攻击的力量，\n被降低了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(066).BMD.json:21:0",
+  "message_id": "BTL_MES_H125_067_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 32 02}队长攻击的力量，\n变弱了！\n{F2 26 00 00}{00}"
+ }
+]

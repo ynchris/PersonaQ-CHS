@@ -1,0 +1,217 @@
+[
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 0E 01 04 01}{F5 61 02 01 01 01 01 01 02 01}我……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 0E 01 01 01}{F5 61 02 01 01 01 01 01 03 01}像我这样的人，不存在才好……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}像我这样的人，\n一开始没出生就好了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 0F 01 01 01}{F5 61 02 01 01 01 01 01 05 01}大家都能上学，也都有家人！\n可是我却孤零零地死了！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:1:1",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 0F 01 01 01}{F5 61 02 01 01 01 01 01 06 01}我……为什么会出生？\n净是痛苦，净是嫉妒别人……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:1:2",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 07 01}我究竟为什么来到这世上！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:2:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 08 01}玲……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 09 01}玲……\n其实，不需要什么“活过的意义”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:3:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0A 01}那种东西，谁都不曾拥有……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:3:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}你存在过，你活过。\n只要这样就够了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:3:3",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0C 01}你的存在，是独一无二的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:3:4",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0B 01 05 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}从人类诞生至今，\n以及今后永远的未来，\n名为你的存在，只有此刻的你。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:3:5",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}你不是其他任何人。\n所以你所做的一切，\n都是只有你才能做到的事。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 05 01 0F 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}这、这种话……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 10 01}因为你曾存在，\n你周围的人一定多少有了改变。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:5:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 11 01}因为你的话，\n有过开心，也有过悲伤。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:5:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}就这样，你一定改变过某个人。\n你让某个人活了下去。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:5:3",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 13 01}而你，也一定被某个人改变过。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:5:4",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0B 01 05 01 01 01}{F5 61 02 01 01 01 01 01 14 01}你提过的母亲、护士和朋友……\n无论是否如你所愿，\n你被改变着……一路活了下来。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:5:5",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 15 01}即使你不在了，\n你曾存在的世界也会延续。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:5:6",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 16 01}但那是你曾活过的世界。\n是因为你活过，\n哪怕只有一点点，也改变了的世界。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:5:7",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 17 01}你曾作为那个世界中\n一枚小小的齿轮存在着。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:5:8",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0B 01 05 01 01 01}{F5 61 02 01 01 01 01 01 18 01}不是因为做成了什么，才算活过……\n你活过……这本身，\n不就是你活过的意义吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 0E 01 01 01}{F5 61 02 01 01 01 01 01 19 01}我……活过……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:6:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1A 01}我……真的活过吗……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:7:0",
+  "message_id": "SEL_TALK006",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 03 01 02 01 01 01 02 01}我觉得是{F5 47 02 01 03 01 03 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:7:1",
+  "message_id": "SEL_TALK006",
+  "translation": "{F2 05 FF FF}{F1 41}你努力地活过了{F5 47 02 01 03 01 03 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:7:2",
+  "message_id": "SEL_TALK006",
+  "translation": "{F2 05 FF FF}{F1 41}……{00}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 29 01 02 01 0E 01 01 01}{F5 61 02 01 01 01 01 01 1B 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 1C 01}我们不认识生前的你……\n可只要看看现在的你，就会明白。\n你竭尽全力地活过，努力活到了最后。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 0F 01 01 01}{F5 61 02 01 01 01 01 01 1D 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:10:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1E 01}谢谢……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:10:2",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1F 01}我一定……\n一直想听谁对我这么说……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 09 01 07 01 02 01}{F5 61 02 01 01 01 01 01 20 01}你活过了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 21 01}{F5 C1 04 01 01 01 01 01 04 01}嗯……谢谢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 05 01 01 01}{F5 61 02 01 01 01 01 01 22 01}原来……你寻求的，\n只是这样一句话……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:13:1",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 23 01}让你痛苦了这么久，我……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:13:2",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 24 01}……对不起。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 09 01 0F 01 01 01}{F5 61 02 01 01 01 01 01 25 01}善……\n我很开心。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:15:0",
+  "message_id": "MSG_0132",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 26 01}{F5 C1 04 01 01 01 01 01 04 01}我确实活过了。\n拼尽全力……活过了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:15:1",
+  "message_id": "MSG_0132",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 0F 01 01 01}{F5 61 02 01 01 01 01 01 27 01}善，谢谢你。\n谢谢你一直等着我……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:15:2",
+  "message_id": "MSG_0132",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 09 01 0F 01 01 01}{F5 61 02 01 01 01 01 01 28 01}我要和你一起走。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e500_160.bf.json:16:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 29 01}……嗯。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

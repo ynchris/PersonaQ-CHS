@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(102).BMD.json:0:0",
+  "message_id": "BTL_MES_H125_103_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B8 02}啊！逃走了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(102).BMD.json:1:0",
+  "message_id": "BTL_MES_H125_103_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B9 02}啊……敌人走掉了……\n{F2 26 00 00}{00}"
+ }
+]

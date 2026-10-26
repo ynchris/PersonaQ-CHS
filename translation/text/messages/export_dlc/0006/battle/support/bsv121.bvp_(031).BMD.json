@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(031).BMD.json:0:0",
+  "message_id": "BTL_MES_H121_032_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 28 01}杂兵６名！数量众多。\n也有资料中没有的敌人。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(031).BMD.json:1:0",
+  "message_id": "BTL_MES_H121_032_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 29 01}虽是弱敌，却足有６名。\n万万不可大意……是也。\n{F2 26 00 00}{00}"
+ }
+]

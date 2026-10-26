@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(177).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_178_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 30 03}这家伙气死人了！\n脚又复活了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(177).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_178_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 31 03}这家伙太狡猾……就是狡猾！\n脚又复活了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(177).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_178_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 32 03}这算什么？搞不懂啊！\n脚又复活了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(177).BMD.json:3:0",
+  "message_id": "BTL_MES_H124_178_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 33 03}什么家伙！卑鄙！狡猾！！\n脚又复活了！！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(177).BMD.json:4:0",
+  "message_id": "BTL_MES_H124_178_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 34 03}咦……那些脚，\n是按各自的时间复活的？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(177).BMD.json:5:0",
+  "message_id": "BTL_MES_H124_178_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 35 03}要是在相近时间破坏４条脚……\n能不能让头多露出来一会儿？\n{F2 26 00 00}{00}"
+ }
+]

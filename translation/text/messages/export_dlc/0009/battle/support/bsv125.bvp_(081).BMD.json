@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(081).BMD.json:0:0",
+  "message_id": "BTL_MES_H125_082_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 93 02}敌人还剩３名！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(081).BMD.json:1:0",
+  "message_id": "BTL_MES_H125_082_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 94 02}敌人呀，还剩３名哦！\n{F2 26 00 00}{00}"
+ }
+]

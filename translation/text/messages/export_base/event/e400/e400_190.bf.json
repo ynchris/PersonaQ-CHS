@@ -1,0 +1,402 @@
+[
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞时钟塔前……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 13 01 02 01 02 01}{F5 61 02 01 01 01 01 01 02 01}我不知道，该如何称呼\n那时在我心中萌生的东西……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}如果我也有心脏，\n就想把它挖出来捏碎……\n那是这样的“感情”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 04 01}她绝不可能重新活过来……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}可你却实现了\n玲生前的愿望……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 06 01}……就像在饥饿的人面前\n摆满丰盛的饭菜，\n却告诉对方“不许吃”……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:3:0",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}也许，这是同样\n残酷的事……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 05 01 01 01}{F5 61 02 01 01 01 01 01 08 01}嗯……我伤害了她……\n还被不成熟的感情左右，\n夺走了她的记忆。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:4:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}我……掩盖了自己的失败……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 08 01 01 01 01 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 0A 01}善……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}时光流转，吞没一切……\n柯罗诺斯遵循时间，\n前去宣告时间的终结。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:6:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0C 01}我是柯罗诺斯。\n无法违背那个使命。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:7:0",
+  "message_id": "MSG_0052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}既然如此，至少，至少……\n我想给她一个\n她渴求的“答案”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:7:1",
+  "message_id": "MSG_0052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0E 01}“我究竟为了什么而活？”……\n她拼命追寻的答案，\n我想告诉她……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:8:0",
+  "message_id": "MSG_0053",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}可我不明白。\n我没有生，没有死，没有时间……\n就连心，也不曾有。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:8:1",
+  "message_id": "MSG_0053",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 10 01}连一句能安慰她的话，\n我都说不出来……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:8:2",
+  "message_id": "MSG_0053",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 11 01}……所以，我选择了“搁置”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:9:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}你没有带走玲……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:10:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 13 01}是的……\n我把柯罗诺斯的力量留在另半身，\n藏进了这座时钟塔。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:10:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 14 01}又封印了自己的记忆，\n藏在这所学校的几个房间里。\n……和玲的物品一起。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:10:2",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 15 01}后来，那些地方变成了迷宫……\n为了不让人触及深处的“真相”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:10:3",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 16 01}迷宫深处的守卫，也是玲\n为了不让人触及“真相”而创造的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:11:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 01 01 01 01 01 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 17 01}原来迷宫和守卫，\n是这样诞生的……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:11:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 18 01}……可是，那时玲\n不是已经失去记忆了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:12:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 19 01}……所谓遗忘，\n就是将记忆关进无意识之中，\n牢牢封印……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:12:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1A 01}玲的确什么都不记得。\n可在无意识里，\n她始终害怕着“真相”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:12:2",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1B 01}玲之所以不停地吃东西，\n大概也是因为渴望着……\n想活下去……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:13:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 11 01 03 01 01 01}{F5 61 02 01 01 01 01 01 1C 01}小玲……\n她吃得那么香，原来是……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:14:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1D 01}{F5 C1 04 01 01 01 01 01 02 01}我藏起一切，移开目光……\n决定和玲两个人，\n在这里度过漫长而安宁的时光……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:14:1",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1E 01}{F5 C1 04 01 01 01 01 01 02 01}直到有一天，我能告诉她\n“活过的意义”为止……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:14:2",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 1F 01}是我……是我为了自己，\n把玲困在了这里……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:15:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 20 01}原来是这样……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:16:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 21 01}抱歉，把你们卷了进来……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:16:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 22 01}你们听见刚才的钟声了吧？\n天鹅绒房间门上的\n第４把锁应该已经打开……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:16:2",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 23 01}你们可以回到原来的地方了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:17:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 24 01}就算说……可以回去……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:18:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 25 01}这里是个不稳定的地方。\n也许会和身为主人的玲一起消失……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:18:1",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 26 01}回去吧……趁还能回去。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:19:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 27 01}怎么这样……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:20:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 28 01}……善，你打算怎么办？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:21:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 29 01}去玲那里……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:21:1",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 2A 01}我答应过，会和玲在一起。\n而且……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:22:0",
+  "message_id": "MSG_0182",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 05 01 01 01}{F5 61 02 01 01 01 01 01 2B 01}我没办法丢下那孩子……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:23:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2C 01}你要去？就凭你一个人？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:23:1",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2D 01}时钟塔变成了这样，\n里面想必全是强大的阴影。\n而塔顶还有那只蜘蛛。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:23:2",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 2E 01}你一个人，能应付得了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:24:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 2F 01}{F5 C1 04 01 01 01 01 01 02 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:24:1",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 30 01}{F5 C1 04 01 01 01 01 01 02 01}只能……去做……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:25:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 31 01}笨蛋……\n不是这样吧！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:25:1",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 32 01}真想救玲的话，\n就算拖也得把我们\n一起拖去啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:26:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 13 01 05 01 01 01}{F5 61 02 01 01 01 01 01 33 01}……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:27:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 34 01}你引起的事，\n就由你来做个了结。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:27:1",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 35 01}……我们会在旁边看着。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:28:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 36 01}{F5 C1 04 01 01 01 01 01 02 01}明彦……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:29:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 37 01}嗯。\n既然如此，就在最近的地方看着吧。\n这才是所谓的……伙伴吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:30:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 13 01 02 01 02 01}{F5 61 02 01 01 01 01 01 38 01}伙伴……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:30:1",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 4B 01}原来如此……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:31:0",
+  "message_id": "MSG_0262",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 03 01 02 01 01 01 04 01}{F5 86 15 01 13 01 05 01 02 01}{F5 61 02 01 01 01 01 01 39 01}{F1 82}……\n……愿意和我一起去吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:32:0",
+  "message_id": "SEL_TALK027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}好{F5 47 02 01 03 01 07 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:32:1",
+  "message_id": "SEL_TALK027",
+  "translation": "{F2 05 FF FF}{F1 41}事到如今还说什么{F5 47 02 01 03 01 07 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:33:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 05 01 05 01 01 01}{F5 61 02 01 01 01 01 01 3A 01}谢谢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:34:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3B 01}我们没有理由接受你的道谢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:34:1",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3C 01}{F5 C1 04 01 01 01 01 01 04 01}我……\n不，大概在场所有人，\n都想救出玲。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:34:2",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 3D 01}{F5 C1 04 01 01 01 01 01 04 01}反倒应该由我们请求善，\n带我们一起去。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:34:3",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 07 01 04 01 01 01}{F5 61 02 01 01 01 01 01 3E 01}善先生，带上我们！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:35:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 09 01 05 01 01 01}{F5 61 02 01 01 01 01 01 3F 01}嗯……嗯……希望你们一起来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:36:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 40 01}是啊……事到如今……\n让玲受了那么多苦，现在我却……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:37:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 41 01}不是那个意思。\n是说不用到现在还跟我们低头。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:38:0",
+  "message_id": "MSG_0322",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 42 01}{F5 C1 04 01 01 01 01 01 04 01}我们可没法不管。\n无论是玲……还是你。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:38:1",
+  "message_id": "MSG_0322",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 43 01}……所以，让我们一起去！\n只能回答好或者可以。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:39:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 05 01 05 01 01 01}{F5 61 02 01 01 01 01 01 44 01}……谢谢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:40:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 45 01}说好了，好还是可以？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:41:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 09 01 05 01 01 01}{F5 61 02 01 01 01 01 01 46 01}好，也可以……\n拜托了，希望你们一起来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:42:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 07 01 01 01}{F5 61 02 01 01 01 01 01 47 01}那就决定了。\n再次请多关照，善。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:42:1",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0F 01 05 01 04 01}{F5 61 02 01 01 01 01 01 48 01}先回去重新准备，\n然后一起走吧？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:42:2",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 49 01}玲一定在等我们。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:43:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 4A 01}{F5 C1 04 01 01 01 01 01 02 01}嗯……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:44:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞化为异形的时钟塔……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:44:1",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞在那顶端，\n　玲被蜘蛛般的阴影\n　紧紧缠住……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e400_190.bf.json:44:2",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞按捺住焦急的心情，\n　决定先返回校内……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

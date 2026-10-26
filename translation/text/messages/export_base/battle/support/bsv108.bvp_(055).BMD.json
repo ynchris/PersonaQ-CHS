@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:0:0",
+  "message_id": "BTL_MES_H108_056_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 64 01}副队长的体力十分危险！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:1:0",
+  "message_id": "BTL_MES_H108_056_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5B 01}副队长的伤势很严重。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:2:0",
+  "message_id": "BTL_MES_H108_056_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 65 01}花村的体力所剩无几！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:3:0",
+  "message_id": "BTL_MES_H108_056_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 66 01}千枝的伤势很严重！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:4:0",
+  "message_id": "BTL_MES_H108_056_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 67 01}雪子的体力所剩无几！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:6:0",
+  "message_id": "BTL_MES_H108_056_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 68 01}巽的体力很危险！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:7:0",
+  "message_id": "BTL_MES_H108_056_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6A 01}直斗的伤势很严重！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:8:0",
+  "message_id": "BTL_MES_H108_056_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 69 01}小熊受伤太重了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:9:0",
+  "message_id": "BTL_MES_H108_056_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5C 01}由加莉的体力十分危险！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:10:0",
+  "message_id": "BTL_MES_H108_056_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5D 01}顺平的伤势很严重！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:11:0",
+  "message_id": "BTL_MES_H108_056_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5E 01}真田前辈的体力下降了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:12:0",
+  "message_id": "BTL_MES_H108_056_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5F 01}桐条前辈处境危险！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:14:0",
+  "message_id": "BTL_MES_H108_056_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 62 01}埃癸斯的伤势已到危险程度！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:15:0",
+  "message_id": "BTL_MES_H108_056_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 60 01}天田的伤势很严重！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:16:0",
+  "message_id": "BTL_MES_H108_056_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 61 01}小虎已经很虚弱了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:17:0",
+  "message_id": "BTL_MES_H108_056_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 63 01}荒垣前辈的体力所剩无几！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:18:0",
+  "message_id": "BTL_MES_H108_056_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6B 01}善和玲的体力所剩无几！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:19:0",
+  "message_id": "BTL_MES_H108_056_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6C 01}善的体力所剩无几！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:20:0",
+  "message_id": "BTL_MES_H108_056_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5A 01}队长的体力所剩无几！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(055).BMD.json:21:0",
+  "message_id": "BTL_MES_H108_056_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 59 01}队长的体力所剩无几，请恢复！\n{F2 26 00 00}{00}"
+ }
+]

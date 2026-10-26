@@ -1,0 +1,62 @@
+[
+ {
+  "key": "export_base/event/e700/e722_200.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 50 03}{F5 C1 03 01 01 01 01 01 05 01}……好像在动啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_200.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}嗯，确实在动。\n大概是自动步道之类的东西吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_200.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 6B 11}{F5 C1 03 01 01 01 01 01 07 01}啊，就是大车站里有的那种！？\n我在电视上看过！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_200.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 28 0A}原来你们的城镇里没有啊……\n正式名称叫自动人行道。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_200.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 7D 03}{F5 C1 03 01 01 01 01 01 08 01}我一直想坐１次\n试试看呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_200.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}呐，快上去吧？好不好，好不好？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_200.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}等等！\n还不知道前面是什么情况。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_200.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}要坐，也得先做好充分准备。\n明白了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_200.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 11 01 05 01 02 01}{F5 61 02 01 01 01 01 01 C0 03}我觉得差不多可以坐了……\n怎么样？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_200.bf.json:7:0",
+  "message_id": "SEL_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 01 01 02 01 01 01 01 01}坐上去试试{F5 47 02 01 01 01 03 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_200.bf.json:7:1",
+  "message_id": "SEL_007",
+  "translation": "{F2 05 FF FF}{F1 41}暂时不坐{F5 47 02 01 01 01 05 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_200.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞等做好准备再来吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

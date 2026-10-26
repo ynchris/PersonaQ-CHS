@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_base/event/e600/e620_060.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 02 01}{F3 06 00 01 00 01}对了，我想到个好主意！\n大家一起拍张照吧？\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e620_060.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 03 01}{F3 06 00 01 00 01}啊，好啊！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e620_060.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 04 01}{F3 06 00 01 00 01}那大家都靠过来吧。\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e620_060.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 05 01}{F3 06 00 01 00 01}一、二……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e620_060.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 06 01}{F3 06 00 01 00 01}大家……谢谢你们。\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e620_060.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 07 01}{F3 06 00 01 00 01}能遇见你们，真好……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ }
+]

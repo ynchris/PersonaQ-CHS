@@ -1,0 +1,257 @@
+[
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:0:0",
+  "message_id": "P4_HERO_FOE_FOLLOW_START",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 02 01}被Ｆ．Ｏ．Ｅ发现了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:1:0",
+  "message_id": "P4_HERO_FOE_FOLLOW_START",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 03 01}糟了，Ｆ．Ｏ．Ｅ注意到我们了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:2:0",
+  "message_id": "P4_HERO_FOE_FOLLOW_START",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 04 01}Ｆ．Ｏ．Ｅ追过来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:3:0",
+  "message_id": "P4_HERO_FOE_SENSOR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 05 01}Ｆ．Ｏ．Ｅ就在附近！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:4:0",
+  "message_id": "P4_HERO_FOE_SENSOR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 06 01}有Ｆ．Ｏ．Ｅ。小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:5:0",
+  "message_id": "P4_HERO_FOE_SENSOR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 07 01}发现Ｆ．Ｏ．Ｅ，请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:6:0",
+  "message_id": "P4_HERO_FOE_FOLLOW_END1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 08 01}Ｆ．Ｏ．Ｅ好像对我们没兴趣了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:7:0",
+  "message_id": "P4_HERO_FOE_FOLLOW_END2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 09 01}总算甩掉了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:8:0",
+  "message_id": "P4_HERO_FOE_FOLLOW_END3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0A 01}呼……已经不追过来了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:9:0",
+  "message_id": "P4_HERO_PARTY_HPTP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0B 01}呼…休息一下吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:10:0",
+  "message_id": "P4_HERO_PARTY_HPTP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0C 01}抱歉，差不多到极限了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:11:0",
+  "message_id": "P4_HERO_PARTY_HPTP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0D 01}哈……真吃力……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:12:0",
+  "message_id": "P4_HERO_PARTY_HP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0E 01}哈…体力撑不住了…\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:13:0",
+  "message_id": "P4_HERO_PARTY_HP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0F 01}体力…要耗尽了…\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:14:0",
+  "message_id": "P4_HERO_PARTY_HP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 10 01}唔……实在吃不消……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:15:0",
+  "message_id": "P4_HERO_PARTY_TP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 11 01}唔，耐力耗尽了吗……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:16:0",
+  "message_id": "P4_HERO_PARTY_TP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 12 01}耐力……撑不住了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:17:0",
+  "message_id": "P4_HERO_PARTY_TP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 13 01}不行，精力快耗尽了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:18:0",
+  "message_id": "P4_HERO_STAIR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 14 01}是楼梯！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:19:0",
+  "message_id": "P4_HERO_STAIR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 15 01}发现楼梯。\n继续前进吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:20:0",
+  "message_id": "P4_HERO_STAIR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 16 01}有楼梯。\n准备好了吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:21:0",
+  "message_id": "P4_HERO_TREASURE1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 17 01}有宝箱……要打开吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:22:0",
+  "message_id": "P4_HERO_TREASURE2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 18 01}是宝箱。怎么办？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:23:0",
+  "message_id": "P4_HERO_TREASURE3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 19 01}宝箱啊……有点在意。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:24:0",
+  "message_id": "P4_HERO_FOUNTAIN1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1A 01}有能量点。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:25:0",
+  "message_id": "P4_HERO_FOUNTAIN2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1B 01}有能量点……\n要过去看看吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:26:0",
+  "message_id": "P4_HERO_FOUNTAIN3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1C 01}……嗯？\n又有那个能量点了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:27:0",
+  "message_id": "P4_HERO_SEARCH_OBJ1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1D 01}这附近是不是有点可疑……？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:28:0",
+  "message_id": "P4_HERO_SEARCH_OBJ2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1E 01}这附近好像有东西……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:29:0",
+  "message_id": "P4_HERO_SEARCH_OBJ3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1F 01}前面有东西……\n调查一下吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:30:0",
+  "message_id": "P4_HERO_SWITCH1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 20 01}找到开关了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:31:0",
+  "message_id": "P4_HERO_SWITCH2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 21 01}这是……控制什么的开关？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:32:0",
+  "message_id": "P4_HERO_SWITCH3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 22 01}……嗯？\n好像有个开关。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:33:0",
+  "message_id": "P4_HERO_SHORTCUT1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 23 01}前面的墙好像藏着什么……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:34:0",
+  "message_id": "P4_HERO_SHORTCUT2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 24 01}嗯……？那面墙……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:35:0",
+  "message_id": "P4_HERO_SHORTCUT3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 25 01}要不要调查一下那面墙？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:36:0",
+  "message_id": "P4_HERO_PARTY_HPTP15_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0B 01}呼…休息一下吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:37:0",
+  "message_id": "P4_HERO_PARTY_HPTP15_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0C 01}抱歉，差不多到极限了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:38:0",
+  "message_id": "P4_HERO_PARTY_HPTP15_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0D 01}哈……真吃力……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:39:0",
+  "message_id": "P4_HERO_PARTY_TP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 11 01}唔，耐力耗尽了吗……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:40:0",
+  "message_id": "P4_HERO_PARTY_TP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 12 01}耐力……撑不住了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:41:0",
+  "message_id": "P4_HERO_PARTY_TP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 13 01}不行，精力快耗尽了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:42:0",
+  "message_id": "P4_HERO_PARTY_HP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0E 01}哈…体力撑不住了…\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:43:0",
+  "message_id": "P4_HERO_PARTY_HP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0F 01}体力…要耗尽了…\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:44:0",
+  "message_id": "P4_HERO_PARTY_HP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 10 01}唔……实在吃不消……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:45:0",
+  "message_id": "P4_HERO_FOE_NEAR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 02 01}被Ｆ．Ｏ．Ｅ发现了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:46:0",
+  "message_id": "P4_HERO_FOE_NEAR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 03 01}糟了，Ｆ．Ｏ．Ｅ注意到我们了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:47:0",
+  "message_id": "P4_HERO_FOE_NEAR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 04 01}Ｆ．Ｏ．Ｅ追过来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:48:0",
+  "message_id": "P4_HERO_ME_LEVEL_UP1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 26 01}好像快要升级了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:49:0",
+  "message_id": "P4_HERO_ME_LEVEL_UP2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 27 01}好，再过一会儿就升级了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc001.arc_p4hero_support.bf.json:50:0",
+  "message_id": "P4_HERO_ME_LEVEL_UP3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 28 01}离升级只差一点了吧……\n{F2 26 00 00}{00}"
+ }
+]

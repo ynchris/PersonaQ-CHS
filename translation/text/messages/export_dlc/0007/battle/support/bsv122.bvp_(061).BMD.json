@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:0:0",
+  "message_id": "BTL_MES_H122_062_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DC 01}副队长陷入混乱了。\n……没有人能治好吗……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:1:0",
+  "message_id": "BTL_MES_H122_062_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D3 01}副队长陷入混乱了。\n……但愿不会攻击我们……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:2:0",
+  "message_id": "BTL_MES_H122_062_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DD 01}花村阳介先生陷入混乱了。\n似乎已经分不清敌我了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:3:0",
+  "message_id": "BTL_MES_H122_062_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DE 01}里中千枝小姐陷入混乱了。\n千枝小姐，敌人在那边。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:4:0",
+  "message_id": "BTL_MES_H122_062_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DF 01}天城雪子小姐陷入混乱了。\n建议尽早处理。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:6:0",
+  "message_id": "BTL_MES_H122_062_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E0 01}巽完二先生陷入混乱了。\n似乎已经分不清敌我了呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:7:0",
+  "message_id": "BTL_MES_H122_062_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E2 01}白钟直斗小姐陷入混乱了。\n请警惕她攻击同伴。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:8:0",
+  "message_id": "BTL_MES_H122_062_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E1 01}小熊先生陷入混乱了。\n……真是拿小熊先生没办法……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:9:0",
+  "message_id": "BTL_MES_H122_062_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D4 01}岳羽由加莉小姐陷入混乱了。\n各位有治疗的手段吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:10:0",
+  "message_id": "BTL_MES_H122_062_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D5 01}伊织顺平先生陷入混乱了。\n也许会攻击同伴呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:11:0",
+  "message_id": "BTL_MES_H122_062_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D6 01}真田明彦先生陷入混乱了。\n请警惕同伴相残。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:12:0",
+  "message_id": "BTL_MES_H122_062_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D7 01}桐条美鹤小姐陷入混乱了。\n似乎已经分不清敌我了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:14:0",
+  "message_id": "BTL_MES_H122_062_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DA 01}埃癸斯小姐陷入混乱了。\n请立即恢复。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:15:0",
+  "message_id": "BTL_MES_H122_062_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D8 01}天田乾先生陷入混乱了。\n……但愿不会攻击同伴……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:16:0",
+  "message_id": "BTL_MES_H122_062_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D9 01}虎狼丸先生陷入混乱了。\n请警惕它攻击同伴。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:17:0",
+  "message_id": "BTL_MES_H122_062_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DB 01}荒垣真次郎先生陷入混乱了。\n请小心他攻击同伴。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:18:0",
+  "message_id": "BTL_MES_H122_062_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E3 01}善先生和玲小姐陷入混乱了。\n建议立即处理。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:19:0",
+  "message_id": "BTL_MES_H122_062_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E4 01}善先生陷入混乱了。\n请警惕他攻击同伴。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:20:0",
+  "message_id": "BTL_MES_H122_062_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D2 01}队长陷入混乱了。\n扇一巴掌能治好吗……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(061).BMD.json:21:0",
+  "message_id": "BTL_MES_H122_062_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D1 01}队长陷入混乱了。\n请警惕同伴相残。\n{F2 26 00 00}{00}"
+ }
+]

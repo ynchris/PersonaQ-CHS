@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(103).BMD.json:0:0",
+  "message_id": "BTL_MES_H105_104_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DA 02}啊，前辈！怎么会…骗人的吧…\n前辈！前辈——！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(103).BMD.json:1:0",
+  "message_id": "BTL_MES_H105_104_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DB 02}前辈，不行！啊……怎么会……\n这太残酷了……前辈！\n{F2 26 00 00}{00}"
+ }
+]

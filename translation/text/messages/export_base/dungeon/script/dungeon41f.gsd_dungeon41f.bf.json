@@ -1,0 +1,42 @@
+[
+ {
+  "key": "export_base/dungeon/script/dungeon41f.gsd_dungeon41f.bf.json:3:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}＞有一部电梯…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon41f.gsd_dungeon41f.bf.json:4:0",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}前往１楼{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon41f.gsd_dungeon41f.bf.json:4:1",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}前往５楼{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon41f.gsd_dungeon41f.bf.json:4:2",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}前往８楼{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon41f.gsd_dungeon41f.bf.json:4:3",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}暂时算了{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon41f.gsd_dungeon41f.bf.json:5:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}＞要离开迷宫吗…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon41f.gsd_dungeon41f.bf.json:6:0",
+  "message_id": "SEL_003",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon41f.gsd_dungeon41f.bf.json:6:1",
+  "message_id": "SEL_003",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ }
+]

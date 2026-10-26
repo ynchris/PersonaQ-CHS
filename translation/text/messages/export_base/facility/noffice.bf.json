@@ -1,0 +1,82 @@
+[
+ {
+  "key": "export_base/facility/noffice.bf.json:0:0",
+  "message_id": "NOFFICE_HELLO_MARGARET",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 05 01 05 01 02 01}{F5 61 08 01 01 01 01 01 11 01}欢迎。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/noffice.bf.json:1:0",
+  "message_id": "NOFFICE_HELLO_ELIZABETH_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 09 01 02 01 02 01}{F5 61 08 01 01 01 01 01 08 01}欢迎。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/noffice.bf.json:2:0",
+  "message_id": "NOFFICE_HELLO_ELIZABETH_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0F 01 05 01 02 01}{F5 61 08 01 01 01 01 01 08 01}欢迎。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/noffice.bf.json:3:0",
+  "message_id": "NOFFICE_TL_WARNING_3F",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 02 01}您是否忘记了\n有期限的委托呢？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/noffice.bf.json:3:1",
+  "message_id": "NOFFICE_TL_WARNING_3F",
+  "translation": "{F2 05 FF FF}{F1 41}若是忘记了，请尽早完成，\n并向我报告。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/noffice.bf.json:4:0",
+  "message_id": "NOFFICE_TL_WARNING_4F",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 02 01}委托的期限\n已经快到了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/noffice.bf.json:4:1",
+  "message_id": "NOFFICE_TL_WARNING_4F",
+  "translation": "{F2 05 FF FF}{F1 41}建议您再确认一下\n委托内容。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/noffice.bf.json:5:0",
+  "message_id": "QUEST_TIMEUP",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 02 01}有委托\n已经过期了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/noffice.bf.json:5:1",
+  "message_id": "QUEST_TIMEUP",
+  "translation": "{F2 05 FF FF}{F1 41}下次可别再忘记委托，\n也别忘了我……\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/noffice.bf.json:6:0",
+  "message_id": "QUEST_TIMEUP_AND_WARNIMG",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 02 01}另外，我也准备了\n下一批限时委托。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/noffice.bf.json:6:1",
+  "message_id": "QUEST_TIMEUP_AND_WARNIMG",
+  "translation": "{F2 05 FF FF}{F1 41}若是忘记了，请尽早完成，\n并向我报告。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/noffice.bf.json:7:0",
+  "message_id": "QUEST_TIMEUP_AND_WARNIMG",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 02 01}另外，下一份委托的期限\n也已经快到了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/noffice.bf.json:7:1",
+  "message_id": "QUEST_TIMEUP_AND_WARNIMG",
+  "translation": "{F2 05 FF FF}{F1 41}建议您再确认一下\n委托内容。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/noffice.bf.json:10:0",
+  "message_id": "NOFFICE_OUT_MARGARET",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 05 01 05 01 02 01}{F5 61 08 01 01 01 01 01 12 01}那么，再会。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/noffice.bf.json:11:0",
+  "message_id": "NOFFICE_OUT_ELIZABETH_BL",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 09 01 02 01 02 01}{F5 61 08 01 01 01 01 01 09 01}欢迎您再次光临。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/noffice.bf.json:12:0",
+  "message_id": "NOFFICE_OUT_ELIZABETH_NU",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0F 01 05 01 02 01}{F5 61 08 01 01 01 01 01 09 01}欢迎您再次光临。\n{F1 21}{00}"
+ }
+]

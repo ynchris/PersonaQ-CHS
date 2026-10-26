@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:0:0",
+  "message_id": "BTL_MES_H122_056_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 64 01}副队长的体力所剩无几。\n建议尽早恢复。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:1:0",
+  "message_id": "BTL_MES_H122_056_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5B 01}副队长的体力告急。\n不妨尽早恢复，如何？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:2:0",
+  "message_id": "BTL_MES_H122_056_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 65 01}请留意花村阳介先生的体力。\n体力已经减少了许多。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:3:0",
+  "message_id": "BTL_MES_H122_056_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 66 01}里中千枝小姐的体力告急。\n不妨恢复一下，如何？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:4:0",
+  "message_id": "BTL_MES_H122_056_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 67 01}天城雪子小姐的体力告急。\n恐怕需要下达恢复指示……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:6:0",
+  "message_id": "BTL_MES_H122_056_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 68 01}巽完二先生的体力所剩无几。\n不妨恢复一下，如何？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:7:0",
+  "message_id": "BTL_MES_H122_056_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6A 01}白钟直斗小姐的体力减得太多了。\n放任不管恐怕很危险……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:8:0",
+  "message_id": "BTL_MES_H122_056_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 69 01}小熊先生已经伤痕累累了呢。\n建议安排恢复。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:9:0",
+  "message_id": "BTL_MES_H122_056_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5C 01}岳羽由加莉小姐的体力告急。\n建议尽早恢复。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:10:0",
+  "message_id": "BTL_MES_H122_056_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5D 01}伊织顺平先生似乎受伤不轻。\n不妨尽早恢复，如何？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:11:0",
+  "message_id": "BTL_MES_H122_056_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5E 01}真田明彦先生的伤势很严重呢。\n是不是该赶快恢复呢？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:12:0",
+  "message_id": "BTL_MES_H122_056_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5F 01}桐条美鹤小姐的体力告急。\n还请多加小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:14:0",
+  "message_id": "BTL_MES_H122_056_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 62 01}埃癸斯小姐的体力告急。\n不妨赶快恢复，如何？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:15:0",
+  "message_id": "BTL_MES_H122_056_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 60 01}天田乾先生的体力告急。\n建议尽早恢复。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:16:0",
+  "message_id": "BTL_MES_H122_056_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 61 01}请留意虎狼丸先生的体力。\n已经进入危险范围了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:17:0",
+  "message_id": "BTL_MES_H122_056_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 63 01}荒垣真次郎先生的伤势很严重呢。\n不妨趁还来得及，尽快恢复？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:18:0",
+  "message_id": "BTL_MES_H122_056_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6B 01}善先生和玲小姐的体力告急。\n恐怕需要尽快恢复。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:19:0",
+  "message_id": "BTL_MES_H122_056_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6C 01}善先生的体力减少了。\n不妨恢复一下，如何？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:20:0",
+  "message_id": "BTL_MES_H122_056_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5A 01}队长的体力告急。\n建议尽快恢复。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(055).BMD.json:21:0",
+  "message_id": "BTL_MES_H122_056_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 59 01}队长的伤势很严重。\n恐怕应当立即恢复。\n{F2 26 00 00}{00}"
+ }
+]

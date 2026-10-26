@@ -1,0 +1,877 @@
+[
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:3:0",
+  "message_id": "explain_01_quest_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“不可思议之国的你”{F2 01 06 01}的Ｆ．Ｏ．Ｅ，\n击败{F2 01 09 01}“扑克牌士兵”{F2 01 06 01}吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:4:0",
+  "message_id": "explain_02_quest_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“不可思议之国的你”{F2 01 06 01}的Ｆ．Ｏ．Ｅ，\n击败{F2 01 09 01}“扑克牌士兵”{F2 01 06 01}吧。\n　\n{F2 01 06 01}“扑克牌士兵”似乎大多出现在\n{F2 01 09 01}第１章{F2 01 06 01}或{F2 01 09 01}第２章{F2 01 06 01}。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:5:0",
+  "message_id": "explain_03_quest_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}“不可思议之国的你”的Ｆ．Ｏ．Ｅ，\n击败“扑克牌士兵”后，\n获得了{F4 84 0A 01 01 01 B1 07}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:6:0",
+  "message_id": "explain_04_quest_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将击败“不可思议之国的你”的Ｆ．Ｏ．Ｅ\n“扑克牌士兵”后获得的\n{F4 84 0A 01 01 01 B1 07}交给了伊丽莎白。\n　\n似乎要用在天鹅绒房间的忘年会上…\n稍微有点想去看看…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:7:0",
+  "message_id": "explain_01_quest_02",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在菜单的{F2 01 09 01}“校园漫步”{F2 01 06 01}中，\n进行{F2 01 09 01}“来吧，以物易物对决！”{F2 01 06 01}吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:8:0",
+  "message_id": "explain_02_quest_02",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}以物易物对决结束了。\n多亏玲说了句“下次再三个人一起玩”，\n这场对决才得以和平收场吧。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:9:0",
+  "message_id": "explain_03_quest_02",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}以物易物对决结束了。\n多亏玲说了句“下次再三个人一起玩”，\n这场对决才得以和平收场吧。\n　\n委托结束后，也见到过三人\n遵守约定，一起开心玩耍的样子。\n善的戒心似乎也多少消解了一些。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:10:0",
+  "message_id": "explain_01_quest_03",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}从“联谊咖啡厅”{F2 01 06 01}{F2 01 09 01}第１场的墙上{F2 01 06 01}，\n插着的{F2 01 09 01}“恋之使者”{F2 01 06 01}的箭中，\n取得射程最远的一支吧。\n　\n埃癸斯似乎可以测量距离。\n{F2 01 09 01}将埃癸斯加入队伍吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:11:0",
+  "message_id": "explain_02_quest_03",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}从“联谊咖啡厅”第１场墙上\n插着的“恋之使者”的箭中，\n获得了{F4 84 0A 01 01 01 B2 07}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:12:0",
+  "message_id": "explain_03_quest_03",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将插在“联谊咖啡厅”第１场墙上的\n{F4 84 0A 01 01 01 B2 07}交给了迪奥。\n　　\n迪奥仍对炼制武器充满热情。\n今后想必也会打造出好武器吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:13:0",
+  "message_id": "explain_01_quest_04",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}千枝的肉羊羹被偷走了。\n　\n{F2 01 09 01}离开保健室，听听直斗的推理吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:14:0",
+  "message_id": "explain_02_quest_04",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}千枝的肉羊羹被偷走了。\n　\n前往{F2 01 09 01}手工工坊、保健室、天鹅绒房间{F2 01 06 01}，\n向嫌疑人玛格丽特、伊丽莎白、\n迪奥和玛丽{F2 01 09 01}收集证词吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:15:0",
+  "message_id": "explain_03_quest_04",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}千枝的肉羊羹被偷走了。\n　\n对照收集到的证词和已知前提，\n{F2 01 09 01}指出你认为的犯人吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:16:0",
+  "message_id": "explain_04_quest_04",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}千枝的肉羊羹失踪事件，\n其实是迪奥误会后掩盖的一场意外。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:17:0",
+  "message_id": "explain_05_quest_04",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}千枝的肉羊羹失踪事件，\n其实是迪奥误会后掩盖的一场意外。\n　\n千枝反省了自己的毒舌，\n迪奥似乎也反省了自己的鲁莽。\n这样的事件应该不会再发生了吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:18:0",
+  "message_id": "explain_01_quest_05",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}去“联谊咖啡厅”{F2 01 06 01}的某处，\n寻找颜色不同的心形吧。\n　\n同伴或许知道它的位置。\n{F2 01 09 01}先在校园里逛逛吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:19:0",
+  "message_id": "explain_02_quest_05",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}去“联谊咖啡厅”{F2 01 06 01}的{F2 01 09 01}第２场{F2 01 06 01}，\n寻找颜色不同的心形吧。\n　\n由加莉似乎知道它的位置。\n{F2 01 09 01}将由加莉加入队伍，请她带路吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:20:0",
+  "message_id": "explain_03_quest_05",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在“联谊咖啡厅”第２场，\n找到了颜色不同的心形所在之处。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:21:0",
+  "message_id": "explain_04_quest_05",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在“联谊咖啡厅”第２场，\n找到了颜色不同的心形所在之处。\n　\n伊丽莎白似乎是想借这次寻找，\n祈愿我们能找到真正的命运之人。\n最终究竟会选中谁呢…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:22:0",
+  "message_id": "explain_01_quest_06",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}去取得蛇皮素材吧。\n{F2 01 09 01}详细条件，最好向迪奥打听一下。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:23:0",
+  "message_id": "explain_02_quest_06",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}去取得蛇皮素材吧。\n　\n据迪奥说，将栖息在{F2 01 09 01}“联谊咖啡厅”{F2 01 06 01}的\n{F2 01 09 01}“情欲之蛇”{F2 01 06 01}阴影，在{F2 01 09 01}速封状态下\n击败{F2 01 06 01}，似乎就能获得蛇皮。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:24:0",
+  "message_id": "explain_03_quest_06",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在速封状态下击败了\n“联谊咖啡厅”的阴影“情欲之蛇”，\n获得了{F4 84 0A 01 01 01 48 08}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:25:0",
+  "message_id": "explain_04_quest_06",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将从“情欲之蛇”身上获得的\n{F4 84 0A 01 01 01 48 08}交给了伊丽莎白。\n究竟是谁成了那种神秘药物的受害者呢…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:26:0",
+  "message_id": "explain_01_quest_07",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“不可思议之国的你”{F2 01 06 01}的{F2 01 09 01}最终章{F2 01 06 01}，\n出现了奇怪的空间和陌生的阴影。\n　\n{F2 01 09 01}击败阴影，调查那片奇怪的空间吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:27:0",
+  "message_id": "explain_02_quest_07",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“不可思议之国的你”{F2 01 06 01}的{F2 01 09 01}最终章{F2 01 06 01}，\n出现了奇怪的空间和陌生的阴影。\n　\n{F2 01 09 01}守卫原先所在之处出现了奇怪的空间。\n去调查一下吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:28:0",
+  "message_id": "explain_03_quest_07",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}从“不可思议之国的你”最终章出现的\n奇怪空间中，获得了{F4 84 0A 01 01 01 BE 07}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:29:0",
+  "message_id": "explain_04_quest_07",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将从“不可思议之国的你”最终章的奇怪空间中\n获得的{F4 84 0A 01 01 01 BE 07}交给了伊丽莎白。\n　\n那颗珠子被命名为“丰饶之珠”，\n究竟会被用来做什么呢…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:30:0",
+  "message_id": "explain_01_quest_08",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在菜单的{F2 01 09 01}“校园漫步”{F2 01 06 01}中，\n进行{F2 01 09 01}“搭讪代办开张了”{F2 01 06 01}吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:31:0",
+  "message_id": "explain_02_quest_08",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}完成了“搭讪代办”。\n虽然弄得身心俱疲…\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:32:0",
+  "message_id": "explain_03_quest_08",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}完成了“搭讪代办”。\n虽然弄得身心俱疲…\n　\n顺平似乎仍未吸取教训。\n这位自称气氛制造者的奋斗还会继续…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:33:0",
+  "message_id": "explain_01_quest_09",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}去寻找藏在“联谊咖啡厅”{F2 01 06 01}某处的\n迷情药吧。\n　\n{F2 01 09 01}将小熊加入队伍，依靠他的鼻子带路，\n找出迷情药可能所在的楼层吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:34:0",
+  "message_id": "explain_02_quest_09",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}去“联谊咖啡厅”{F2 01 06 01}的{F2 01 09 01}第３场{F2 01 06 01}，\n寻找迷情药吧。\n　\n{F2 01 09 01}让小熊留在队伍里，根据他闻出的\n方向和距离，确定迷情药的位置吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:35:0",
+  "message_id": "explain_03_quest_09",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在“联谊咖啡厅”第３场，\n获得了{F4 84 0A 01 01 01 B3 07}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:36:0",
+  "message_id": "explain_04_quest_09",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在“联谊咖啡厅”第３场，\n获得了{F4 84 0A 01 01 01 B3 07}。\n　\n那之后的一段时间里，\n真田似乎都没能放下对小熊的戒心…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:37:0",
+  "message_id": "explain_01_quest_10",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}到“联谊咖啡厅”{F2 01 06 01}{F2 01 09 01}第３场{F2 01 06 01}的房间里，\n与伊丽莎白交手吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:38:0",
+  "message_id": "explain_02_quest_10",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在“联谊咖啡厅”，\n战胜了伊丽莎白。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:39:0",
+  "message_id": "explain_03_quest_10",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在“联谊咖啡厅”，\n战胜了伊丽莎白。\n　\n不过，伊丽莎白似乎还没拿出真本事。\n以后还会有交手的机会吗…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:40:0",
+  "message_id": "explain_01_quest_11",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在菜单的{F2 01 09 01}“校园漫步”{F2 01 06 01}中，\n进行{F2 01 09 01}“与迪奥逛文化祭”{F2 01 06 01}吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:41:0",
+  "message_id": "explain_02_quest_11",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}完成了“与迪奥逛文化祭”。\n迪奥加深了异文化交流，看起来十分满足。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:42:0",
+  "message_id": "explain_03_quest_11",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}完成了“与迪奥逛文化祭”。\n迪奥加深了异文化交流，看起来十分满足。\n　\n话说回来，玛丽似乎想到了什么…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:43:0",
+  "message_id": "explain_01_quest_12",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}到“放学后的恶灵俱乐部”{F2 01 09 01}的{F2 01 09 01}第壹怪{F2 01 06 01}，\n进行连续讨伐阴影的特训吧。\n　\n进入迷宫后，真田似乎就会来搭话。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:44:0",
+  "message_id": "explain_02_quest_12",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}到“放学后的恶灵俱乐部”{F2 01 09 01}的{F2 01 09 01}第壹怪{F2 01 06 01}，\n进行连续讨伐阴影的特训吧。\n　\n特训已经开始。\n善用每３场战斗一次的休息机会，\n与更多阴影战斗吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:45:0",
+  "message_id": "explain_03_quest_12",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在“放学后的恶灵俱乐部”第壹怪，\n进行了连续讨伐阴影的特训。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:46:0",
+  "message_id": "explain_04_quest_12",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在“放学后的恶灵俱乐部”第壹怪，\n进行了连续讨伐阴影的特训。\n　\n真田至今仍在不断奔跑。\n朝着尚无人到达的境界前进…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:47:0",
+  "message_id": "explain_01_quest_13",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}打开“放学后的恶灵俱乐部”{F2 01 06 01}{F2 01 09 01}第壹怪{F2 01 06 01}中，\n那扇打不开的音乐教室门吧。\n　\n雪子似乎对这项委托很感兴趣。\n{F2 01 09 01}将雪子加入队伍再出发吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:48:0",
+  "message_id": "explain_02_quest_13",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“放学后的恶灵俱乐部”{F2 01 06 01}{F2 01 09 01}第壹怪{F2 01 06 01}中，\n打开那扇紧闭的音乐教室门吧。\n　\n原因似乎是门框部位缺少润滑油。\n{F2 01 09 01}找找能代替润滑油的东西吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:49:0",
+  "message_id": "explain_03_quest_13",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“放学后的恶灵俱乐部”{F2 01 06 01}{F2 01 09 01}第壹怪{F2 01 06 01}中，\n打开那扇紧闭的音乐教室门吧。\n　\n找到了可以代替润滑油的蜡。\n{F2 01 09 01}试着涂在那扇打不开的门上吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:50:0",
+  "message_id": "explain_04_quest_13",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}打开了“放学后的恶灵俱乐部”第壹怪中，\n那扇打不开的音乐教室门。\n不过，那些怪现象究竟是怎么回事…\n　\n…总之，{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:51:0",
+  "message_id": "explain_05_quest_13",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}打开了“放学后的恶灵俱乐部”第壹怪中，\n那扇打不开的音乐教室门。\n　\n虽然报告之后，怪现象之谜\n仍未解开，但还是别再深究了…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:52:0",
+  "message_id": "explain_01_quest_14",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“放学后的恶灵俱乐部”{F2 01 06 01}{F2 01 09 01}第贰怪{F2 01 06 01}中，\n去取得地狱奶嘴吧。\n　\n似乎在{F2 01 09 01}音乐教室附近的房间{F2 01 06 01}里…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:53:0",
+  "message_id": "explain_02_quest_14",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在“放学后的恶灵俱乐部”第贰怪，\n获得了{F4 84 0A 01 01 01 B4 07}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:54:0",
+  "message_id": "explain_03_quest_14",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将“放学后的恶灵俱乐部”第贰怪房间里的\n{F4 84 0A 01 01 01 B4 07}交给了伊丽莎白。\n　\n但愿被这枚铝制奶嘴害到的人，\n能尽量少一些…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:55:0",
+  "message_id": "explain_01_quest_15",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在菜单的{F2 01 09 01}“校园漫步”{F2 01 06 01}中，\n进行{F2 01 09 01}“阻止女生们暴走”{F2 01 06 01}吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:56:0",
+  "message_id": "explain_02_quest_15",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}完成了“阻止女生们暴走”。\n阳介还平安无事吗…\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:57:0",
+  "message_id": "explain_03_quest_15",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}完成了“阻止女生们暴走”。\n　\n后来听说，有人看见阳介\n一边流泪一边吃着摊位上的饭。\n想必是在为酱汁味的可靠而欣喜吧…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:58:0",
+  "message_id": "explain_01_quest_16",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}根据小熊和虎狼丸提供的信息，\n找到埋在“放学后的恶灵俱乐部”{F2 01 06 01}某处，\n会散发气味的东西吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:59:0",
+  "message_id": "explain_02_quest_16",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}找到埋在“放学后的恶灵俱乐部”{F2 01 06 01}{F2 01 09 01}第贰怪{F2 01 06 01}，\n会散发气味的东西吧。\n线索来自小熊和虎狼丸。\n　　\n似乎在{F2 01 09 01}西边的房间{F2 01 06 01}里。　去看看吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:60:0",
+  "message_id": "explain_03_quest_16",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}找到埋在“放学后的恶灵俱乐部”{F2 01 06 01}{F2 01 09 01}第贰怪{F2 01 06 01}，\n会散发气味的东西吧。\n线索来自小熊和虎狼丸。\n　\n在电灯下向小熊和虎狼丸收集线索，\n{F2 01 09 01}找出目标埋藏的位置吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:61:0",
+  "message_id": "explain_04_quest_16",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在“放学后的恶灵俱乐部”第贰怪，\n与小熊、虎狼丸一起，\n找到了埋着那件有气味物品的地方。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:62:0",
+  "message_id": "explain_05_quest_16",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在“放学后的恶灵俱乐部”第贰怪，\n与小熊、虎狼丸一起，\n找到了埋着那件有气味物品的地方。\n　\n俗话说，越吵关系越好。\n这次委托正是个让人莞尔的例子。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:63:0",
+  "message_id": "explain_01_quest_17",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“联谊咖啡厅”{F2 01 06 01}的{F2 01 09 01}终成眷属层{F2 01 06 01}，\n出现了奇怪的空间和陌生的阴影。\n　\n{F2 01 09 01}击败阴影，调查那片奇怪的空间吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:64:0",
+  "message_id": "explain_02_quest_17",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“联谊咖啡厅”{F2 01 06 01}的终成眷属层{F2 01 06 01}，\n出现了奇怪的空间和陌生的阴影。\n　\n{F2 01 09 01}守卫原先所在之处出现了奇怪的空间。\n去调查一下吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:65:0",
+  "message_id": "explain_03_quest_17",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}从“联谊咖啡厅”终成眷属层出现的\n奇怪空间中，获得了{F4 84 0A 01 01 01 BF 07}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:66:0",
+  "message_id": "explain_04_quest_17",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将从“联谊咖啡厅”终成眷属层的奇怪空间中\n获得的{F4 84 0A 01 01 01 BF 07}交给了伊丽莎白。\n　\n那颗珠子被命名为“婚姻之珠”，\n究竟会被用来做什么呢…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:67:0",
+  "message_id": "explain_01_quest_18",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}去取得邪眼素材吧。\n{F2 01 09 01}详细条件，最好向迪奥打听一下。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:68:0",
+  "message_id": "explain_02_quest_18",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}去取得邪眼素材吧。\n　\n据迪奥说，将栖息在{F2 01 09 01}“放学后的恶灵俱乐部”{F2 01 06 01}的\n{F2 01 09 01}“命运搜寻者”{F2 01 06 01}阴影，在{F2 01 09 01}诅咒状态下\n击败{F2 01 06 01}，似乎就能获得邪眼。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:69:0",
+  "message_id": "explain_03_quest_18",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将“放学后的恶灵俱乐部”的阴影\n“命运搜寻者”在诅咒状态下击败，\n获得了{F4 84 0A 01 01 01 9D 08}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:70:0",
+  "message_id": "explain_04_quest_18",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将从“命运搜寻者”身上获得的\n{F4 84 0A 01 01 01 9D 08}交给了伊丽莎白。\n　\n…等最强的五官部件集齐之后，\n还真有点想看看…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:71:0",
+  "message_id": "explain_01_quest_19",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}创造人格面具“獬豸”吧。{F2 01 06 01}\n似乎有些人格面具只能通过合体获得…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:72:0",
+  "message_id": "explain_02_quest_19",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}创造了人格面具“獬豸”。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:73:0",
+  "message_id": "explain_03_quest_19",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}创造了人格面具“獬豸”。\n　\n伊丽莎白说獬豸和貘长得一模一样。\n可怎么看都更像羊…\n…还是别深究了。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:74:0",
+  "message_id": "explain_01_quest_20",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}去取得“放学后的恶灵俱乐部”{F2 01 06 01}某处的\n泻药吧。\n　\n同伴或许知道它的位置。\n{F2 01 09 01}先在校园里逛逛吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:75:0",
+  "message_id": "explain_02_quest_20",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}去取得“放学后的恶灵俱乐部”{F2 01 09 01}的{F2 01 09 01}第参怪{F2 01 06 01}中，\n藏着的泻药吧。\n　\n真田似乎知道药剂室的位置。\n{F2 01 09 01}将真田加入队伍，请他带路吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:76:0",
+  "message_id": "explain_03_quest_20",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在“放学后的恶灵俱乐部”第参怪，\n获得了{F4 84 0A 01 01 01 B5 07}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:77:0",
+  "message_id": "explain_04_quest_20",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将“放学后的恶灵俱乐部”第参怪获得的\n{F4 84 0A 01 01 01 B5 07}交给了伊丽莎白。\n　\n虽然有点在意真田的肚子怎么样了…\n还是让他静一静吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:78:0",
+  "message_id": "explain_01_quest_21",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“放学后的恶灵俱乐部”{F2 01 09 01}的{F2 01 09 01}第参怪的房间{F2 01 06 01}里，\n与伊丽莎白交手吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:79:0",
+  "message_id": "explain_02_quest_21",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在“放学后的恶灵俱乐部”，\n战胜了伊丽莎白。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:80:0",
+  "message_id": "explain_03_quest_21",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在“放学后的恶灵俱乐部”，\n战胜了伊丽莎白。\n　\n虽然比上次气喘得厉害，\n但伊丽莎白似乎仍没拿出真本事。\n以后还会有交手的机会吗…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:81:0",
+  "message_id": "explain_01_quest_22",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“放学后的恶灵俱乐部”{F2 01 06 01}{F2 01 09 01}第肆怪{F2 01 06 01}中，\n似乎藏着伊丽莎白的心意。\n　\n解开{F2 01 09 01}暗号“３３２４２×”{F2 01 06 01}之谜，\n找出那份隐藏的心意吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:82:0",
+  "message_id": "explain_02_quest_22",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“放学后的恶灵俱乐部”{F2 01 06 01}{F2 01 09 01}第肆怪{F2 01 06 01}中，\n似乎藏着伊丽莎白的心意。\n　\n{F2 01 09 01}“３３２４２×”{F2 01 06 01}或许是房间里\n某种东西的数量…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:83:0",
+  "message_id": "explain_03_quest_22",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“放学后的恶灵俱乐部”{F2 01 06 01}{F2 01 09 01}第肆怪{F2 01 06 01}中，\n似乎藏着伊丽莎白的心意。\n　\n解开暗号后，某处传来了声音。\n{F2 01 09 01}去调查有能量点的房间吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:84:0",
+  "message_id": "explain_04_quest_22",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}成功找到了藏在“放学后的恶灵俱乐部”\n第肆怪的伊丽莎白的心意。\n　\n…内容姑且不论，{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:85:0",
+  "message_id": "explain_05_quest_22",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}成功找到了藏在“放学后的恶灵俱乐部”\n第肆怪的伊丽莎白的心意。\n　\n…还是忘掉这项委托吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:86:0",
+  "message_id": "explain_01_quest_23",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在菜单的{F2 01 09 01}“校园漫步”{F2 01 06 01}中，\n进行{F2 01 09 01}“陪同不断升级”{F2 01 06 01}吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:87:0",
+  "message_id": "explain_02_quest_23",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}完成了“陪同不断升级”。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:88:0",
+  "message_id": "explain_03_quest_23",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}完成了“陪同不断升级”。\n虽然被伊丽莎白和玛格丽特耍得团团转，\n但已经很努力了吧…\n　\n这项委托让人感受到了两姐妹的羁绊。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:89:0",
+  "message_id": "explain_01_quest_24",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}去虎狼丸喜欢的{F2 01 09 01}“稻羽乡土展”{F2 01 06 01}\n{F2 01 09 01}第一夜{F2 01 06 01}开始散步吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:90:0",
+  "message_id": "explain_02_quest_24",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}去虎狼丸喜欢的{F2 01 09 01}“稻羽乡土展”{F2 01 06 01}\n{F2 01 09 01}第一夜{F2 01 06 01}散步吧。\n　\n{F2 01 09 01}虎狼丸似乎有在意的地方。\n带它去看看吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:91:0",
+  "message_id": "explain_03_quest_24",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}去虎狼丸喜欢的{F2 01 09 01}“稻羽乡土展”{F2 01 06 01}\n{F2 01 09 01}第一夜{F2 01 06 01}散步吧。\n　\n虎狼丸似乎还有在意的地方。\n虽然现在就可以去报告，\n但若有余力，也可以带它继续逛逛。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:92:0",
+  "message_id": "explain_04_quest_24",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在虎狼丸喜欢的“稻羽乡土展”\n第一夜，尽情散了步。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:93:0",
+  "message_id": "explain_05_quest_24",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在虎狼丸喜欢的“稻羽乡土展”\n第一夜，尽情散了步。\n　\n这是与虎狼丸亲近的好机会。\n大家也都得到治愈了吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:94:0",
+  "message_id": "explain_01_quest_25",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在菜单的{F2 01 09 01}“校园漫步”{F2 01 06 01}中，\n进行{F2 01 09 01}“礼物大作战”{F2 01 06 01}吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:95:0",
+  "message_id": "explain_02_quest_25",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}完成了“礼物大作战”。\n虽说遇上了危机，但问出了\n善想要项圈的心愿，委托算完成了吧。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:96:0",
+  "message_id": "explain_03_quest_25",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}完成了“礼物大作战”。\n虽说遇上了危机，但问出了\n善想要项圈的心愿，委托算完成了吧。\n　\n这项委托似乎还会继续。\n记得经常查看委托吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:97:0",
+  "message_id": "explain_01_quest_26",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}去取得“稻羽乡土展”{F2 01 06 01}某处的\n祭典外褂吧。\n　\n同伴或许知道它的位置。\n{F2 01 09 01}先在校园里逛逛吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:98:0",
+  "message_id": "explain_02_quest_26",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}去取得“稻羽乡土展”{F2 01 06 01}{F2 01 09 01}第二夜{F2 01 06 01}的\n祭典外褂吧。\n　\n完二似乎知道外褂的位置。\n{F2 01 09 01}将完二和顺平加入队伍，请他们带路吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:99:0",
+  "message_id": "explain_03_quest_26",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在“稻羽乡土展”第二夜，\n获得了{F4 84 0A 01 01 01 B7 07}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:100:0",
+  "message_id": "explain_04_quest_26",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将“稻羽乡土展”第二夜获得的\n{F4 84 0A 01 01 01 B7 07}交给了伊丽莎白。\n　\n伊丽莎白似乎打算\n把这件外褂送给伊戈尔。\n…就装作不知道吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:101:0",
+  "message_id": "explain_01_quest_27",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}为了制作送给善的项圈，\n去收集必要的素材吧。\n　\n{F2 01 09 01}详细条件，最好向迪奥打听一下。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:102:0",
+  "message_id": "explain_02_quest_27",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}为了制作送给善的项圈，\n去取得必要的尖刺素材吧。\n　\n据迪奥说，将栖息在{F2 01 09 01}“稻羽乡土展”{F2 01 06 01}的\n{F2 01 09 01}“愤怒独眼巨人”{F2 01 06 01}阴影，在{F2 01 09 01}魔封状态下\n击败{F2 01 06 01}，似乎就能获得尖刺。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:103:0",
+  "message_id": "explain_03_quest_27",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}获得了制作送给善的项圈\n所需的{F4 84 0A 01 01 01 CE 08}。\n　\n在菜单的{F2 01 09 01}“校园漫步”{F2 01 06 01}中，\n进行{F2 01 09 01}“传达吧，这份心意”{F2 01 06 01}吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:104:0",
+  "message_id": "explain_04_quest_27",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}成功将玲制作的项圈送给了善。\n连那个善都很开心，真是不简单。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:105:0",
+  "message_id": "explain_05_quest_27",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}成功将玲制作的项圈送给了善。\n连那个善都很开心，真是不简单。\n　\n不过，善似乎还是没有理解\n这份礼物的真正含义。\n今后玲恐怕还得费不少心。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:106:0",
+  "message_id": "explain_01_quest_28",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}打开“稻羽乡土展”{F2 01 06 01}{F2 01 09 01}第二夜{F2 01 06 01}中{F2 01 09 01}装满阴影的\n宝箱{F2 01 06 01}，赢得连续战斗吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:107:0",
+  "message_id": "explain_02_quest_28",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}打开了装满阴影的宝箱，\n赢得了与阴影的连续战斗。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:108:0",
+  "message_id": "explain_03_quest_28",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}打开了装满阴影的宝箱，\n赢得了与阴影的连续战斗。\n　\n在连续作战、不容大意的情况下获胜，\n这份经验今后总会派上用场吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:109:0",
+  "message_id": "explain_01_quest_29",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“放学后的恶灵俱乐部”{F2 01 06 01}{F2 01 09 01}最终怪{F2 01 06 01}中，\n出现了奇怪的空间和陌生的阴影。\n　\n{F2 01 09 01}击败阴影，调查那片奇怪的空间吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:110:0",
+  "message_id": "explain_02_quest_29",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“放学后的恶灵俱乐部”{F2 01 06 01}{F2 01 09 01}最终怪{F2 01 06 01}中，\n出现了奇怪的空间和陌生的阴影。\n　\n{F2 01 09 01}守卫原先所在之处出现了奇怪的空间。\n去调查一下吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:111:0",
+  "message_id": "explain_03_quest_29",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}从“放学后的恶灵俱乐部”最终怪出现的\n奇怪空间中，获得了{F4 84 0A 01 01 01 C0 07}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:112:0",
+  "message_id": "explain_04_quest_29",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将“放学后的恶灵俱乐部”最终怪奇怪空间中\n获得的{F4 84 0A 01 01 01 C0 07}交给了伊丽莎白。\n　\n那颗珠子被命名为“冥府之珠”，\n究竟会被用来做什么呢…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:113:0",
+  "message_id": "explain_01_quest_30",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“稻羽乡土展”{F2 01 06 01}{F2 01 09 01}第三夜{F2 01 06 01}各处的\n{F2 01 09 01}下半身鸟居下方{F2 01 06 01}放着抽奖券。\n　\n根据伊丽莎白的提示，找出中奖的那张吧。\n它的胯下允许“圣火”通过。\n它的胯下附近有“风”吹过。\n它的腰间系着“北”字兜裆布。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:114:0",
+  "message_id": "explain_02_quest_30",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}抽取了１张散布在\n“稻羽乡土展”第三夜的抽奖券。\n　\n伊丽莎白说过，抽２张就会\n发生“不得了的事”…\n…还是老实地{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:115:0",
+  "message_id": "explain_03_quest_30",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}不小心抽了２张散布在\n“稻羽乡土展”第三夜的抽奖券…\n　\n…还是老实地{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:116:0",
+  "message_id": "explain_04_quest_30",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将“稻羽乡土展”第三夜\n抽奖券的结果告诉了伊丽莎白。\n　\n虽然参与方式有点奇怪，但能参加文化祭活动，\n伊丽莎白看起来十分满足。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:117:0",
+  "message_id": "explain_01_quest_31",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}去取得尾巴素材吧。\n{F2 01 09 01}详细条件，最好向迪奥打听一下。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:118:0",
+  "message_id": "explain_02_quest_31",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}去取得尾巴素材吧。\n　\n据迪奥说，将栖息在{F2 01 09 01}“稻羽乡土展”{F2 01 06 01}的\n{F2 01 09 01}“急速之轮”{F2 01 06 01}阴影，以{F2 01 09 01}疾风属性\n击败{F2 01 06 01}，似乎就能获得尾巴。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:119:0",
+  "message_id": "explain_03_quest_31",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}以疾风属性击败了\n“稻羽乡土展”的阴影“急速之轮”，\n获得了{F4 84 0A 01 01 01 D7 08}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:120:0",
+  "message_id": "explain_04_quest_31",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将从“急速之轮”身上获得的\n{F4 84 0A 01 01 01 D7 08}交给了伊丽莎白。\n　\n此后，被尾巴戏弄了一阵子的迪奥，\n每次有人交纳毛发状素材时都会害怕…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:121:0",
+  "message_id": "explain_01_quest_32",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在菜单的{F2 01 09 01}“校园漫步”{F2 01 06 01}中，\n进行{F2 01 09 01}“紧急特别授课”{F2 01 06 01}吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:122:0",
+  "message_id": "explain_02_quest_32",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}完成了“紧急特别授课”。\n考试的事似乎是顺平误会了…\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:123:0",
+  "message_id": "explain_03_quest_32",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}完成了“紧急特别授课”。\n考试的事似乎是顺平误会了…\n　\n那之后，顺平每次遇到美鹤，\n似乎都被拉去突击复习。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:124:0",
+  "message_id": "explain_01_quest_33",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}到“稻羽乡土展”{F2 01 06 01}{F2 01 09 01}第三夜{F2 01 06 01}的房间里，\n与伊丽莎白交手吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:125:0",
+  "message_id": "explain_02_quest_33",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在“稻羽乡土展”，\n战胜了伊丽莎白。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:126:0",
+  "message_id": "explain_03_quest_33",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在“稻羽乡土展”，\n战胜了伊丽莎白。\n　\n伊丽莎白似乎已经接近全力以赴了。\n研究好像也开始有了成果。\n她究竟在寻找什么呢…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:127:0",
+  "message_id": "explain_01_quest_34",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}回收散落在“稻羽乡土展”{F2 01 06 01}{F2 01 09 01}第四夜地板上{F2 01 06 01}的\n试制箭吧。\n　\n箭似乎散落在西南方的房间里。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:128:0",
+  "message_id": "explain_02_quest_34",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}回收散落在“稻羽乡土展”{F2 01 06 01}{F2 01 09 01}第四夜地板上{F2 01 06 01}的\n试制箭吧。\n　\n周围有Ｆ．Ｏ．Ｅ巡逻。\n{F2 01 09 01}留意Ｆ．Ｏ．Ｅ的动向，拔出箭吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:129:0",
+  "message_id": "explain_03_quest_34",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}回收了插在“稻羽乡土展”地板上的\n{F4 84 0A 01 01 01 BA 07}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:130:0",
+  "message_id": "explain_04_quest_34",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}回收了从“稻羽乡土展”地板上拔出的\n{F4 84 0A 01 01 01 BA 07}。\n　\n讽刺的是，这项证明了迪奥箭矢坚固的委托，\n似乎再次点燃了真田与荒垣的好胜心…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:131:0",
+  "message_id": "explain_01_quest_35",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}去取得白金齿轮素材吧。\n{F2 01 09 01}详细条件，最好向迪奥打听一下。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:132:0",
+  "message_id": "explain_02_quest_35",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}去取得白金齿轮素材吧。\n　\n据迪奥说，将栖息在“时钟塔”的\n{F2 01 09 01}“爆裂装置”{F2 01 06 01}阴影，以{F2 01 09 01}光或暗属性\n击败{F2 01 06 01}，似乎就能获得齿轮。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:133:0",
+  "message_id": "explain_03_quest_35",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}以光属性击败了“时钟塔”的阴影\n“爆裂装置”，\n获得了{F4 84 0A 01 01 01 02 09}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:134:0",
+  "message_id": "explain_04_quest_35",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将从“爆裂装置”身上获得的\n{F4 84 0A 01 01 01 02 09}交给了伊丽莎白。\n　\n伊丽莎白的白金工艺品收藏，\n似乎又增加了１件。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:135:0",
+  "message_id": "explain_01_quest_36",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“时钟塔”{F2 01 06 01}{F2 01 09 01}１层至３层的上锁宝箱{F2 01 06 01}上，\n似乎各贴着１个平假名。\n其中不同类的就是正确宝箱。　想想看吧。\n　\n找出不同类的提示是，\n{F2 01 09 01}“う”属于Ａ，“え”属于Ｂ。\n“す”属于Ａ，“し”属于Ｂ。\n“ひ”属于Ａ，“び”属于Ｂ。{F2 01 06 01}　究竟是什么呢…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:136:0",
+  "message_id": "explain_02_quest_36",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}伊丽莎白给的钥匙已经坏了。\n似乎无法再打开其他宝箱了。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:137:0",
+  "message_id": "explain_03_quest_36",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}与伊丽莎白的斗智结束了。\n　\n玲还在“时钟塔”的顶端等着。\n为与玲的决战作准备，不仅要锻炼体力，\n也要培养推理力和判断力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:138:0",
+  "message_id": "explain_01_quest_37",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}善似乎曾盯着“时钟塔”里的蜘蛛网，\n露出满怀心事的表情…\n　\n在菜单的{F2 01 09 01}“校园漫步”{F2 01 06 01}中，\n进行{F2 01 09 01}“善的视线，其原因”{F2 01 06 01}吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:139:0",
+  "message_id": "explain_02_quest_37",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}善似乎发现了被困在\n“时钟塔”８层蜘蛛网{F2 01 06 01}上的蝴蝶。\n　\n代替善救出蝴蝶吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:140:0",
+  "message_id": "explain_03_quest_37",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}善似乎发现了被困在\n“时钟塔”８层蜘蛛网{F2 01 06 01}上的蝴蝶。\n　\n代替善救出蝴蝶吧。\n{F2 01 09 01}蝴蝶似乎在８层的西北部。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:141:0",
+  "message_id": "explain_04_quest_37",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}善似乎发现了被困在\n“时钟塔”８层蜘蛛网{F2 01 06 01}上的蝴蝶。\n　\n要将蝴蝶从网上取下，\n似乎必须走进蜘蛛网里。\n　\n{F2 01 09 01}移动升降墙壁，\n让蜘蛛无法靠近吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:142:0",
+  "message_id": "explain_05_quest_37",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}善似乎发现了被困在\n“时钟塔”８层蜘蛛网{F2 01 06 01}上的蝴蝶。\n　\n现在已用升降墙壁隔开蜘蛛网\n与蜘蛛的通路，应该能救出蝴蝶了。\n　\n{F2 01 09 01}走进蜘蛛网里吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:143:0",
+  "message_id": "explain_06_quest_37",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}善似乎发现了被困在\n“时钟塔”８层蜘蛛网{F2 01 06 01}上的蝴蝶。\n　\n现在蜘蛛已被打倒，应该能救出蝴蝶了。\n　\n{F2 01 09 01}走进蜘蛛网里吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:144:0",
+  "message_id": "explain_07_quest_37",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}成功将蝴蝶从蜘蛛网上救下。\n这样委托就完成了吧。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:145:0",
+  "message_id": "explain_08_quest_37",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}从蜘蛛网上救下的蝴蝶，\n之后去了哪里，谁也不知道。\n　\n不过，就相信它至今仍在\n拍打着那对柔弱的翅膀吧…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:146:0",
+  "message_id": "explain_01_quest_38",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“稻羽乡土展”{F2 01 06 01}的{F2 01 09 01}最终夜{F2 01 06 01}，\n出现了奇怪的空间和陌生的阴影。\n　\n{F2 01 09 01}击败阴影，调查那片奇怪的空间吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:147:0",
+  "message_id": "explain_02_quest_38",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“稻羽乡土展”{F2 01 06 01}的{F2 01 09 01}最终夜{F2 01 06 01}，\n出现了奇怪的空间和陌生的阴影。\n　\n{F2 01 09 01}守卫原先所在之处出现了奇怪的空间。\n去调查一下吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:148:0",
+  "message_id": "explain_03_quest_38",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}从“稻羽乡土展”最终夜出现的\n奇怪空间中，获得了{F4 84 0A 01 01 01 C1 07}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:149:0",
+  "message_id": "explain_04_quest_38",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将从“稻羽乡土展”最终夜的奇怪空间中\n获得的{F4 84 0A 01 01 01 C1 07}交给了伊丽莎白。\n　\n那颗珠子被命名为“祭坛之珠”，\n究竟会被用来做什么呢…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:150:0",
+  "message_id": "explain_01_quest_39",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}打开“时钟塔”６层的上锁宝箱{F2 01 06 01}吧。\n　\n从放在{F2 01 09 01}“时钟塔”１层入口附近{F2 01 06 01}的\n保冷箱中，取得{F4 84 0A 01 01 01 BC 07}吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:151:0",
+  "message_id": "explain_02_quest_39",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}打开“时钟塔”６层的上锁宝箱{F2 01 06 01}吧。\n　\n趁{F4 84 0A 01 01 01 BC 07}{F2 01 09 01}尚未融化，\n赶到宝箱那里吧。{F2 01 06 01}\n不过，只要离开“时钟塔”，它似乎就会融化…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:152:0",
+  "message_id": "explain_03_quest_39",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}打开了“时钟塔”６层的上锁宝箱，\n取得了里面的{F4 84 0A 01 01 01 B9 07}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:153:0",
+  "message_id": "explain_04_quest_39",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将“时钟塔”６层上锁宝箱中的\n{F4 84 0A 01 01 01 B9 07}交给了伊丽莎白。\n　\n离救出玲只差一点了。\n谨慎、不急躁，继续前进吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:154:0",
+  "message_id": "explain_01_quest_40",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}到“时钟塔”８层{F2 01 06 01}的房间里，\n与伊丽莎白认真交手吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:155:0",
+  "message_id": "explain_02_quest_40",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}在“时钟塔”，\n战胜了被宙斯占据身体的伊丽莎白。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:156:0",
+  "message_id": "explain_03_quest_40",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}伊丽莎白的研究目的，是召唤\n她在这个世界感知到的人格面具“宙斯”。\n　\n收集珠子、测量实力，\n似乎全都是为了这项研究。\n　\n现在已经可以通过合体召唤宙斯。\n不妨试着召唤一下。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:157:0",
+  "message_id": "explain_01_quest_41",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}击败栖息在“时钟塔”{F2 01 06 01}的稀有阴影\n{F2 01 09 01}“荣华之手”{F2 01 06 01}，\n取得{F4 84 0A 01 01 01 18 09}吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:158:0",
+  "message_id": "explain_02_quest_41",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}击败了“时钟塔”的阴影“荣华之手”，\n获得了{F4 84 0A 01 01 01 18 09}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:159:0",
+  "message_id": "explain_03_quest_41",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将从“荣华之手”身上获得的\n{F4 84 0A 01 01 01 18 09}交给了伊丽莎白。\n　\n这就是运气也是实力的一部分吧…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:160:0",
+  "message_id": "explain_01_quest_42",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}到“不可思议之国的你”第３章{F2 01 06 01}的房间里，\n与玛格丽特交手吧。\n　\n{F2 01 09 01}队伍中只带上{F5 C1 0B 01 01 01 01 01 01 01}吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:161:0",
+  "message_id": "explain_02_quest_42",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}战胜了玛格丽特。\n而且，所有人似乎都觉醒了新的可能性。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:162:0",
+  "message_id": "explain_03_quest_42",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}战胜了玛格丽特。\n而且，所有人似乎都觉醒了新的可能性。\n　\n不过，玛格丽特似乎还留有余力…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:163:0",
+  "message_id": "explain_01_quest_43",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}击败栖息在“时钟塔”{F2 01 06 01}的Ｆ．Ｏ．Ｅ\n{F2 01 09 01}“收割者”{F2 01 06 01}吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:164:0",
+  "message_id": "explain_02_quest_43",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}“时钟塔”的Ｆ．Ｏ．Ｅ，\n击败“收割者”后，\n获得了{F4 84 0A 01 01 01 BD 07}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:165:0",
+  "message_id": "explain_03_quest_43",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将从“收割者”身上获得的\n{F4 84 0A 01 01 01 BD 07}交给了伊丽莎白。\n　\n伊丽莎白还在叹息，\n说没能赤手空拳打倒那个Ｆ．Ｏ．Ｅ…\n还是别在意了。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:166:0",
+  "message_id": "explain_01_quest_44",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}玛格丽特、伊丽莎白和迪奥\n三人向我们发起了挑战。\n　\n在{F2 01 09 01}天鹅绒房间的菜单{F2 01 06 01}中，\n选择{F2 01 09 01}“与最强者们战斗”{F2 01 06 01}吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:167:0",
+  "message_id": "explain_02_quest_44",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}赢得了玛格丽特、伊丽莎白和迪奥\n三人发起的挑战。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:168:0",
+  "message_id": "explain_03_quest_44",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}赢得了玛格丽特、伊丽莎白和迪奥\n三人发起的挑战。\n　\n伊丽莎白似乎误会了什么…\n能赢过那三人，应该没什么好怕的了吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:169:0",
+  "message_id": "explain_01_quest_45",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}击败栖息在“联谊咖啡厅”{F2 01 09 01}的Ｆ．Ｏ．Ｅ\n{F2 01 09 01}“爱之天使”{F2 01 06 01}吧。\n　\n“爱之天使”似乎大多出现在\n{F2 01 09 01}第２场{F2 01 06 01}与{F2 01 09 01}第４场{F2 01 06 01}。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:170:0",
+  "message_id": "explain_02_quest_45",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}击败了栖息在“联谊咖啡厅”的Ｆ．Ｏ．Ｅ\n“爱之天使”，\n获得了{F4 84 0A 01 01 01 CE 07}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:171:0",
+  "message_id": "explain_03_quest_45",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将击败“联谊咖啡厅”的Ｆ．Ｏ．Ｅ\n“爱之天使”后获得的\n{F4 84 0A 01 01 01 CE 07}交给了伊丽莎白。\n　\n迪奥似乎被人想方设法地\n使唤着去买章鱼烧…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:172:0",
+  "message_id": "explain_01_quest_46",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}击败“放学后的恶灵俱乐部”{F2 01 06 01}的Ｆ．Ｏ．Ｅ\n{F2 01 09 01}“陈旧的人偶”{F2 01 06 01}吧。\n　\n似乎可以在{F2 01 09 01}第肆怪{F2 01 06 01}\n与“陈旧的人偶”交手。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:173:0",
+  "message_id": "explain_02_quest_46",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}击败了“放学后的恶灵俱乐部”的Ｆ．Ｏ．Ｅ\n“陈旧的人偶”，\n获得了{F4 84 0A 01 01 01 CF 07}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:174:0",
+  "message_id": "explain_03_quest_46",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将击败“放学后的恶灵俱乐部”的Ｆ．Ｏ．Ｅ\n“陈旧的人偶”后获得的\n{F4 84 0A 01 01 01 CF 07}交给了伊丽莎白。\n　\n究竟有什么用途，甚至到底是什么东西，\n似乎连伊丽莎白也不知道…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:175:0",
+  "message_id": "explain_01_quest_47",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 09 01}“稻羽乡土展”{F2 01 06 01}的Ｆ．Ｏ．Ｅ\n{F2 01 09 01}“祭典男”{F2 01 06 01}，去击败它吧。\n　\n“祭典男”似乎栖息在\n{F2 01 09 01}第二夜{F2 01 06 01}与{F2 01 09 01}第四夜{F2 01 06 01}。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:176:0",
+  "message_id": "explain_02_quest_47",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}“稻羽乡土展”的Ｆ．Ｏ．Ｅ，\n击败“祭典男”后，\n获得了{F4 84 0A 01 01 01 D0 07}。\n　\n{F2 01 09 01}去保健室报告吧。{F2 01 06 01}\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestdetail_p3.bmd.json:177:0",
+  "message_id": "explain_03_quest_47",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 06 01}将击败“稻羽乡土展”的Ｆ．Ｏ．Ｅ\n“祭典男”后获得的\n{F4 84 0A 01 01 01 D0 07}交给了伊丽莎白。\n　\n用途嘛…似乎不用想也知道。\n{00}"
+ }
+]

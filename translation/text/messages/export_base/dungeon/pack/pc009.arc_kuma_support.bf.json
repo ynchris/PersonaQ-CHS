@@ -1,0 +1,257 @@
+[
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:0:0",
+  "message_id": "KUMA_FOE_FOLLOW_START1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A0 02}危险熊！\nＦ．Ｏ．Ｅ来了熊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:1:0",
+  "message_id": "KUMA_FOE_FOLLOW_START2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A1 02}Ｆ．Ｏ．Ｅ正往\n这边过来熊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:2:0",
+  "message_id": "KUMA_FOE_FOLLOW_START3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A2 02}Ｆ．Ｏ．Ｅ来了啊——！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:3:0",
+  "message_id": "KUMA_FOE_SENSOR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A3 02}发现Ｆ．Ｏ．Ｅ！\n小心熊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:4:0",
+  "message_id": "KUMA_FOE_SENSOR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A4 02}有Ｆ．Ｏ．Ｅ熊！\n要小心哦——！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:5:0",
+  "message_id": "KUMA_FOE_SENSOR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A5 02}嗅嗅，这股气味……\n发现Ｆ．Ｏ．Ｅ了熊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:6:0",
+  "message_id": "KUMA_FOE_FOLLOW_END1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A6 02}想抓住小熊，\n你还早了５万年熊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:7:0",
+  "message_id": "KUMA_FOE_FOLLOW_END2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A7 02}呼，终于甩掉\nＦ．Ｏ．Ｅ了熊。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:8:0",
+  "message_id": "KUMA_FOE_FOLLOW_END3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A8 02}咦？Ｆ．Ｏ．Ｅ\n好像终于放弃了熊。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:9:0",
+  "message_id": "KUMA_PARTY_HPTP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A9 02}不行啦，讨厌啦，累死啦……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:10:0",
+  "message_id": "KUMA_PARTY_HPTP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 AA 02}小熊好像快看见彼岸的花田了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:11:0",
+  "message_id": "KUMA_PARTY_HPTP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 AB 02}不行了……小熊要变成星星了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:12:0",
+  "message_id": "KUMA_PARTY_HP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 AC 02}体力危急熊！\n救救我嘛！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:13:0",
+  "message_id": "KUMA_PARTY_HP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 AD 02}小熊要华丽地倒下了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:14:0",
+  "message_id": "KUMA_PARTY_HP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 AE 02}好难受熊……\n拜托帮我恢复！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:15:0",
+  "message_id": "KUMA_PARTY_TP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 AF 02}可别小看小熊的耐力啊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:16:0",
+  "message_id": "KUMA_PARTY_TP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 B0 02}不行了……\n别指望美少年有耐力熊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:17:0",
+  "message_id": "KUMA_PARTY_TP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 B1 02}小熊总觉得好累啊熊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:18:0",
+  "message_id": "KUMA_STAIR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 B2 02}咦，发现楼梯！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:19:0",
+  "message_id": "KUMA_STAIR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 B3 02}嗅嗅……是楼梯的气味熊。\n楼梯让熊鼻涕流，嘻嘻。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:20:0",
+  "message_id": "KUMA_STAIR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 B4 02}找到楼梯了熊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:21:0",
+  "message_id": "KUMA_TREASURE1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 B5 02}宝箱熊。里面一定……嘿嘿嘿……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:22:0",
+  "message_id": "KUMA_TREASURE2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 B6 02}找到宝箱了熊！得赶快\n取走，取之有道，嘻嘻。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:23:0",
+  "message_id": "KUMA_TREASURE3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 B7 02}宝箱熊！\n里面会是什么呢！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:24:0",
+  "message_id": "KUMA_FOUNTAIN1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 B8 02}发现能量点啦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:25:0",
+  "message_id": "KUMA_FOUNTAIN2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 B9 02}去了能量点，\n小熊也会变得超受欢迎吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:26:0",
+  "message_id": "KUMA_FOUNTAIN3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 BA 02}找到能量点了熊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:27:0",
+  "message_id": "KUMA_SEARCH_OBJ1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 BB 02}嗅嗅……这附近很可疑熊。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:28:0",
+  "message_id": "KUMA_SEARCH_OBJ2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 BC 02}嗅嗅……\n这附近好像有东西熊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:29:0",
+  "message_id": "KUMA_SEARCH_OBJ3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 BD 02}这附近有股可疑的味道熊……\n才、才不是小熊的体味熊！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:30:0",
+  "message_id": "KUMA_SWITCH1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 BE 02}找到开关了熊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:31:0",
+  "message_id": "KUMA_SWITCH2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 BF 02}有开关熊。要不要\n开开关心一下？嘻嘻！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:32:0",
+  "message_id": "KUMA_SWITCH3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 C0 02}咦咦？\n前面有个什么开关熊。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:33:0",
+  "message_id": "KUMA_SHORTCUT1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 C1 02}唔唔！？\n那面墙有点不对劲熊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:34:0",
+  "message_id": "KUMA_SHORTCUT2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 C2 02}嗅嗅……前面的墙，\n散发出可疑的气味熊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:35:0",
+  "message_id": "KUMA_SHORTCUT3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 C3 02}哎哎。\n那面墙是不是有点奇怪？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:36:0",
+  "message_id": "KUMA_PARTY_HPTP15_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A9 02}不行啦，讨厌啦，累死啦……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:37:0",
+  "message_id": "KUMA_PARTY_HPTP15_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 AA 02}小熊好像快看见彼岸的花田了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:38:0",
+  "message_id": "KUMA_PARTY_HPTP15_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 AB 02}不行了……小熊要变成星星了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:39:0",
+  "message_id": "KUMA_PARTY_TP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 AF 02}可别小看小熊的耐力啊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:40:0",
+  "message_id": "KUMA_PARTY_TP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 B0 02}不行了……\n别指望美少年有耐力熊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:41:0",
+  "message_id": "KUMA_PARTY_TP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 B1 02}小熊总觉得好累啊熊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:42:0",
+  "message_id": "KUMA_PARTY_HP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 AC 02}体力危急熊！\n救救我嘛！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:43:0",
+  "message_id": "KUMA_PARTY_HP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 AD 02}小熊要华丽地倒下了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:44:0",
+  "message_id": "KUMA_PARTY_HP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 AE 02}好难受熊……\n拜托帮我恢复！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:45:0",
+  "message_id": "KUMA_FOE_NEAR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A0 02}危险熊！\nＦ．Ｏ．Ｅ来了熊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:46:0",
+  "message_id": "KUMA_FOE_NEAR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A1 02}Ｆ．Ｏ．Ｅ正往\n这边过来熊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:47:0",
+  "message_id": "KUMA_FOE_NEAR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 A2 02}Ｆ．Ｏ．Ｅ来了啊——！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:48:0",
+  "message_id": "KUMA_ME_LEVEL_UP1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 C4 02}熊哼哼——\n好期待升级熊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:49:0",
+  "message_id": "KUMA_ME_LEVEL_UP2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 C5 02}这种预感……是恋爱？\n还是升级呢？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc009.arc_kuma_support.bf.json:50:0",
+  "message_id": "KUMA_ME_LEVEL_UP3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 C6 02}快升级了，\n小熊又要更可爱了熊。\n{F2 26 00 00}{00}"
+ }
+]

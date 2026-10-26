@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:0:0",
+  "message_id": "BTL_MES_H125_065_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 16 02}哥哥，现在好像只能用\n物理系？……的技能了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:1:0",
+  "message_id": "BTL_MES_H125_065_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0D 02}副队长被封印了！\n好像只能用物理系？了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:2:0",
+  "message_id": "BTL_MES_H125_065_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 17 02}阳介哥哥被封印了……\n现在好像只能用物理……了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:3:0",
+  "message_id": "BTL_MES_H125_065_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 18 02}千枝姐姐现在好像只能用\n物理系？……了哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:4:0",
+  "message_id": "BTL_MES_H125_065_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 19 02}雪子姐姐现在好像只能用\n物理技能？……了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:6:0",
+  "message_id": "BTL_MES_H125_065_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1A 02}完二哥哥被封印了！\n好像只能用物理……了哦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:7:0",
+  "message_id": "BTL_MES_H125_065_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1C 02}直斗姐姐现在好像只能做\n叫作物理？……的事情了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:8:0",
+  "message_id": "BTL_MES_H125_065_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1B 02}小熊先生被封印了！\n只能用物理系？了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:9:0",
+  "message_id": "BTL_MES_H125_065_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0E 02}由加莉姐姐现在好像\n只能用物理……？了哦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:10:0",
+  "message_id": "BTL_MES_H125_065_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0F 02}顺平哥哥被封印了！\n好像只能用物理？了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:11:0",
+  "message_id": "BTL_MES_H125_065_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 10 02}真田哥哥现在好像\n只能用物理系？……了哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:12:0",
+  "message_id": "BTL_MES_H125_065_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 11 02}美鹤姐姐被封印了！\n好像只能用物理？了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:14:0",
+  "message_id": "BTL_MES_H125_065_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 14 02}埃癸斯姐姐，\n现在只能用物理系……了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:15:0",
+  "message_id": "BTL_MES_H125_065_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 12 02}乾现在被封印了，\n好像只能用物理了哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:16:0",
+  "message_id": "BTL_MES_H125_065_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 13 02}小虎被封印了！\n好像只能用物理系……了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:17:0",
+  "message_id": "BTL_MES_H125_065_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 15 02}荒垣哥哥被封印了！\n听说只能用物理？……了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:18:0",
+  "message_id": "BTL_MES_H125_065_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1D 02}善哥哥现在好像只能用\n物理系？……了哦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:19:0",
+  "message_id": "BTL_MES_H125_065_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1D 02}善哥哥现在好像只能用\n物理系？……了哦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:20:0",
+  "message_id": "BTL_MES_H125_065_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0C 02}哥哥！现在被封印了！\n好像只能用物理……了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(064).BMD.json:21:0",
+  "message_id": "BTL_MES_H125_065_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0B 02}队长被封印了！\n好像只能用物理？……了。\n{F2 26 00 00}{00}"
+ }
+]

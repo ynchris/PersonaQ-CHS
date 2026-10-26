@@ -1,0 +1,52 @@
+[
+ {
+  "key": "export_base/event/e700/e724_205.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 04 01}唉……\n原来是这招啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_205.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 05 01 65 01 01 01}{F5 61 02 01 01 01 01 01 52 05}那家伙非常危险！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_205.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 A0 02}{F5 C1 03 01 01 01 01 01 0B 01}这种事看一眼就知道了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_205.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 04 01 02 01 01 01 02 01}{F5 86 0F 01 0D 01 65 01 04 01}{F5 61 02 01 01 01 01 01 F0 0A}{F5 C1 03 01 01 01 01 01 0B 01}不、不只是外表，\n它的移动速度似乎也很快！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e724_205.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}而且攻击性很强！\n会飞快地追过来！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_205.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 05 01 65 01 01 01}{F5 61 02 01 01 01 01 01 71 11}{F5 C1 03 01 01 01 01 01 07 01}大家！\n北边有一扇门！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e724_205.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}在被追上之前跑过去！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_205.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 04 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 A5 02}{F5 C1 03 01 01 01 01 01 0B 01}好、好，知道了！\n快往{F2 01 03 01}北边{F2 01 01 01}跑！听见没有！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e724_205.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这只Ｆ．Ｏ．Ｅ\n　似乎会以惊人的速度追来……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e724_205.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞最好在被抓住之前，\n　一口气冲过去……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:0:0",
+  "message_id": "BTL_MES_H121_068_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 50 02}副队长大人的防御力下降了。\n降得令人不安。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:1:0",
+  "message_id": "BTL_MES_H121_068_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 47 02}副队长大人的防御力下降了。\n竟然下降了呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:2:0",
+  "message_id": "BTL_MES_H121_068_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 51 02}花村阳介先生的防御力下降了。\n降得令人失望……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:3:0",
+  "message_id": "BTL_MES_H121_068_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 52 02}里中千枝小姐的防御力下降了。\n弹一下额头都会痛不欲生……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:4:0",
+  "message_id": "BTL_MES_H121_068_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 53 02}天城雪子小姐的防御力下降了。\n可不能大意啊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:6:0",
+  "message_id": "BTL_MES_H121_068_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 54 02}巽完二先生的防御力下降了。\n摔一跤就会没命似的……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:7:0",
+  "message_id": "BTL_MES_H121_068_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 56 02}白钟直斗小姐的防御力下降了。\n是的，确实如此。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:8:0",
+  "message_id": "BTL_MES_H121_068_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 55 02}小熊大人的防御力下降了。\n就像没了熊毛一样……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:9:0",
+  "message_id": "BTL_MES_H121_068_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 48 02}岳羽由加莉小姐的防御力下降了。\n真是让在下都担心起来了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:10:0",
+  "message_id": "BTL_MES_H121_068_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 49 02}伊织顺平先生的防御力下降了。\n现在若正面挨上一击……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:11:0",
+  "message_id": "BTL_MES_H121_068_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4A 02}真田明彦先生的防御力下降了。\n还请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:12:0",
+  "message_id": "BTL_MES_H121_068_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4B 02}桐条美鹤小姐的防御力下降了。\n可能会受到不容小觑的伤害……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:14:0",
+  "message_id": "BTL_MES_H121_068_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4E 02}埃癸斯小姐的防御力下降了。\n……一定。不，几乎可以肯定。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:15:0",
+  "message_id": "BTL_MES_H121_068_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4C 02}天田乾先生的防御力下降了。\n让人忍不住再看一眼……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:16:0",
+  "message_id": "BTL_MES_H121_068_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4D 02}虎狼丸大人的防御力下降了。\n就像全身的毛都被剃光了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:17:0",
+  "message_id": "BTL_MES_H121_068_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4F 02}荒垣真次郎先生的防御力下降了。\n是的，让周围的人都担心了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:18:0",
+  "message_id": "BTL_MES_H121_068_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 57 02}善大人和玲小姐的防御力下降了。\n当然，两位都是。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:19:0",
+  "message_id": "BTL_MES_H121_068_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 58 02}善大人的防御力下降了。\n若被直接击中，恐怕会很痛……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:20:0",
+  "message_id": "BTL_MES_H121_068_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 46 02}队长大人的防御力下降了。\n是的，简直形同赤裸……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(067).BMD.json:21:0",
+  "message_id": "BTL_MES_H121_068_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 45 02}队长大人的防御力下降了。\n在下认为最好提高警惕。\n{F2 26 00 00}{00}"
+ }
+]

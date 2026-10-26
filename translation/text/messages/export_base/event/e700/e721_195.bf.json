@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/event/e700/e721_195.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}■菜单界面\n按Ｘ键即可打开{F2 01 03 01}“菜单界面”{F2 01 01 01}。\n在菜单界面中，\n可以使用道具与技能，\n也能查看状态。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e721_195.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}掌握基本的移动操作，\n一步步探索迷宫吧。\n{F1 21}{00}"
+ }
+]

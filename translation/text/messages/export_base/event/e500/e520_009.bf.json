@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_base/event/e500/e520_009.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 01 01}{F3 06 00 01 00 01}{F2 01 08 01}＞天鹅绒房间……\n{F5 C1 14 01 01 01 01 01 3D 01}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_009.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 01 01}{F3 06 00 01 00 01}{F2 01 08 01}＞最后一道锁，似乎就要解开了……\n{F5 C1 14 01 01 01 01 01 63 01}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_009.bf.json:2:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 02 01}{F3 06 00 01 00 01}所有锁都已解开，门打开了……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_009.bf.json:3:0",
+  "message_id": "MSG_0012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 03 01}{F3 06 00 01 00 01}各位可以回到\n各自的世界了。\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_009.bf.json:4:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 04 01}{F3 06 00 01 00 01}这一侧，是我的客人的世界……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_009.bf.json:5:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 05 01}{F3 06 00 01 00 01}而这一侧，是我的客人的世界……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ }
+]

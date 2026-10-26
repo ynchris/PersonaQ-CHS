@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_base/event/e800/e813_723.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞把墙移到了蜘蛛面前！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e813_723.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这样蜘蛛就无法前进了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e813_723.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 03 01 01 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 08 02}成功了。\n看来已经封住蜘蛛的行动了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e813_723.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 86 03 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 4D 02}来，去救蝴蝶吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

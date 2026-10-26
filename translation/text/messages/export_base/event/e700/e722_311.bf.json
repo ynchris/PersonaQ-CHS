@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_base/event/e700/e722_311.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 4E 0A}{F5 C1 03 01 01 01 01 01 04 01}这个局面……\n看来是引导Ｆ．Ｏ．Ｅ\n失败了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_311.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 0E 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}只要这个房间里\n不再有我们的气息，\n它们应该就会回到原位。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_311.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}虽然会耽误一些时间……\n我提议暂时撤退。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_311.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞看来需要注意，\n　别让Ｆ．Ｏ．Ｅ堵住了道路……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

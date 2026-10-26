@@ -1,0 +1,397 @@
+[
+ {
+  "key": "export_base/facility/weapon.bf.json:0:0",
+  "message_id": "WSHOP_HELLO_MARGARET",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 05 01 05 01 02 01}{F5 61 08 01 01 01 01 01 11 01}欢迎光临。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:1:0",
+  "message_id": "WSHOP_HELLO_THEODORE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0D 01 06 01 02 01}{F5 61 08 01 01 01 01 01 1C 01}欢迎，欢迎光临。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:2:0",
+  "message_id": "WSHOP_WARNING",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 02 01}您似乎持有与委托有关的素材…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:2:1",
+  "message_id": "WSHOP_WARNING",
+  "translation": "{F2 05 FF FF}{F1 41}还请留意，\n不要误卖了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:3:0",
+  "message_id": "WSHOP_DISCOUNT",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 02 01}哦…\n{F4 84 04 01 01 01 CA 07}和{F4 84 04 01 01 01 CB 07}，\n您已经集齐２张了呢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:3:1",
+  "message_id": "WSHOP_DISCOUNT",
+  "translation": "{F2 05 FF FF}{F1 41}每张可减免１０％，\n今后所有商品都能以\n减免２０％的价格购买。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:3:2",
+  "message_id": "WSHOP_DISCOUNT",
+  "translation": "{F2 05 FF FF}{F1 41}今后也请您\n多多惠顾。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:6:0",
+  "message_id": "WSHOP_OUT_MARGARET",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 05 01 05 01 02 01}{F5 61 08 01 01 01 01 01 12 01}那么，下次再见。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:7:0",
+  "message_id": "WSHOP_OUT_THEODORE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0D 01 06 01 02 01}{F5 61 08 01 01 01 01 01 1D 01}期待您的再次光临。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:8:0",
+  "message_id": "WSHOP_TUTORIAL_1ST_IN",
+  "translation": "{F2 05 FF FF}{F1 41}在“手工工坊”里，\n{F2 01 03 01}出售获得的素材道具，\n就会增加新的商品{F2 01 01 01}。\n　\n试着出售持有的素材吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:9:0",
+  "message_id": "WSHOP_HELLO_NEWYEAR",
+  "translation": "{F2 05 FF FF}{F1 41}欢迎光临。新年快乐。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:9:1",
+  "message_id": "WSHOP_HELLO_NEWYEAR",
+  "translation": "{F2 05 FF FF}{F1 41}新年才刚开始，创作欲就涌上来了。\n不知道能不能弄到些稀奇的素材啊…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:10:0",
+  "message_id": "WSHOP_HELLO_RAIN",
+  "translation": "{F2 05 FF FF}{F1 41}欢迎光临。今天下雨啊…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:10:1",
+  "message_id": "WSHOP_HELLO_RAIN",
+  "translation": "{F2 05 FF FF}{F1 41}这种日子，总让人创作欲高涨。\n不知道能不能弄到些稀奇的素材啊…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:11:0",
+  "message_id": "WSHOP_HELLO_THUNDER",
+  "translation": "{F2 05 FF FF}{F1 41}欢迎光临。今天雨真大啊…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:11:1",
+  "message_id": "WSHOP_HELLO_THUNDER",
+  "translation": "{F2 05 FF FF}{F1 41}就算这种天气，创作欲也压不住啊。\n不知道能不能弄到些稀奇的素材啊…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:12:0",
+  "message_id": "WSHOP_HELLO_SNOW",
+  "translation": "{F2 05 FF FF}{F1 41}欢迎光临。\n今天可真够冷的。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:12:1",
+  "message_id": "WSHOP_HELLO_SNOW",
+  "translation": "{F2 05 FF FF}{F1 41}这种日子，总让人创作欲高涨。\n不知道能不能弄到些稀奇的素材啊…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:13:0",
+  "message_id": "WSHOP_HELLO_SELL_RAIN",
+  "translation": "{F2 05 FF FF}{F1 41}哎呀，一时创作欲大发，\n不知不觉就到这个时候了…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:13:1",
+  "message_id": "WSHOP_HELLO_SELL_RAIN",
+  "translation": "{F2 05 FF FF}{F1 41}嘿，你小子来得正是时候。\n今晚给你算便宜点。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:14:0",
+  "message_id": "WSHOP_HELLO_SELL_THUNDER",
+  "translation": "{F2 05 FF FF}{F1 41}可恶，这雨真够大的。\n等着雨停，结果都没能回去…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:14:1",
+  "message_id": "WSHOP_HELLO_SELL_THUNDER",
+  "translation": "{F2 05 FF FF}{F1 41}这种天气你还特地跑来啊。\n算我优待你，给你便宜点。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:15:0",
+  "message_id": "MSG_WSHOP_QUSET_00_000",
+  "translation": "{F2 05 FF FF}{F1 41}对了，你知道{F4 45 04 01 00 00 02 01}吗？\n鲛川能钓到，那可是下酒的好东西。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:15:1",
+  "message_id": "MSG_WSHOP_QUSET_00_000",
+  "translation": "{F2 05 FF FF}{F1 41}你要是会钓鱼，\n能不能替老夫钓来啊？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:16:0",
+  "message_id": "MSG_WSHOP_QUSET_00_010",
+  "translation": "{F2 05 FF FF}{F1 41}虽说有点独特，倒也算不错的“艺术”…\n连老夫的创作欲都被点燃了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:16:1",
+  "message_id": "MSG_WSHOP_QUSET_00_010",
+  "translation": "{F2 05 FF FF}{F1 41}那就拜托你了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:17:0",
+  "message_id": "MSG_WSHOP_QUSET_02_001",
+  "translation": "{F2 05 FF FF}{F1 41}什么嘛，你不是已经有了吗。\n怎么样？能不能给老夫？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:18:0",
+  "message_id": "SEL_WSHOP_QUSET_02_010",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:18:1",
+  "message_id": "SEL_WSHOP_QUSET_02_010",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:19:0",
+  "message_id": "MSG_WSHOP_QUSET_02_021",
+  "translation": "{F2 05 FF FF}{F1 41}那可真遗憾。\n也不能勉强你啊。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:19:1",
+  "message_id": "MSG_WSHOP_QUSET_02_021",
+  "translation": "{F2 05 FF FF}{F1 41}等你有这个心情了也行。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:20:0",
+  "message_id": "MSG_WSHOP_QUSET_02_000",
+  "translation": "{F2 05 FF FF}{F1 41}对了，你拿着的那个，\n不就是之前拜托你的{F4 45 04 01 00 00 02 01}吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:20:1",
+  "message_id": "MSG_WSHOP_QUSET_02_000",
+  "translation": "{F2 05 FF FF}{F1 41}怎么样？能不能给老夫？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:21:0",
+  "message_id": "MSG_WSHOP_QUSET_02_020",
+  "translation": "{F2 05 FF FF}{F1 41}…嚯，这条的个头可真不错。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:21:2",
+  "message_id": "MSG_WSHOP_QUSET_02_020",
+  "translation": "{F2 05 FF FF}{F1 41}你在那儿等一下！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:22:0",
+  "message_id": "MSG_WSHOP_QUSET_02_030",
+  "translation": "{F2 05 FF FF}{F1 41}抱歉，让你久等了！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:22:1",
+  "message_id": "MSG_WSHOP_QUSET_02_030",
+  "translation": "{F2 05 FF FF}{F1 41}老夫突然创作欲大发，\n就用后头的素材做了点东西。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:22:2",
+  "message_id": "MSG_WSHOP_QUSET_02_030",
+  "translation": "{F2 05 FF FF}{F1 41}就当是谢礼，收下吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:23:0",
+  "message_id": "MSG_WSHOP_QUSET_02_040",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了{F4 45 04 01 00 00 01 01}。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:24:0",
+  "message_id": "MSG_WSHOP_QUSET_02_050",
+  "translation": "{F2 05 FF FF}{F1 41}以后说不定还有事拜托你，\n到时候也多关照啊！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:25:0",
+  "message_id": "MSG_WSHOP_QUSET_10_000",
+  "translation": "{F2 05 FF FF}{F1 41}对了，你知道“屏障玉米”吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:25:1",
+  "message_id": "MSG_WSHOP_QUSET_10_000",
+  "translation": "{F2 05 FF FF}{F1 41}本以为只是普通玉米，\n听说竟然有２种…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:25:2",
+  "message_id": "MSG_WSHOP_QUSET_10_000",
+  "translation": "{F2 05 FF FF}{F1 41}怎么样，像上次的稻羽鳟鱼那样，\n也给老夫带来瞧瞧？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:26:0",
+  "message_id": "MSG_WSHOP_QUSET_10_010",
+  "translation": "{F2 05 FF FF}{F1 41}不知怎的，\n老夫的创作欲又蠢蠢欲动了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:26:1",
+  "message_id": "MSG_WSHOP_QUSET_10_010",
+  "translation": "{F2 05 FF FF}{F1 41}那就拜托你了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:27:0",
+  "message_id": "MSG_WSHOP_QUSET_12_001",
+  "translation": "{F2 05 FF FF}{F1 41}什么嘛，你已经有了啊。\n怎么样？能不能给老夫？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:28:0",
+  "message_id": "SEL_WSHOP_QUSET_12_010",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:28:1",
+  "message_id": "SEL_WSHOP_QUSET_12_010",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:29:0",
+  "message_id": "MSG_WSHOP_QUSET_12_021",
+  "translation": "{F2 05 FF FF}{F1 41}这样啊…\n也不能勉强你。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:29:1",
+  "message_id": "MSG_WSHOP_QUSET_12_021",
+  "translation": "{F2 05 FF FF}{F1 41}等你有这个心情了也行。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:30:0",
+  "message_id": "MSG_WSHOP_QUSET_12_000",
+  "translation": "{F2 05 FF FF}{F1 41}对了，你拿着的那个，\n不就是之前说的“屏障玉米”吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:30:1",
+  "message_id": "MSG_WSHOP_QUSET_12_000",
+  "translation": "{F2 05 FF FF}{F1 41}怎么样？能不能给老夫？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:31:0",
+  "message_id": "MSG_WSHOP_QUSET_12_020",
+  "translation": "{F2 05 FF FF}{F1 41}原来如此，这就是…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:31:1",
+  "message_id": "MSG_WSHOP_QUSET_12_020",
+  "translation": "{F2 05 FF FF}{F1 41}这边是{F4 45 04 01 00 00 02 01}，\n另一边叫{F4 45 04 01 00 00 03 01}啊…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:31:3",
+  "message_id": "MSG_WSHOP_QUSET_12_020",
+  "translation": "{F2 05 FF FF}{F1 41}你在那儿等一下！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:32:0",
+  "message_id": "MSG_WSHOP_QUSET_12_030",
+  "translation": "{F2 05 FF FF}{F1 41}抱歉，让你久等了！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:32:1",
+  "message_id": "MSG_WSHOP_QUSET_12_030",
+  "translation": "{F2 05 FF FF}{F1 41}老夫突然创作欲大发，\n就用后头的素材做了点东西。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:32:2",
+  "message_id": "MSG_WSHOP_QUSET_12_030",
+  "translation": "{F2 05 FF FF}{F1 41}就当是谢礼，收下吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:33:0",
+  "message_id": "MSG_WSHOP_QUSET_12_040",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了{F4 45 04 01 00 00 01 01}。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:34:0",
+  "message_id": "MSG_WSHOP_QUSET_12_050",
+  "translation": "{F2 05 FF FF}{F1 41}以后说不定还有事拜托你，\n到时候也多关照啊！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:35:0",
+  "message_id": "MSG_WSHOP_QUSET_20_000",
+  "translation": "{F2 05 FF FF}{F1 41}对了，老夫听到了点传闻…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:35:1",
+  "message_id": "MSG_WSHOP_QUSET_20_000",
+  "translation": "{F2 05 FF FF}{F1 41}听说你这小子，\n钓到了鲛川的{F4 45 04 01 00 00 02 01}？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:35:2",
+  "message_id": "MSG_WSHOP_QUSET_20_000",
+  "translation": "{F2 05 FF FF}{F1 41}能不能也让老夫开开眼？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:36:0",
+  "message_id": "MSG_WSHOP_QUSET_20_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 45 04 01 00 00 02 01}啊…\n老夫的创作欲又沸腾起来了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:36:1",
+  "message_id": "MSG_WSHOP_QUSET_20_010",
+  "translation": "{F2 05 FF FF}{F1 41}那就拜托你了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:37:0",
+  "message_id": "MSG_WSHOP_QUSET_22_001",
+  "translation": "{F2 05 FF FF}{F1 41}你已经有了！？\n怎么样？能不能给老夫？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:38:0",
+  "message_id": "SEL_WSHOP_QUSET_22_010",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:38:1",
+  "message_id": "SEL_WSHOP_QUSET_22_010",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:39:0",
+  "message_id": "MSG_WSHOP_QUSET_22_021",
+  "translation": "{F2 05 FF FF}{F1 41}这、这样啊…真可惜…\n也不能…勉强你啊。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:39:1",
+  "message_id": "MSG_WSHOP_QUSET_22_021",
+  "translation": "{F2 05 FF FF}{F1 41}…等你有这个心情了也行。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:40:1",
+  "message_id": "MSG_WSHOP_QUSET_22_000",
+  "translation": "{F2 05 FF FF}{F1 41}莫非你手里拿着的，\n就是之前拜托你的{F4 45 04 01 00 00 02 01}！？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:40:2",
+  "message_id": "MSG_WSHOP_QUSET_22_000",
+  "translation": "{F2 05 FF FF}{F1 41}怎么样？能不能给老夫！？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:41:0",
+  "message_id": "MSG_WSHOP_QUSET_22_020",
+  "translation": "{F2 05 FF FF}{F1 41}这就是…\n被称作鲛川之主的{F4 45 04 01 00 00 02 01}啊…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:41:2",
+  "message_id": "MSG_WSHOP_QUSET_22_020",
+  "translation": "{F2 05 FF FF}{F1 41}你在那儿等一下！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:42:0",
+  "message_id": "MSG_WSHOP_QUSET_22_030",
+  "translation": "{F2 05 FF FF}{F1 41}抱歉，让你久等了！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:42:1",
+  "message_id": "MSG_WSHOP_QUSET_22_030",
+  "translation": "{F2 05 FF FF}{F1 41}老夫突然创作欲大发，\n就用后头的素材做了点东西。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:42:2",
+  "message_id": "MSG_WSHOP_QUSET_22_030",
+  "translation": "{F2 05 FF FF}{F1 41}就当是谢礼，收下吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:43:0",
+  "message_id": "MSG_WSHOP_QUSET_22_040",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了{F4 45 04 01 00 00 01 01}。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/weapon.bf.json:44:0",
+  "message_id": "MSG_WSHOP_QUSET_22_050",
+  "translation": "{F2 05 FF FF}{F1 41}拜托了你这么多事，\n真是谢了！\n{F1 21}{00}"
+ }
+]

@@ -1,0 +1,97 @@
+[
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 02 01}{F3 06 00 01 00 01}学长学姐们变得好小啊！\n{F5 C1 14 01 01 01 01 01 4C 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}呜呜……\n这样真的能变回来吧……？\n{F5 C1 14 01 01 01 01 01 59 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}汪！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}等、等等，虎狼丸！\n别把脸凑这么近……呀啊！\n{F5 C1 14 01 01 01 01 01 65 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}汪，汪！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}等一下，虎狼丸！\n你冷静一点啦！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}喂、喂！别舔我！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}呜哇啊啊！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}好、好痛痛痛！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}住手，虎狼丸！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}尾巴扇起的风……哇啊啊！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}呜哦……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}呀啊啊，裙子！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}等……不要啦！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}好、好痒啊！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}呜呜……汪！\n{F5 C1 14 01 01 01 01 01 29 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}虎狼丸先生体内的野性\n似乎觉醒了。\n{F5 C1 14 01 01 01 01 01 55 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}可恶……\n大家，快逃进小房间！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_184.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}汪，汪！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ }
+]

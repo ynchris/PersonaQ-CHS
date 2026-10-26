@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:0:0",
+  "message_id": "BTL_MES_H123_062_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DC 01}副队长大人混乱了！\n啊……请保持清醒！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:1:0",
+  "message_id": "BTL_MES_H123_062_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D3 01}副队长大人，拜托了！\n请恢复清醒，抓住胜机！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:2:0",
+  "message_id": "BTL_MES_H123_062_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DD 01}花村大人混乱了。\n已经分不清敌我了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:3:0",
+  "message_id": "BTL_MES_H123_062_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DE 01}里中大人混乱了！\n来，里中大人，请回到我方队列！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:4:0",
+  "message_id": "BTL_MES_H123_062_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DF 01}天城大人混乱了。\n啊……天城大人，敌人在那边！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:6:0",
+  "message_id": "BTL_MES_H123_062_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E0 01}巽大人混乱了！\n已经分不清敌我了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:7:0",
+  "message_id": "BTL_MES_H123_062_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E2 01}白钟大人混乱了！\n啊……真不像那位聪慧的白钟大人……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:8:0",
+  "message_id": "BTL_MES_H123_062_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E1 01}小熊大人混乱了！\n来，小熊大人！敌人在那边！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:9:0",
+  "message_id": "BTL_MES_H123_062_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D4 01}啊……岳羽大人似乎混乱了。\n敌、敌人在那边！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:10:0",
+  "message_id": "BTL_MES_H123_062_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D5 01}伊织大人，请保持清醒！\n别再东张西望了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:11:0",
+  "message_id": "BTL_MES_H123_062_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D6 01}真田大人混乱了……\n……这下可无人能制止了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:12:0",
+  "message_id": "BTL_MES_H123_062_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D7 01}桐条大人混乱了。\n已经分不清敌我了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:14:0",
+  "message_id": "BTL_MES_H123_062_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DA 01}埃癸斯大人混乱了。\n简直是暴走状态！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:15:0",
+  "message_id": "BTL_MES_H123_062_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D8 01}天田大人混乱了。\n天田大人，敌人在那边！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:16:0",
+  "message_id": "BTL_MES_H123_062_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D9 01}啊……虎狼丸大人混乱了，\n正在追着自己的尾巴转！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:17:0",
+  "message_id": "BTL_MES_H123_062_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DB 01}荒垣大人，请保持清醒！\n我们是同伴！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:18:0",
+  "message_id": "BTL_MES_H123_062_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E3 01}善大人，玲大人……\n何必连混乱都两位一起呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:19:0",
+  "message_id": "BTL_MES_H123_062_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E4 01}善大人混乱了。\n请问有办法治好吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:20:0",
+  "message_id": "BTL_MES_H123_062_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D2 01}啊……队长大人混乱了……\n请振作起来！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(061).BMD.json:21:0",
+  "message_id": "BTL_MES_H123_062_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D1 01}队长大人，请保持清醒！\n还请恢复理智！\n{F2 26 00 00}{00}"
+ }
+]

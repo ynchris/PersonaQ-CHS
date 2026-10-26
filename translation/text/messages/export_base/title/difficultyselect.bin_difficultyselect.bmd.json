@@ -1,0 +1,67 @@
+[
+ {
+  "key": "export_base/title/difficultyselect.bin_difficultyselect.bmd.json:0:0",
+  "message_id": "MSG_DIFFICULTY_SELECT_01",
+  "translation": "{F2 05 FF FF}{F1 41}＞接下来，请选择\n　游戏难度。\n{F1 21}"
+ },
+ {
+  "key": "export_base/title/difficultyselect.bin_difficultyselect.bmd.json:0:1",
+  "message_id": "MSG_DIFFICULTY_SELECT_01",
+  "translation": "{F2 05 FF FF}{F1 41}＞选择任何难度都不会改变剧情。\n　请选择适合自己的难度，\n　尽情享受游戏。\n{F1 21}"
+ },
+ {
+  "key": "export_base/title/difficultyselect.bin_difficultyselect.bmd.json:0:2",
+  "message_id": "MSG_DIFFICULTY_SELECT_01",
+  "translation": "{F2 05 FF FF}{F1 41}＞开始游戏后，\n　也可以随时更改难度。\n{F1 21}"
+ },
+ {
+  "key": "export_base/title/difficultyselect.bin_difficultyselect.bmd.json:0:3",
+  "message_id": "MSG_DIFFICULTY_SELECT_01",
+  "translation": "{F2 05 FF FF}{F1 41}＞但选择“ＲＩＳＫＹ”难度后，\n　将无法在中途更改。\n　请注意。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/title/difficultyselect.bin_difficultyselect.bmd.json:1:0",
+  "message_id": "MSG_DIFFICULTY_CONFIRM",
+  "translation": "{F2 05 FF FF}{F1 41}＞是否以“{F2 44 01 01}”难度\n　开始游戏？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/title/difficultyselect.bin_difficultyselect.bmd.json:2:0",
+  "message_id": "SEL_DIFFICULTY_CONFIRM",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/title/difficultyselect.bin_difficultyselect.bmd.json:2:1",
+  "message_id": "SEL_DIFFICULTY_CONFIRM",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/title/difficultyselect.bin_difficultyselect.bmd.json:3:0",
+  "message_id": "MSG_DIFFICULTY_CONFIRM_R",
+  "translation": "{F2 05 FF FF}{F1 41}＞“ＲＩＳＫＹ”难度\n　无法在游戏中途更改。\n{F1 21}"
+ },
+ {
+  "key": "export_base/title/difficultyselect.bin_difficultyselect.bmd.json:3:1",
+  "message_id": "MSG_DIFFICULTY_CONFIRM_R",
+  "translation": "{F2 05 FF FF}{F1 41}＞是否以“ＲＩＳＫＹ”难度\n　开始游戏？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/title/difficultyselect.bin_difficultyselect.bmd.json:4:0",
+  "message_id": "MSG_DIFFICULTY_CONFIRM_R",
+  "translation": "{F2 05 FF FF}{F1 41}＞是否确定？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/title/difficultyselect.bin_difficultyselect.bmd.json:5:0",
+  "message_id": "MSG_RETURN_TITLE",
+  "translation": "{F2 05 FF FF}{F1 41}＞是否返回标题画面？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/title/difficultyselect.bin_difficultyselect.bmd.json:6:0",
+  "message_id": "SEL_RETURN_TITLE",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/title/difficultyselect.bin_difficultyselect.bmd.json:6:1",
+  "message_id": "SEL_RETURN_TITLE",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ }
+]

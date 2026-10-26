@@ -1,0 +1,57 @@
+[
+ {
+  "key": "export_base/battle/event/boss703.bf.json:0:0",
+  "message_id": "MSG_BTL_BOSS_001_ENCOUNT",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 11 10}真是群\n可恶可恶可恶的家伙！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss703.bf.json:1:0",
+  "message_id": "MSG_BTL_BOSS_001_ENCOUNT",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 19 10}宝物不会给你们！\n绝对不给你们啊啊啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss703.bf.json:4:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_75_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 12 10}竟敢对我——\n对女王——动手——！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss703.bf.json:5:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_75_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 13 10}真是胆大包天，\n无礼、卑贱又下流啊啊啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss703.bf.json:6:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_75_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 54 10}绝不饶恕你们啊啊啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss703.bf.json:7:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_50_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 14 10}咿呀呀呀！\n什么！？你们到底是什么人！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss703.bf.json:8:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_50_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 15 10}我可是女王！是女王陛下啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss703.bf.json:9:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_50_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 55 10}是至高无上的独裁者啊！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss703.bf.json:10:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_25_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 16 10}不……不给你们……\n宝物，宝物……绝不给你们……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss703.bf.json:11:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_25_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 17 10}这宝物……这宝物……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss703.bf.json:12:0",
+  "message_id": "MSG_BTL_BOSS_001_BTLEND_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 18 10}宝物啊……宝物啊啊啊……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

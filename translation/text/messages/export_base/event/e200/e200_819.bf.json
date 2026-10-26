@@ -1,0 +1,162 @@
+[
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 4A 01 11 01 02 01 04 01}{F5 61 02 01 01 01 01 01 02 01}说起来，有件事\n一直让我有点在意……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}你们的世界里，\n为什么有那么多人\n如此热衷于“占卜”呢？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 4A 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 04 01}来到这里之前，为了消遣，\n我在文化祭开了占卜小屋……\n来客几乎都是占卜恋爱的女性。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:0:3",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 4A 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 05 01}想必……大家都在等待吧。\n像灰姑娘一样，\n等待命定的王子出现。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:0:4",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 4A 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 06 01}……不过，身为男性的你，\n对这种话题可能没兴趣吧？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:0:5",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 07 01}如果好奇，随时都能\n为你占卜哦。\n呵呵……要试试吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:1:0",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 4A 01 12 01 02 01 01 01}我的命定之人是谁？{F5 47 02 01 4A 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:1:1",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}和玛格丽特合得来吗？{F5 47 02 01 4A 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:1:2",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}无所谓{F5 47 02 01 4A 01 01 01 05 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 4A 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 08 01}哎呀……把我叫到这里来的，\n究竟是哪位呢？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}给我戴上命运手铐的责任，\n可得好好承担哦。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 4A 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}当然，你已经做好觉悟了吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞从玛格丽特身上，\n　感受到了惊人的压迫感……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 4A 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}呵呵，开玩笑的。\n因为有个弟弟，不小心就习惯性……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 4A 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}像对待迪奥那样“逗你”，\n让你心里没“底”了吗？\n偶尔这样也“挺逗的”吧？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:4:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 4A 01 12 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:4:3",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 4A 01 12 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}这是“三角合体”哦。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玛格丽特得意地微笑着……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 4A 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}呵呵……不用占卜也知道哦。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 4A 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 10 01}你内心蕴藏着炽热的力量。\n那份热度，也传到了我这里。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:6:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 11 01}能让我想更深入了解的人，\n可不多呢。\n不愧是那孩子……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:6:3",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 4A 01 12 01 02 01 01 01}{F5 61 02 01 01 01 01 01 12 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:6:4",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 4A 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 13 01}不愧是那孩子的客人。\n和你在一起，始终充满新鲜感。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玛格丽特微笑着……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 4A 01 12 01 02 01 01 01}{F5 61 02 01 01 01 01 01 14 01}……是吗，你没有迷茫呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 4A 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 15 01}人们心存迷惘，\n或是感到不安时，\n才会想通过占卜了解命运。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:8:2",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 16 01}可是，命运不会赐予任何东西。\n重要的是，在命运中抓住什么。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:8:3",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 17 01}占卜也只不过是，\n帮助人们去抓住些什么……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:8:4",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 4A 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 18 01}你已经清楚地看见，\n自己该走的路了呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玛格丽特微笑着……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 19 01}{F5 C1 04 01 01 01 01 01 04 01}那么……闲聊时间，\n差不多该结束了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_819.bf.json:10:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 4A 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 1A 01}看来这条路还剩一段。\n继续前进吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

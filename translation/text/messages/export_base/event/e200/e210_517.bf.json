@@ -1,0 +1,117 @@
+[
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 07 01}{F5 C1 04 01 01 01 01 01 04 01}咦……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 04 01 01 01 01 01 04 01}这样的照片……\n是什么时候拍的呀？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 03 01 01 01 01 01 09 01}{F5 C1 04 01 01 01 01 01 04 01}真是的……\n明明是我们两人的秘·密呢☆\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞看来，这似乎是合成照片……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 02 01}{F5 86 21 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 05 01}怎么样？　怎么样？\n看到理想的婚后生活了吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 06 01}小熊能当老师的新娘吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:3:0",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}也许可以{F5 47 02 01 02 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:3:1",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}问题有点多{F5 47 02 01 02 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}好嘞！\n那就只等求婚了熊！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}嗯？\n还没好吗？　还没好吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:5:0",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}结婚以后，小熊一定会\n让老师幸福的熊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:5:1",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}虽然做饭、打扫、洗衣服\n全都不会，不过阳介会做，\n所以没问题！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:5:2",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}不过，要是偶尔不给零食吃，\n小熊就要离家出走了熊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}老师是谨慎派啊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:6:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}没关系，就像空空的小熊\n突然长出了里面的人一样，\n只要相信，奇迹就会发生熊！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:6:2",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}那～么～，\n老师想要什么样的新娘呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:7:0",
+  "message_id": "SEL_TALK006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}相处起来开心的人{F5 47 02 01 02 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:7:1",
+  "message_id": "SEL_TALK006",
+  "translation": "{F2 05 FF FF}{F1 41}能治愈我的人{F5 47 02 01 02 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}小熊呢？　和小熊在一起开心吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:8:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 10 01}小熊和老师在一起很开心！\n和阳介、千枝妹妹，还有大家\n在一起就更开心了！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:8:2",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 11 01}所以，小熊要和大家结婚！\n先从和老师结婚开始！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}小熊可是治愈的天才哦？\n大家经常夸小熊\n“你这个贴心鬼！”熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_517.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 13 01}{F5 C1 03 01 01 01 01 01 08 01}老师，结婚真有趣！\n出发☆去结婚！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,532 @@
+[
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:0:0",
+  "message_id": "MARGARET_FOE_FOLLOW_STAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E7 01}请小心。F.O.E\n似乎发现我们了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:1:0",
+  "message_id": "MARGARET_FOE_FOLLOW_STAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E8 01}F.O.E 发现我们了。\n建议各位谨慎前进。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:2:0",
+  "message_id": "MARGARET_FOE_FOLLOW_STAR",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E9 01}被 F.O.E 发现了呢……\n还请谨慎前进。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:3:0",
+  "message_id": "MARGARET_FOE_SENSOR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EA 01}F.O.E 就在身旁。\n请多加小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:4:0",
+  "message_id": "MARGARET_FOE_SENSOR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EB 01}是 F.O.E 呢……请谨慎前进，\n避免与它接触。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:5:0",
+  "message_id": "MARGARET_FOE_SENSOR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EC 01}F.O.E 就在附近。\n请警戒四周。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:6:0",
+  "message_id": "MARGARET_FOE_FOLLOW_END1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 ED 01}看来已经\n甩开 F.O.E 了呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:7:0",
+  "message_id": "MARGARET_FOE_FOLLOW_END2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EE 01}刚才那只 F.O.E\n似乎不会追到这里呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:8:0",
+  "message_id": "MARGARET_FOE_FOLLOW_END3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EF 01}顺利逃脱了呢。\n请继续探索吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:9:0",
+  "message_id": "MARGARET_PARTY_HARF_DEAD",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F0 01}队伍中的伤员太多了。\n我想应该暂时撤退。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:10:0",
+  "message_id": "MARGARET_PARTY_HARF_DEAD",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F1 01}队伍的消耗似乎很严重。\n不建议就这样继续前进。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:11:0",
+  "message_id": "MARGARET_PARTY_HARF_DEAD",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F2 01}我想应该先撤退一趟。\n这样继续前进会全军覆没的。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:12:0",
+  "message_id": "MARGARET_PARTY_HPTP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F3 01}队长的消耗很严重呢……\n是不是该先恢复自己的状态？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:13:0",
+  "message_id": "MARGARET_PARTY_HPTP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F4 01}队长，体力和精力都所剩无几了。\n就这样前进太勉强了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:14:0",
+  "message_id": "MARGARET_PARTY_HPTP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F5 01}队长，这样下去你会倒下的。\n先恢复一下吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:15:0",
+  "message_id": "MARGARET_PARTY_HPTP10_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F6 01}队长，你的体力和精力消耗严重。\n我想应该先恢复一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:16:0",
+  "message_id": "MARGARET_PARTY_HPTP10_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F7 01}队长，这样下去，\n倒下也只是时间问题。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:17:0",
+  "message_id": "MARGARET_PARTY_HPTP10_6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F8 01}队长的体力和精力\n都所剩无几了。请多加留意。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:18:0",
+  "message_id": "MARGARET_PARTY_HP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F9 01}队长，你的体力不多了。\n不如先恢复一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:19:0",
+  "message_id": "MARGARET_PARTY_HP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FA 01}队长的体力有所消耗呢。\n就这样前进是不是太危险了？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:20:0",
+  "message_id": "MARGARET_PARTY_HP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FB 01}队长，首先应该\n好好照顾自己的身体。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:21:0",
+  "message_id": "MARGARET_PARTY_HP10_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FC 01}队长的体力已降至危险程度。\n我想应该先恢复一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:22:0",
+  "message_id": "MARGARET_PARTY_HP10_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FD 01}队长的体力似乎不多了。\n前进之前，不如先恢复一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:23:0",
+  "message_id": "MARGARET_PARTY_HP10_6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FE 01}队长的体力所剩无几。\n我想应该优先恢复自己的体力。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:24:0",
+  "message_id": "MARGARET_PARTY_TP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FF 01}队长的精力所剩无几了。\n要小心哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:25:0",
+  "message_id": "MARGARET_PARTY_TP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 00 01}队长，你的精力不多了呢……\n不可以勉强自己哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:26:0",
+  "message_id": "MARGARET_PARTY_TP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 01 02}队长，你的精力还够吗？\n看起来已经所剩无几了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:27:0",
+  "message_id": "MARGARET_PARTY_TP10_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 02 02}队长的精力所剩无几。\n强行前进恐怕很危险。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:28:0",
+  "message_id": "MARGARET_PARTY_TP10_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 03 02}队长，你的精力所剩无几。\n请不要勉强自己。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:29:0",
+  "message_id": "MARGARET_PARTY_TP10_6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 04 02}队长，你的精力消耗很大呢。\n请多加留意。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:30:0",
+  "message_id": "MARGARET_STAIR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 05 02}哎呀……是楼梯呢。\n您打算怎么办？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:31:0",
+  "message_id": "MARGARET_STAIR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 06 02}哎呀，好像是楼梯呢。\n要继续前进吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:32:0",
+  "message_id": "MARGARET_STAIR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 07 02}发现了楼梯。\n要继续探索吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:33:0",
+  "message_id": "MARGARET_TREASURE1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 08 02}哎呀，是宝箱呢……\n不如打开看看？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:34:0",
+  "message_id": "MARGARET_TREASURE2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 09 02}是宝箱。呵呵，\n里面会是什么呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:35:0",
+  "message_id": "MARGARET_TREASURE3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0A 02}是宝箱呢。希望里面\n装着很棒的东西……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:36:0",
+  "message_id": "MARGARET_FOUNTAIN1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0B 02}是能量点呢。\n希望能采到很棒的素材……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:37:0",
+  "message_id": "MARGARET_FOUNTAIN2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0C 02}那道光是……能量点。\n不如调查一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:38:0",
+  "message_id": "MARGARET_FOUNTAIN3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0D 02}似乎是能量点呢。\n会出现什么……真令人期待。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:39:0",
+  "message_id": "MARGARET_SEARCH_OBJ1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0E 02}哎呀……前方好像有什么……\n不如调查一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:40:0",
+  "message_id": "MARGARET_SEARCH_OBJ2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0F 02}哎呀……前方似乎有什么。\n能请各位调查一下吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:41:0",
+  "message_id": "MARGARET_SEARCH_OBJ3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 10 02}前方似乎看到了什么。\n不如确认一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:42:0",
+  "message_id": "MARGARET_SWITCH1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 11 02}附近似乎有开关。\n建议各位调查一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:43:0",
+  "message_id": "MARGARET_SWITCH2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 12 02}哎呀……前方是不是有开关？\n还请确认一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:44:0",
+  "message_id": "MARGARET_SWITCH3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 13 02}附近恐怕有开关。\n还请各位找找。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:45:0",
+  "message_id": "MARGARET_KARITORUMONO1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 14 02}感觉到了“收割者”的气息。\n请多加小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:46:0",
+  "message_id": "MARGARET_KARITORUMONO2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 15 02}这股气息……“收割者”\n似乎就在附近！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:47:0",
+  "message_id": "MARGARET_KARITORUMONO3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 16 02}请小心！\n“收割者”正在接近。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:48:0",
+  "message_id": "MARGARET_ARROW_DIZZINESS",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 17 02}哎呀……您没事吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:49:0",
+  "message_id": "MARGARET_ARROW_DIZZINESS",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 18 02}真是麻烦的 F.O.E 呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:50:0",
+  "message_id": "MARGARET_ARROW_DIZZINESS",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 19 02}这只是暂时的症状。\n现在请先忍耐一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:51:0",
+  "message_id": "MARGARET_ARROW_FASCINATI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1A 02}客人！\n往那边走恐怕很危险！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:52:0",
+  "message_id": "MARGARET_ARROW_FASCINATI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1B 02}难道这也是 F.O.E 干的吗……？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:53:0",
+  "message_id": "MARGARET_ARROW_FASCINATI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1C 02}啊！那边有 F.O.E！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:54:0",
+  "message_id": "MARGARET_SHORTCUT1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1D 02}那面墙……很可疑呢……\n不如调查一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:55:0",
+  "message_id": "MARGARET_SHORTCUT2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1E 02}前方的那面墙，\n建议各位调查一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:56:0",
+  "message_id": "MARGARET_SHORTCUT3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1F 02}哎呀……那面墙……\n似乎值得调查一番。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:57:0",
+  "message_id": "MARGARET_TRAVEL1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 20 02}看来这一层\n几乎已经走遍了呢。真了不起。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:58:0",
+  "message_id": "MARGARET_TRAVEL2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 21 02}这一层简直已经如同\n客人的后花园了呢。真出色。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:59:0",
+  "message_id": "MARGARET_TRAVEL3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 22 02}看来这一层\n几乎已被各位摸透了呢。真了不起。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:63:0",
+  "message_id": "MARGARET_ITEM_MAX1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 26 02}看来行李增加了不少……\n不如先整理一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:64:0",
+  "message_id": "MARGARET_ITEM_MAX2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 27 02}行李似乎快装满了呢……\n不如先整理一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:65:0",
+  "message_id": "MARGARET_ITEM_MAX3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 28 02}行李似乎很多呢。再继续\n探索，恐怕也拿不下了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:66:0",
+  "message_id": "MARGARET_PARTY_HPTP15_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F3 01}队长的消耗很严重呢……\n是不是该先恢复自己的状态？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:67:0",
+  "message_id": "MARGARET_PARTY_HPTP15_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F4 01}队长，体力和精力都所剩无几了。\n就这样前进太勉强了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:68:0",
+  "message_id": "MARGARET_PARTY_HPTP15_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F5 01}队长，这样下去你会倒下的。\n先恢复一下吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:69:0",
+  "message_id": "MARGARET_PARTY_HPTP15_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F6 01}队长，你的体力和精力消耗严重。\n我想应该先恢复一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:70:0",
+  "message_id": "MARGARET_PARTY_HPTP15_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F7 01}队长，这样下去，\n倒下也只是时间问题。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:71:0",
+  "message_id": "MARGARET_PARTY_HPTP15_6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F8 01}队长的体力和精力\n都所剩无几了。请多加留意。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:72:0",
+  "message_id": "MARGARET_PARTY_TP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FF 01}队长的精力所剩无几了。\n要小心哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:73:0",
+  "message_id": "MARGARET_PARTY_TP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 00 01}队长，你的精力不多了呢……\n不可以勉强自己哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:74:0",
+  "message_id": "MARGARET_PARTY_TP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 01 02}队长，你的精力还够吗？\n看起来已经所剩无几了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:75:0",
+  "message_id": "MARGARET_PARTY_TP20_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 02 02}队长的精力所剩无几。\n强行前进恐怕很危险。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:76:0",
+  "message_id": "MARGARET_PARTY_TP20_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 03 02}队长，你的精力所剩无几。\n请不要勉强自己。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:77:0",
+  "message_id": "MARGARET_PARTY_TP20_6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 04 02}队长，你的精力消耗很大呢。\n请多加留意。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:78:0",
+  "message_id": "MARGARET_PARTY_HP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F9 01}队长，你的体力不多了。\n不如先恢复一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:79:0",
+  "message_id": "MARGARET_PARTY_HP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FA 01}队长的体力有所消耗呢。\n就这样前进是不是太危险了？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:80:0",
+  "message_id": "MARGARET_PARTY_HP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FB 01}队长，首先应该\n好好照顾自己的身体。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:81:0",
+  "message_id": "MARGARET_PARTY_HP20_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FC 01}队长的体力已降至危险程度。\n我想应该先恢复一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:82:0",
+  "message_id": "MARGARET_PARTY_HP20_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FD 01}队长的体力似乎不多了。\n前进之前，不如先恢复一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:83:0",
+  "message_id": "MARGARET_PARTY_HP20_6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FE 01}队长的体力所剩无几。\n我想应该优先恢复自己的体力。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:84:0",
+  "message_id": "MARGARET_PARTY_HP50_P4HE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 29 02}队伍中有位同伴\n体力已经不多了。请多加留意。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:85:0",
+  "message_id": "MARGARET_PARTY_HP50_P3HE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2A 02}队长的体力不多了。\n建议先恢复一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:86:0",
+  "message_id": "MARGARET_PARTY_HP50_YOSU",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2B 02}花村的体力所剩无几。\n我想应该趁现在恢复一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:87:0",
+  "message_id": "MARGARET_PARTY_HP50_CHIE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2C 02}里中的体力所剩无几。\n不如恢复一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:88:0",
+  "message_id": "MARGARET_PARTY_HP50_YUKI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2D 02}天城的体力有所消耗。\n我想应该趁现在恢复一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:89:0",
+  "message_id": "MARGARET_PARTY_HP50_KUMA",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2E 02}小熊的体力不多了。\n请多加留意。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:90:0",
+  "message_id": "MARGARET_PARTY_HP50_KANJ",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2F 02}巽的体力所剩无几。\n不如尽早恢复一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:91:0",
+  "message_id": "MARGARET_PARTY_HP50_NAOT",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 30 02}白钟的体力所剩无几。\n建议尽早恢复。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:92:0",
+  "message_id": "MARGARET_PARTY_HP50_SUB_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 31 02}副队长的体力所剩无几。\n不如恢复一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:93:0",
+  "message_id": "MARGARET_PARTY_HP50_YUKA",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 32 02}岳羽的体力有所消耗。\n就这样前进恐怕很危险……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:94:0",
+  "message_id": "MARGARET_PARTY_HP50_MITH",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 33 02}桐条的体力所剩无几。\n各位有恢复的手段吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:95:0",
+  "message_id": "MARGARET_PARTY_HP50_AEGI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 34 02}埃癸斯的体力所剩无几。\n不如趁现在恢复一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:96:0",
+  "message_id": "MARGARET_PARTY_HP50_JUNP",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 35 02}伊织的体力有所消耗。\n不如先恢复一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:97:0",
+  "message_id": "MARGARET_PARTY_HP50_SANA",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 36 02}真田的体力已降至危险程度。\n不如先恢复一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:98:0",
+  "message_id": "MARGARET_PARTY_HP50_AMAD",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 37 02}天田的体力所剩无几。\n我想应该优先恢复。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:99:0",
+  "message_id": "MARGARET_PARTY_HP50_ARAG",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 38 02}荒垣的体力有所消耗。\n前进之前，不如先恢复一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:100:0",
+  "message_id": "MARGARET_PARTY_HP50_KORO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 39 02}虎狼丸的体力所剩无几。\n建议先恢复一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:101:0",
+  "message_id": "MARGARET_PARTY_HP50_ZEN",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3A 02}善的体力所剩无几。\n就这样前进恐怕很危险。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:102:0",
+  "message_id": "MARGARET_PARTY_HP50_REI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3B 02}善和玲的体力所剩无几。\n我想应该先恢复一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:103:0",
+  "message_id": "MARGARET_FOE_NEAR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E7 01}请小心。F.O.E\n似乎发现我们了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:104:0",
+  "message_id": "MARGARET_FOE_NEAR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E8 01}F.O.E 发现我们了。\n建议各位谨慎前进。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:105:0",
+  "message_id": "MARGARET_FOE_NEAR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E9 01}被 F.O.E 发现了呢……\n还请谨慎前进。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:106:0",
+  "message_id": "MARGARET_FOE_ALL_CLEAR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3C 02}看来这一层已经感觉不到 \nF.O.E 的气息了呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:107:0",
+  "message_id": "MARGARET_FOE_ALL_CLEAR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3D 02}似乎已歼灭这一层的全部 F.O.E。\n真不愧是各位。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/dungeon/pack/pc022.arc_margaret_support.bf.json:108:0",
+  "message_id": "MARGARET_FOE_ALL_CLEAR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3E 02}这一层似乎已经没有 F.O.E \n了。真不愧是各位呢。\n{F2 26 00 00}{00}"
+ }
+]

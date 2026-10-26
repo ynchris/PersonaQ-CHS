@@ -1,0 +1,72 @@
+[
+ {
+  "key": "export_base/event/e800/e822_130.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 09 01 02 01 02 01}{F5 61 02 01 01 01 01 01 02 01}恭候多时了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_130.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}经过上次的热身运动，\n身体是不是已经热乎乎的了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_130.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 04 01}这次会比上次稍微加点力。\n请不必客气……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_130.bf.json:2:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 0D 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 05 01}你才是，太小看我们，\n可是要吃苦头的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_130.bf.json:2:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 06 01}不用客气，尽管使出全力。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_130.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 02 01 02 01}{F5 61 02 01 01 01 01 01 07 01}那可不行。\n各位还是软绵绵的小雏鸡……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_130.bf.json:3:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}既不能下蛋，\n又不能拿来吃肉，\n只是软绵绵的小雏鸡。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_130.bf.json:4:0",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 09 01}等各位长成大鸡，\n我再使出真本事吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_130.bf.json:5:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0B 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}可恶……如此侮辱我们，\n你已经做好觉悟了吧！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_130.bf.json:6:0",
+  "message_id": "MSG_0032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}就算是女人，我也不会留情。\n来，上擂台！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_130.bf.json:7:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 02 01 07 01}{F5 61 02 01 01 01 01 01 0C 01}{F5 C1 03 01 01 01 01 01 02 01}这么明显的挑衅也上钩了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_130.bf.json:8:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 0B 01 02 01 02 01}{F5 61 02 01 01 01 01 01 0D 01}这才叫战斗……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e822_130.bf.json:8:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0E 01}这场战斗能让彼此收获什么呢……\n真令人期待。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e822_130.bf.json:9:0",
+  "message_id": "MSG_0052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0F 01}抽卡。人格面具卡。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

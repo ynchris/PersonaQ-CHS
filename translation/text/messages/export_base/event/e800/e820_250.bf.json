@@ -1,0 +1,627 @@
+[
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0B 01 07 01 02 01}{F5 61 02 01 01 01 01 01 4C 11}{F5 C1 03 01 01 01 01 01 02 01}公布结果！\n来，鼓掌！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 07 01}{F5 86 29 01 01 01 09 01 04 01}{F5 61 02 01 01 01 01 01 BD 11}{F5 C1 03 01 01 01 01 01 08 01}哇——！　哇——！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}善大人、小熊大人。\n准备好了吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}请证明二位对玲的爱吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 03 01 02 01}{F5 61 02 01 01 01 01 01 2B 07}哼哼——。\n小熊准备得很充分哦？\n要认输就趁现在熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 07 01}{F5 61 02 01 01 01 01 01 9C 0D}结果还不知道，\n为什么就要认输？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0F 01 03 01 02 01}{F5 61 02 01 01 01 01 01 00 06}{F5 C1 03 01 01 01 01 01 07 01}唔……看来你很有信心熊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 3F 11}那么，先由善大人开始。\n请展示您的物品。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 07 01}{F5 61 02 01 01 01 01 01 D3 0D}就是这个。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞善递出了物品。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 04 01}{F5 61 02 01 01 01 01 01 66 10}{F5 C1 03 01 01 01 01 01 08 01}哇——！\n是冰淇淋汽水！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}不妨品尝一下？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 04 01}{F5 61 02 01 01 01 01 01 B0 10}诶，可以吗？\n那我开动啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玲喝起了冰淇淋汽水……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 02 01 04 01}{F5 61 02 01 01 01 01 01 AF 10}{F5 C1 03 01 01 01 01 01 09 01}气泡泡！　甜甜的！\n刺激！　色素！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}收到了“色素”的评价～。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玲似乎很开心……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 04 01}{F5 61 02 01 01 01 01 01 43 10}{F5 C1 03 01 01 01 01 01 07 01}啊！\n是樱桃！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}不妨品尝一下？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 04 01}{F5 61 02 01 01 01 01 01 B0 10}诶，可以吗？\n那我开动啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玲吃起了樱桃……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 02 01 04 01}{F5 61 02 01 01 01 01 01 AF 10}{F5 C1 03 01 01 01 01 01 08 01}甜！　小！　果核！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:21:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}收到了“果核”的评价～。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:22:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玲似乎有点开心……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:23:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 04 01}{F5 61 02 01 01 01 01 01 26 10}{F5 C1 03 01 01 01 01 01 07 01}是咖啡！　好成熟！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:24:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}不妨品尝一下？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:25:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 04 01}{F5 61 02 01 01 01 01 01 B0 10}诶，可以吗？\n那我开动啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:26:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玲喝起了咖啡……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:27:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 02 01 04 01}{F5 61 02 01 01 01 01 01 AF 10}{F5 C1 03 01 01 01 01 01 09 01}苦！　浓！　苦！\n香！　滴滤！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:28:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}收到了“滴滤”的评价～。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:29:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玲似乎很开心……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:30:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 02 01 04 01}{F5 61 02 01 01 01 01 01 8B 10}{F5 C1 03 01 01 01 01 01 05 01}加在咖啡里的奶？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:31:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}不妨品尝一下？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:32:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 04 01}{F5 61 02 01 01 01 01 01 B0 10}诶，可以吗？\n那我开动啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:33:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玲喝起了奶……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:34:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 02 01 04 01}{F5 61 02 01 01 01 01 01 AF 10}{F5 C1 03 01 01 01 01 01 08 01}甜！　白！　植物性！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:35:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}收到了“植物性”的评价～。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:36:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玲似乎有点开心……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:37:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 02 01 04 01}{F5 61 02 01 01 01 01 01 CC 10}{F5 C1 03 01 01 01 01 01 08 01}哇——！\n是冰淇淋！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:38:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}不妨品尝一下？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:39:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 04 01}{F5 61 02 01 01 01 01 01 B0 10}诶，可以吗？\n那我开动啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:40:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玲吃起了冰淇淋……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:41:0",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 02 01 04 01}{F5 61 02 01 01 01 01 01 AF 10}{F5 C1 03 01 01 01 01 01 09 01}冷！　甜！\n冰淇淋一天最多十个！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:42:0",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}收到了“一天最多十个”的评价～。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:43:0",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玲似乎很开心……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:44:0",
+  "message_id": "MSG_044",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 04 01}{F5 61 02 01 01 01 01 01 66 10}{F5 C1 03 01 01 01 01 01 07 01}哇，是章鱼烧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:45:0",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}不妨品尝一下？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:46:0",
+  "message_id": "MSG_046",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 04 01}{F5 61 02 01 01 01 01 01 B0 10}诶，可以吗？\n那我开动啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:47:0",
+  "message_id": "MSG_047",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玲吃起了章鱼烧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:48:0",
+  "message_id": "MSG_048",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 02 01 04 01}{F5 61 02 01 01 01 01 01 AF 10}{F5 C1 03 01 01 01 01 01 09 01}烫！　幸福！\n烫伤！　八条腿！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:49:0",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}收到了“八条腿”的评价～。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:50:0",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玲似乎很开心……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:51:0",
+  "message_id": "MSG_051",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 02 01 04 01}{F5 61 02 01 01 01 01 01 4E 10}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}诶，诶诶诶！？\n这是芭菲！？\n这么大！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:52:0",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 DB 0E}这真是出色。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:52:1",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}玲……\n不妨品尝一下？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:53:0",
+  "message_id": "MSG_053",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 04 01}{F5 61 02 01 01 01 01 01 B0 10}诶，可以吗？\n那我开动啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:54:0",
+  "message_id": "MSG_054",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玲吃起了巨型芭菲……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:54:1",
+  "message_id": "MSG_054",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:54:2",
+  "message_id": "MSG_054",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞堆得像山一样的芭菲，\n　正以惊人的速度消失……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:55:0",
+  "message_id": "MSG_055",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 02 01 04 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 08 01}{F5 61 02 01 01 01 01 01 7D 10}好吃！　甜！　大！\n奶油！　巧克力！　草莓！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:55:1",
+  "message_id": "MSG_055",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 02 01 04 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 09 01}{F5 61 02 01 01 01 01 01 01 01}停！　不下！　来——！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:56:0",
+  "message_id": "MSG_056",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}收到了“停不下来”的评价～。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:57:0",
+  "message_id": "MSG_057",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玲似乎开心极了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:58:0",
+  "message_id": "MSG_058",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 04 01}{F5 61 02 01 01 01 01 01 8B 10}{F5 C1 03 01 01 01 01 01 07 01}啊，是１０日元硬币形状的巧克力！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:59:0",
+  "message_id": "MSG_059",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}不妨品尝一下？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:60:0",
+  "message_id": "MSG_060",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 04 01}{F5 61 02 01 01 01 01 01 B0 10}诶，可以吗？\n那我开动啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:61:0",
+  "message_id": "MSG_061",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玲把１０日元硬币放进了嘴里……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:62:0",
+  "message_id": "MSG_062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 29 01 02 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:62:1",
+  "message_id": "MSG_062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 02 01 04 01}{F5 61 02 01 01 01 01 01 80 10}有铁的味道。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:63:0",
+  "message_id": "MSG_063",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}那当然。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:63:1",
+  "message_id": "MSG_063",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}善大人，取消资格。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:64:0",
+  "message_id": "MSG_064",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞没能让玲开心……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:65:0",
+  "message_id": "MSG_065",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 02 01 04 01}{F5 61 02 01 01 01 01 01 4E 10}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}一、一次性筷子１０００双！？\n这也能吃吗！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:66:0",
+  "message_id": "MSG_066",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}不妨品尝一下？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:67:0",
+  "message_id": "MSG_067",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 02 01 04 01}{F5 61 02 01 01 01 01 01 01 01}诶，可以吗？\n那、那就……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:68:0",
+  "message_id": "MSG_068",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玲把一次性筷子放进了嘴里……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:69:0",
+  "message_id": "MSG_069",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 29 01 02 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:69:1",
+  "message_id": "MSG_069",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 02 01 04 01}{F5 61 02 01 01 01 01 01 80 10}有木头的味道。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:70:0",
+  "message_id": "MSG_070",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}那当然。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:70:1",
+  "message_id": "MSG_070",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}善大人，取消资格。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:71:0",
+  "message_id": "MSG_071",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞没能让玲开心……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:72:0",
+  "message_id": "MSG_072",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 3F 11}接下来，后手的小熊大人。\n请展示您的物品。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:73:0",
+  "message_id": "MSG_073",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 0A 01 0D 01 03 01 04 01}{F5 61 02 01 01 01 01 01 8D 07}{F5 C1 03 01 01 01 01 01 08 01}熊——！\n小熊信心十足熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:74:0",
+  "message_id": "MSG_074",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:74:1",
+  "message_id": "MSG_074",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞小熊拿出了一团\n　非常巨大的蓝色棉花糖！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:75:0",
+  "message_id": "MSG_075",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 07 01}{F5 86 29 01 0B 01 02 01 04 01}{F5 61 02 01 01 01 01 01 2D 10}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}诶诶！？\n这是什么，从来没见过！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:76:0",
+  "message_id": "MSG_076",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 01 01 07 01}{F5 61 02 01 01 01 01 01 EE 0D}这……是我输了吗……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:77:0",
+  "message_id": "MSG_077",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 02 01}{F5 61 02 01 01 01 01 01 34 11}{F5 C1 03 01 01 01 01 01 05 01}咦……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:77:1",
+  "message_id": "MSG_077",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}……小熊大人。\n请问您是从哪里得到这个的？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:78:0",
+  "message_id": "MSG_078",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 0A 01 09 01 06 01 04 01}{F5 61 02 01 01 01 01 01 FF 06}{F5 C1 03 01 01 01 01 01 0A 01}从、从哪里……是换来的熊？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:79:0",
+  "message_id": "MSG_079",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}换来的……和谁换的呢？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:79:1",
+  "message_id": "MSG_079",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}其实，为防止作弊，\n我在最初给出的筷子上\n做了红点标记。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:80:0",
+  "message_id": "MSG_080",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 03 01}{F5 86 0A 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 02 07}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}……！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:81:0",
+  "message_id": "MSG_081",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 02 01 07 01}{F5 61 02 01 01 01 01 01 8A 10}{F5 C1 03 01 01 01 01 01 07 01}啊！\n这根棉花糖的筷子上，\n有个红点！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:81:1",
+  "message_id": "MSG_081",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 80 10}{F5 C1 03 01 01 01 01 01 04 01}还有……这个好难吃！\n毛茸茸的，还缠在一起！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:82:0",
+  "message_id": "MSG_082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}你……作弊了吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:83:0",
+  "message_id": "MSG_083",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 03 01}{F5 86 0A 01 11 01 03 01 01 01}{F5 61 02 01 01 01 01 01 04 07}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:83:1",
+  "message_id": "MSG_083",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 12 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0C 07}因为……\n谁都不肯跟我换……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:83:2",
+  "message_id": "MSG_083",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}小熊拔了些熊毛，\n借了棉花糖机，\n弄得蓬蓬松松的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:84:0",
+  "message_id": "MSG_084",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}好，取消资格！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:85:0",
+  "message_id": "MSG_085",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1F 07}{F5 C1 04 01 01 01 01 01 04 01}怎、怎么这样熊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:86:0",
+  "message_id": "MSG_086",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 05 01 02 01 07 01}{F5 61 02 01 01 01 01 01 7F 10}{F5 C1 03 01 01 01 01 01 04 01}熊毛好难吃！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:87:0",
+  "message_id": "MSG_087",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 08 01 01 01 04 01}{F5 61 02 01 01 01 01 01 3C 07}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 0B 01}太过分了！\n不用说两次吧熊！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:88:0",
+  "message_id": "MSG_088",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞小熊似乎被取消资格了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:89:0",
+  "message_id": "MSG_089",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 3E 11}那么，还是……\n公布结果吧。\n玲，请说出胜者的名字。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:90:0",
+  "message_id": "MSG_090",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 07 01}{F5 86 29 01 01 01 09 01 04 01}{F5 61 02 01 01 01 01 01 78 10}咳咳……\n这次对决……善赢了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:91:0",
+  "message_id": "MSG_091",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞赢得了以物易物对决！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:92:0",
+  "message_id": "MSG_092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 26 11}恭喜。\n请胜者发表感言。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:93:0",
+  "message_id": "MSG_093",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 01 01 02 01 01 01 02 01}{F5 86 15 01 0D 01 01 01 07 01}{F5 61 02 01 01 01 01 01 D8 0D}{F1 82}，多亏有你。\n我们从小熊手中保护了玲。\n更重要的是……玲很开心。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:94:0",
+  "message_id": "MSG_094",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 22 01 0D 01 05 01 02 01}{F5 61 02 01 01 01 01 01 34 11}哎呀……\n这是怎么回事呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:94:1",
+  "message_id": "MSG_094",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}双方均被取消资格，\n所以是平局。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:95:0",
+  "message_id": "MSG_095",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 02 01 02 01 04 01}{F5 86 15 01 0D 01 01 01 07 01}{F5 61 02 01 01 01 01 01 BA 0D}等等。\n我们没有耍卑鄙手段。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:96:0",
+  "message_id": "MSG_096",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}不过，条件始终是\n“食物”以及“特大份”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:96:1",
+  "message_id": "MSG_096",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}既然没能让玲开心，\n这次比赛就以平局结束。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:97:0",
+  "message_id": "MSG_097",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 01 01 07 01}{F5 61 02 01 01 01 01 01 8C 0D}……原来如此。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:98:0",
+  "message_id": "MSG_098",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞比赛打成了平局……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:99:0",
+  "message_id": "MSG_099",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 07 01}{F5 86 0A 01 11 01 03 01 02 01}{F5 61 02 01 01 01 01 01 F6 06}{F5 C1 03 01 01 01 01 01 04 01}玲……对不起，\n小熊作弊了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:100:0",
+  "message_id": "MSG_100",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 04 01}{F5 61 02 01 01 01 01 01 CB 10}小熊。就算是作弊，\n我也很开心哦。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:101:0",
+  "message_id": "MSG_1002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 05 01 0D 01 04 01}{F5 61 02 01 01 01 01 01 01 01}善，我们三个人一起玩，可以吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:102:0",
+  "message_id": "MSG_101",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 06 01 02 01 07 01}{F5 61 02 01 01 01 01 01 6D 0D}嗯。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:103:0",
+  "message_id": "MSG_102",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 07 01}{F5 86 29 01 03 01 02 01 04 01}{F5 61 02 01 01 01 01 01 B8 10}{F5 C1 03 01 01 01 01 01 08 01}三个人一起去玩吧？\n我知道一家很好吃的美式热狗店！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:104:0",
+  "message_id": "MSG_103",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 08 01 01 01 02 01}{F5 61 02 01 01 01 01 01 F5 06}玲……谢谢你熊……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:105:0",
+  "message_id": "MSG_104",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 DF 10}至此，事情圆满解决。\n可喜可贺，可喜可贺。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:106:0",
+  "message_id": "MSG_105",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞就这样，\n以物易物对决落下了帷幕……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_250.bf.json:107:0",
+  "message_id": "MSG_106",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞稍后去保健室{F2 01 03 01}报告{F2 01 01 01}吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

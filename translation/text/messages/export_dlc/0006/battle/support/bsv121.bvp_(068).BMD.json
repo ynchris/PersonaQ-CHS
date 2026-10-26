@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:0:0",
+  "message_id": "BTL_MES_H121_069_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 64 02}叮咚叮咚。现为您播报，\n副队长大人的速度下降了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:1:0",
+  "message_id": "BTL_MES_H121_069_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5B 02}副队长大人的速度下降了。\n请提高警惕。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:2:0",
+  "message_id": "BTL_MES_H121_069_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 65 02}花村阳介先生的速度下降了。\n是的，慢得令人失望。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:3:0",
+  "message_id": "BTL_MES_H121_069_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 66 02}里中千枝小姐的速度下降了。\n是的，简直像在打太极拳……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:4:0",
+  "message_id": "BTL_MES_H121_069_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 67 02}天城雪子小姐的速度下降了。\n是的，简直像在开玩笑……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:6:0",
+  "message_id": "BTL_MES_H121_069_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 68 02}巽完二先生的速度下降了。\n是的，慢得令人焦急……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:7:0",
+  "message_id": "BTL_MES_H121_069_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6A 02}白钟直斗小姐的速度下降了。\n是的，看上三遍都还来得及……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:8:0",
+  "message_id": "BTL_MES_H121_069_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 69 02}小熊大人的速度下降了。\n是的……仿佛里面没人了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:9:0",
+  "message_id": "BTL_MES_H121_069_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5C 02}岳羽由加莉小姐的速度下降了。\n是的，慢得令人焦急。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:10:0",
+  "message_id": "BTL_MES_H121_069_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5D 02}伊织顺平先生的速度下降了。\n实在是慢得令人焦急。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:11:0",
+  "message_id": "BTL_MES_H121_069_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5E 02}真田明彦先生的速度下降了。\n拳头简直像静止了一样……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:12:0",
+  "message_id": "BTL_MES_H121_069_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5F 02}桐条美鹤小姐的速度下降了。\n是的，让人忍不住想催促……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:14:0",
+  "message_id": "BTL_MES_H121_069_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 62 02}埃癸斯小姐的速度下降了。\n明明已经充分保养过了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:15:0",
+  "message_id": "BTL_MES_H121_069_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 60 02}天田乾先生的速度下降了。\n是的……让人有些无语……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:16:0",
+  "message_id": "BTL_MES_H121_069_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 61 02}虎狼丸大人的速度下降了。\n是的，简直像在水里行动……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:17:0",
+  "message_id": "BTL_MES_H121_069_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 63 02}荒垣真次郎先生的速度下降了。\n真田明彦先生很担心您呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:18:0",
+  "message_id": "BTL_MES_H121_069_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6B 02}善大人和玲小姐的速度下降了。\n当然，两位一起……是也。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:19:0",
+  "message_id": "BTL_MES_H121_069_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6C 02}善大人的速度下降了。\n是的，简直像是故意的。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:20:0",
+  "message_id": "BTL_MES_H121_069_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5A 02}队长大人的速度下降了。\n快进一下才刚刚好呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(068).BMD.json:21:0",
+  "message_id": "BTL_MES_H121_069_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 59 02}队长大人的速度下降了。\n是的，鸟都能停下来啄了……\n{F2 26 00 00}{00}"
+ }
+]

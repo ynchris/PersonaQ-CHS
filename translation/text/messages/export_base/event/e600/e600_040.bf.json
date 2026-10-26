@@ -1,0 +1,62 @@
+[
+ {
+  "key": "export_base/event/e600/e600_040.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 02 01 09 01 02 01}{F5 61 02 01 01 01 01 01 02 01}发生在台风之夜的，这场小小的事件……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e600_040.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}听闻台风期间，\n您一直卧病在床，\n所以这大概只是我的一场梦……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_040.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 22 01 06 01 09 01 01 01}{F5 61 02 01 01 01 01 01 04 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e600_040.bf.json:1:1",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 06 01 09 01 01 01}{F5 61 02 01 01 01 01 01 05 01}但是，那究竟是不是梦……\n如今的我不禁心存疑问。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e600_040.bf.json:1:2",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 06 01}因为您似乎在某些地方……\n是的，在某些地方……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e600_040.bf.json:1:3",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 09 01 01 01}{F5 61 02 01 01 01 01 01 07 01}有所“改变”……\n在我看来，正是如此……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_040.bf.json:2:0",
+  "message_id": "MSG_0003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 02 01 09 01 01 01}{F5 61 02 01 01 01 01 01 08 01}……哎呀，您要回去了吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e600_040.bf.json:2:1",
+  "message_id": "MSG_0003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}说起来，听说今天各位的宿舍里\n有一件重要的事情呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_040.bf.json:3:0",
+  "message_id": "MSG_0004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 22 01 02 01 09 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e600_040.bf.json:3:1",
+  "message_id": "MSG_0004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0F 01 09 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}呵呵，总觉得您……\n看起来十分……开心呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e600_040.bf.json:3:2",
+  "message_id": "MSG_0004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 09 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}耽搁您这么久，\n实在非常抱歉。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e600_040.bf.json:3:3",
+  "message_id": "MSG_0004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 09 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}那么，下次再见……\n愿您安好。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

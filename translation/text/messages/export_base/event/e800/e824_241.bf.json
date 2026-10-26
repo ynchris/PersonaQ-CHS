@@ -1,0 +1,27 @@
+[
+ {
+  "key": "export_base/event/e800/e824_241.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 02 01}{F3 06 00 01 00 01}呵呵……注意到了吗？\n你们身上发生的变化……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e824_241.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F2 01 08 01}＞“俄耳甫斯”转生为“弥赛亚”！\n{F2 22 5B 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e824_241.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F2 01 08 01}＞“伊邪那岐”转生为“伊邪那岐大神”！\n{F2 22 58 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e824_241.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 03 01}{F3 06 00 01 00 01}这就是你们新的可能性……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e824_241.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 04 01}{F3 06 00 01 00 01}看来，假说得到了证实。\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ }
+]

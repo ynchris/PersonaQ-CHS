@@ -1,0 +1,272 @@
+[
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞２年４班的节目……\n　写着“放学后的恶灵俱乐部”……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 02 01}接下来是这里呢。\n是步行参观式的鬼屋吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 05 01 05 01 01 01 04 01}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}哈！？\n要是半路吓得腿软了怎么办！\n鬼不就全围过来了吗！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 03 01 01 01 01 01 0A 01}你生什么气啊……\n真是的，不就是文化祭的节目吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 05 01}希望……是这样吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 0F 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 06 01}我倒是有点想进去看看……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}风花，你不怕恐怖的东西吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}虽然害怕，但正因如此才有趣……\n理世你不行吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 09 01}和大家一起应该挺好玩的，\n但我还是挺受不了的！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}只有现在，才会觉得\n幸好自己负责支援。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:9:0",
+  "message_id": "MSG_0082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 02 01}{F5 86 07 01 03 01 01 01 04 01}{F5 61 02 01 01 01 01 01 0B 01}啊，不过学长！\n只有我们两个的话，我应该敢进去！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:10:0",
+  "message_id": "SEL_TALK009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}之后大家一起逛吧{F5 47 02 01 02 01 07 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:10:1",
+  "message_id": "SEL_TALK009",
+  "translation": "{F2 05 FF FF}{F1 41}之后我们两个逛吧{F5 47 02 01 02 01 07 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:10:2",
+  "message_id": "SEL_TALK009",
+  "translation": "{F2 05 FF FF}{F1 41}先做好导航{F5 47 02 01 02 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}都说了是我们两个！\n你又这样岔开话题。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}真的？\n还以为学长肯定会无视我呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}我会好好做的！\n这是两回事嘛！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0F 01}{F5 C1 03 01 01 01 01 01 0A 01}唉，这孩子真是……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:15:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 10 01}呵呵，你们关系真好。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:16:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 05 01 05 01 02 01}{F5 61 02 01 01 01 01 01 11 01}是啊，这也许就是我们的长处。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:17:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 0B 01 0F 01 05 01 04 01}{F5 61 02 01 01 01 01 01 12 01}这样啊。\n……感觉真好呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:17:1",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 0B 01 10 01 05 01 04 01}{F5 61 02 01 01 01 01 01 13 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:17:2",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 11 01 05 01 01 01}{F5 61 02 01 01 01 01 01 14 01}{F5 C1 03 01 01 01 01 01 07 01}……啊，差不多该走了吧！\n一直待在这里也没用。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:18:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 11 01 02 01 02 01}{F5 61 02 01 01 01 01 01 15 01}是、是啊。\n……走吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:19:0",
+  "message_id": "SEL_TALK018",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 02 01 02 01 01 01 01 01}没关系{F5 47 02 01 02 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:19:1",
+  "message_id": "SEL_TALK018",
+  "translation": "{F2 05 FF FF}{F1 41}我会保护直斗{F5 47 02 01 02 01 0D 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:19:2",
+  "message_id": "SEL_TALK018",
+  "translation": "{F2 05 FF FF}{F1 41}完二会保护直斗{F5 47 02 01 02 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:20:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 16 01}我并不害怕。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:20:1",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 17 01}{F5 C1 03 01 01 01 01 01 0B 01}……我没有害怕！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:21:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 07 01}{F5 61 02 01 01 01 01 01 18 01}啊……小直果然\n也是女孩子呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:22:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 19 01}{F5 C1 03 01 01 01 01 01 07 01}不、不用保护我！\n我没关系！没问题！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:23:0",
+  "message_id": "MSG_0212",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 1A 01}{F5 C1 03 01 01 01 01 01 0B 01}我完全不害怕！\n一般所谓的灵异体验，\n已知都可以用科学加以否定……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:24:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 07 01}{F5 61 02 01 01 01 01 01 1B 01}啊……小直果然\n也是女孩子呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:25:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0B 01 01 01 05 01}{F5 61 02 01 01 01 01 01 1C 01}{F5 C1 03 01 01 01 01 01 02 01}呜噗！！\n喂，你在说什么啊！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:26:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1D 01}就、就是说啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:27:0",
+  "message_id": "MSG_0242",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 1E 01}我很信赖巽同学，\n但仅仅因为同年级就把我推给他，\n未免太为难他了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:28:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1F 01}{F5 C1 03 01 01 01 01 01 07 01}{F5 C1 04 01 01 01 01 01 05 01}咦，等下，哎？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:29:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 20 01}总之，我一个人没问题。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:30:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 21 01}{F5 C1 03 01 01 01 01 01 04 01}哎，啊，是……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:31:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 29 01 08 01 02 01 04 01}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 22 01}还剩２个。\n在这深处，一定也有守卫\n守护着“什么”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:31:1",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 23 01}……玲，不用害怕。\n没事的，我会保护你。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:32:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 24 01}{F5 C1 04 01 01 01 01 01 04 01}……嗯。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:33:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 07 01}{F5 61 02 01 01 01 01 01 25 01}我也会保护玲小姐。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:34:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 26 01}嗯，多谢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:35:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 0A 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 27 01}小熊也会保护小玲熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:36:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 28 01}{F5 C1 04 01 01 01 01 01 02 01}我拒绝。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:37:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 29 01}{F5 C1 03 01 01 01 01 01 07 01}歧视小熊，不好！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:38:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 12 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 2A 01}汪呜。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:39:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2B 01}……就算被小狗安慰，\n我也一点都不高兴哦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:40:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2C 01}{F5 C1 03 01 01 01 01 01 04 01}呜呜……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:41:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0F 01 04 01 05 01}{F5 61 02 01 01 01 01 01 2D 01}喂，小熊。\n别欺负我家小虎，好吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:42:0",
+  "message_id": "MSG_0382",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 09 01 05 01 01 01}{F5 61 02 01 01 01 01 01 2E 01}过来，小虎。\n给你摸摸头。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:43:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2F 01}{F5 C1 03 01 01 01 01 01 08 01}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e300/e310_010.bf.json:44:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 08 01 01 01 01 01}{F5 61 02 01 01 01 01 01 30 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 0B 01}歧视小熊，不可以啊啊！！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

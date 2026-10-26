@@ -1,0 +1,157 @@
+[
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 49 01 11 01 02 01 04 01}{F5 61 02 01 01 01 01 01 02 01}我因好奇心无穷无尽，\n不知不觉忘了一件事……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}这里是只有被选为\n“命定之人”的人才能进入的地方。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 49 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 04 01}既然我也获得了这个资格，\n就该履行职责……\n可惜不谙世事，不知该如何做。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:0:3",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}冒昧请教……\n能否传授我身为“命定之人”，\n应有的正确姿态呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:1:0",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 49 01 12 01 02 01 01 01}像平常一样就好{F5 47 02 01 49 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:1:1",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}多些身体接触{F5 47 02 01 49 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:1:2",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}无所谓{F5 47 02 01 49 01 01 01 05 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 49 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 06 01}……原来如此，\n保持自然很重要呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 49 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 07 01}不过，若将真实的我\n全力释放，\n那种事和这种事，甚至……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:2:3",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 49 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 09 01}……很遗憾，\n经过自我审议，\n我决定暂且忍耐。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白似乎有些遗憾……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 49 01 12 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}哎呀，原来如此。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 49 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}也就是说，像现在这样牵着手，\n正是我们被选为\n“命定之人”的证明……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:4:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0C 01}那么我也不必客气，\n就堂堂正正地努力接触吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:5:0",
+  "message_id": "MSG_004a",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 49 01 12 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白紧紧握住了自己的手……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 49 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}这样就可以了吗……呵呵。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:7:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0F 01}本来很想\n全力以赴……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:7:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 10 01}但若不小心，连您的命\n都捏得一命呜呼可就麻烦了……\n所以我克制了力道。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白似乎很开心……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 49 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 11 01}原来如此，就算是命定之人，\n也不能高兴得变成呆头鹅……\n那样未免不解风情。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:9:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 12 01}……呆头鸡？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:9:2",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 13 01}{F5 C1 03 01 01 01 01 01 05 01}……狮子头？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:9:3",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 49 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 14 01}……总之，就是那么回事。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白看起来很认真……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 15 01}{F5 C1 04 01 01 01 01 01 04 01}这段令人心动的旅程，\n也终究会迎来终点呢……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:11:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 49 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 16 01}为什么呢……\n一旦这只手松开，您就……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:11:2",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 17 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:11:3",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 49 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 18 01}……不，抱歉。\n说了些奇怪的话。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_818.bf.json:11:4",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 19 01}……那么，继续前进吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

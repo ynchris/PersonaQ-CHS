@@ -1,0 +1,97 @@
+[
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:0:0",
+  "message_id": "BTL_MES_H105_182_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 59 03}前辈的倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:1:0",
+  "message_id": "BTL_MES_H105_182_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 50 03}副队长，\n倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:2:0",
+  "message_id": "BTL_MES_H105_182_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5A 03}花村前辈的倒计时变成１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:3:0",
+  "message_id": "BTL_MES_H105_182_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5B 03}千枝前辈的倒计时\n变成１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:4:0",
+  "message_id": "BTL_MES_H105_182_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5C 03}雪子前辈，倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:6:0",
+  "message_id": "BTL_MES_H105_182_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5D 03}完二的倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:7:0",
+  "message_id": "BTL_MES_H105_182_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5F 03}直斗，倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:8:0",
+  "message_id": "BTL_MES_H105_182_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5E 03}小熊的倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:9:0",
+  "message_id": "BTL_MES_H105_182_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 51 03}啊，由加莉的\n倒计时变成１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:10:0",
+  "message_id": "BTL_MES_H105_182_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 52 03}顺平先生的倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:11:0",
+  "message_id": "BTL_MES_H105_182_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 53 03}真田先生的倒计时\n只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:12:0",
+  "message_id": "BTL_MES_H105_182_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 54 03}美鹤女士的倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:14:0",
+  "message_id": "BTL_MES_H105_182_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 57 03}小心，\n埃癸斯的倒计时只剩１！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:15:0",
+  "message_id": "BTL_MES_H105_182_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 55 03}乾的倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:16:0",
+  "message_id": "BTL_MES_H105_182_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 56 03}小虎的倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:17:0",
+  "message_id": "BTL_MES_H105_182_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 58 03}荒垣先生的倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:19:0",
+  "message_id": "BTL_MES_H105_182_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 60 03}小心，\n善的倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:20:0",
+  "message_id": "BTL_MES_H105_182_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4F 03}前辈！倒计时只剩１！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(181).BMD.json:21:0",
+  "message_id": "BTL_MES_H105_182_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4E 03}队长的倒计时只剩１了！\n{F2 26 00 00}{00}"
+ }
+]

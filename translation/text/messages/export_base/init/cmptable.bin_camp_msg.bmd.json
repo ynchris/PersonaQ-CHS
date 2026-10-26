@@ -1,0 +1,147 @@
+[
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:0:0",
+  "message_id": "system_yes_no",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:0:1",
+  "message_id": "system_yes_no",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:1:0",
+  "message_id": "system_camp_card_drop",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞要消除这个人格面具。\n　确定吗？\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:2:0",
+  "message_id": "system_camp_card_drop_ng",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞无法消除正在装备的人格面具。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:3:0",
+  "message_id": "system_camp_card_set",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞是否装备这个人格面具？\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:4:0",
+  "message_id": "system_camp_config_title",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞尚未保存的进度将会丢失。\n　确定返回标题画面吗？\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:5:0",
+  "message_id": "system_camp_quest_offer",
+  "translation": "{F2 05 FF FF}{F1 41}＞已接受委托{F2 44 02 01}“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:6:0",
+  "message_id": "system_camp_quest_end",
+  "translation": "{F2 05 FF FF}{F1 41}＞已完成委托{F2 44 02 01}“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:7:0",
+  "message_id": "system_camp_quest_first",
+  "translation": "{F2 05 FF FF}{F1 41}已接受的委托可在\n菜单的“Ｑｕｅｓｔ”中查看。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:8:0",
+  "message_id": "system_camp_skillcard_al",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞已经学会了{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:9:0",
+  "message_id": "system_camp_skillcard_ch",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞是否学习{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}？\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:10:0",
+  "message_id": "system_camp_skillcard_en",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}学会了\n　{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:11:0",
+  "message_id": "system_camp_skillcard_rm",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞技能栏已满。\n　请选择要遗忘的技能。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:12:0",
+  "message_id": "system_camp_skillcard_rm",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞是否遗忘“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”？\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:13:0",
+  "message_id": "system_camp_skillcard_ch",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”学会了\n　“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:14:0",
+  "message_id": "system_camp_equip_change",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞已经装备了这个人格面具。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:15:0",
+  "message_id": "system_book_read",
+  "translation": "{F2 05 FF FF}{F1 41}＞是否阅读{F4 45 04 01 00 00 01 01}？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:16:0",
+  "message_id": "system_config_cancel",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞放弃更改并返回。\n　确定吗？\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:17:0",
+  "message_id": "system_camp_quest_pictur",
+  "translation": "{F2 05 FF FF}{F1 41}有委托的人头上会显示图标。\n接受委托后，图标颜色会改变。\n发现他们时，就主动上前搭话吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:18:0",
+  "message_id": "system_camp_equip_swap",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞这个人格面具正由\n　{F2 01 01 01}{F2 44 01 01}{F2 01 01 01}装备。\n　是否卸下并装备？\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:19:0",
+  "message_id": "system_camp_item_check1",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞是否使用{F2 01 01 01}{F2 44 01 01}{F2 01 01 01}\n　离开这座迷宫？\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:20:0",
+  "message_id": "system_camp_item_check2",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞是否使用{F2 01 01 01}{F2 44 01 01}{F2 01 01 01}\n　返回本层入口？\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:21:0",
+  "message_id": "system_camp_suspend_chec",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞进行中断保存后\n　返回标题画面。\n　确定吗？\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:22:0",
+  "message_id": "system_camp_difficult_sa",
+  "translation": "{F2 05 FF FF}{F1 41}推荐想安心欣赏剧情的玩家选择。\n难度比“ＥＡＳＹ”更低，\n战斗全灭后还可以立即重试。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:23:0",
+  "message_id": "system_camp_difficult_ea",
+  "translation": "{F2 05 FF FF}{F1 41}推荐无法花太多时间研究战斗的玩家选择。\n战斗难度低于“ＮＯＲＭＡＬ”，\n可以轻松享受游戏。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:24:0",
+  "message_id": "system_camp_difficult_no",
+  "translation": "{F2 05 FF FF}{F1 41}能让你体验本作特有的紧张感，\n是推荐选择的难度。\n　\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:25:0",
+  "message_id": "system_camp_difficult_ha",
+  "translation": "{F2 05 FF FF}{F1 41}推荐熟悉战斗策略的高手选择。\n战斗难度高于“ＮＯＲＭＡＬ”，\n更加严峻的挑战正等待着你。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:26:0",
+  "message_id": "system_camp_difficult_ri",
+  "translation": "{F2 05 FF FF}{F1 41}适合追求极致挑战的玩家。\n战斗中主人公一旦死亡，\n游戏就会立即结束。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_msg.bmd.json:27:0",
+  "message_id": "eqp_bag_max_err",
+  "translation": "{F2 05 FF FF}{F1 41}＞没有空间存放卸下的装备，\n　无法卸下。\n{F1 21}{00}"
+ }
+]

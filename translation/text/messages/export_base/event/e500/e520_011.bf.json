@@ -1,0 +1,72 @@
+[
+ {
+  "key": "export_base/event/e500/e520_011.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞“时钟塔”……\n　大小齿轮错综复杂地咬合在一起……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_011.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}不愧是“罪魁祸首”的老巢。\n看来没那么容易攻下。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_011.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 08 01 65 01 01 01}{F5 61 02 01 01 01 01 01 03 01}嗯，好像还有很多层……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e520_011.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 04 01}不要着急，\n仔细画好地图再前进比较好。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_011.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 05 01}恐怕阴影的实力\n也会有所增强。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e520_011.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 06 01}……善，能行吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_011.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}没问题。\n玲先前使用的能力由我继承了……\n不会给大家添麻烦。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_011.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0B 01 01 01 05 01}{F5 61 02 01 01 01 01 01 08 01}{F5 C1 03 01 01 01 01 01 05 01}咦？\n你该不会要说\n这就是爱的力量吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_011.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}说是取回，或许更准确。\n玲的战斗能力，原本就是我的力量。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e520_011.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0A 01}因为我在，她才有了战斗的力量……\n不，是我让她去战斗的……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e520_011.bf.json:6:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}我恢复了记忆，也取回了\n交由她使用的力量。\n今后，我会连她的份一起战斗。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e520_011.bf.json:6:3",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 05 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}我会注意，不拖大家后腿。\n还请多多关照。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_011.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 02 01 01 01 05 01}{F5 86 0E 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0D 01}……别勉强自己。\n伙伴就是用来依靠的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_011.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}嗯……我明白。\n谢谢。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

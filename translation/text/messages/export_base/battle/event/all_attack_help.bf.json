@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_base/battle/event/all_attack_help.bf.json:0:0",
+  "message_id": "ADD_ATTACK_TUTORIAL",
+  "translation": "{F2 05 FF FF}{F1 41}　\n　\n“{F2 01 03 01}追击{F2 01 01 01}”是\n由同伴发起的攻击。\n　\n　\n　\n{F1 21}"
+ },
+ {
+  "key": "export_base/battle/event/all_attack_help.bf.json:0:1",
+  "message_id": "ADD_ATTACK_TUTORIAL",
+  "translation": "{F2 05 FF FF}{F1 41}　\n　\n可以对敌人\n造成伤害。\n请积极争取发动机会。\n　\n　\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/all_attack_help.bf.json:1:0",
+  "message_id": "ALL_ATTACK_TUTORIAL",
+  "translation": "{F2 05 FF FF}{F1 41}　\n　\n“{F2 01 03 01}总攻击{F2 01 01 01}”是\n由全体同伴发起的全体攻击。\n　\n　\n　\n{F1 21}"
+ },
+ {
+  "key": "export_base/battle/event/all_attack_help.bf.json:1:1",
+  "message_id": "ALL_ATTACK_TUTORIAL",
+  "translation": "{F2 05 FF FF}{F1 41}　\n　\n可以对全体敌人\n造成大量伤害。\n请积极争取发动机会。\n　\n　\n{F1 21}{00}"
+ }
+]

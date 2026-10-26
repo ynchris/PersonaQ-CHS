@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(047).BMD.json:0:0",
+  "message_id": "BTL_MES_H123_048_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 49 01}竟然抢先对稀有敌人出手，\n真不愧是各位，运气真好！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(047).BMD.json:1:0",
+  "message_id": "BTL_MES_H123_048_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4A 01}哦，是稀有敌人呢。\n抢占先机的现在，不正是机会吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(047).BMD.json:2:0",
+  "message_id": "BTL_MES_H123_048_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4B 01}我方抢占先机，对手还是稀有敌人，\n这可称得上幸运了！\n{F2 26 00 00}{00}"
+ }
+]

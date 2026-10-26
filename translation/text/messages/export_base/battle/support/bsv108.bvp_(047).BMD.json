@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(047).BMD.json:0:0",
+  "message_id": "BTL_MES_H108_048_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 49 01}啊，稀有敌人！\n先制的现在正是机会！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(047).BMD.json:1:0",
+  "message_id": "BTL_MES_H108_048_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4A 01}我方抢先了！\n敌人是稀有类型！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(047).BMD.json:2:0",
+  "message_id": "BTL_MES_H108_048_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4B 01}我方先制！敌人是稀有类型！\n{F2 26 00 00}{00}"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(010).BMD.json:0:0",
+  "message_id": "BTL_MES_H122_011_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 38 01}哎呀……稀有敌人主动攻来了。\n不妨将它们反杀，如何？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(010).BMD.json:1:0",
+  "message_id": "BTL_MES_H122_011_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 39 01}罕见的敌人发动了奇袭。\n祝各位讨伐顺利。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(010).BMD.json:2:0",
+  "message_id": "BTL_MES_H122_011_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 3A 01}稀有敌人竟主动攻来……\n看来运气不错呢。\n{F2 26 00 00}{00}"
+ }
+]

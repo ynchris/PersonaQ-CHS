@@ -1,0 +1,52 @@
+[
+ {
+  "key": "export_base/event/e700/e722_401.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞前方的道路被封锁了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_401.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 04 01 01 01 01 01 03 01}欢迎来到如此深入的地方。\n终场已经准备好了。\n手心冒汗地继续前进吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_401.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 03 01 01 01 01 01 06 01}准备终场……手心的汗……盐……\n寿司！？\n{F2 23 79 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_401.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 07 01}……为什么？\n{F2 23 3D 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_401.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}{F5 C1 03 01 01 01 01 01 08 01}因为就是寿司嘛！？\n{F2 23 3D 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_401.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}……是吗。\n{F2 23 3D 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_401.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}请不要放芥末！\n{F2 23 3D 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_401.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 04 01 01 01 01 01 03 01}满是汗水的第八题来了哦。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_401.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 04 01 01 01 01 01 03 01}最后冲刺的时候到了。\n命中注定的对象会是谁，\n敬请期待吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_401.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 04 01 01 01 01 01 03 01}那么，第八题登场。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,42 @@
+[
+ {
+  "key": "export_base/event/e700/e721_197.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}现在可以在下屏使用{F2 01 03 01}“地图”{F2 01 01 01}了。\n\n为了逃离这个世界，\n请在下屏绘制地图，\n善加利用吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e721_197.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}按{F2 01 03 01}Ｙ键{F2 01 01 01}可以\n放大、缩小地图。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e721_197.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}在左上方{F2 01 03 01}点触指南针{F2 01 01 01}，\n即可让地图随朝向旋转。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e721_197.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 03 01}点触选择画笔工具{F2 01 01 01}，\n即可画出墙壁的线条。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e721_197.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 03 01}涂色工具{F2 01 01 01}可以给地面上色。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e721_197.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}涂色工具也可以通过\n{F2 01 03 01}“Ｃｏｌｏｒ”调色板{F2 01 01 01}更改颜色。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e721_197.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 03 01}①橡皮工具{F2 01 01 01}可以擦除线条，\n{F2 01 03 01}②抹布工具{F2 01 01 01}可以擦除地面颜色。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e721_197.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}走过的地面也会自动上色。\n\n打开前面的门后，\n先试着一边前进，\n一边在地图上画出{F2 01 03 01}眼前可见的墙壁{F2 01 01 01}吧。\n\n{F1 21}{00}"
+ }
+]

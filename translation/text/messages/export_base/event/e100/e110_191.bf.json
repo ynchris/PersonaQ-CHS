@@ -1,0 +1,72 @@
+[
+ {
+  "key": "export_base/event/e100/e110_191.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 02 01}{F3 06 00 01 00 01}这……这还真挺吃力啊。\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_191.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 03 01}{F3 06 00 01 00 01}顶上的风景真好熊。\n啊，嗨起来，嗨起来！\n{F5 C1 14 01 01 01 01 01 92 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_191.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 04 01}{F3 06 00 01 00 01}别闹了，钥匙！　钥——匙——！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_191.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}唔……唔唔唔唔唔……唔嗯……\n{F5 C1 14 01 01 01 01 01 4C 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_191.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}哇哇哇！？\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_191.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}哇、哇哇……要倒了！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_191.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}呀——！\n{F5 C1 14 01 01 01 01 01 24 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_191.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}哇啊啊啊啊——！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_191.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}唔……唔哦哦哦哦哦哦！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_191.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}疼！　唔……嗯……\n{F5 C1 14 01 01 01 01 01 3D 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_191.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}啊呃……咳……\n{F5 C1 14 01 01 01 01 01 3A 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_191.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}唔……嗯……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_191.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}唔……唔唔……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_191.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F2 01 08 01}＞大家齐心协力，\n　总算拿到了钥匙……\n{F5 C1 14 01 01 01 01 01 92 01}{00}"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(000).BMD.json:0:0",
+  "message_id": "BTL_MES_H121_001_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4C 01}竟然挑战如此强大的对手……\n在下为您的勇气干杯！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(000).BMD.json:1:0",
+  "message_id": "BTL_MES_H121_001_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4D 01}您的实力尚不足以对抗此敌。\n建议立即撤退。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(000).BMD.json:2:0",
+  "message_id": "BTL_MES_H121_001_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4E 01}现在挑战它似乎为时尚早……\n请趁还活着，赶快撤退。\n{F2 26 00 00}{00}"
+ }
+]

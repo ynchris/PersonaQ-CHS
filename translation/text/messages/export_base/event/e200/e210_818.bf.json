@@ -1,0 +1,127 @@
+[
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3C 01 0F 01 02 01 04 01}{F5 61 02 01 01 01 01 01 02 01}我因好奇心无穷无尽，\n不知不觉忘了一件事……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}这里是只有被选为\n“命定之人”的人才能进入的地方。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 04 01}既然我也获得了这个资格，\n就该履行职责……\n可惜不谙世事，不知该如何做。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:0:3",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}冒昧请教……\n能否传授我身为“命定之人”，\n应有的正确姿态呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:1:0",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3C 01 10 01 02 01 01 01}不用特意做什么{F5 47 02 01 3C 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:1:1",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}随你喜欢{F5 47 02 01 3C 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:1:2",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}别说话，跟我来{F5 47 02 01 3C 01 01 01 05 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 06 01}……原来如此，\n保持自然很重要呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 07 01}所谓自然，就是解放\n最真实的自己……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3C 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 08 01}这么一来，我的这里、那里，\n甚至那种地方，岂不是都会被看光……！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:2:3",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:2:4",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}遗憾的是，为了保护天鹅绒房间的机密，\n我决定在此\n咬牙忍耐。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白似乎有些遗憾……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}哎呀……也就是说，\n我可以随心所欲，\n释放自己的欲望吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0C 01}呵呵……\n那我就不客气，火力全开……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:4:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 3C 01 10 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:4:3",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}{F5 C1 03 01 01 01 01 01 07 01}……啊，差点疏忽了。\n险些对姐姐重要的客人，\n公然做出这样那样，甚至……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:4:4",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0F 01}……很遗憾，\n经过自我审议，\n我决定暂且忍耐。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白似乎有些遗憾……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 10 01}哎呀……难道这就是\n俗称的“大男人主义”？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 11 01}据说在家庭中拥有如同绝对王权的权力，\n支配力强大到能在晚饭时，\n一瞬间掀翻饭桌……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:6:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 12 01}所谓命定伴侣，也许就该像饭桌一样，\n无论被掀翻多少次，\n都默默忍耐……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白似乎兴致勃勃……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3C 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 13 01}这段令人心潮澎湃的旅途，\n似乎也快到终点了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_818.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 14 01}虽然有些寂寞……\n不过现在可不是感伤的时候。\n继续前进吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

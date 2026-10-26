@@ -1,0 +1,62 @@
+[
+ {
+  "key": "export_base/battle/event/boss723.bf.json:0:0",
+  "message_id": "MSG_BTL_BOSS_001_ENCOUNT",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 33 10}这次与您交手的，\n是我和这位人格面具。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss723.bf.json:1:0",
+  "message_id": "MSG_BTL_BOSS_001_ENCOUNT",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 34 10}请让我充分感受\n您目前的“力量”……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss723.bf.json:4:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_75_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 35 10}哦……您这是怎么了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss723.bf.json:5:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_75_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 36 10}您的力量，\n应该远不止这种程度。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss723.bf.json:6:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_75_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 37 10}就让我来引出\n您的力量吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss723.bf.json:7:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_50_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 38 10}看来您已经\n进入状态了呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss723.bf.json:8:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_50_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 39 10}与第一次交手时相比，\n您的能力已是天壤之别……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss723.bf.json:9:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_50_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 3A 10}果然，您就是\n能给我答案的那个人吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss723.bf.json:10:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_50_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 3B 10}那么，我要进一步提升强度了。\n唯独请不要让我失望。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss723.bf.json:11:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_25_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 3C 10}这场演出，\n也差不多要接近尾声了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss723.bf.json:12:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_25_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 3D 10}虽然令人十分遗憾，\n但永不落幕的舞台，\n又有什么价值呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss723.bf.json:13:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_25_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 3E 10}那么，就跳最后一支舞吧……\n还请留意脚下。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

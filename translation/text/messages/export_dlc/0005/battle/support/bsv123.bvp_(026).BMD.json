@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(026).BMD.json:0:0",
+  "message_id": "BTL_MES_H123_027_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1E 01}哦……虽然资料中没有记录……\n这个敌人应该能轻松取胜。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(026).BMD.json:1:0",
+  "message_id": "BTL_MES_H123_027_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1F 01}对各位来说，这种程度的对手，\n恐怕是不费吹灰之力吧。\n{F2 26 00 00}{00}"
+ }
+]

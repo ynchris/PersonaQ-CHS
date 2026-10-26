@@ -1,0 +1,37 @@
+[
+ {
+  "key": "export_base/event/e900/e921_040.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 23 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}哎呀，来得正好。\n我又创造出新的秘术了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e921_040.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}果然，这片不稳定的“夹缝之地”，\n最适合试验操纵人格面具的秘术呢……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e921_040.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}新的秘术可以{F2 01 03 01}将人格面具的技能\n提取为“技能卡”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e921_040.bf.json:0:3",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 05 01}提取技能卡后，\n那个人格面具就会消失……\n没问题吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e921_040.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 09 01 04 01 01 01}{F5 61 02 01 01 01 01 01 06 01}呵呵，快让我试试\n这项新的秘术吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e921_040.bf.json:2:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞现在可以在天鹅绒房间\n　进行{F2 01 03 01}“技能卡提取”{F2 01 01 01}了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e900/e921_040.bf.json:3:0",
+  "message_id": "MSG_TUTORIAL_SKILLCARD",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 03 01}“技能卡”{F2 01 01 01}是一种使用后\n能让“主人格面具”\n学会技能的道具。\n{F1 21}{00}"
+ }
+]

@@ -1,0 +1,192 @@
+[
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 23 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}现在可以回去了……\n您意下如何？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:1:0",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}我要救玲{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:1:1",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}再等一会儿{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞为了打开这扇门，回到原来的地方，\n　一路走过了许多迷宫……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……但是，\n　现在还不想就此离开。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 11 01 05 01 02 01}{F5 61 02 01 01 01 01 01 03 01}我早就知道，\n您一定会这么说……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0F 01 05 01 02 01}{F5 61 02 01 01 01 01 01 04 01}我们也愿与你们一同留在这里，\n亲眼见证\n各位旅途的终点。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 23 01 0A 01 02 01 02 01}{F5 61 02 01 01 01 01 01 05 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:5:0",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 06 01}我有些话想对你说……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:5:1",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}不好意思，能请其他各位\n暂时回避一下吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 0F 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 08 01}啊……那、那么，\n我们先暂时解散吧？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:6:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}休息一下，养精蓄锐吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伙伴们离开了，\n　只剩下自己和玛格丽特两人……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 23 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0A 01}善的事，我已经听说了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:8:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0B 01}没想到，他真正的名字\n竟然是“柯罗诺斯”……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:9:0",
+  "message_id": "SEL_TALK008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}柯罗诺斯是什么？{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:9:1",
+  "message_id": "SEL_TALK008",
+  "translation": "{F2 05 FF FF}{F1 41}好像是死神……{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}柯罗诺斯，\n是希腊神话中一位神的名字。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:10:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0D 01}当然，那个少年并不是\n神话中的柯罗诺斯“本尊”……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}虽说是死神，\n但他并不是神话中那位神本尊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}这里与精神的深处相连。\n他曾是此地的住民，\n也就意味着他是由人创造的存在……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:12:1",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 10 01}肉体消亡，意识与精神\n融入心之海，回归其中……\n对此，许多人是这样理解的……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:12:2",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 11 01}即“在上位者的引导下，\n被带往死后的国度”……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:13:0",
+  "message_id": "MSG_0112",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}这些意象汇聚起来，\n便诞生了\n肩负死神职责的存在……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:13:1",
+  "message_id": "MSG_0112",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 13 01}而那个少年，\n正是其中之一……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:14:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玛格丽特露出了\n　略带伤感的微笑……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:15:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 14 01}我明白这里为什么\n会是“文化祭”了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:15:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 15 01}祭典，原本就是“祭祀”……\n是镇魂的仪式。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:15:2",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 86 23 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 16 01}玲那迷失在夹缝之中、\n逐渐消散的灵魂……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:15:3",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 17 01}即使身处幻想，也逃不开死亡。\n为了安抚、慰藉自己，\n这场仪式不可或缺……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:16:0",
+  "message_id": "MSG_0132",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 18 01}这里是可怜的灵魂筑起的最后乐园……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:16:1",
+  "message_id": "MSG_0132",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 19 01}我们这些天鹅绒房间的住民\n会被吸引到这里，似乎也因此而起。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:17:0",
+  "message_id": "MSG_0133",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 1A 01}自己从何而来，又将去往何处……\n我们……以及每个人，\n都在不断寻找答案……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:18:0",
+  "message_id": "MSG_0134",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1B 01}……我也拜托你。\n请你们亲手，\n让可怜的他们得到解脱……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:19:0",
+  "message_id": "SEL_TALK014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}我明白了{F5 47 02 01 01 01 03 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:19:1",
+  "message_id": "SEL_TALK014",
+  "translation": "{F2 05 FF FF}{F1 41}我答应你{F5 47 02 01 01 01 03 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:20:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 1C 01}……我并不担心。\n因为是你，\n一定能拯救他们。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e520_010.bf.json:21:0",
+  "message_id": "MSG_0152",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 1D 01}我会等待那个“时刻”的到来……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

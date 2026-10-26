@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(053).BMD.json:0:0",
+  "message_id": "BTL_MES_H123_054_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6F 02}啊……埃癸斯大人\n进入过热状态了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(053).BMD.json:1:0",
+  "message_id": "BTL_MES_H123_054_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 70 02}啊……埃癸斯大人\n已经燃尽了……\n{F2 26 00 00}{00}"
+ }
+]

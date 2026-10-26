@@ -1,0 +1,37 @@
+[
+ {
+  "key": "export_base/battle/result/persona_get.bin_persona_get.bmd.json:0:0",
+  "message_id": "P_GET_MSGID_GET",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了人格面具\n“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/result/persona_get.bin_persona_get.bmd.json:1:0",
+  "message_id": "P_GET_MSGID_RUNKUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞持有更多技能的\n　人格面具出现了！\n{F1 21}"
+ },
+ {
+  "key": "export_base/battle/result/persona_get.bin_persona_get.bmd.json:1:1",
+  "message_id": "P_GET_MSGID_RUNKUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了人格面具\n“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/result/persona_get.bin_persona_get.bmd.json:2:0",
+  "message_id": "P_GET_MSGID_HIGH_RUNKUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞高等级的人格面具出现了！\n{F1 21}"
+ },
+ {
+  "key": "export_base/battle/result/persona_get.bin_persona_get.bmd.json:2:1",
+  "message_id": "P_GET_MSGID_HIGH_RUNKUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了人格面具\n“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/result/persona_get.bin_persona_get.bmd.json:3:0",
+  "message_id": "P_GET_MSGID_TUTORIAL",
+  "translation": "{F2 05 FF FF}{F1 41}在战斗中获胜的话，\n有时可以获得人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/battle/result/persona_get.bin_persona_get.bmd.json:3:1",
+  "message_id": "P_GET_MSGID_TUTORIAL",
+  "translation": "{F2 05 FF FF}{F1 41}战斗结束时，处于\n“ＢＯＯＳＴ状态”的人数越多，\n获得人格面具的概率就越高。\n　\n积极瞄准敌人的弱点吧。\n{F1 21}{00}"
+ }
+]

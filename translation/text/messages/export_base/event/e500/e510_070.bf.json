@@ -1,0 +1,292 @@
+[
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这里似乎是一条\n　空无一物的通道……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞决定稍作休息后，\n　直斗向自己搭话……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 09 01 11 01 02 01 02 01}{F5 61 02 01 01 01 01 01 02 01}想到善和玲，\n这样说或许不太妥当……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}这次能结识\n月光馆学园的各位，\n对我而言是很大的收获。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:2:0",
+  "message_id": "MSG_0012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 04 01}那个桐条集团竟在暗中\n调查影人事件，\n这已经很让我吃惊了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:2:1",
+  "message_id": "MSG_0012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 05 01}但更令我震撼的，\n是指挥这一切的桐条学姐。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 03 01 01 01 01 01 08 01}确实，小美鹤散发出的\n成熟女性魅力，让小熊大受震撼！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 11 01 02 01 02 01}{F5 61 02 01 01 01 01 01 07 01}……不，我想说的是\n她的想法和生活方式。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:5:0",
+  "message_id": "MSG_0032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}明明年纪和我们相差不大，\n她却凭着自己的信念，\n努力成就如此重大的事业……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:5:1",
+  "message_id": "MSG_0032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}而且，还是一名女性……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:6:0",
+  "message_id": "MSG_0033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}我在协助警方时所感受到的\n“身为女性的压抑”，\n在她面前简直微不足道……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:7:0",
+  "message_id": "SEL_TALK004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}或许如此{F5 47 02 01 02 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:7:1",
+  "message_id": "SEL_TALK004",
+  "translation": "{F2 05 FF FF}{F1 41}烦恼不能拿来比较{F5 47 02 01 02 01 07 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:7:2",
+  "message_id": "SEL_TALK004",
+  "translation": "{F2 05 FF FF}{F1 41}也有只有直斗能做到的事{F5 47 02 01 02 01 07 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:8:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0B 01}{F5 C1 04 01 01 01 01 01 02 01}是的……\n我深感自己还很幼稚。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:9:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0C 01}{F5 C1 04 01 01 01 01 01 02 01}嗯，确实……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:10:0",
+  "message_id": "MSG_0062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 09 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0D 01}但我还是深感自己不够成熟。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:11:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 09 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:11:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}是这样吗……\n要是……真是这样就好了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:11:2",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 10 01}呵呵……谢谢。\n学长总是这么温柔呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:12:0",
+  "message_id": "MSG_0072",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 09 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 11 01}不过，与桐条学姐相遇，\n让我深刻感受到了自己的不成熟。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:13:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}我总绷着一股劲，想着\n“不能因为是女性就被小看”，\n这会不会反而成了自己的借口？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:13:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 13 01}也就是说，我心里是不是也觉得\n“女性被小看是理所当然的”，\n才会过度反抗呢？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:13:2",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 14 01}……在“稻羽乡土展”，\n我还对巽同学说了\n别限制自己的可能性这种大话……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:13:3",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 15 01}其实那个时候，\n我心里也有一点违和感。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:13:4",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 16 01}……这也是当然的吧。\n毕竟最带着偏见看待我的，\n正是我自己……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:14:0",
+  "message_id": "MSG_0082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 17 01}这次的经历，\n是让我看清自己的一次良机。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:14:1",
+  "message_id": "MSG_0082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 08 01 02 01 01 01}{F5 61 02 01 01 01 01 01 18 01}……今后，我想一点点\n改变自己。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:15:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞直斗露出了释然的笑容……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:16:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 11 01 03 01 01 01}{F5 61 02 01 01 01 01 01 19 01}嗯……不过，小美鹤\n虽然是超级女强人，\n有时候也在逞强熊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:16:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1A 01}感觉她快要被\n背负的东西压垮了，好可怜熊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:17:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0F 01 03 01 01 01}{F5 61 02 01 01 01 01 01 1B 01}小熊……你意外地很温柔呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:18:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0F 01 03 01 01 01}{F5 61 02 01 01 01 01 01 1C 01}“意外”是多余的熊！\n小熊也有考虑很多事好吗。\n小熊也有事要向老师宣布好吗。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:19:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1D 01}{F5 C1 03 01 01 01 01 01 0A 01}是、是吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:20:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1E 01}嗯，咳咳。\n小熊决定，从今以后\n不再只是只可爱的小熊了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:21:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 1F 01}……那么，差不多该走了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:22:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 20 01}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 07 01}等等！听我说完啊！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:22:1",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 01 01 02 01}{F5 86 0A 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 21 01}至今为止，小熊一直是\n独一无二、人见人爱的吉祥物……\n但我明白了，光这样还不够。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:22:2",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 03 01 01 01}{F5 61 02 01 01 01 01 01 22 01}所以，小熊决定\n给自己再加上一份男子气概！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:23:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 23 01}……难道说，\n是受了虎狼丸的影响？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:24:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 11 01 03 01 01 01}{F5 61 02 01 01 01 01 01 24 01}被你直接说出来很不甘心，\n不过，就是这样熊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:25:0",
+  "message_id": "MSG_0182",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 25 01}最初以为它只是条狗，\n说实话，小熊小看它了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:26:0",
+  "message_id": "MSG_0183",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0B 01 06 01 01 01}{F5 61 02 01 01 01 01 01 26 01}可一条普通的狗，\n为什么能牢牢抓住女生们的心！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:26:1",
+  "message_id": "MSG_0183",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 27 01}小熊终于懂了，是男子气概熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:27:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 28 01}说起来，在厕所时，\n它没有丢下险些逃不掉的小熊，\n而是拉着你一起走了呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:28:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 29 01}没错。\n就连小熊也心动了熊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:28:1",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 2A 01}总之，可爱再加上男子气概，\n就能成为迷倒女生的无敌小熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:29:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 2B 01}先不说目的……\n愿意成长，我觉得是好事。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:29:1",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 2C 01}我们该感谢那些给予我们契机的人，\n感谢与他们的相遇。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:30:0",
+  "message_id": "SEL_TALK022",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 02 01 02 01 01 01 01 01}是啊{F5 47 02 01 02 01 07 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:30:1",
+  "message_id": "SEL_TALK022",
+  "translation": "{F2 05 FF FF}{F1 41}谢谢{F5 47 02 01 02 01 07 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:31:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 2D 01}呵呵，对我说做什么？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:31:1",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 2E 01}还是说，学长也因为我\n而发生了什么改变吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:31:2",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0F 01 03 01 01 01}{F5 61 02 01 01 01 01 01 2F 01}……或许，\n也会有这种事吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:31:3",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 30 01}我们离得这么近，\n一定也在互相影响。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:32:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 31 01}所以，小熊今后也会\n继续寄住在阳介家，\n不断磨炼小熊魅力！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:32:1",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 03 01 01 01}{F5 61 02 01 01 01 01 01 32 01}还要争取当上JUNES的鲜肉部部长！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e500/e510_070.bf.json:33:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 33 01}{F5 C1 03 01 01 01 01 01 0A 01}啊，完全没打算自立啊……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

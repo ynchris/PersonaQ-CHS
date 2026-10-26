@@ -1,0 +1,37 @@
+[
+ {
+  "key": "export_base/facility/msg_costume.bmd.json:0:0",
+  "message_id": "Y_FCL_DIALOG_MSG_EITHER",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}是{F2 03 01 FF}的{F2 03 01 FF}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_costume.bmd.json:0:1",
+  "message_id": "Y_FCL_DIALOG_MSG_EITHER",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}不{F2 03 01 FF}需{F2 03 01 FF}要{F2 03 01 FF}{00}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_costume.bmd.json:1:0",
+  "message_id": "Y_FCLSHOP_BUY_MSG",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}＞{F2 03 01 FF}{F4 45 04 01 00 00 01 01}{F2 03 01 FF}，{F2 03 01 FF}购{F2 03 01 FF}买{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_costume.bmd.json:2:0",
+  "message_id": "Y_FCLSHOP_SELL_MSG",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}＞{F2 03 01 FF}{F4 45 04 01 00 00 01 01}{F2 03 01 FF}×{F2 03 01 FF}{F2 44 02 01}{F2 03 01 FF}件{F2 03 01 FF}，{F2 03 01 FF}卖{F2 03 01 FF}出{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_costume.bmd.json:4:0",
+  "message_id": "Y_FCLSHOP_EQUIP",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}＞{F2 03 01 FF}{F4 45 04 01 00 00 01 01}{F2 03 01 FF}，{F2 03 01 FF}装{F2 03 01 FF}备{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_costume.bmd.json:5:0",
+  "message_id": "Y_FCLSHOP_TRADE",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}＞{F2 03 01 FF}之{F2 03 01 FF}前{F2 03 01 FF}装{F2 03 01 FF}备{F2 03 01 FF}的{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}　{F2 03 01 FF}{F4 45 04 01 00 00 01 01}{F2 03 01 FF}，{F2 03 01 FF}卖{F2 03 01 FF}掉{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_costume.bmd.json:11:0",
+  "message_id": "CSHOP_MSG_EQUIP_SET",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}＞{F2 03 01 FF}这{F2 03 01 FF}套{F2 03 01 FF}服{F2 03 01 FF}装{F2 03 01 FF}是{F2 03 01 FF}成{F2 03 01 FF}套{F2 03 01 FF}的{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}　{F2 03 01 FF}要{F2 03 01 FF}让{F2 03 01 FF}所{F2 03 01 FF}有{F2 03 01 FF}人{F2 03 01 FF}装{F2 03 01 FF}备{F2 03 01 FF}这{F2 03 01 FF}套{F2 03 01 FF}服{F2 03 01 FF}装{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ }
+]

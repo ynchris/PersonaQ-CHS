@@ -1,0 +1,57 @@
+[
+ {
+  "key": "export_base/facility/party_edit_msg.bmd.json:0:0",
+  "message_id": "PARTY_EDIT_YESNO",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit_msg.bmd.json:0:1",
+  "message_id": "PARTY_EDIT_YESNO",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit_msg.bmd.json:1:0",
+  "message_id": "MSG_ORGIA000",
+  "translation": "{F2 05 FF FF}{F1 41}狂欢模式的说明。\n毕竟，这可是艺术。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/party_edit_msg.bmd.json:1:1",
+  "message_id": "MSG_ORGIA000",
+  "translation": "{F2 05 FF FF}{F1 41}我可是满心期待啊！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit_msg.bmd.json:2:0",
+  "message_id": "PARTY_EDIT_MSG_CALL_COMF",
+  "translation": "{F2 05 FF FF}{F1 41}＞要调出这支已保存的队伍吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit_msg.bmd.json:3:0",
+  "message_id": "PARTY_EDIT_MSG_SET_COMFI",
+  "translation": "{F2 05 FF FF}{F1 41}＞队伍“{F2 44 01 01}”\n　要保存吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit_msg.bmd.json:4:0",
+  "message_id": "PARTY_EDIT_MSG_DEL_COMFI",
+  "translation": "{F2 05 FF FF}{F1 41}＞队伍“{F2 44 01 01}”\n　要删除吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit_msg.bmd.json:5:0",
+  "message_id": "PARTY_EDIT_MSG_CANCEL_CR",
+  "translation": "{F2 05 FF FF}{F1 41}＞不保存这支队伍，\n　直接退出吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit_msg.bmd.json:6:0",
+  "message_id": "PARTY_EDIT_MSG_NAME_ENTR",
+  "translation": "{F2 05 FF FF}{F1 41}请输入这支队伍的名称。\n轻触文字即可选择。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit_msg.bmd.json:7:0",
+  "message_id": "PARTY_EDIT_MSG_CANCEL_ED",
+  "translation": "{F2 05 FF FF}{F1 41}＞不更改队伍编成，直接返回。\n　确定吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit_msg.bmd.json:8:0",
+  "message_id": "PARTY_EDIT_MSG_PARTY_ALL",
+  "translation": "{F2 05 FF FF}{F1 41}＞队伍没有能战斗的伙伴。\n{F1 21}{00}"
+ }
+]

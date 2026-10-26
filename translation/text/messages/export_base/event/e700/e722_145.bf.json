@@ -1,0 +1,27 @@
+[
+ {
+  "key": "export_base/event/e700/e722_145.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 7B 0C}{F5 C1 03 01 01 01 01 01 01 01}哇啊！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_145.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 11 01 05 01 01 01 02 01}{F5 61 02 01 01 01 01 01 37 0C}刚才那声巨响……\n是从{F2 01 03 01}墙的另一侧{F2 01 01 01}传来的！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_145.bf.json:1:1",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}入口那边，\n说不定发生了什么！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_145.bf.json:2:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 4E 0A}方向是那扇打不开的门那边吗……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_145.bf.json:2:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……看来可能有关系。\n要不要去调查一下？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

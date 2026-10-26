@@ -1,0 +1,317 @@
+[
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:1:0",
+  "message_id": "item_501",
+  "translation": "{F2 05 FF FF}{F1 41}恢复１名同伴５０点ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:2:0",
+  "message_id": "item_502",
+  "translation": "{F2 05 FF FF}{F1 41}恢复１名同伴１００点ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:3:0",
+  "message_id": "item_503",
+  "translation": "{F2 05 FF FF}{F1 41}恢复１名同伴２００点ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:4:0",
+  "message_id": "item_504",
+  "translation": "{F2 05 FF FF}{F1 41}完全恢复１名同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:5:0",
+  "message_id": "item_505",
+  "translation": "{F2 05 FF FF}{F1 41}恢复１名同伴３０点ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:6:0",
+  "message_id": "item_506",
+  "translation": "{F2 05 FF FF}{F1 41}恢复１名同伴６０点ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:7:0",
+  "message_id": "item_507",
+  "translation": "{F2 05 FF FF}{F1 41}恢复１名同伴１００点ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:8:0",
+  "message_id": "item_508",
+  "translation": "{F2 05 FF FF}{F1 41}完全恢复１名同伴的ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:9:0",
+  "message_id": "item_509",
+  "translation": "{F2 05 FF FF}{F1 41}恢复１名同伴１００点ＨＰ、\n２５点ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:10:0",
+  "message_id": "item_50A",
+  "translation": "{F2 05 FF FF}{F1 41}恢复１名同伴２００点ＨＰ、\n５０点ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:11:0",
+  "message_id": "item_50B",
+  "translation": "{F2 05 FF FF}{F1 41}完全恢复１名同伴的ＨＰ和ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:12:0",
+  "message_id": "item_50C",
+  "translation": "{F2 05 FF FF}{F1 41}使１名无法战斗的同伴复活，\n并恢复５０％的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:13:0",
+  "message_id": "item_50D",
+  "translation": "{F2 05 FF FF}{F1 41}使１名无法战斗的同伴复活，\n并完全恢复ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:14:0",
+  "message_id": "item_50E",
+  "translation": "{F2 05 FF FF}{F1 41}恢复１列同伴１５０点ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:15:0",
+  "message_id": "item_50F",
+  "translation": "{F2 05 FF FF}{F1 41}恢复１列同伴３００点ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:16:0",
+  "message_id": "item_510",
+  "translation": "{F2 05 FF FF}{F1 41}解除１名同伴的封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:17:0",
+  "message_id": "item_511",
+  "translation": "{F2 05 FF FF}{F1 41}解除１名同伴的异常状态。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:18:0",
+  "message_id": "item_512",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，消除所有敌人身上的\n能力提升效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:19:0",
+  "message_id": "item_513",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，消除所有同伴身上的\n能力降低效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:20:0",
+  "message_id": "item_514",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，提升１名同伴的\n物理攻击力，持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:21:0",
+  "message_id": "item_515",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，提升１名同伴的\n物理防御力，持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:25:0",
+  "message_id": "item_519",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，减轻火炎属性伤害，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:26:0",
+  "message_id": "item_51A",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，减轻冰冻属性伤害，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:27:0",
+  "message_id": "item_51B",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，减轻电击属性伤害，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:28:0",
+  "message_id": "item_51C",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，减轻疾风属性伤害，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:29:0",
+  "message_id": "item_51D",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，为武器附加火炎属性，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:30:0",
+  "message_id": "item_51E",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，为武器附加冰冻属性，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:31:0",
+  "message_id": "item_51F",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，为武器附加电击属性，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:32:0",
+  "message_id": "item_520",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，为武器附加疾风属性，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:33:0",
+  "message_id": "item_521",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成\n１００点火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:34:0",
+  "message_id": "item_522",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成\n１５０点火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:35:0",
+  "message_id": "item_523",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成\n１００点冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:36:0",
+  "message_id": "item_524",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成\n１５０点冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:37:0",
+  "message_id": "item_525",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成\n１００点电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:38:0",
+  "message_id": "item_526",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成\n１５０点电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:39:0",
+  "message_id": "item_527",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成\n１００点疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:40:0",
+  "message_id": "item_528",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成\n１５０点疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:41:0",
+  "message_id": "item_529",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率对１名敌人\n施加光属性即死效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:42:0",
+  "message_id": "item_52A",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率对１名敌人\n施加暗属性即死效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:43:0",
+  "message_id": "item_52B",
+  "translation": "{F2 05 FF FF}{F1 41}散发毒雾的香。\n以中等概率使所有敌人中毒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:44:0",
+  "message_id": "item_52C",
+  "translation": "{F2 05 FF FF}{F1 41}散发麻痹毒雾的香。\n以中等概率使所有敌人麻痹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:45:0",
+  "message_id": "item_52D",
+  "translation": "{F2 05 FF FF}{F1 41}散发催泪雾气的香。\n以中等概率使所有敌人失明。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:46:0",
+  "message_id": "item_52E",
+  "translation": "{F2 05 FF FF}{F1 41}散发催眠雾气的香。\n以中等概率使所有敌人睡眠。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:47:0",
+  "message_id": "item_52F",
+  "translation": "{F2 05 FF FF}{F1 41}散发神秘雾气的香。\n以中等概率使所有敌人受到诅咒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:48:0",
+  "message_id": "item_530",
+  "translation": "{F2 05 FF FF}{F1 41}散发扰乱思绪的雾气的香。\n以中等概率使所有敌人混乱。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:49:0",
+  "message_id": "item_531",
+  "translation": "{F2 05 FF FF}{F1 41}使用后，可获得该回合内击倒的\n暗影所掉落的全部素材的瞄准镜。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:50:0",
+  "message_id": "item_532",
+  "translation": "{F2 05 FF FF}{F1 41}随身携带时，可抵挡一次\n光属性或暗属性的即死效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:51:0",
+  "message_id": "item_533",
+  "translation": "{F2 05 FF FF}{F1 41}拥有驱魔之力的护符。\n降低迷宫中的遇敌率。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:52:0",
+  "message_id": "item_534",
+  "translation": "{F2 05 FF FF}{F1 41}拥有引魔之力的符咒。\n提高迷宫中的遇敌率。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:53:0",
+  "message_id": "item_535",
+  "translation": "{F2 05 FF FF}{F1 41}离开迷宫。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:54:0",
+  "message_id": "item_536",
+  "translation": "{F2 05 FF FF}{F1 41}返回进入当前楼层的位置。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:55:0",
+  "message_id": "item_537",
+  "translation": "{F2 05 FF FF}{F1 41}使用后，在一定步数内\n免受伤害地板造成的伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:56:0",
+  "message_id": "item_538",
+  "translation": "{F2 05 FF FF}{F1 41}能探测当前楼层内\nＦ．Ｏ．Ｅ位置的简易雷达。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:57:0",
+  "message_id": "item_539",
+  "translation": "{F2 05 FF FF}{F1 41}完全恢复所有同伴的ＨＰ和ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:58:0",
+  "message_id": "item_53A",
+  "translation": "{F2 05 FF FF}{F1 41}完全恢复所有同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:59:0",
+  "message_id": "item_53B",
+  "translation": "{F2 05 FF FF}{F1 41}离开迷宫。\n使用后不会消失。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:60:0",
+  "message_id": "item_53C",
+  "translation": "{F2 05 FF FF}{F1 41}返回进入当前楼层的位置。\n使用后不会消失。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:61:0",
+  "message_id": "item_53D",
+  "translation": "{F2 05 FF FF}{F1 41}能吹奏出引魔之音的笛子。\n大幅提高迷宫中的遇敌率。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:62:0",
+  "message_id": "item_53E",
+  "translation": "{F2 05 FF FF}{F1 41}能发出驱魔之音的铃铛。\n使迷宫中不再遇敌。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:63:0",
+  "message_id": "item_53F",
+  "translation": "{F2 05 FF FF}{F1 41}使使用时所在楼层的\n能量点重新出现。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:64:0",
+  "message_id": "item_540",
+  "translation": "{F2 05 FF FF}{F1 41}探索时可防止主人公陷入无法战斗状态一次。\n生效后，返回学校即可再次使用。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:65:0",
+  "message_id": "item_541",
+  "translation": "{F2 05 FF FF}{F1 41}仅限战斗中使用，恢复１名同伴５０点ＨＰ。\n使用后不会消失。\n{00}"
+ },
+ {
+  "key": "export_base/init/datitemhelp.bmd.json:66:0",
+  "message_id": "item_542",
+  "translation": "{F2 05 FF FF}{F1 41}除部分战斗外，\n必定能成功逃离战斗。\n{00}"
+ }
+]

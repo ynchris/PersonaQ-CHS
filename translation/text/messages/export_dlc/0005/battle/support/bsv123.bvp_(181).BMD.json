@@ -1,0 +1,97 @@
+[
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:0:0",
+  "message_id": "BTL_MES_H123_182_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 59 03}副队长大人的倒计时\n只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:1:0",
+  "message_id": "BTL_MES_H123_182_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 50 03}副队长大人的倒计时\n只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:2:0",
+  "message_id": "BTL_MES_H123_182_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5A 03}花村大人的倒计时\n只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:3:0",
+  "message_id": "BTL_MES_H123_182_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5B 03}里中大人的倒计时\n只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:4:0",
+  "message_id": "BTL_MES_H123_182_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5C 03}天城大人，请小心！\n倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:6:0",
+  "message_id": "BTL_MES_H123_182_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5D 03}巽大人的倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:7:0",
+  "message_id": "BTL_MES_H123_182_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5F 03}白钟大人的倒计时\n只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:8:0",
+  "message_id": "BTL_MES_H123_182_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5E 03}小熊大人的倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:9:0",
+  "message_id": "BTL_MES_H123_182_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 51 03}岳羽大人，请小心！\n倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:10:0",
+  "message_id": "BTL_MES_H123_182_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 52 03}伊织大人的倒计时\n只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:11:0",
+  "message_id": "BTL_MES_H123_182_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 53 03}真田大人，请小心！\n倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:12:0",
+  "message_id": "BTL_MES_H123_182_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 54 03}桐条大人的倒计时\n只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:14:0",
+  "message_id": "BTL_MES_H123_182_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 57 03}埃癸斯大人，请小心！\n倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:15:0",
+  "message_id": "BTL_MES_H123_182_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 55 03}天田大人的倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:16:0",
+  "message_id": "BTL_MES_H123_182_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 56 03}虎狼丸大人的倒计时\n只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:17:0",
+  "message_id": "BTL_MES_H123_182_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 58 03}荒垣大人的倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:19:0",
+  "message_id": "BTL_MES_H123_182_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 60 03}善大人，请小心！\n倒计时只剩１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:20:0",
+  "message_id": "BTL_MES_H123_182_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4F 03}啊！队长大人！\n倒计时到１了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(181).BMD.json:21:0",
+  "message_id": "BTL_MES_H123_182_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4E 03}队长大人，请小心！\n倒计时只剩１了！\n{F2 26 00 00}{00}"
+ }
+]

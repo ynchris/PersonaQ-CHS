@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/battle/btl_com.bf.json:0:0",
+  "message_id": "YESNO_SEL",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/battle/btl_com.bf.json:0:1",
+  "message_id": "YESNO_SEL",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/battle/btl_com.bf.json:1:0",
+  "message_id": "BTL_CONTINUE",
+  "translation": "{F2 05 FF FF}{F1 41}＞目前的游戏难度为“SAFETY”。\n　要继续吗？\n{F1 21}{00}"
+ }
+]

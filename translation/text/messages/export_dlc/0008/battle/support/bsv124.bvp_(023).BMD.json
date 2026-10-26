@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(023).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_024_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 18 01}哇！５名强敌，太多了吧！\n还有资料里没有的家伙！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(023).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_024_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 19 01}哇！５名强敌，太多了吧！\n喂，不逃吗！？\n{F2 26 00 00}{00}"
+ }
+]

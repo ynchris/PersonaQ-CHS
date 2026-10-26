@@ -1,0 +1,202 @@
+[
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:1:0",
+  "message_id": "cmp_performance_P4HERO",
+  "translation": "{F2 05 FF FF}{F1 41}学习电击系技能。\n　\n属于全能型。\n各项能力都没有明显短板。\n　\n适合前排　武器：双手剑（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:2:0",
+  "message_id": "cmp_performance_P3HERO",
+  "translation": "{F2 05 FF FF}{F1 41}学习火炎系技能。\n　\n没有特点就是最大的特点。\n各方面都能应付自如。\n　\n适合前排　武器：单手剑（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:3:0",
+  "message_id": "cmp_performance_YOSUKE",
+  "translation": "{F2 05 FF FF}{F1 41}学习疾风系技能。\n　\n速度出众，\n可惜运气不太好。\n　\n适合前排　武器：短剑（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:4:0",
+  "message_id": "cmp_performance_CHIE",
+  "translation": "{F2 05 FF FF}{F1 41}学习物理系技能。\n　\n攻击威力值得期待，\n但ＳＰ偏低是短板。\n　\n适合前排　武器：腿（破坏属性）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:5:0",
+  "message_id": "cmp_performance_YUKIKO",
+  "translation": "{F2 05 FF FF}{F1 41}学习火炎系和恢复系技能。\n　\n属性攻击威力强劲，\n但ＨＰ偏低，使用时要小心。\n　\n适合后排　武器：扇子（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:6:0",
+  "message_id": "cmp_performance_RISE",
+  "translation": "{F2 05 FF FF}{F1 41}学习操控行动顺序的技能。\n　\n掌控行动顺序，\n就能在战斗中取得优势。\n　\n后方支援\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:7:0",
+  "message_id": "cmp_performance_KANZI",
+  "translation": "{F2 05 FF FF}{F1 41}学习电击系和辅助系技能。\n　\n强大的力量值得期待，\n但要留意速度偏低的问题。\n　\n适合前排　武器：厚板（破坏属性）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:8:0",
+  "message_id": "cmp_performance_NAOTO",
+  "translation": "{F2 05 FF FF}{F1 41}学习光系和暗系技能。\n　\n天资出众，\n可惜学不到能发挥潜力的技能。\n　\n适合后排　武器：手枪（突刺）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:9:0",
+  "message_id": "cmp_performance_KUMA",
+  "translation": "{F2 05 FF FF}{F1 41}学习冰冻系和恢复系技能。\n　\n身手灵活，各方面都能应付。\n行动虽慢，就靠可爱来弥补吧。\n　\n适合前排　武器：爪（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:10:0",
+  "message_id": "cmp_performance_YUKARI",
+  "translation": "{F2 05 FF FF}{F1 41}学习疾风系和恢复系技能。\n　\n擅长属性攻击，\n但体力方面令人担忧。\n　\n适合后排　武器：弓（突刺）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:11:0",
+  "message_id": "cmp_performance_JUNPEI",
+  "translation": "{F2 05 FF FF}{F1 41}学习火炎系和辅助系技能。\n　\n虽属于力量型，\n能力却总给人稍逊一筹的感觉。\n　\n适合前排　武器：双手剑（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:12:0",
+  "message_id": "cmp_performance_SANADA",
+  "translation": "{F2 05 FF FF}{F1 41}学习电击系技能。\n　\n基础能力优秀，\n各方面都能胜任。\n　\n适合前排　武器：拳（破坏属性）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:13:0",
+  "message_id": "cmp_performance_MITSURU",
+  "translation": "{F2 05 FF FF}{F1 41}学习冰冻系技能。\n　\n精神集中后的属性攻击威力惊人。\n物理攻击也有不错的表现。\n　\n适合前排　武器：刺剑（突刺）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:14:0",
+  "message_id": "cmp_performance_FUKA",
+  "translation": "{F2 05 FF FF}{F1 41}学习恢复系技能。\n　\n擅长恢复支援，\n能降低意外失利的风险。\n　\n后方支援\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:15:0",
+  "message_id": "cmp_performance_AEGIS",
+  "translation": "{F2 05 FF FF}{F1 41}学习物理系技能。\n　\n“狂欢模式”能爆发出强大火力，\n但要小心过热。\n　\n适合后排　武器：重炮（破坏属性）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:16:0",
+  "message_id": "cmp_performance_AMADA",
+  "translation": "{F2 05 FF FF}{F1 41}学习电击系和光系技能。\n　\n看似成熟，内心却还是个孩子。\n体力方面令人担忧。\n　\n适合后排　武器：长枪（突刺）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:17:0",
+  "message_id": "cmp_performance_KOROMARU",
+  "translation": "{F2 05 FF FF}{F1 41}学习火炎系和暗系技能。\n　\n凭借出色的速度戏耍对手。\n比起物理攻击，更擅长属性攻击。\n　\n适合前排　武器：短剑（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:18:0",
+  "message_id": "cmp_performance_ARAGAKI",
+  "translation": "{F2 05 FF FF}{F1 41}学习物理系技能。\n　\n行动稍慢，\n但攻击威力十分可靠。\n　\n适合前排　武器：钝器（破坏属性）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:19:0",
+  "message_id": "cmp_performance_ZENREI",
+  "translation": "{F2 05 FF FF}{F1 41}学习多种属性攻击。\n　\n基础能力优秀，属性攻击丰富，\n无论何时都值得信赖。\n　\n适合后排　武器：机械弓（突刺）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:20:0",
+  "message_id": "cmp_performance_ZEN",
+  "translation": "{F2 05 FF FF}{F1 41}学习多种属性攻击。\n　\n基础能力优秀，属性攻击丰富，\n无论何时都值得信赖。\n　\n适合后排　武器：机械弓（突刺）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:22:0",
+  "message_id": "cmp_performance_P4HERO_G",
+  "translation": "{F2 05 FF FF}{F1 41}学习电击系技能。\n　\n属于全能型。\n各项能力都没有明显短板。\n　\n适合前排　武器：双手剑（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:23:0",
+  "message_id": "cmp_performance_P3HERO_G",
+  "translation": "{F2 05 FF FF}{F1 41}学习火炎系技能。\n　\n没有特点就是最大的特点。\n各方面都能应付自如。\n　\n适合前排　武器：单手剑（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:24:0",
+  "message_id": "cmp_performance_YOSUKE_G",
+  "translation": "{F2 05 FF FF}{F1 41}学习疾风系技能。\n　\n速度出众，\n可惜运气不太好。\n　\n适合前排　武器：短剑（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:25:0",
+  "message_id": "cmp_performance_CHIE_GJ_",
+  "translation": "{F2 05 FF FF}{F1 41}学习物理系技能。\n　\n攻击威力值得期待，\n但ＳＰ偏低是短板。\n　\n适合前排　武器：腿（破坏属性）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:26:0",
+  "message_id": "cmp_performance_YUKIKO_G",
+  "translation": "{F2 05 FF FF}{F1 41}学习火炎系和恢复系技能。\n　\n属性攻击威力强劲，\n但体力偏低，使用时要小心。\n　\n适合后排　武器：扇子（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:27:0",
+  "message_id": "cmp_performance_RISE_GJ_",
+  "translation": "{F2 05 FF FF}{F1 41}学习操控行动顺序的技能。\n　\n掌控行动顺序，\n就能在战斗中取得优势。\n　\n后方支援\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:28:0",
+  "message_id": "cmp_performance_KANZI_GJ",
+  "translation": "{F2 05 FF FF}{F1 41}学习电击系和辅助系技能。\n　\n强大的力量值得期待，\n但要留意速度偏低的问题。\n　\n适合前排　武器：厚板（破坏属性）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:29:0",
+  "message_id": "cmp_performance_NAOTO_GJ",
+  "translation": "{F2 05 FF FF}{F1 41}学习光系和暗系技能。\n　\n天资出众，\n可惜学不到能发挥潜力的技能。\n　\n适合后排　武器：手枪（突刺）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:30:0",
+  "message_id": "cmp_performance_KUMA_GJ_",
+  "translation": "{F2 05 FF FF}{F1 41}学习冰冻系和恢复系技能。\n　\n身手灵活，各方面都能应付。\n体力偏低，就靠可爱来弥补吧。\n　\n适合前排　武器：爪（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:31:0",
+  "message_id": "cmp_performance_YUKARI_G",
+  "translation": "{F2 05 FF FF}{F1 41}学习疾风系和恢复系技能。\n　\n擅长属性攻击，\n但体力方面令人担忧。\n　\n适合后排　武器：弓（突刺）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:32:0",
+  "message_id": "cmp_performance_JUNPEI_G",
+  "translation": "{F2 05 FF FF}{F1 41}学习火炎系和辅助系技能。\n　\n虽属于力量型，\n能力却总给人稍逊一筹的感觉。\n　\n适合前排　武器：双手剑（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:33:0",
+  "message_id": "cmp_performance_SANADA_G",
+  "translation": "{F2 05 FF FF}{F1 41}学习电击系技能。\n　\n基础能力优秀，\n各方面都能胜任。\n　\n适合前排　武器：拳（破坏属性）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:34:0",
+  "message_id": "cmp_performance_MITSURU_",
+  "translation": "{F2 05 FF FF}{F1 41}学习冰冻系技能。\n　\n精神集中后的属性攻击威力惊人。\n物理攻击也有不错的表现。\n　\n适合前排　武器：刺剑（突刺）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:35:0",
+  "message_id": "cmp_performance_FUKA_GJ_",
+  "translation": "{F2 05 FF FF}{F1 41}学习恢复系技能。\n　\n擅长恢复支援，\n能降低意外失利的风险。\n　\n后方支援\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:36:0",
+  "message_id": "cmp_performance_AEGIS_GJ",
+  "translation": "{F2 05 FF FF}{F1 41}学习物理系技能。\n　\n“狂欢模式”能爆发出强大火力，\n但要小心过热。\n　\n适合后排　武器：重炮（破坏属性）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:37:0",
+  "message_id": "cmp_performance_AMADA_GJ",
+  "translation": "{F2 05 FF FF}{F1 41}学习电击系和光系技能。\n　\n看似成熟，内心却还是个孩子。\n体力方面令人担忧。\n　\n适合后排　武器：长枪（突刺）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:38:0",
+  "message_id": "cmp_performance_KOROMARU",
+  "translation": "{F2 05 FF FF}{F1 41}学习火炎系和暗系技能。\n　\n凭借出色的速度戏耍对手。\n比起物理攻击，更擅长属性攻击。\n　\n适合前排　武器：短剑（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:39:0",
+  "message_id": "cmp_performance_ARAGAKI_",
+  "translation": "{F2 05 FF FF}{F1 41}学习物理系技能。\n　\n行动稍慢，\n但攻击威力十分可靠。\n　\n适合前排　武器：钝器（破坏属性）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:40:0",
+  "message_id": "cmp_performance_ZENREI_G",
+  "translation": "{F2 05 FF FF}{F1 41}学习多种属性攻击。\n　\n基础能力优秀，属性攻击丰富，\n无论何时都值得信赖。\n　\n适合后排　武器：机械弓（突刺）\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_performance.bmd.json:41:0",
+  "message_id": "cmp_performance_ZEN_GJ_N",
+  "translation": "{F2 05 FF FF}{F1 41}学习多种属性攻击。\n　\n基础能力优秀，属性攻击丰富，\n无论何时都值得信赖。\n　\n适合后排　武器：机械弓（突刺）\n{00}"
+ }
+]

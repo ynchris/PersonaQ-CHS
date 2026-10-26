@@ -1,0 +1,162 @@
+[
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 E7 0E}这是迪奥发布的委托。\n请稍候。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白开始敲保健室的墙壁。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 05 01 02 01}{F5 61 02 01 01 01 01 01 55 11}其实，\n隔壁教室就是迪奥的工坊。\n所以，只要敲敲墙壁……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 09 01 04 01 05 01}{F5 61 02 01 01 01 01 01 50 0F}有什么事，姐姐？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 09 01 05 01 02 01}{F5 61 02 01 01 01 01 01 01 01}果然来了。\n迪奥，辛苦你了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 10 01 04 01 01 01}{F5 61 02 01 01 01 01 01 77 0F}{F5 C1 03 01 01 01 01 01 0A 01}就、就为了这点事，\n特意叫我过来吗！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 46 11}{F5 C1 04 01 01 01 01 01 02 01}开个玩笑。\n这位承接了你的委托……\n还不打声招呼？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 02 01 05 01 02 01}{F5 86 24 01 01 01 04 01 05 01}{F5 61 02 01 01 01 01 01 5A 0F}原来如此。\n刚才失礼了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 01 01}目前，我正在着力开发\n浸有某种药品的投射武器。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:7:2",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 07 01 04 01 01 01}{F5 61 02 01 01 01 01 01 01 01}可是，浸入药品之后，\n射程就无法提升……\n遇到了这样的难题。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:7:3",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 01 01}就在这时……我听说{F2 01 03 01}联谊咖啡厅{F2 01 01 01}里，\n有一种{F2 01 03 01}会射出致晕箭矢的Ｆ．Ｏ．Ｅ{F2 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:7:4",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}而且，据说在{F2 01 03 01}第一场{F2 01 01 01}，\n有一种Ｆ．Ｏ．Ｅ，\n能把箭射进很远的墙壁里……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:7:5",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}我非常希望能参考那种箭矢。\n可以请您帮忙取得吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 22 01 02 01 05 01 01 01}{F5 61 02 01 01 01 01 01 E5 10}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 09 01 05 01 01 01}{F5 61 02 01 01 01 01 01 53 11}太长了。一句话。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 10 01 04 01 01 01}{F5 61 02 01 01 01 01 01 8F 0F}{F5 C1 03 01 01 01 01 01 0B 01}呃，那、那个……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:9:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 01 01}请在联谊咖啡厅第一场，\n取回Ｆ．Ｏ．Ｅ射出的箭中，\n{F2 01 03 01}飞得最远的那支{F2 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:9:2",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 09 01 04 01 01 01}{F5 61 02 01 01 01 01 01 90 0F}{F5 C1 03 01 01 01 01 01 08 01}我、我说出来了！姐姐！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 05 01 02 01}{F5 61 02 01 01 01 01 01 59 11}动不动就较真……\n你就是这点不好，迪奥。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 07 01 04 01 01 01}{F5 61 02 01 01 01 01 01 61 0F}{F5 C1 03 01 01 01 01 01 0A 01}我、我到底该怎么办……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 09 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}不过，要测量箭矢的飞行距离……\n恐怕非常困难吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 05 01 06 01 01 01}{F5 61 02 01 01 01 01 01 59 0F}是、是的……\n除非有哪位眼力过人的高手\n愿意帮忙……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 5A 0B}{F5 C1 04 01 01 01 01 01 03 01}打扰了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 02 01 01 01 07 01}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 35 11}哎呀，是埃癸斯大人。\n您也是来承接委托的吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}不是。我走过这边的走廊，\n听到了各位似乎很困扰的声音。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:16:1",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}如果不嫌弃，\n我愿意帮忙。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 02 01}{F5 61 02 01 01 01 01 01 5A 0F}原来如此……\n确实，对埃癸斯大人来说，\n测量距离应该轻而易举……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:17:1",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}可以拜托您吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 73 0B}收到，保证完鳕任务。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:19:0",
+  "message_id": "MSG_0182",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 09 01 04 01 01 01}{F5 61 02 01 01 01 01 01 01 01}前去执行委托时，\n请将我编入队伍。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:20:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 02 01 01 01 07 01}{F5 86 24 01 03 01 04 01 02 01}{F5 61 02 01 01 01 01 01 01 01}那么……\n期待您的报告。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e820_300.bf.json:20:1",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 87 0F}另外，这项委托{F2 01 03 01}有时间限制{F2 01 01 01}。\n还请多多关照。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

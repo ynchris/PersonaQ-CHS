@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_057_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B4 01}咦！？\n副队长变成石头了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_057_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 AB 01}等等，副队长变成石头了！？\n这个……能治好吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_057_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B5 01}等等……\n阳介变成石头了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:3:0",
+  "message_id": "BTL_MES_H124_057_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B6 01}呜哇……\n千枝保持着架势变成石头了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:4:0",
+  "message_id": "BTL_MES_H124_057_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B7 01}咦！？\n雪子变成石头了！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:6:0",
+  "message_id": "BTL_MES_H124_057_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B8 01}哇！？\n完二变成石头了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:7:0",
+  "message_id": "BTL_MES_H124_057_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 BA 01}哇！？\n直斗变成石头了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:8:0",
+  "message_id": "BTL_MES_H124_057_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B9 01}咦！？那边的摆件……\n难道是小熊？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:9:0",
+  "message_id": "BTL_MES_H124_057_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 AC 01}哇！由加莉变成石头了……\n还能这样？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:10:0",
+  "message_id": "BTL_MES_H124_057_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 AD 01}咦！？顺平变成石头了……\n这能治好吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:11:0",
+  "message_id": "BTL_MES_H124_057_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 AE 01}咦！？\n真田变成石头了？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:12:0",
+  "message_id": "BTL_MES_H124_057_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 AF 01}哇！？\n美鹤变成石头了！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:14:0",
+  "message_id": "BTL_MES_H124_057_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B2 01}哇！？埃癸斯，\n变成石头了！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:15:0",
+  "message_id": "BTL_MES_H124_057_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B0 01}等等……\n乾变成石头了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:16:0",
+  "message_id": "BTL_MES_H124_057_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B1 01}咦！？狗狗变石头…\n不是摆件吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:17:0",
+  "message_id": "BTL_MES_H124_057_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B3 01}呜哇……\n荒垣被变成石头了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:18:0",
+  "message_id": "BTL_MES_H124_057_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 BB 01}哇！？善和玲，\n变成石头了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:19:0",
+  "message_id": "BTL_MES_H124_057_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 BC 01}哇！？\n善变成石头了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:20:0",
+  "message_id": "BTL_MES_H124_057_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 AA 01}哇！？\n你变成石头了！？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(056).BMD.json:21:0",
+  "message_id": "BTL_MES_H124_057_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A9 01}哇！\n队长变成石头了！？\n{F2 26 00 00}{00}"
+ }
+]

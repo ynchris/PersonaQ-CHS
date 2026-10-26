@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(106).BMD.json:0:0",
+  "message_id": "BTL_MES_H108_107_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DF 02}啊，副队长！\n怎么会……全灭！？大家！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(106).BMD.json:1:0",
+  "message_id": "BTL_MES_H108_107_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E0 02}啊，副队长！\n怎么会…骗人…大家…回答我！\n{F2 26 00 00}{00}"
+ }
+]

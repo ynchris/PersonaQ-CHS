@@ -1,0 +1,177 @@
+[
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 11 01 02 01 04 01}{F5 61 02 01 01 01 01 01 02 01}说起来，以前接受杂志采访时，\n有人问过我，\n“将来想要几个孩子？”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 03 01}我说的是事务所准备的答案。\n“理世世还是小孩子，\n不懂这些啦～。”\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 04 01}不过，其实啊……\n我向往的是一个大家庭。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:1:1",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 05 01}和最喜欢的人结婚，\n与好多孩子和睦地生活，\n一定会非常幸福……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:2:0",
+  "message_id": "MSG_0003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 06 01}学长想过，将来\n希望有几个孩子吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:3:0",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 12 01 02 01 01 01}没想过{F5 47 02 01 37 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:3:1",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}几个都会开心{F5 47 02 01 37 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:3:2",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}想要很多{F5 47 02 01 37 01 01 01 05 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:4:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 07 01}呵呵，也是呢。\n才高中生，想这些还早。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:4:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 08 01}啊……不过年轻爸爸也不稀奇哦？\n如果是学长，一定会是个\n好爸爸吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:5:0",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 05 01 03 01 01 01}{F5 61 02 01 01 01 01 01 09 01}……身边会站着谁呢？\n名字开头是“理”，\n结尾是“世”的人吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:5:1",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0A 01}……开玩笑的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:5:2",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 37 01 06 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:5:3",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 09 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}讨、讨厌……\n明明是自己说的，却好害羞……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:6:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞理世红着脸……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:7:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}呵呵，也是呢。\n如果是和喜欢的人，\n我也觉得几个都会开心。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:7:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}学长将来一定会\n成为好爸爸吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:7:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}因为，和菜菜子在一起的时候，\n学长的表情特别温柔。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:7:3",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 10 01}所以我觉得，能有学长这样的爸爸，\n一定很理想……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:8:0",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 05 01 03 01 01 01}{F5 61 02 01 01 01 01 01 11 01}……身边会站着谁呢？\n名字开头是“理”，\n结尾是“世”的人吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:8:1",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 12 01}……开玩笑的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:8:2",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 37 01 06 01 03 01 01 01}{F5 61 02 01 01 01 01 01 13 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:8:3",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 09 01 03 01 01 01}{F5 61 02 01 01 01 01 01 14 01}讨、讨厌……\n明明是自己说的，却好害羞……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:9:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞理世红着脸……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:10:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 15 01}啊，那就和我一样呢。\n呵呵……有点开心。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:10:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 16 01}学长将来一定会\n成为好爸爸吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:10:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 17 01}因为，和菜菜子在一起的时候，\n学长的表情特别温柔。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:10:3",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 18 01}所以我觉得，能有学长这样的爸爸，\n一定很理想……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:11:0",
+  "message_id": "MSG_0062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 05 01 03 01 01 01}{F5 61 02 01 01 01 01 01 19 01}……身边会站着谁呢？\n名字开头是“理”，\n结尾是“世”的人吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:11:1",
+  "message_id": "MSG_0062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1A 01}……开玩笑的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:11:2",
+  "message_id": "MSG_0062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 37 01 06 01 03 01 01 01}{F5 61 02 01 01 01 01 01 1B 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:11:3",
+  "message_id": "MSG_0062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 09 01 03 01 01 01}{F5 61 02 01 01 01 01 01 1C 01}讨、讨厌……\n明明是自己说的，却好害羞……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:12:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞理世红着脸……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:13:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 06 01 03 01 01 01}{F5 61 02 01 01 01 01 01 1D 01}{F5 C1 03 01 01 01 01 01 0B 01}这、这些话，不许告诉大家哦？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_814.bf.json:13:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 37 01 05 01 03 01 01 01}{F5 61 02 01 01 01 01 01 1E 01}只属于我们两人的……秘密。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

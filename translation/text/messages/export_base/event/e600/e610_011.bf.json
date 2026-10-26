@@ -1,0 +1,207 @@
+[
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞“联谊咖啡厅”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞天鹅绒房间的住民们也加入进来，\n　大家一起到这里参观……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 01 01 04 01 02 01}{F5 61 02 01 01 01 01 01 02 01}看来，阴影果然已经\n消失得无影无踪了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 03 01}……现在是否可以举办\n所谓的“联谊”了呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 05 01 05 01 01 01}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 03 01 01 01 01 01 0A 01}啊，原来你想参加啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 05 01}是的，据小熊大人教导，\n为了找到命中注定的另一半，\n会展开一场壮烈的较量……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:4:0",
+  "message_id": "MSG_0032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 06 01 01 01}{F5 61 02 01 01 01 01 01 06 01}身为男子汉的一员，\n面对如此重大的决胜之机，\n我岂有不挺身参加的道理。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 07 01}迪奥，既然你如此渴望，\n就由我和姐姐为你举办\n这场名为联谊的战斗吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:5:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 06 01 01 01}{F5 61 02 01 01 01 01 01 08 01}那么，我们不会手下留情。\n全力以赴，开始联谊！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 04 01 02 01 01 01 02 01}{F5 86 05 01 05 01 01 01 04 01}{F5 61 02 01 01 01 01 01 09 01}{F5 C1 03 01 01 01 01 01 0B 01}花村，你在干嘛！\n快点吐槽啊！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}你去啊！\n我现在正想着\n该拿天城怎么办呢！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}{F5 C1 03 01 01 01 01 01 05 01}咦？雪子？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 07 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}怎么了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}要是中了她的套，还算什么男人！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 07 01}{F5 61 02 01 01 01 01 01 0E 01}{F5 C1 03 01 01 01 01 01 0A 01}那就放着不管吗！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 09 01 12 01 02 01 04 01}{F5 61 02 01 01 01 01 01 0F 01}那个……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:12:1",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 10 01}我一直有些在意，这里究竟和\n学长们在文化祭举办的\n“联谊咖啡厅”有没有关系呢？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:12:2",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 11 01}除了名字，似乎没有相像之处……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 12 01}要说有，也算有。\n这些事物由玲的思念构成。\n大概是遇见你们后，发生了变化。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 13 01}{F5 C1 03 01 01 01 01 01 05 01}变化……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:14:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 14 01}说起来，这里为什么\n会举办文化祭呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:15:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 15 01}是为了镇魂的仪式……对吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:16:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 16 01}没错。\n为了不让玲悲伤，\n我在封印能力前做了些调整。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:16:1",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 17 01}以玲的记忆与想象为基础，\n将这个世界布置成了“祭典”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:17:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 18 01}所以才是祭典……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:17:1",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 19 01}……不过祭典的风格相当特别，\n这也是发生变化的结果吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:18:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 1A 01}与你们相遇，\n玲大人的记忆和想象随之改变。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:18:1",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1B 01}正因如此，世界也改变了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:19:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0B 01 02 01 01 01}{F5 61 02 01 01 01 01 01 1C 01}相遇会带来改变……就是这个意思吧。\n正如善所说的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:20:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 02 01 02 01 01 01 04 01}{F5 86 29 01 11 01 10 01 02 01}{F5 61 02 01 01 01 01 01 1D 01}那个……\n大家玩得开心吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:21:0",
+  "message_id": "SEL_TALK020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}非常开心{F5 47 02 01 02 01 07 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:21:1",
+  "message_id": "SEL_TALK020",
+  "translation": "{F2 05 FF FF}{F1 41}有点累了{F5 47 02 01 02 01 07 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:21:2",
+  "message_id": "SEL_TALK020",
+  "translation": "{F2 05 FF FF}{F1 41}还没玩够{F5 47 02 01 02 01 07 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:22:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 05 01 10 01 01 01}{F5 61 02 01 01 01 01 01 1E 01}太好了……\n这也是我存在过的意义……对吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:23:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 0E 01 01 01}{F5 61 02 01 01 01 01 01 1F 01}对不起……\n真的，让大家做了好多事……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:24:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 03 01 01 01 07 01}{F5 61 02 01 01 01 01 01 20 01}那就继续玩个够吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:25:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 05 01 02 01 01 01 02 01}{F5 86 0A 01 03 01 01 01 04 01}{F5 61 02 01 01 01 01 01 21 01}{F5 C1 03 01 01 01 01 01 08 01}那么接下来……\n去小千枝最喜欢的地方～！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:26:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 22 01}{F5 C1 03 01 01 01 01 01 0A 01}呃，怎么想都只有不祥的预感！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:27:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 03 01 07 01 01 01}{F5 61 02 01 01 01 01 01 23 01}没关系，我会保护你的！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:28:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 04 01 02 01 01 01 02 01}{F5 86 0C 01 0B 01 04 01 04 01}{F5 61 02 01 01 01 01 01 24 01}快点，吐槽啊！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e610_011.bf.json:29:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 25 01}{F5 C1 03 01 01 01 01 01 0B 01}那不就正中她下怀了吗！！\n太不甘心了啊！！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

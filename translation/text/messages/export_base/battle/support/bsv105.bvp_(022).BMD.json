@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(022).BMD.json:0:0",
+  "message_id": "BTL_MES_H105_023_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 16 01}强敌４名！\n好像还有没资料的家伙！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(022).BMD.json:1:0",
+  "message_id": "BTL_MES_H105_023_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 17 01}敌方暗影４名，都是强敌！\n{F2 26 00 00}{00}"
+ }
+]

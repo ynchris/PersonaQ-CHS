@@ -1,0 +1,57 @@
+[
+ {
+  "key": "export_base/event/e400/e420_070.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 02 01}{F3 06 00 01 00 01}玲，\n那个女孩，是你的一部分吗？\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_070.bf.json:1:0",
+  "message_id": "MSG_0001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 03 01}{F3 06 00 01 00 01}每个人都有各种各样的一面。\n{F2 22 3D 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_070.bf.json:2:0",
+  "message_id": "MSG_00012",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}谁都有不愿看见、\n不愿承认的部分。\n{F2 22 83 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_070.bf.json:3:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 04 01}{F3 06 00 01 00 01}不介意的话，希望你能跟我们说说。\n{F2 22 4C 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_070.bf.json:4:0",
+  "message_id": "MSG_00022",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}你背负着的那些东西，\n我们能不能替你分担一点呢……？\n{F2 22 83 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_070.bf.json:5:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 05 01}{F3 06 00 01 00 01}我不知道……\n那种东西，才不是我……！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_070.bf.json:6:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 06 01}{F3 06 00 01 00 01}玲小姐……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_070.bf.json:7:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 07 01}{F3 06 00 01 00 01}……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_070.bf.json:8:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 08 01}{F3 06 00 01 00 01}啊，等等……！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_070.bf.json:9:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 09 01}{F3 06 00 01 00 01}……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_070.bf.json:10:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 0A 01}{F3 06 00 01 00 01}那是……？\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ }
+]

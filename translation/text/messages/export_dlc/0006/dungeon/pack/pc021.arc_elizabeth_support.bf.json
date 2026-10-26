@@ -1,0 +1,532 @@
+[
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:0:0",
+  "message_id": "ELIZABETH_FOE_FOLLOW_STA",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E7 01}似乎已经\n被 F.O.E 发现了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:1:0",
+  "message_id": "ELIZABETH_FOE_FOLLOW_STA",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E8 01}哦……F.O.E\n好像发现各位了呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:2:0",
+  "message_id": "ELIZABETH_FOE_FOLLOW_STA",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E9 01}被 F.O.E 发现了呢。\n不过，只要不撞上就没什么大不了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:3:0",
+  "message_id": "ELIZABETH_FOE_SENSOR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EA 01}F.O.E……\n离得很近呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:4:0",
+  "message_id": "ELIZABETH_FOE_SENSOR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EB 01}仔细一看……F.O.E 的模样\n也相当有趣呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:5:0",
+  "message_id": "ELIZABETH_FOE_SENSOR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EC 01}F.O.E 已经靠得很——近了。\n还请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:6:0",
+  "message_id": "ELIZABETH_FOE_FOLLOW_END",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 ED 01}哦……停止追踪了吗？\n真是让人扫兴的 F.O.E……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:7:0",
+  "message_id": "ELIZABETH_FOE_FOLLOW_END",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EE 01}看来已经甩开 \nF.O.E 了呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:8:0",
+  "message_id": "ELIZABETH_FOE_FOLLOW_END",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EF 01}那只 F.O.E\n似乎不会追到这里呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:9:0",
+  "message_id": "ELIZABETH_PARTY_HARF_DEA",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F0 01}看来各位都受了不轻的伤。\n不如先回去一趟……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:10:0",
+  "message_id": "ELIZABETH_PARTY_HARF_DEA",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F1 01}若用一个词形容各位的状态……\n惨不忍睹……我想该先回去了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:11:0",
+  "message_id": "ELIZABETH_PARTY_HARF_DEA",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F2 01}似乎有不少人无法行动呢。\n是不是先回去比较好？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:12:0",
+  "message_id": "ELIZABETH_PARTY_HPTP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F3 01}队长大人，以这种状态\n继续前进，可谓是……鲁莽。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:13:0",
+  "message_id": "ELIZABETH_PARTY_HPTP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F4 01}队长大人，您的体力和精力\n是不是都已经耗尽了？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:14:0",
+  "message_id": "ELIZABETH_PARTY_HPTP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F5 01}队长大人，虽说我不会强求……\n不如优先恢复您自己的状态？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:15:0",
+  "message_id": "ELIZABETH_PARTY_HPTP10_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F6 01}队长大人，您注意到了吗？\n您的体力和精力都已经耗尽了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:16:0",
+  "message_id": "ELIZABETH_PARTY_HPTP10_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F7 01}队长大人，很危险……\n请先确认自己的状态。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:17:0",
+  "message_id": "ELIZABETH_PARTY_HPTP10_6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F8 01}队长大人，体力和精力所剩无几。\n就这样前进，可谓是鲁莽……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:18:0",
+  "message_id": "ELIZABETH_PARTY_HP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F9 01}队长大人，请确认自己的体力。\n您会倒下的哦？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:19:0",
+  "message_id": "ELIZABETH_PARTY_HP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FA 01}队长大人的体力很危险呢……\n是的，真的很危险。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:20:0",
+  "message_id": "ELIZABETH_PARTY_HP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FB 01}队长大人，趁还没倒下，\n不如先恢复自己的体力？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:21:0",
+  "message_id": "ELIZABETH_PARTY_HP10_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FC 01}队长大人，您的体力已经耗尽了。\n……会被打得落花流水哦？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:22:0",
+  "message_id": "ELIZABETH_PARTY_HP10_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FD 01}队长大人，请先恢复。您的体力……\n已经低到让人笑不出来了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:23:0",
+  "message_id": "ELIZABETH_PARTY_HP10_6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FE 01}队长大人现在最该做的事，\n就是……恢复自己的体力。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:24:0",
+  "message_id": "ELIZABETH_PARTY_TP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FF 01}队长大人……您的精力似乎已耗尽。\n继续探索恐怕很危险……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:25:0",
+  "message_id": "ELIZABETH_PARTY_TP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 00 01}队长大人，您的精力已经不多……\n即便如此也要前进？真不愧是您。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:26:0",
+  "message_id": "ELIZABETH_PARTY_TP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 01 02}队长大人，您的精力消耗很大……\n即便如此，也要继续前进吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:27:0",
+  "message_id": "ELIZABETH_PARTY_TP10_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 02 02}队长大人的精力所剩无几……\n接下来只能靠毅力前进了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:28:0",
+  "message_id": "ELIZABETH_PARTY_TP10_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 03 02}队长大人的精力很少了呢……\n继续前进是否太危险了？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:29:0",
+  "message_id": "ELIZABETH_PARTY_TP10_6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 04 02}队长大人，您的精力所剩无几……\n眼看就要没油了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:30:0",
+  "message_id": "ELIZABETH_STAIR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 05 02}是楼梯呢。要走吗？\n会走的吧？那就走吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:31:0",
+  "message_id": "ELIZABETH_STAIR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 06 02}那里有楼梯呢……\n那么……前面会是什么样呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:32:0",
+  "message_id": "ELIZABETH_STAIR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 07 02}似乎是楼梯呢。\n那么……您打算怎么办？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:33:0",
+  "message_id": "ELIZABETH_TREASURE1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 08 02}哦……这是令人欣喜的宝箱。\n请务必确认里面的东西。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:34:0",
+  "message_id": "ELIZABETH_TREASURE2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 09 02}是宝物呢……金银财宝\n滚滚而来……会是这样吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:35:0",
+  "message_id": "ELIZABETH_TREASURE3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0A 02}宝箱可谓迷宫中的绿洲……\n即使是陷阱，也没有不开的道理。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:36:0",
+  "message_id": "ELIZABETH_FOUNTAIN1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0B 02}那是……能量点……\n会出现什么呢，真令人期待。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:37:0",
+  "message_id": "ELIZABETH_FOUNTAIN2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0C 02}是能量点。\n来吧……会出现素材……还是敌人……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:38:0",
+  "message_id": "ELIZABETH_FOUNTAIN3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0D 02}是能量点呢。\n希望能采到很棒的素材……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:39:0",
+  "message_id": "ELIZABETH_SEARCH_OBJ1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0E 02}哦……前面好像有什么……\n不如调查一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:40:0",
+  "message_id": "ELIZABETH_SEARCH_OBJ2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 0F 02}我很在意那附近。\n当然，只是“我”在意……而已。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:41:0",
+  "message_id": "ELIZABETH_SEARCH_OBJ3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 10 02}哦……前方好像有什么……\n瞄一眼……有什么呢……再瞄一眼。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:42:0",
+  "message_id": "ELIZABETH_SWITCH1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 11 02}附近恐怕有开关……\n请仔——细找找。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:43:0",
+  "message_id": "ELIZABETH_SWITCH2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 12 02}前方是不是有开关？\n有的吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:44:0",
+  "message_id": "ELIZABETH_SWITCH3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 13 02}哦，附近是不是有开关？\n还请各位确认一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:45:0",
+  "message_id": "ELIZABETH_KARITORUMONO1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 14 02}这是……\n“收割者”的气息呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:46:0",
+  "message_id": "ELIZABETH_KARITORUMONO2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 15 02}哎呀……就在附近呢……\n那个危险的对手……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:47:0",
+  "message_id": "ELIZABETH_KARITORUMONO3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 16 02}“收割者”正在逼近。\n请多加小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:48:0",
+  "message_id": "ELIZABETH_ARROW_DIZZINES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 17 02}哦……您怎么了？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:49:0",
+  "message_id": "ELIZABETH_ARROW_DIZZINES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 18 02}看来方向感被扰乱了呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:50:0",
+  "message_id": "ELIZABETH_ARROW_DIZZINES",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 19 02}这下……在效果解除之前，\n只能忍耐了呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:51:0",
+  "message_id": "ELIZABETH_ARROW_FASCINAT",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1A 02}哦……\n往那边走的话……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:52:0",
+  "message_id": "ELIZABETH_ARROW_FASCINAT",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1B 02}真是……\n敌人也使出了有趣的手段呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:53:0",
+  "message_id": "ELIZABETH_ARROW_FASCINAT",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1C 02}您要往那边走吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:54:0",
+  "message_id": "ELIZABETH_SHORTCUT1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1D 02}请看前方。\n有没有注意到什么？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:55:0",
+  "message_id": "ELIZABETH_SHORTCUT2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1E 02}哦……那面墙……\n不，没什么。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:56:0",
+  "message_id": "ELIZABETH_SHORTCUT3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 1F 02}请留意前方的墙壁。\n有没有感觉到什么？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:57:0",
+  "message_id": "ELIZABETH_TRAVEL1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 20 02}辛苦各位了。这一层\n几乎已经完全征服了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:58:0",
+  "message_id": "ELIZABETH_TRAVEL2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 21 02}哦……看来这一层\n已经如同各位的后花园了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:59:0",
+  "message_id": "ELIZABETH_TRAVEL3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 22 02}看来这一层的开拓\n几乎已经结束了……就是这样。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:63:0",
+  "message_id": "ELIZABETH_ITEM_MAX1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 26 02}看来行李增加了不少……\n建议各位整理一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:64:0",
+  "message_id": "ELIZABETH_ITEM_MAX2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 27 02}再过不久……\n行李恐怕就拿不下了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:65:0",
+  "message_id": "ELIZABETH_ITEM_MAX3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 28 02}真是好多行李呢……\n是不是快拿不下了？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:66:0",
+  "message_id": "ELIZABETH_PARTY_HPTP15_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F3 01}队长大人，以这种状态\n继续前进，可谓是……鲁莽。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:67:0",
+  "message_id": "ELIZABETH_PARTY_HPTP15_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F4 01}队长大人，您的体力和精力\n是不是都已经耗尽了？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:68:0",
+  "message_id": "ELIZABETH_PARTY_HPTP15_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F5 01}队长大人，虽说我不会强求……\n不如优先恢复您自己的状态？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:69:0",
+  "message_id": "ELIZABETH_PARTY_HPTP15_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F6 01}队长大人，您注意到了吗？\n您的体力和精力都已经耗尽了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:70:0",
+  "message_id": "ELIZABETH_PARTY_HPTP15_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F7 01}队长大人，很危险……\n请先确认自己的状态。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:71:0",
+  "message_id": "ELIZABETH_PARTY_HPTP15_6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F8 01}队长大人，体力和精力所剩无几。\n就这样前进，可谓是鲁莽……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:72:0",
+  "message_id": "ELIZABETH_PARTY_TP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FF 01}队长大人……您的精力似乎已耗尽。\n继续探索恐怕很危险……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:73:0",
+  "message_id": "ELIZABETH_PARTY_TP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 00 01}队长大人，您的精力已经不多……\n即便如此也要前进？真不愧是您。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:74:0",
+  "message_id": "ELIZABETH_PARTY_TP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 01 02}队长大人，您的精力消耗很大……\n即便如此，也要继续前进吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:75:0",
+  "message_id": "ELIZABETH_PARTY_TP20_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 02 02}队长大人的精力所剩无几……\n接下来只能靠毅力前进了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:76:0",
+  "message_id": "ELIZABETH_PARTY_TP20_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 03 02}队长大人的精力很少了呢……\n继续前进是否太危险了？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:77:0",
+  "message_id": "ELIZABETH_PARTY_TP20_6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 04 02}队长大人，您的精力所剩无几……\n眼看就要没油了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:78:0",
+  "message_id": "ELIZABETH_PARTY_HP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F9 01}队长大人，请确认自己的体力。\n您会倒下的哦？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:79:0",
+  "message_id": "ELIZABETH_PARTY_HP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FA 01}队长大人的体力很危险呢……\n是的，真的很危险。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:80:0",
+  "message_id": "ELIZABETH_PARTY_HP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FB 01}队长大人，趁还没倒下，\n不如先恢复自己的体力？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:81:0",
+  "message_id": "ELIZABETH_PARTY_HP20_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FC 01}队长大人，您的体力已经耗尽了。\n……会被打得落花流水哦？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:82:0",
+  "message_id": "ELIZABETH_PARTY_HP20_5",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FD 01}队长大人，请先恢复。您的体力……\n已经低到让人笑不出来了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:83:0",
+  "message_id": "ELIZABETH_PARTY_HP20_6",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FE 01}队长大人现在最该做的事，\n就是……恢复自己的体力。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:84:0",
+  "message_id": "ELIZABETH_PARTY_HP50_P4H",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 29 02}似乎有位同伴的体力所剩无几……\n不如确认一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:85:0",
+  "message_id": "ELIZABETH_PARTY_HP50_P3H",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2A 02}队长大人，\n我想应该先恢复一下体力……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:86:0",
+  "message_id": "ELIZABETH_PARTY_HP50_YOS",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2B 02}花村阳介大人的体力减少了。\n是的，少到了令人失望的程度。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:87:0",
+  "message_id": "ELIZABETH_PARTY_HP50_CHI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2C 02}里中千枝大人的体力减少了。\n是的，少到了让我也不安的程度。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:88:0",
+  "message_id": "ELIZABETH_PARTY_HP50_YUK",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2D 02}天城雪子大人的体力减少了。\n少到天使都要从天而降了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:89:0",
+  "message_id": "ELIZABETH_PARTY_HP50_KUM",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2E 02}小熊大人的体力减少了。\n一根手指就能把他推倒……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:90:0",
+  "message_id": "ELIZABETH_PARTY_HP50_KAN",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2F 02}巽完二大人的体力所剩无几。\n是的，少到忍不住要再看一眼……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:91:0",
+  "message_id": "ELIZABETH_PARTY_HP50_NAO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 30 02}白钟直斗大人的体力减少了呢……\n在您倒下之前，容我再提醒一次。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:92:0",
+  "message_id": "ELIZABETH_PARTY_HP50_SUB",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 31 02}副队长大人的体力所剩无几。\n是的，少到了无法坐视不管的程度……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:93:0",
+  "message_id": "ELIZABETH_PARTY_HP50_YUK",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 32 02}岳羽由加莉大人的体力不多了呢……\n是的，少到让我心头一惊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:94:0",
+  "message_id": "ELIZABETH_PARTY_HP50_MIT",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 33 02}桐条美鹤大人的体力所剩无几。\n是的，少到让人以为看错了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:95:0",
+  "message_id": "ELIZABETH_PARTY_HP50_AEG",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 34 02}埃癸斯大人的体力所剩无几。\n咦，真的吗！？……就是这种程度。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:96:0",
+  "message_id": "ELIZABETH_PARTY_HP50_JUN",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 35 02}伊织顺平大人的体力所剩无几。\n是的，已经到了需要马上手术的程度……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:97:0",
+  "message_id": "ELIZABETH_PARTY_HP50_SAN",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 36 02}真田明彦大人的体力所剩无几呢……\n是的，让人怀疑是不是在开玩笑……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:98:0",
+  "message_id": "ELIZABETH_PARTY_HP50_AMA",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 37 02}天田乾大人的体力所剩无几。\n是的，少到了催人泪下的程度……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:99:0",
+  "message_id": "ELIZABETH_PARTY_HP50_ARA",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 38 02}叮咚叮咚。现在为您播报：\n荒垣真次郎大人的体力所剩无几。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:100:0",
+  "message_id": "ELIZABETH_PARTY_HP50_KOR",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 39 02}小虎大人的体力所剩无几。\n是的，少到让我也提心吊胆……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:101:0",
+  "message_id": "ELIZABETH_PARTY_HP50_ZEN",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3A 02}善大人的体力所剩无几。\n是的，少到了让人笑不出来的程度……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:102:0",
+  "message_id": "ELIZABETH_PARTY_HP50_REI",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3B 02}善大人和玲大人的体力不多了呢……\n是的，少到让我怀疑自己的眼睛……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:103:0",
+  "message_id": "ELIZABETH_FOE_NEAR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E7 01}似乎已经\n被 F.O.E 发现了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:104:0",
+  "message_id": "ELIZABETH_FOE_NEAR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E8 01}哦……F.O.E\n好像发现各位了呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:105:0",
+  "message_id": "ELIZABETH_FOE_NEAR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E9 01}被 F.O.E 发现了呢。\n不过，只要不撞上就没什么大不了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:106:0",
+  "message_id": "ELIZABETH_FOE_ALL_CLEAR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3C 02}这一层已经感觉不到 \nF.O.E 的气息了呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:107:0",
+  "message_id": "ELIZABETH_FOE_ALL_CLEAR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3D 02}这一层已经没有 F.O.E 了呢……\n真是寂寞至极……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/dungeon/pack/pc021.arc_elizabeth_support.bf.json:108:0",
+  "message_id": "ELIZABETH_FOE_ALL_CLEAR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3E 02}感觉不到 F.O.E 的气息了呢……\n这下可以放心走动了吧？\n{F2 26 00 00}{00}"
+ }
+]

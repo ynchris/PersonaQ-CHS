@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_058_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 78 01}副队长中毒了。\n还是治好比较好吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_058_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6F 01}副队长中毒了。\n放着不管不危险吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_058_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 79 01}阳介没事吧？\n你中毒了吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:3:0",
+  "message_id": "BTL_MES_H124_058_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7A 01}千枝中毒了。\n不解毒吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:4:0",
+  "message_id": "BTL_MES_H124_058_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7B 01}雪子中毒了。\n治不好吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:6:0",
+  "message_id": "BTL_MES_H124_058_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7C 01}完二中毒了。\n还是先治好比较好吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:7:0",
+  "message_id": "BTL_MES_H124_058_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7E 01}直斗中毒了。\n没事吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:8:0",
+  "message_id": "BTL_MES_H124_058_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7D 01}啊……小熊中毒了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:9:0",
+  "message_id": "BTL_MES_H124_058_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 70 01}由加莉中毒了。\n这个，治不好吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:10:0",
+  "message_id": "BTL_MES_H124_058_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 71 01}啊……顺平中毒了。\n这没问题吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:11:0",
+  "message_id": "BTL_MES_H124_058_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 72 01}真田中毒了。\n还是治好比较好吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:12:0",
+  "message_id": "BTL_MES_H124_058_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 73 01}美鹤中毒了。\n喂，治不好吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:14:0",
+  "message_id": "BTL_MES_H124_058_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 76 01}埃癸斯中毒了……\n…连机器人也会中毒啊…\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:15:0",
+  "message_id": "BTL_MES_H124_058_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 74 01}乾中毒了。\n治不好吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:16:0",
+  "message_id": "BTL_MES_H124_058_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 75 01}狗狗中毒了。\n等等，不管它也太可怜了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:17:0",
+  "message_id": "BTL_MES_H124_058_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 77 01}荒垣中毒了。\n喂，治不好吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:18:0",
+  "message_id": "BTL_MES_H124_058_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7F 01}善和玲两个人都中毒了。\n不能解毒吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:19:0",
+  "message_id": "BTL_MES_H124_058_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 80 01}善中毒了……\n喂，治不好吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:20:0",
+  "message_id": "BTL_MES_H124_058_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6E 01}你中毒了吧？\n不解毒吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(057).BMD.json:21:0",
+  "message_id": "BTL_MES_H124_058_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6D 01}队长中毒了。\n快解毒啊。\n{F2 26 00 00}{00}"
+ }
+]

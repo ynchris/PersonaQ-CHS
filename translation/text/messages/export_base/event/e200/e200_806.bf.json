@@ -1,0 +1,187 @@
+[
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 42 01 11 01 02 01 04 01}{F5 61 02 01 01 01 01 01 02 01}{F1 82}先生……\n我的身体，似乎有某处\n出现了异常。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}那张合成照片，\n果然是个陷阱吧？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 42 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 04 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:0:3",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 86 42 01 10 01 02 01 01 01}{F5 61 02 01 01 01 01 01 05 01}照片里的我，\n独占着……您……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:0:4",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 06 01}看过之后，就总觉得……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:1:0",
+  "message_id": "MSG_000a",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 42 01 10 01 02 01 01 01}{F5 61 02 01 01 01 01 01 07 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:1:1",
+  "message_id": "MSG_000a",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 42 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 08 01}真奇怪呢。\n明明照片是假的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:2:0",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 42 01 12 01 02 01 01 01}也许是恋情{F5 47 02 01 42 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:2:1",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}也许是异常{F5 47 02 01 42 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:2:2",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}也许就是爱{F5 47 02 01 42 01 01 01 05 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 42 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 09 01}{F5 C1 03 01 01 01 01 01 05 01}是“恋情”吗……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:3:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 42 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}“恋情”……“恋情”……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:3:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0B 01}虽然我不太明白……\n但有一点是清楚的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:4:0",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 42 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}我想保护{F1 82}先生。\n所以，请让我一直待在您身边。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:4:1",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0D 01}拜托您了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:5:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞埃癸斯直直地注视着自己……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:6:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 42 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}是的，正是如此……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:6:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 42 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}这样下去，\n我是不是会出什么故障呢？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:6:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 10 01}那样的话，我是不是\n就不能再待在您身边了呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:7:0",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 42 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 11 01}我想保护{F1 82}先生。\n所以，请让我一直待在您身边。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:7:1",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 12 01}拜托您了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:8:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞埃癸斯直直地注视着自己……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:9:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 42 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 13 01}{F5 C1 03 01 01 01 01 01 05 01}是“爱”吗……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:9:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 42 01 10 01 02 01 01 01}{F5 61 02 01 01 01 01 01 14 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:9:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 42 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 15 01}抱歉，{F1 82}先生。\n请您稍微忍耐一下。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:10:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 42 01 01 01 04 01 04 01}{F5 61 02 01 01 01 01 01 16 01}原来如此……\n像这样紧贴在一起，\n情绪就会高涨起来呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:10:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 42 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 17 01}通过彼此接触，\n能更近地感受到对方的存在……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:10:2",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 42 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 18 01}原来是这样啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:11:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 42 01 11 01 02 01 04 01}{F5 61 02 01 01 01 01 01 19 01}虽然我还无法清楚地\n理解“爱”是什么……\n但有一点已经明白了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:11:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1A 01}我想保护{F1 82}先生。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:11:2",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1B 01}想一直在近处，\n感受到您的存在。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:12:0",
+  "message_id": "MSG_0082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 42 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 1C 01}所以……\n请让我一直待在您身边。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:12:1",
+  "message_id": "MSG_0082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1D 01}拜托您了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:13:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞埃癸斯直直地注视着自己……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:14:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1E 01}{F5 C1 04 01 01 01 01 01 04 01}啊……差不多该走了吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:14:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 42 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 1F 01}必须解决\n手分不开的问题……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_806.bf.json:14:2",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 20 01}……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:0:0",
+  "message_id": "BTL_MES_H123_055_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7C 02}怎么会！\n副队长大人无法战斗了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:1:0",
+  "message_id": "BTL_MES_H123_055_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 73 02}啊，副队长大人\n倒下了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:2:0",
+  "message_id": "BTL_MES_H123_055_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7D 02}花村大人无法战斗了！！\n真是……令人失望……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:3:0",
+  "message_id": "BTL_MES_H123_055_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7E 02}啊……里中大人无法战斗了！\n我方战力下降了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:4:0",
+  "message_id": "BTL_MES_H123_055_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7F 02}天城大人无法战斗了。\n哪位能帮忙恢复吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:6:0",
+  "message_id": "BTL_MES_H123_055_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 80 02}啊！巽大人无法战斗了！\n这可不行……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:7:0",
+  "message_id": "BTL_MES_H123_055_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 82 02}不好！\n白钟大人无法战斗了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:8:0",
+  "message_id": "BTL_MES_H123_055_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 81 02}小熊大人无法战斗了。\n哪位能帮忙治疗吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:9:0",
+  "message_id": "BTL_MES_H123_055_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 74 02}岳羽大人无法战斗了！\n请哪位帮忙恢复！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:10:0",
+  "message_id": "BTL_MES_H123_055_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 75 02}啊！伊织大人倒下了！\n已经瘫软无力了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:11:0",
+  "message_id": "BTL_MES_H123_055_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 76 02}怎么会……真田大人\n被击倒了！！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:12:0",
+  "message_id": "BTL_MES_H123_055_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 77 02}不好！\n桐条大人无法战斗了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:14:0",
+  "message_id": "BTL_MES_H123_055_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7A 02}不好……\n埃癸斯大人无法战斗了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:15:0",
+  "message_id": "BTL_MES_H123_055_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 78 02}天田大人无法战斗了！\n请问哪位能够帮忙恢复？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:16:0",
+  "message_id": "BTL_MES_H123_055_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 79 02}怎么会……\n虎狼丸大人无法战斗了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:17:0",
+  "message_id": "BTL_MES_H123_055_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7B 02}荒垣大人无法战斗了！\n似乎站不起来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:18:0",
+  "message_id": "BTL_MES_H123_055_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 83 02}善大人，玲大人！！\n两位都无法战斗了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:19:0",
+  "message_id": "BTL_MES_H123_055_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 84 02}啊！善大人无法战斗了。\n需要恢复！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:20:0",
+  "message_id": "BTL_MES_H123_055_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 72 02}啊！队长大人无法战斗了！\n哪、哪位能帮忙恢复！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(054).BMD.json:21:0",
+  "message_id": "BTL_MES_H123_055_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 71 02}不好！队长大人无法战斗了！\n请求救援！\n{F2 26 00 00}{00}"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_069_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 64 02}副队长的速度下降了。\n动作变慢了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_069_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5B 02}副队长的速度下降了。\n动作怎么……看着真着急。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_069_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 65 02}阳介的速度下降了。\n动作一点都不利索了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:3:0",
+  "message_id": "BTL_MES_H124_069_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 66 02}千枝的速度下降了。\n啊……难道是太极拳？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:4:0",
+  "message_id": "BTL_MES_H124_069_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 67 02}雪子的速度下降了。\n话说，好慢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:6:0",
+  "message_id": "BTL_MES_H124_069_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 68 02}完二的速度下降了。\n看着就着急。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:7:0",
+  "message_id": "BTL_MES_H124_069_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6A 02}直斗的速度下降了。\n动作好慢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:8:0",
+  "message_id": "BTL_MES_H124_069_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 69 02}小熊的速度下降了。\n咦……没事吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:9:0",
+  "message_id": "BTL_MES_H124_069_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5C 02}由加莉的速度下降了。\n动作怎么……慢悠悠的。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:10:0",
+  "message_id": "BTL_MES_H124_069_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5D 02}顺平变慢了。\n速度下降了哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:11:0",
+  "message_id": "BTL_MES_H124_069_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5E 02}真田的速度下降了。\n动作怎么……轻飘飘的。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:12:0",
+  "message_id": "BTL_MES_H124_069_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5F 02}美鹤的速度下降了吧？\n动作怎么……沉甸甸的……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:14:0",
+  "message_id": "BTL_MES_H124_069_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 62 02}埃癸斯的速度下降了。\n好慢……简直是慢吞吞的。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:15:0",
+  "message_id": "BTL_MES_H124_069_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 60 02}乾的速度下降了。\n……话说，好慢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:16:0",
+  "message_id": "BTL_MES_H124_069_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 61 02}狗狗的速度下降了。\n动作变得好迟钝……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:17:0",
+  "message_id": "BTL_MES_H124_069_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 63 02}荒垣的速度下降了吧？\n毕竟这么慢……看着就着急……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:18:0",
+  "message_id": "BTL_MES_H124_069_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6B 02}善和玲的速度下降了。\n两个人都好慢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:19:0",
+  "message_id": "BTL_MES_H124_069_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6C 02}善的速度下降了。\n动作好慢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:20:0",
+  "message_id": "BTL_MES_H124_069_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5A 02}你的速度下降了吧？\n动作好慢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(068).BMD.json:21:0",
+  "message_id": "BTL_MES_H124_069_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 59 02}队长的速度下降了。\n动作变慢了哦。\n{F2 26 00 00}{00}"
+ }
+]

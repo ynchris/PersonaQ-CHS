@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(103).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_104_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DA 02}啊！你！！怎么会……以后不能\n一起出去玩了吗？我不要这样……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(103).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_104_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DB 02}咦！你！？被打倒了……？\n骗人的，我才不信！！\n{F2 26 00 00}{00}"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(026).BMD.json:0:0",
+  "message_id": "BTL_MES_H105_027_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1E 01}虽没资料，但应该轻松就能赢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(026).BMD.json:1:0",
+  "message_id": "BTL_MES_H105_027_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1F 01}这种敌人，轻松能赢吧！\n{F2 26 00 00}{00}"
+ }
+]

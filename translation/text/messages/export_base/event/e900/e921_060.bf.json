@@ -1,0 +1,52 @@
+[
+ {
+  "key": "export_base/event/e900/e921_060.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 30 11}{F2 01 03 01}与其他世界通信{F2 01 01 01}的相关事项，\n请容我为您说明。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e921_060.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}所谓其他世界，\n是与这个世界平行存在的\n许许多多不同世界……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e921_060.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}那里有另一个您，\n也正尝试与其他世界的您通信。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e921_060.bf.json:0:3",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}与其他世界的您通信时，\n需要使用{F2 01 03 01}“擦肩手册”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e921_060.bf.json:0:4",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}擦肩手册中可以填写各位的信息，\n还可以附上一只\n您所拥有的副人格面具。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e921_060.bf.json:0:5",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}通过通信交换手册后，\n{F2 01 03 01}双方就能召唤\n对方附上的副人格面具{F2 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e921_060.bf.json:0:6",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}善加利用的话，\n也能获得强大的副人格面具。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e921_060.bf.json:0:7",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3E 11}那么，请先取一个名字，\n用来区分您与其他世界的您。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e921_060.bf.json:0:8",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}这是写在擦肩手册上的名字……\n因此，就称之为{F2 01 03 01}“擦肩昵称”{F2 01 01 01}吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e900/e921_060.bf.json:0:9",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}这个名字之后还可以更改，\n请不必拘谨，随意取名即可。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

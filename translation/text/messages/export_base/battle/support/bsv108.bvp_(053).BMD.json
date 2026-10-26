@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(053).BMD.json:0:0",
+  "message_id": "BTL_MES_H108_054_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6F 02}埃癸斯过热了。\n暂时无法行动。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(053).BMD.json:1:0",
+  "message_id": "BTL_MES_H108_054_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 70 02}埃癸斯在冷却结束之前\n都无法行动。\n{F2 26 00 00}{00}"
+ }
+]

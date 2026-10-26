@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(000).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_001_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4C 01}咦，Ｆ．Ｏ．Ｅ！？等等，\n这种家伙只能逃了吧！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(000).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_001_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4D 01}哇！是Ｆ．Ｏ．Ｅ啊！\n快逃！只有这条路了！！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(000).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_001_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4E 01}呜哇……栖于自然的幻影……\n竟然来了……\n{F2 26 00 00}{00}"
+ }
+]

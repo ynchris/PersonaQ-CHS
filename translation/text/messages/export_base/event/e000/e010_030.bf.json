@@ -1,0 +1,287 @@
+[
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞２０１１年１０月３０日，\n　八十神高中文化祭最后一天的早晨……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞{F1 82}寄住的堂岛家……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 08 01}嘿……咻。\n做好啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞堂岛菜菜子……\n　{F1 82}的表妹，小学１年级学生。\n　代替已故的母亲操持家务。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞桌上摆着\n　菜菜子准备的早餐……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 26 01 0B 01 02 01 02 01}{F5 61 02 01 01 01 01 01 03 01}老师说过，\n早饭要好好吃。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}菜菜子只会做鸡蛋，\n所以做了煎蛋和鸡蛋卷！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:5:0",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 03 01 01 01 01 01 04 01}咦……\n鸡蛋卷变黑了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:6:0",
+  "message_id": "SEL_TALK005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}焦了也好吃{F5 47 02 01 02 01 07 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:6:1",
+  "message_id": "SEL_TALK005",
+  "translation": "{F2 05 FF FF}{F1 41}把焦的刮掉再吃吧{F5 47 02 01 02 01 07 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 06 01}不行！\n烧焦的地方对身体不好哦！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:7:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 07 01}爸爸也说喜欢焦一点的，\n可是不行哦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}嗯，烧焦的地方对身体不好。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:8:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}可是爸爸喜欢焦的，\n所以菜菜子总会说不可以。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0A 01}那，我开动啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0B 01}{F5 C1 04 01 01 01 01 01 02 01}鸡蛋真好吃！\n小鸡真厉害呢！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 26 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0C 01}{F5 C1 03 01 01 01 01 01 07 01}咦，来客人了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 01 01 02 01 04 01}{F5 61 02 01 01 01 01 01 0D 01}早、早啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞巽完二……\n　{F1 82}的学弟，１年级学生。\n　重义气，性格直率，容易冲动。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 02 01 01 01 04 01}{F5 86 02 01 02 01 01 01 02 01}{F5 86 26 01 0B 01 02 01 05 01}{F5 61 02 01 01 01 01 01 0E 01}完二哥哥！\n早上好。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:15:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞完二一大早就来了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:16:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}学长，不好意思……一大早就来。\n我家老太婆非让我\n把这个带给学长。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:16:1",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 10 01}想着放学拿着也麻烦，\n就现在送来了……\n那个……你、你不想要吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:17:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞完二有些尴尬地拿出来的，\n　是一个大便当盒……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:18:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 11 01}哇！\n我们正在吃早饭呢。\n一起吃吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:19:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}咦！？\n不过，菜菜子……会喜欢吗……\n哈哈……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:20:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}＞把完二带来的便当\n　摆上了餐桌……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:20:1",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞筑前煮、昆布卷……\n　还有某种炖菜……\n　以及另一种炖菜……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:21:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 02 01 01 01 05 01}{F5 86 02 01 02 01 01 01 02 01}{F5 86 08 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 13 01}{F5 C1 03 01 01 01 01 01 0A 01}抱歉……怎么说呢……全是褐色的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:22:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 14 01}……真好吃！\n完二哥哥的妈妈，\n好会做饭呀！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:23:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 15 01}{F5 C1 03 01 01 01 01 01 08 01}是、是吗！　那就好，那就好！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:23:1",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 16 01}其实……\n也有我做的啦……\n就是……那个炖的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:24:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 0C 01 02 01 01 01}{F5 61 02 01 01 01 01 01 17 01}你会做饭吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:24:1",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 0B 01 02 01 01 01}{F5 61 02 01 01 01 01 01 18 01}还会织毛线玩偶，\n你什么都会呀！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:24:2",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 19 01}菜菜子长大了，\n也想变得像完二叔……\n哥哥一样！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:25:0",
+  "message_id": "SEL_TALK024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}不可以{F5 47 02 01 02 01 03 01 02 01}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:25:1",
+  "message_id": "SEL_TALK024",
+  "translation": "{F2 05 FF FF}{F1 41}我支持你{F5 47 02 01 02 01 03 01 02 01}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:25:2",
+  "message_id": "SEL_TALK024",
+  "translation": "{F2 05 FF FF}{F1 41}完二叔……？{F5 47 02 01 02 01 03 01 02 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:26:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1A 01}{F5 C1 03 01 01 01 01 01 04 01}咦～……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:27:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 05 01 02 01 04 01}{F5 61 02 01 01 01 01 01 1B 01}{F5 C1 03 01 01 01 01 01 0B 01}学长，这不怪我啊！\n别瞪我啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:28:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1C 01}{F5 C1 03 01 01 01 01 01 08 01}嗯！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:29:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1D 01}{F5 C1 03 01 01 01 01 01 0B 01}你支持个什么劲啊！\n菜菜子要是真变得像我一样，\n你打算怎么办啊！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:30:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1E 01}{F5 C1 03 01 01 01 01 01 08 01}完二叔………嘿嘿。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:31:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1F 01}{F5 C1 03 01 01 01 01 01 0B 01}为什么非得揪着这点不放啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:32:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:32:1",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞不知从哪里，\n　传来了像是钟声的声音……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:33:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 02 01 01 01 04 01}{F5 86 02 01 04 01 02 01 02 01}{F5 86 26 01 05 01 02 01 05 01}{F5 61 02 01 01 01 01 01 21 01}{F5 C1 03 01 01 01 01 01 07 01}啊，哥哥要迟到了哦？\n今天学校有庆典，对吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:34:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞菜菜子似乎\n　没有注意到钟声……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:35:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 02 01}{F5 86 26 01 0C 01 02 01 05 01}{F5 86 08 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 22 01}哇，已经这个时间了！\n这下只能抄近路了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:36:0",
+  "message_id": "SEL_TALK035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}近路？{F5 47 02 01 02 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:36:1",
+  "message_id": "SEL_TALK035",
+  "translation": "{F2 05 FF FF}{F1 41}在哪里？{F5 47 02 01 02 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:37:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 23 01}学校外面的围栏有个洞。\n从那里走离教室近，\n还能避开老师。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:38:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 24 01}{F5 C1 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 07 01}完二哥哥……是不良少年！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:39:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 25 01}{F5 C1 03 01 01 01 01 01 0A 01}啊，糟了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:40:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 26 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 26 01}{F5 C1 03 01 01 01 01 01 08 01}好帅！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:41:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 02 01 02 01}{F5 86 08 01 09 01 01 01 04 01}{F5 61 02 01 01 01 01 01 27 01}帅……\n也、也没有啦……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e010_030.bf.json:42:0",
+  "message_id": "MSG_0402",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 28 01}{F5 C1 03 01 01 01 01 01 0B 01}……学长！\n别瞪我啊！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

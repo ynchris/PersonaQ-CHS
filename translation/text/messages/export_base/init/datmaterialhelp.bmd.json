@@ -1,0 +1,1562 @@
+[
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:1:0",
+  "message_id": "material_701",
+  "translation": "{F2 05 FF FF}{F1 41}海豚形阴影的一部分。\n讨伐：冷静之鱼\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:2:0",
+  "message_id": "material_702",
+  "translation": "{F2 05 FF FF}{F1 41}如彩绘玻璃般美丽的蓝色鳍。\n讨伐：冷静之鱼\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:3:0",
+  "message_id": "material_703",
+  "translation": "{F2 05 FF FF}{F1 41}清澈透明的眼睛。\n讨伐：冷静之鱼\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:4:0",
+  "message_id": "material_704",
+  "translation": "{F2 05 FF FF}{F1 41}狮子形阴影的一部分。\n讨伐：奴役之兽\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:5:0",
+  "message_id": "material_705",
+  "translation": "{F2 05 FF FF}{F1 41}十分沉重的铁球。\n讨伐：奴役之兽\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:7:0",
+  "message_id": "material_707",
+  "translation": "{F2 05 FF FF}{F1 41}棕色桌子形阴影的一部分。\n讨伐：嬉笑之桌\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:8:0",
+  "message_id": "material_708",
+  "translation": "{F2 05 FF FF}{F1 41}典雅的棕色桌腿。\n讨伐：嬉笑之桌\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:10:0",
+  "message_id": "material_70A",
+  "translation": "{F2 05 FF FF}{F1 41}银色桌子形阴影的一部分。\n讨伐：沉眠之桌\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:11:0",
+  "message_id": "material_70B",
+  "translation": "{F2 05 FF FF}{F1 41}银光闪耀的美丽桌腿。\n讨伐：沉眠之桌\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:12:0",
+  "message_id": "material_70C",
+  "translation": "{F2 05 FF FF}{F1 41}精心擦拭后泛着光泽的餐具。\n讨伐：沉眠之桌\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:13:0",
+  "message_id": "material_70D",
+  "translation": "{F2 05 FF FF}{F1 41}十字架形阴影的一部分。\n讨伐：炎冰天秤\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:14:0",
+  "message_id": "material_70E",
+  "translation": "{F2 05 FF FF}{F1 41}红蓝两色配成一套的盘子。\n讨伐：炎冰天秤\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:16:0",
+  "message_id": "material_710",
+  "translation": "{F2 05 FF FF}{F1 41}鹰形阴影的一部分。\n讨伐：朱庇特之鹰\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:17:0",
+  "message_id": "material_711",
+  "translation": "{F2 05 FF FF}{F1 41}十分雄壮的翅膀。\n讨伐：朱庇特之鹰\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:18:0",
+  "message_id": "material_712",
+  "translation": "{F2 05 FF FF}{F1 41}锋利的钩爪。\n讨伐：朱庇特之鹰\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:19:0",
+  "message_id": "material_713",
+  "translation": "{F2 05 FF FF}{F1 41}胶状身体的阴影的一部分。\n讨伐：懦弱之魔影\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:20:0",
+  "message_id": "material_714",
+  "translation": "{F2 05 FF FF}{F1 41}勉强保持手形的胶状物质。\n讨伐：懦弱之魔影\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:22:0",
+  "message_id": "material_716",
+  "translation": "{F2 05 FF FF}{F1 41}以巨大舌头为特征的阴影的一部分。\n讨伐：谎言夸口者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:23:0",
+  "message_id": "material_717",
+  "translation": "{F2 05 FF FF}{F1 41}有黑白条纹的皮。\n讨伐：谎言夸口者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:25:0",
+  "message_id": "material_719",
+  "translation": "{F2 05 FF FF}{F1 41}以巨大舌头为特征的阴影的一部分。\n讨伐：挑拨夸口者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:26:0",
+  "message_id": "material_71A",
+  "translation": "{F2 05 FF FF}{F1 41}红蓝两色鲜艳的皮。\n讨伐：挑拨夸口者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:28:0",
+  "message_id": "material_71C",
+  "translation": "{F2 05 FF FF}{F1 41}以大剑为特征的阴影的一部分。\n讨伐：正义之剑\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:29:0",
+  "message_id": "material_71D",
+  "translation": "{F2 05 FF FF}{F1 41}十分顺手的剑柄。\n讨伐：正义之剑\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:31:0",
+  "message_id": "material_71F",
+  "translation": "{F2 05 FF FF}{F1 41}巨大独角仙形阴影的一部分。\n讨伐：热甲虫\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:32:0",
+  "message_id": "material_720",
+  "translation": "{F2 05 FF FF}{F1 41}鲜红而雄壮的角。\n讨伐：热甲虫\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:33:0",
+  "message_id": "material_721",
+  "translation": "{F2 05 FF FF}{F1 41}十分坚硬的甲虫外壳。\n讨伐：热甲虫\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:34:0",
+  "message_id": "material_722",
+  "translation": "{F2 05 FF FF}{F1 41}金色身体的阴影的一部分。\n讨伐：宝物之手\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:48:0",
+  "message_id": "material_730",
+  "translation": "{F2 05 FF FF}{F1 41}热情舞者阴影的一部分。\n讨伐：灵魂舞者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:49:0",
+  "message_id": "material_731",
+  "translation": "{F2 05 FF FF}{F1 41}漆黑的舞鞋。\n讨伐：灵魂舞者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:51:0",
+  "message_id": "material_733",
+  "translation": "{F2 05 FF FF}{F1 41}高贵舞者阴影的一部分。\n讨伐：绚烂舞者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:52:0",
+  "message_id": "material_734",
+  "translation": "{F2 05 FF FF}{F1 41}纯白的舞鞋。\n讨伐：绚烂舞者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:54:0",
+  "message_id": "material_736",
+  "translation": "{F2 05 FF FF}{F1 41}由无数蝴蝶聚成的阴影的一部分。\n讨伐：外遇之蝶\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:55:0",
+  "message_id": "material_737",
+  "translation": "{F2 05 FF FF}{F1 41}美丽的粉红色翅膀。\n讨伐：外遇之蝶\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:56:0",
+  "message_id": "material_738",
+  "translation": "{F2 05 FF FF}{F1 41}清爽的花蜜。\n讨伐：外遇之蝶\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:57:0",
+  "message_id": "material_739",
+  "translation": "{F2 05 FF FF}{F1 41}擅长法术的阴影的一部分。\n讨伐：惊奇术士\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:58:0",
+  "message_id": "material_73A",
+  "translation": "{F2 05 FF FF}{F1 41}点缀着无数星星的长袍。\n讨伐：惊奇术士\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:59:0",
+  "message_id": "material_73B",
+  "translation": "{F2 05 FF FF}{F1 41}蕴含强大魔力的圆环。\n讨伐：惊奇术士\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:60:0",
+  "message_id": "material_73C",
+  "translation": "{F2 05 FF FF}{F1 41}散发神圣气息的阴影的一部分。\n讨伐：寂静之圣母\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:61:0",
+  "message_id": "material_73D",
+  "translation": "{F2 05 FF FF}{F1 41}典雅的红色面纱。\n讨伐：寂静之圣母\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:63:0",
+  "message_id": "material_73F",
+  "translation": "{F2 05 FF FF}{F1 41}散发神圣气息的阴影的一部分。\n讨伐：狂乱之圣母\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:64:0",
+  "message_id": "material_740",
+  "translation": "{F2 05 FF FF}{F1 41}美丽的粉红色面纱。\n讨伐：狂乱之圣母\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:65:0",
+  "message_id": "material_741",
+  "translation": "{F2 05 FF FF}{F1 41}十分豪华的底座。\n讨伐：狂乱之圣母\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:66:0",
+  "message_id": "material_742",
+  "translation": "{F2 05 FF FF}{F1 41}横卧在椅子上的阴影的一部分。\n讨伐：理念之母\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:67:0",
+  "message_id": "material_743",
+  "translation": "{F2 05 FF FF}{F1 41}充满高级感的帽子。\n讨伐：理念之母\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:68:0",
+  "message_id": "material_744",
+  "translation": "{F2 05 FF FF}{F1 41}燃烧的戒指。\n讨伐：理念之母\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:69:0",
+  "message_id": "material_745",
+  "translation": "{F2 05 FF FF}{F1 41}黑色蛇形阴影的一部分。\n讨伐：情欲之蛇\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:70:0",
+  "message_id": "material_746",
+  "translation": "{F2 05 FF FF}{F1 41}红白两色鲜艳的圆环。\n讨伐：情欲之蛇\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:71:0",
+  "message_id": "material_747",
+  "translation": "{F2 05 FF FF}{F1 41}封住行动后完整剥下的皮。\n讨伐：情欲之蛇\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:72:0",
+  "message_id": "material_748",
+  "translation": "{F2 05 FF FF}{F1 41}银色蛇形阴影的一部分。\n讨伐：淫欲之蛇\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:73:0",
+  "message_id": "material_749",
+  "translation": "{F2 05 FF FF}{F1 41}色彩缤纷的圆环。\n讨伐：淫欲之蛇\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:74:0",
+  "message_id": "material_74A",
+  "translation": "{F2 05 FF FF}{F1 41}银光闪耀的坚韧鳞片。\n讨伐：淫欲之蛇\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:75:0",
+  "message_id": "material_74B",
+  "translation": "{F2 05 FF FF}{F1 41}蓝色天使形阴影的一部分。\n讨伐：独占之丘比特\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:76:0",
+  "message_id": "material_74C",
+  "translation": "{F2 05 FF FF}{F1 41}清爽的蓝色箭镞。\n讨伐：独占之丘比特\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:77:0",
+  "message_id": "material_74D",
+  "translation": "{F2 05 FF FF}{F1 41}冰冻的箭镞。\n讨伐：独占之丘比特\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:78:0",
+  "message_id": "material_74E",
+  "translation": "{F2 05 FF FF}{F1 41}绿色天使形阴影的一部分。\n讨伐：盲爱之丘比特\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:79:0",
+  "message_id": "material_74F",
+  "translation": "{F2 05 FF FF}{F1 41}美丽的金色箭镞。\n讨伐：盲爱之丘比特\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:80:0",
+  "message_id": "material_750",
+  "translation": "{F2 05 FF FF}{F1 41}被毒侵染的天使翅膀。\n讨伐：盲爱之丘比特\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:81:0",
+  "message_id": "material_751",
+  "translation": "{F2 05 FF FF}{F1 41}头顶高举圣典的阴影的一部分。\n讨伐：虚伪圣典\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:82:0",
+  "message_id": "material_752",
+  "translation": "{F2 05 FF FF}{F1 41}固定圣典的漂亮金属扣。\n讨伐：虚伪圣典\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:84:0",
+  "message_id": "material_754",
+  "translation": "{F2 05 FF FF}{F1 41}坚硬岩石形阴影的一部分。\n讨伐：自律之玄武岩\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:85:0",
+  "message_id": "material_755",
+  "translation": "{F2 05 FF FF}{F1 41}岩石形阴影的手印。\n讨伐：自律之玄武岩\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:86:0",
+  "message_id": "material_756",
+  "translation": "{F2 05 FF FF}{F1 41}没有碎裂，保持大块形状的岩石。\n讨伐：自律之玄武岩\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:87:0",
+  "message_id": "material_757",
+  "translation": "{F2 05 FF FF}{F1 41}极其坚硬的岩石形阴影的一部分。\n讨伐：无为之玄武岩\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:88:0",
+  "message_id": "material_758",
+  "translation": "{F2 05 FF FF}{F1 41}岩石形阴影的大手印。\n讨伐：无为之玄武岩\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:90:0",
+  "message_id": "material_75A",
+  "translation": "{F2 05 FF FF}{F1 41}国王打扮的阴影的一部分。\n讨伐：豪华之王\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:91:0",
+  "message_id": "material_75B",
+  "translation": "{F2 05 FF FF}{F1 41}十分气派的胡须。\n讨伐：豪华之王\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:92:0",
+  "message_id": "material_75C",
+  "translation": "{F2 05 FF FF}{F1 41}配得上国王的华丽王冠。\n讨伐：豪华之王\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:93:0",
+  "message_id": "material_75D",
+  "translation": "{F2 05 FF FF}{F1 41}金色身体的阴影的一部分。\n讨伐：财宝之手\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:112:0",
+  "message_id": "material_770",
+  "translation": "{F2 05 FF FF}{F1 41}橙色布偶形阴影的一部分。\n讨伐：守护辗毙者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:113:0",
+  "message_id": "material_771",
+  "translation": "{F2 05 FF FF}{F1 41}可爱的红色缎带。\n讨伐：守护辗毙者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:114:0",
+  "message_id": "material_772",
+  "translation": "{F2 05 FF FF}{F1 41}被黑暗之力染黑的棉花。\n讨伐：守护辗毙者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:115:0",
+  "message_id": "material_773",
+  "translation": "{F2 05 FF FF}{F1 41}紫色布偶形阴影的一部分。\n讨伐：认真过劳死者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:116:0",
+  "message_id": "material_774",
+  "translation": "{F2 05 FF FF}{F1 41}典雅的黑框眼镜。\n讨伐：认真过劳死者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:118:0",
+  "message_id": "material_776",
+  "translation": "{F2 05 FF FF}{F1 41}从壶中跃出的女性形阴影的一部分。\n讨伐：观雨之壶\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:119:0",
+  "message_id": "material_777",
+  "translation": "{F2 05 FF FF}{F1 41}略有损伤的黑发。\n讨伐：观雨之壶\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:120:0",
+  "message_id": "material_778",
+  "translation": "{F2 05 FF FF}{F1 41}素材栏ID_0x778　第１页\n讨伐：观雨之壶\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:121:0",
+  "message_id": "material_779",
+  "translation": "{F2 05 FF FF}{F1 41}两体一组的阴影的一部分。\n讨伐：恍惚之双子\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:122:0",
+  "message_id": "material_77A",
+  "translation": "{F2 05 FF FF}{F1 41}限制双子行动的枷锁。\n讨伐：恍惚之双子\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:124:0",
+  "message_id": "material_77C",
+  "translation": "{F2 05 FF FF}{F1 41}警察打扮的阴影的一部分。\n讨伐：收贿之警察\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:125:0",
+  "message_id": "material_77D",
+  "translation": "{F2 05 FF FF}{F1 41}在警察形阴影胸前闪光的徽章。\n讨伐：收贿之警察\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:127:0",
+  "message_id": "material_77F",
+  "translation": "{F2 05 FF FF}{F1 41}披着灰色斗篷的阴影的一部分。\n讨伐：魅影法师\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:128:0",
+  "message_id": "material_780",
+  "translation": "{F2 05 FF FF}{F1 41}在阴影腹部诡异摇曳的提灯。\n讨伐：魅影法师\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:129:0",
+  "message_id": "material_781",
+  "translation": "{F2 05 FF FF}{F1 41}闪耀的魔核。\n魅影法师掉落的素材。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:130:0",
+  "message_id": "material_782",
+  "translation": "{F2 05 FF FF}{F1 41}披着黑色斗篷的阴影的一部分。\n讨伐：魅影大师\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:131:0",
+  "message_id": "material_783",
+  "translation": "{F2 05 FF FF}{F1 41}在阴影腹部剧烈摇曳的提灯。\n讨伐：魅影大师\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:132:0",
+  "message_id": "material_784",
+  "translation": "{F2 05 FF FF}{F1 41}魔力的结晶。\n魅影大师掉落的素材。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:133:0",
+  "message_id": "material_785",
+  "translation": "{F2 05 FF FF}{F1 41}带有美丽雕刻的阴影的一部分。\n讨伐：变化之雕像\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:134:0",
+  "message_id": "material_786",
+  "translation": "{F2 05 FF FF}{F1 41}支撑雕像正面开合部位的铰链。\n讨伐：变化之雕像\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:135:0",
+  "message_id": "material_787",
+  "translation": "{F2 05 FF FF}{F1 41}从打开的正面弹出的利刃。\n讨伐：变化之雕像\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:136:0",
+  "message_id": "material_788",
+  "translation": "{F2 05 FF FF}{F1 41}黑色乌鸦形阴影的一部分。\n讨伐：漆黑之渡鸦\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:137:0",
+  "message_id": "material_789",
+  "translation": "{F2 05 FF FF}{F1 41}凝视时仿佛会被吸入的漆黑羽毛。\n讨伐：漆黑之渡鸦\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:139:0",
+  "message_id": "material_78B",
+  "translation": "{F2 05 FF FF}{F1 41}白色乌鸦形阴影的一部分。\n讨伐：冥界之渡鸦\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:140:0",
+  "message_id": "material_78C",
+  "translation": "{F2 05 FF FF}{F1 41}毫无瑕疵的纯白羽毛。\n讨伐：冥界之渡鸦\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:141:0",
+  "message_id": "material_78D",
+  "translation": "{F2 05 FF FF}{F1 41}毫无污渍的纯白鸟喙。\n讨伐：冥界之渡鸦\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:142:0",
+  "message_id": "material_78E",
+  "translation": "{F2 05 FF FF}{F1 41}气体状阴影的一部分。\n讨伐：雾雨兄弟二哥\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:143:0",
+  "message_id": "material_78F",
+  "translation": "{F2 05 FF FF}{F1 41}气体状阴影吐出的气息。\n讨伐：雾雨兄弟二哥\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:144:0",
+  "message_id": "material_790",
+  "translation": "{F2 05 FF FF}{F1 41}喷出大量气体的核心。\n讨伐：雾雨兄弟二哥\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:145:0",
+  "message_id": "material_791",
+  "translation": "{F2 05 FF FF}{F1 41}气体状阴影的一部分。\n讨伐：雾雨兄弟大哥\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:146:0",
+  "message_id": "material_792",
+  "translation": "{F2 05 FF FF}{F1 41}气体状阴影发出的叹息。\n讨伐：雾雨兄弟大哥\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:147:0",
+  "message_id": "material_793",
+  "translation": "{F2 05 FF FF}{F1 41}缠绕雷电的气体状阴影核心。\n讨伐：雾雨兄弟大哥\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:148:0",
+  "message_id": "material_794",
+  "translation": "{F2 05 FF FF}{F1 41}胶状身体的阴影的一部分。\n讨伐：贪婪之魔影\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:149:0",
+  "message_id": "material_795",
+  "translation": "{F2 05 FF FF}{F1 41}十分黏腻的手形物质。\n讨伐：贪婪之魔影\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:150:0",
+  "message_id": "material_796",
+  "translation": "{F2 05 FF FF}{F1 41}凝固成方块的果冻状物质。\n讨伐：贪婪之魔影\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:151:0",
+  "message_id": "material_797",
+  "translation": "{F2 05 FF FF}{F1 41}胶状身体的阴影的一部分。\n讨伐：牺牲之魔影\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:152:0",
+  "message_id": "material_798",
+  "translation": "{F2 05 FF FF}{F1 41}十分稀软的胶状物质。\n讨伐：牺牲之魔影\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:154:0",
+  "message_id": "material_79A",
+  "translation": "{F2 05 FF FF}{F1 41}以巨大脸孔为特征的阴影的一部分。\n讨伐：命运搜寻者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:155:0",
+  "message_id": "material_79B",
+  "translation": "{F2 05 FF FF}{F1 41}极其巨大的眼睑。\n讨伐：命运搜寻者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:156:0",
+  "message_id": "material_79C",
+  "translation": "{F2 05 FF FF}{F1 41}因诅咒而发黑的巨大眼睛。\n讨伐：命运搜寻者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:157:0",
+  "message_id": "material_79D",
+  "translation": "{F2 05 FF FF}{F1 41}金色身体的阴影的一部分。\n讨伐：至高之手\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:176:0",
+  "message_id": "material_7B0",
+  "translation": "{F2 05 FF FF}{F1 41}身披盔甲的阴影的一部分。\n讨伐：白狼之武者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:177:0",
+  "message_id": "material_7B1",
+  "translation": "{F2 05 FF FF}{F1 41}制作十分结实的护额。\n讨伐：白狼之武者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:179:0",
+  "message_id": "material_7B3",
+  "translation": "{F2 05 FF FF}{F1 41}摔跤手形阴影的一部分。\n讨伐：钢铁之巨灵\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:180:0",
+  "message_id": "material_7B4",
+  "translation": "{F2 05 FF FF}{F1 41}浸满汗水与泪水的面罩。\n讨伐：钢铁之巨灵\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:182:0",
+  "message_id": "material_7B6",
+  "translation": "{F2 05 FF FF}{F1 41}摔跤手形阴影的一部分。\n讨伐：不灭之巨灵\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:183:0",
+  "message_id": "material_7B7",
+  "translation": "{F2 05 FF FF}{F1 41}浸满鲜血、汗水与泪水的面罩。\n讨伐：不灭之巨灵\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:185:0",
+  "message_id": "material_7B9",
+  "translation": "{F2 05 FF FF}{F1 41}树木形阴影的一部分。\n讨伐：招唤之女官\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:186:0",
+  "message_id": "material_7BA",
+  "translation": "{F2 05 FF FF}{F1 41}染成鲜红色的和服。\n讨伐：招唤之女官\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:188:0",
+  "message_id": "material_7BC",
+  "translation": "{F2 05 FF FF}{F1 41}树木形阴影的一部分。\n讨伐：怜爱之女官\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:189:0",
+  "message_id": "material_7BD",
+  "translation": "{F2 05 FF FF}{F1 41}染成鲜绿色的和服。\n讨伐：怜爱之女官\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:191:0",
+  "message_id": "material_7BF",
+  "translation": "{F2 05 FF FF}{F1 41}身体形似染色体的阴影的一部分。\n讨伐：快乐基因\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:192:0",
+  "message_id": "material_7C0",
+  "translation": "{F2 05 FF FF}{F1 41}蓄积着大量能量的弹簧。\n讨伐：快乐基因\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:194:0",
+  "message_id": "material_7C2",
+  "translation": "{F2 05 FF FF}{F1 41}３个头连在一起的阴影的一部分。\n讨伐：教条之塔\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:195:0",
+  "message_id": "material_7C3",
+  "translation": "{F2 05 FF FF}{F1 41}用大量宝石装饰的王冠。\n讨伐：教条之塔\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:196:0",
+  "message_id": "material_7C4",
+  "translation": "{F2 05 FF FF}{F1 41}散发强大魔力的眼睛。\n讨伐：教条之塔\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:197:0",
+  "message_id": "material_7C5",
+  "translation": "{F2 05 FF FF}{F1 41}手持拐杖的老人形阴影的一部分。\n讨伐：肤浅之翁\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:198:0",
+  "message_id": "material_7C6",
+  "translation": "{F2 05 FF FF}{F1 41}雅致的紫色短褂。\n讨伐：肤浅之翁\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:199:0",
+  "message_id": "material_7C7",
+  "translation": "{F2 05 FF FF}{F1 41}设计简洁的棕色拐杖。\n讨伐：肤浅之翁\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:200:0",
+  "message_id": "material_7C8",
+  "translation": "{F2 05 FF FF}{F1 41}手持拐杖的老人形阴影的一部分。\n讨伐：轻率之翁\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:201:0",
+  "message_id": "material_7C9",
+  "translation": "{F2 05 FF FF}{F1 41}洋溢着青春气息的绿色短褂。\n讨伐：轻率之翁\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:203:0",
+  "message_id": "material_7CB",
+  "translation": "{F2 05 FF FF}{F1 41}悬挂在圆盘上的阴影的一部分。\n讨伐：愤怒独眼巨人\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:204:0",
+  "message_id": "material_7CC",
+  "translation": "{F2 05 FF FF}{F1 41}束缚阴影身体的枷锁。\n讨伐：愤怒独眼巨人\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:205:0",
+  "message_id": "material_7CD",
+  "translation": "{F2 05 FF FF}{F1 41}封存着魔力的尖刺。\n讨伐：愤怒独眼巨人\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:206:0",
+  "message_id": "material_7CE",
+  "translation": "{F2 05 FF FF}{F1 41}黑色骰子形阴影的一部分。\n讨伐：钢铁之骰\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:207:0",
+  "message_id": "material_7CF",
+  "translation": "{F2 05 FF FF}{F1 41}决定投掷者命运的骰子点数。\n讨伐：钢铁之骰\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:209:0",
+  "message_id": "material_7D1",
+  "translation": "{F2 05 FF FF}{F1 41}白色骰子形阴影的一部分。\n讨伐：白金之骰\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:210:0",
+  "message_id": "material_7D2",
+  "translation": "{F2 05 FF FF}{F1 41}几乎保持原形的骰子块。\n讨伐：白金之骰\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:211:0",
+  "message_id": "material_7D3",
+  "translation": "{F2 05 FF FF}{F1 41}决定投掷者宿命的骰子点数。\n讨伐：白金之骰\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:212:0",
+  "message_id": "material_7D4",
+  "translation": "{F2 05 FF FF}{F1 41}带有狮子脸的车轮形阴影的一部分。\n讨伐：急速之轮\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:213:0",
+  "message_id": "material_7D5",
+  "translation": "{F2 05 FF FF}{F1 41}支撑巨大车轮的坚固车轴。\n讨伐：急速之轮\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:214:0",
+  "message_id": "material_7D6",
+  "translation": "{F2 05 FF FF}{F1 41}缠绕着风的蓬松尾巴。\n讨伐：急速之轮\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:215:0",
+  "message_id": "material_7D7",
+  "translation": "{F2 05 FF FF}{F1 41}带有狮子脸的车轮形阴影的一部分。\n讨伐：战斗之轮\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:216:0",
+  "message_id": "material_7D8",
+  "translation": "{F2 05 FF FF}{F1 41}支撑巨大车轮的极其坚固的车轴。\n讨伐：战斗之轮\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:217:0",
+  "message_id": "material_7D9",
+  "translation": "{F2 05 FF FF}{F1 41}清爽的青白色鬃毛。\n讨伐：战斗之轮\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:218:0",
+  "message_id": "material_7DA",
+  "translation": "{F2 05 FF FF}{F1 41}腹部是一张脸的阴影的一部分。\n讨伐：激愤之巨兵\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:219:0",
+  "message_id": "material_7DB",
+  "translation": "{F2 05 FF FF}{F1 41}仿佛能砸碎一切的巨大铁锤。\n讨伐：激愤之巨兵\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:221:0",
+  "message_id": "material_7DD",
+  "translation": "{F2 05 FF FF}{F1 41}金色身体的阴影的一部分。\n讨伐：全盛之手\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:239:0",
+  "message_id": "material_7EF",
+  "translation": "{F2 05 FF FF}{F1 41}从Ｆ．Ｏ．Ｅ身上得到的黑色兜裆布。\n不知本来就是黑色，还是被弄脏了。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:240:0",
+  "message_id": "material_7F0",
+  "translation": "{F2 05 FF FF}{F1 41}牛头人身的阴影的一部分。\n讨伐：牛头人一号\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:241:0",
+  "message_id": "material_7F1",
+  "translation": "{F2 05 FF FF}{F1 41}连接颈枷与手枷的锁链。\n讨伐：牛头人一号\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:242:0",
+  "message_id": "material_7F2",
+  "translation": "{F2 05 FF FF}{F1 41}被冰封的雄伟犄角。\n讨伐：牛头人一号\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:243:0",
+  "message_id": "material_7F3",
+  "translation": "{F2 05 FF FF}{F1 41}展开术符的阴影的一部分。\n讨伐：紫之法印\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:244:0",
+  "message_id": "material_7F4",
+  "translation": "{F2 05 FF FF}{F1 41}散发高贵气息的纯白披风。\n讨伐：紫之法印\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:245:0",
+  "message_id": "material_7F5",
+  "translation": "{F2 05 FF FF}{F1 41}辅助施展高深魔术的法杖。\n讨伐：紫之法印\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:246:0",
+  "message_id": "material_7F6",
+  "translation": "{F2 05 FF FF}{F1 41}形似山巅城堡的阴影的一部分。\n讨伐：帝王城堡\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:247:0",
+  "message_id": "material_7F7",
+  "translation": "{F2 05 FF FF}{F1 41}被破坏的城墙碎片。\n讨伐：帝王城堡\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:248:0",
+  "message_id": "material_7F8",
+  "translation": "{F2 05 FF FF}{F1 41}身体各处炮台的炮管部分。\n讨伐：帝王城堡\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:249:0",
+  "message_id": "material_7F9",
+  "translation": "{F2 05 FF FF}{F1 41}骑马骑士形阴影的一部分。\n讨伐：不屈之骑士\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:250:0",
+  "message_id": "material_7FA",
+  "translation": "{F2 05 FF FF}{F1 41}为驾驭马匹而制作的特制缰绳。\n讨伐：不屈之骑士\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:251:0",
+  "message_id": "material_7FB",
+  "translation": "{F2 05 FF FF}{F1 41}拥有贯穿坚硬铠甲威力的骑枪。\n讨伐：不屈之骑士\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:252:0",
+  "message_id": "material_7FC",
+  "translation": "{F2 05 FF FF}{F1 41}双臂为剑的阴影的一部分。\n讨伐：屠杀装置\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:253:0",
+  "message_id": "material_7FD",
+  "translation": "{F2 05 FF FF}{F1 41}带有３条黑色腿的车轮。\n讨伐：屠杀装置\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:254:0",
+  "message_id": "material_7FE",
+  "translation": "{F2 05 FF FF}{F1 41}阴影手臂部位的剑刃碎片。\n讨伐：屠杀装置\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:255:0",
+  "message_id": "material_7FF",
+  "translation": "{F2 05 FF FF}{F1 41}双臂为骑枪的阴影的一部分。\n讨伐：爆裂装置\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:256:0",
+  "message_id": "material_800",
+  "translation": "{F2 05 FF FF}{F1 41}带有３条白色腿的车轮。\n讨伐：爆裂装置\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:257:0",
+  "message_id": "material_801",
+  "translation": "{F2 05 FF FF}{F1 41}发出耀眼光芒的齿轮。\n讨伐：爆裂装置\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:258:0",
+  "message_id": "material_802",
+  "translation": "{F2 05 FF FF}{F1 41}拥有银色装甲的战车型阴影的一部分。\n讨伐：魔弹炮台\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:259:0",
+  "message_id": "material_803",
+  "translation": "{F2 05 FF FF}{F1 41}耐久力很高的炮塔。\n讨伐：魔弹炮台\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:260:0",
+  "message_id": "material_804",
+  "translation": "{F2 05 FF FF}{F1 41}受黑暗力量影响而漆黑的车轮。\n讨伐：魔弹炮台\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:261:0",
+  "message_id": "material_805",
+  "translation": "{F2 05 FF FF}{F1 41}骑着黑色木马的阴影的一部分。\n讨伐：力之百臂巨人\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:262:0",
+  "message_id": "material_806",
+  "translation": "{F2 05 FF FF}{F1 41}束缚６只手的枷锁。\n讨伐：力之百臂巨人\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:263:0",
+  "message_id": "material_807",
+  "translation": "{F2 05 FF FF}{F1 41}连接各个枷锁的锁链。\n讨伐：力之百臂巨人\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:264:0",
+  "message_id": "material_808",
+  "translation": "{F2 05 FF FF}{F1 41}骑着白色木马的阴影的一部分。\n讨伐：哀之百臂巨人\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:265:0",
+  "message_id": "material_809",
+  "translation": "{F2 05 FF FF}{F1 41}束缚６只手的枷锁。\n讨伐：哀之百臂巨人\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:267:0",
+  "message_id": "material_80B",
+  "translation": "{F2 05 FF FF}{F1 41}带有圆环的黑色骰子形阴影的一部分。\n讨伐：精神之骰\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:268:0",
+  "message_id": "material_80C",
+  "translation": "{F2 05 FF FF}{F1 41}连同圆环在内，几乎保持原形的块状物。\n讨伐：精神之骰\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:269:0",
+  "message_id": "material_80D",
+  "translation": "{F2 05 FF FF}{F1 41}烧得通红的骰子形阴影块。\n讨伐：精神之骰\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:270:0",
+  "message_id": "material_80E",
+  "translation": "{F2 05 FF FF}{F1 41}带有圆环的红色骰子形阴影的一部分。\n讨伐：诅咒之骰\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:271:0",
+  "message_id": "material_80F",
+  "translation": "{F2 05 FF FF}{F1 41}连同圆环在内，几乎保持原形的块状物。\n讨伐：诅咒之骰\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:273:0",
+  "message_id": "material_811",
+  "translation": "{F2 05 FF FF}{F1 41}拥有红色装甲的战车型阴影的一部分。\n讨伐：深红炮台\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:274:0",
+  "message_id": "material_812",
+  "translation": "{F2 05 FF FF}{F1 41}耐久力极高的炮塔。\n讨伐：深红炮台\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:276:0",
+  "message_id": "material_814",
+  "translation": "{F2 05 FF FF}{F1 41}携带剑与平衡器的阴影的一部分。\n讨伐：均衡之巨人\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:277:0",
+  "message_id": "material_815",
+  "translation": "{F2 05 FF FF}{F1 41}巨人持有的大剑碎片。\n讨伐：均衡之巨人\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:278:0",
+  "message_id": "material_816",
+  "translation": "{F2 05 FF FF}{F1 41}剑身开有大洞的巨人之剑。\n讨伐：均衡之巨人\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:279:0",
+  "message_id": "material_817",
+  "translation": "{F2 05 FF FF}{F1 41}金色身体的阴影的一部分。\n讨伐：荣华之手\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:298:0",
+  "message_id": "material_82A",
+  "translation": "{F2 05 FF FF}{F1 41}破损的扑克牌数字牌。\n讨伐：扑克牌士兵\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:301:0",
+  "message_id": "material_82D",
+  "translation": "{F2 05 FF FF}{F1 41}被油漆弄脏的扑克牌数字牌。\n讨伐：涂玫瑰的士兵\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:304:0",
+  "message_id": "material_830",
+  "translation": "{F2 05 FF FF}{F1 41}充满安宁的宝珠。\n讨伐：爱之天使\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:307:0",
+  "message_id": "material_833",
+  "translation": "{F2 05 FF FF}{F1 41}黏稠的污泥。\n讨伐：情欲之兽\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:310:0",
+  "message_id": "material_836",
+  "translation": "{F2 05 FF FF}{F1 41}装着淡淡回忆的宝珠。\n讨伐：恋之使者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:313:0",
+  "message_id": "material_839",
+  "translation": "{F2 05 FF FF}{F1 41}充满憧憬的宝珠。\n讨伐：浪漫活神仙\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:316:0",
+  "message_id": "material_83C",
+  "translation": "{F2 05 FF FF}{F1 41}脏兮兮的小奶嘴。\n讨伐：可爱的小宝宝\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:319:0",
+  "message_id": "material_83F",
+  "translation": "{F2 05 FF FF}{F1 41}人偶穿过的可爱和服。\n讨伐：可爱的人偶\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:322:0",
+  "message_id": "material_842",
+  "translation": "{F2 05 FF FF}{F1 41}人偶穿过的陈旧和服。\n讨伐：陈旧的人偶\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:325:0",
+  "message_id": "material_845",
+  "translation": "{F2 05 FF FF}{F1 41}带有清爽香气的待客酒。\n讨伐：小若众\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:328:0",
+  "message_id": "material_848",
+  "translation": "{F2 05 FF FF}{F1 41}带有馥郁香气的待客酒。\n讨伐：组头\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:331:0",
+  "message_id": "material_84B",
+  "translation": "{F2 05 FF FF}{F1 41}闪耀的男子汉结晶。\n讨伐：滴汗男\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:334:0",
+  "message_id": "material_84E",
+  "translation": "{F2 05 FF FF}{F1 41}仿佛能传递热气的面具。\n讨伐：祭典男\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:337:0",
+  "message_id": "material_851",
+  "translation": "{F2 05 FF FF}{F1 41}行事迅捷的男子汉生存之道。\n讨伐：快脚男\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:340:0",
+  "message_id": "material_854",
+  "translation": "{F2 05 FF FF}{F1 41}如今什么也没有映出的蜘蛛眼睛。\n讨伐：监视者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:343:0",
+  "message_id": "material_857",
+  "translation": "{F2 05 FF FF}{F1 41}蜘蛛吐出的黏性丝线。\n讨伐：捕获者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:346:0",
+  "message_id": "material_85A",
+  "translation": "{F2 05 FF FF}{F1 41}无人能够逃脱的、终结时间的信号。\n讨伐：收割者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:368:0",
+  "message_id": "material_870",
+  "translation": "{F2 05 FF FF}{F1 41}多处磨损的童话书。\n讨伐：红心女王\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:371:0",
+  "message_id": "material_873",
+  "translation": "{F2 05 FF FF}{F1 41}有被撕去书页痕迹的福音书。\n讨伐：慈悲的圣职者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:374:0",
+  "message_id": "material_876",
+  "translation": "{F2 05 FF FF}{F1 41}断成两截的老式体温计。\n讨伐：温柔的医生\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:377:0",
+  "message_id": "material_879",
+  "translation": "{F2 05 FF FF}{F1 41}缝线开绽的小马甲。\n讨伐：小伙伴\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:386:0",
+  "message_id": "material_882",
+  "translation": "{F2 05 FF FF}{F1 41}金光闪闪的独角仙形阴影的一部分。\n讨伐：金甲虫\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:389:0",
+  "message_id": "material_885",
+  "translation": "{F2 05 FF FF}{F1 41}金光闪闪的国王形阴影的一部分。\n讨伐：怨敌之王\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:392:0",
+  "message_id": "material_888",
+  "translation": "{F2 05 FF FF}{F1 41}金光闪闪的大脸阴影的一部分。\n讨伐：灵魂搜寻者\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:395:0",
+  "message_id": "material_88B",
+  "translation": "{F2 05 FF FF}{F1 41}金光闪闪、腹部为脸的阴影的一部分。\n讨伐：守护巨兵\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:512:0",
+  "message_id": "material_900",
+  "translation": "{F2 05 FF FF}{F1 41}十分粗长的\n八岐大蛇之尾。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:513:0",
+  "message_id": "material_901",
+  "translation": "{F2 05 FF FF}{F1 41}长在皮克希背上的\n小翅膀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:514:0",
+  "message_id": "material_902",
+  "translation": "{F2 05 FF FF}{F1 41}强度极高的\n巨大甲壳。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:515:0",
+  "message_id": "material_903",
+  "translation": "{F2 05 FF FF}{F1 41}像燃烧的火焰一样鲜红的羽毛。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:516:0",
+  "message_id": "material_904",
+  "translation": "{F2 05 FF FF}{F1 41}杰克灯笼持有的\n设计简洁的灯笼。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:517:0",
+  "message_id": "material_905",
+  "translation": "{F2 05 FF FF}{F1 41}精灵曾栖身的魔灯的一部分。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:518:0",
+  "message_id": "material_906",
+  "translation": "{F2 05 FF FF}{F1 41}尖锐的纯白爪子。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:519:0",
+  "message_id": "material_907",
+  "translation": "{F2 05 FF FF}{F1 41}将构成霜精之王身体的雪\n压成的雪球。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:520:0",
+  "message_id": "material_908",
+  "translation": "{F2 05 FF FF}{F1 41}女梦魔释放的\n能魅惑他人的信息素。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:521:0",
+  "message_id": "material_909",
+  "translation": "{F2 05 FF FF}{F1 41}长在奴延手脚上的爪子。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:522:0",
+  "message_id": "material_90A",
+  "translation": "{F2 05 FF FF}{F1 41}丝卡蒂爱用的弓的一部分。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:523:0",
+  "message_id": "material_90B",
+  "translation": "{F2 05 FF FF}{F1 41}斗牛士持有的\n十分锋利的刺剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:524:0",
+  "message_id": "material_90C",
+  "translation": "{F2 05 FF FF}{F1 41}染上海洋般深蓝色的鳞片。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:525:0",
+  "message_id": "material_90D",
+  "translation": "{F2 05 FF FF}{F1 41}光泽艳丽的漆黑长发。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:526:0",
+  "message_id": "material_90E",
+  "translation": "{F2 05 FF FF}{F1 41}鬼持有的铁棒的一部分。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:527:0",
+  "message_id": "material_90F",
+  "translation": "{F2 05 FF FF}{F1 41}为力量强大的宙斯量身打造的\n蓝色铠甲碎片。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:528:0",
+  "message_id": "material_910",
+  "translation": "{F2 05 FF FF}{F1 41}赛特身上尖爪的一部分。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:529:0",
+  "message_id": "material_911",
+  "translation": "{F2 05 FF FF}{F1 41}义经持有的刀的一部分。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:530:0",
+  "message_id": "material_912",
+  "translation": "{F2 05 FF FF}{F1 41}将门持有的刀的一部分。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:531:0",
+  "message_id": "material_913",
+  "translation": "{F2 05 FF FF}{F1 41}阿修罗王的神圣骨骸。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:532:0",
+  "message_id": "material_914",
+  "translation": "{F2 05 FF FF}{F1 41}毗湿奴持有的刀的一部分。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:533:0",
+  "message_id": "material_915",
+  "translation": "{F2 05 FF FF}{F1 41}齐天大圣诞生的灵岩。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:534:0",
+  "message_id": "material_916",
+  "translation": "{F2 05 FF FF}{F1 41}韦驮天所骑孔雀的羽毛。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:535:0",
+  "message_id": "material_917",
+  "translation": "{F2 05 FF FF}{F1 41}金固持有的石板的一部分。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:536:0",
+  "message_id": "material_918",
+  "translation": "{F2 05 FF FF}{F1 41}长在撒旦背上的\n巨大翅膀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:538:0",
+  "message_id": "material_91A",
+  "translation": "{F2 05 FF FF}{F1 41}长在梅塔特隆背上的\n纯洁美丽的翅膀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:539:0",
+  "message_id": "material_91B",
+  "translation": "{F2 05 FF FF}{F1 41}将湿婆的愤怒具现化的\n神秘能量体。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:540:0",
+  "message_id": "material_91C",
+  "translation": "{F2 05 FF FF}{F1 41}米迦勒持有的剑的一部分。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:541:0",
+  "message_id": "material_91D",
+  "translation": "{F2 05 FF FF}{F1 41}蚩尤持有的弓的一部分。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:542:0",
+  "message_id": "material_91E",
+  "translation": "{F2 05 FF FF}{F1 41}供奉阿利拉特的神圣黑石。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:543:0",
+  "message_id": "material_91F",
+  "translation": "{F2 05 FF FF}{F1 41}斯卡哈持有的魔枪的一部分。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:544:0",
+  "message_id": "material_920",
+  "translation": "{F2 05 FF FF}{F1 41}将洛基的苦难具现化的\n神秘能量体。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:545:0",
+  "message_id": "material_921",
+  "translation": "{F2 05 FF FF}{F1 41}别西卜持有的法杖碎片。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:654:0",
+  "message_id": "material_98E",
+  "translation": "{F2 05 FF FF}{F1 41}阴影掉落的身体的一部分。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:656:0",
+  "message_id": "material_990",
+  "translation": "{F2 05 FF FF}{F1 41}绘有松软蛋糕的插图碎片。\n采集：不可思议之国的你　第１章\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:657:0",
+  "message_id": "material_991",
+  "translation": "{F2 05 FF FF}{F1 41}绘有弹嫩蘑菇的插图碎片。\n采集：不可思议之国的你　第１章\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:658:0",
+  "message_id": "material_992",
+  "translation": "{F2 05 FF FF}{F1 41}绘有热腾腾馅饼的插图碎片。\n采集：不可思议之国的你　第１章\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:659:0",
+  "message_id": "material_993",
+  "translation": "{F2 05 FF FF}{F1 41}看不出像海龟的插图碎片。\n采集：不可思议之国的你　第２章\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:660:0",
+  "message_id": "material_994",
+  "translation": "{F2 05 FF FF}{F1 41}绘有幻想生物的插图碎片。\n采集：不可思议之国的你　第２章\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:661:0",
+  "message_id": "material_995",
+  "translation": "{F2 05 FF FF}{F1 41}绘有困倦老鼠的插图碎片。\n采集：不可思议之国的你　第２章\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:662:0",
+  "message_id": "material_996",
+  "translation": "{F2 05 FF FF}{F1 41}绘有戴礼帽男子的插图碎片。\n采集：不可思议之国的你　第３章\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:663:0",
+  "message_id": "material_997",
+  "translation": "{F2 05 FF FF}{F1 41}被胡椒烟雾笼罩得雪白的插图碎片。\n采集：不可思议之国的你　第３章\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:664:0",
+  "message_id": "material_998",
+  "translation": "{F2 05 FF FF}{F1 41}绘有尖下巴女子的插图碎片。\n采集：不可思议之国的你　第３章\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:668:0",
+  "message_id": "material_99C",
+  "translation": "{F2 05 FF FF}{F1 41}凋零得不成样子的白色古典玫瑰。\n采集：联谊咖啡厅　一次会\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:669:0",
+  "message_id": "material_99D",
+  "translation": "{F2 05 FF FF}{F1 41}凋零得不成样子的白色蝴蝶兰。\n采集：联谊咖啡厅　一次会\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:670:0",
+  "message_id": "material_99E",
+  "translation": "{F2 05 FF FF}{F1 41}凋零得不成样子的白色朱顶红。\n采集：联谊咖啡厅　一次会\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:671:0",
+  "message_id": "material_99F",
+  "translation": "{F2 05 FF FF}{F1 41}从中间断落的白色蜡烛。\n采集：联谊咖啡厅　二次会\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:672:0",
+  "message_id": "material_9A0",
+  "translation": "{F2 05 FF FF}{F1 41}扣环损坏的白色蕾丝项饰。\n采集：联谊咖啡厅　二次会\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:673:0",
+  "message_id": "material_9A1",
+  "translation": "{F2 05 FF FF}{F1 41}扣环损坏的珍珠项链。\n采集：联谊咖啡厅　二次会\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:674:0",
+  "message_id": "material_9A2",
+  "translation": "{F2 05 FF FF}{F1 41}裂成两半的珍珠冠。\n采集：联谊咖啡厅　三次会\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:675:0",
+  "message_id": "material_9A3",
+  "translation": "{F2 05 FF FF}{F1 41}裂成两半的珍珠耳环。\n采集：联谊咖啡厅　三次会\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:676:0",
+  "message_id": "material_9A4",
+  "translation": "{F2 05 FF FF}{F1 41}裂成两半的玻璃鞋。\n采集：联谊咖啡厅　三次会\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:677:0",
+  "message_id": "material_9A5",
+  "translation": "{F2 05 FF FF}{F1 41}从中间撕裂的长头纱。\n采集：联谊咖啡厅　四次会\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:678:0",
+  "message_id": "material_9A6",
+  "translation": "{F2 05 FF FF}{F1 41}从中间撕裂的白色披肩。\n采集：联谊咖啡厅　四次会\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:679:0",
+  "message_id": "material_9A7",
+  "translation": "{F2 05 FF FF}{F1 41}破损得惨不忍睹的纯白婚纱。\n采集：联谊咖啡厅　四次会\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:684:0",
+  "message_id": "material_9AC",
+  "translation": "{F2 05 FF FF}{F1 41}似乎是数学笔记本。\n采集：放学后的恶灵俱乐部第一怪\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:685:0",
+  "message_id": "material_9AD",
+  "translation": "{F2 05 FF FF}{F1 41}似乎是理科教科书。\n采集：放学后的恶灵俱乐部第一怪\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:686:0",
+  "message_id": "material_9AE",
+  "translation": "{F2 05 FF FF}{F1 41}似乎是社会科资料集。\n采集：放学后的恶灵俱乐部第一怪\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:687:0",
+  "message_id": "material_9AF",
+  "translation": "{F2 05 FF FF}{F1 41}被撕碎而无法辨认的课程表。\n采集：放学后的恶灵俱乐部第二怪\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:688:0",
+  "message_id": "material_9B0",
+  "translation": "{F2 05 FF FF}{F1 41}被撕碎而无法辨认的名牌。\n采集：放学后的恶灵俱乐部第二怪\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:689:0",
+  "message_id": "material_9B1",
+  "translation": "{F2 05 FF FF}{F1 41}被撕碎而无法辨认图案的校徽。\n采集：放学后的恶灵俱乐部第二怪\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:690:0",
+  "message_id": "material_9B2",
+  "translation": "{F2 05 FF FF}{F1 41}尖端生锈的粗注射针。\n采集：放学后的恶灵俱乐部第三怪\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:691:0",
+  "message_id": "material_9B3",
+  "translation": "{F2 05 FF FF}{F1 41}刀刃锈得厉害的手术刀。\n采集：放学后的恶灵俱乐部第三怪\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:692:0",
+  "message_id": "material_9B4",
+  "translation": "{F2 05 FF FF}{F1 41}尖端锈得厉害的镊子。\n采集：放学后的恶灵俱乐部第三怪\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:693:0",
+  "message_id": "material_9B5",
+  "translation": "{F2 05 FF FF}{F1 41}染成暗红色的绷带。\n采集：放学后的恶灵俱乐部第四怪\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:694:0",
+  "message_id": "material_9B6",
+  "translation": "{F2 05 FF FF}{F1 41}结成暗红色块状的纱布。\n采集：放学后的恶灵俱乐部第四怪\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:695:0",
+  "message_id": "material_9B7",
+  "translation": "{F2 05 FF FF}{F1 41}脏得无法辨认的某人的病历。\n采集：放学后的恶灵俱乐部第四怪\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:700:0",
+  "message_id": "material_9BC",
+  "translation": "{F2 05 FF FF}{F1 41}带有微苦香气的熏香。\n采集：稻羽乡土展　第一夜\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:701:0",
+  "message_id": "material_9BD",
+  "translation": "{F2 05 FF FF}{F1 41}带有甜美香气的熏香。\n采集：稻羽乡土展　第一夜\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:702:0",
+  "message_id": "material_9BE",
+  "translation": "{F2 05 FF FF}{F1 41}带有高雅香气的熏香。\n采集：稻羽乡土展　第一夜\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:703:0",
+  "message_id": "material_9BF",
+  "translation": "{F2 05 FF FF}{F1 41}标题写着２６０号的乐谱的一部分。\n采集：稻羽乡土展　第二夜\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:704:0",
+  "message_id": "material_9C0",
+  "translation": "{F2 05 FF FF}{F1 41}标题写着６５７号的乐谱的一部分。\n采集：稻羽乡土展　第二夜\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:705:0",
+  "message_id": "material_9C1",
+  "translation": "{F2 05 FF FF}{F1 41}标题写着５８１号的乐谱的一部分。\n采集：稻羽乡土展　第二夜\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:706:0",
+  "message_id": "material_9C2",
+  "translation": "{F2 05 FF FF}{F1 41}花朵硕大的白百合。\n采集：稻羽乡土展　第三夜\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:707:0",
+  "message_id": "material_9C3",
+  "translation": "{F2 05 FF FF}{F1 41}纯洁无瑕的康乃馨。\n采集：稻羽乡土展　第三夜\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:708:0",
+  "message_id": "material_9C4",
+  "translation": "{F2 05 FF FF}{F1 41}盛开得仿佛要满溢的白菊。\n采集：稻羽乡土展　第三夜\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:709:0",
+  "message_id": "material_9C5",
+  "translation": "{F2 05 FF FF}{F1 41}儿童用的纯白腰带。\n采集：稻羽乡土展　第四夜\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:710:0",
+  "message_id": "material_9C6",
+  "translation": "{F2 05 FF FF}{F1 41}纯白的细蜡烛。\n采集：稻羽乡土展　第四夜\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:711:0",
+  "message_id": "material_9C7",
+  "translation": "{F2 05 FF FF}{F1 41}白瓷壶的碎片。\n采集：稻羽乡土展　第四夜\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:716:0",
+  "message_id": "material_9CC",
+  "translation": "{F2 05 FF FF}{F1 41}浑浊得无法使用的水晶碎片。\n采集：钟塔　１层　２层\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:717:0",
+  "message_id": "material_9CD",
+  "translation": "{F2 05 FF FF}{F1 41}脏得无法使用的水晶碎片。\n采集：钟塔　２层　３层　４层\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:718:0",
+  "message_id": "material_9CE",
+  "translation": "{F2 05 FF FF}{F1 41}有裂纹而无法使用的水晶碎片。\n采集：钟塔　１层　２层　３层　４层\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:719:0",
+  "message_id": "material_9CF",
+  "translation": "{F2 05 FF FF}{F1 41}缺齿而无法使用的发条。\n采集：钟塔　４层　５层　６层\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:720:0",
+  "message_id": "material_9D0",
+  "translation": "{F2 05 FF FF}{F1 41}闪着银光的发条。\n采集：钟塔　５层　６层　７层\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:721:0",
+  "message_id": "material_9D1",
+  "translation": "{F2 05 FF FF}{F1 41}闪着金光的发条。\n采集：钟塔　４层　５层　６层　７层\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:722:0",
+  "message_id": "material_9D2",
+  "translation": "{F2 05 FF FF}{F1 41}像是钟摆，却不会摆动。\n采集：钟塔　７层　８层\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:723:0",
+  "message_id": "material_9D3",
+  "translation": "{F2 05 FF FF}{F1 41}像是钟表的音叉，却无法使用。\n采集：钟塔　８层\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:724:0",
+  "message_id": "material_9D4",
+  "translation": "{F2 05 FF FF}{F1 41}像是钟表的螺丝，却已被压坏。\n采集：钟塔　７层　８层\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:725:0",
+  "message_id": "material_9D5",
+  "translation": "{F2 05 FF FF}{F1 41}没有东西能与之啮合的小齿轮。\n采集：钟塔　９层\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:726:0",
+  "message_id": "material_9D6",
+  "translation": "{F2 05 FF FF}{F1 41}没有装分针的齿轮。\n采集：钟塔　９层\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:727:0",
+  "message_id": "material_9D7",
+  "translation": "{F2 05 FF FF}{F1 41}再也不会转动的大齿轮。\n采集：钟塔　９层\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:731:0",
+  "message_id": "material_9DB",
+  "translation": "{F2 05 FF FF}{F1 41}常用作救生索的绳索。\n采用高强度、耐腐蚀的天然素材。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:732:0",
+  "message_id": "material_9DC",
+  "translation": "{F2 05 FF FF}{F1 41}用来除去气体中杂质的瓶子。\n可以用来做化学实验。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:733:0",
+  "message_id": "material_9DD",
+  "translation": "{F2 05 FF FF}{F1 41}眼形醒目的神秘偶像。\n光是带着它似乎就能得到保佑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:734:0",
+  "message_id": "material_9DE",
+  "translation": "{F2 05 FF FF}{F1 41}耳形醒目的神秘偶像。\n光是带着它似乎就能得到庇护。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:735:0",
+  "message_id": "material_9DF",
+  "translation": "{F2 05 FF FF}{F1 41}嘴形醒目的神秘偶像。\n光是带着它似乎就能积累功德。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:736:0",
+  "message_id": "material_9E0",
+  "translation": "{F2 05 FF FF}{F1 41}用于分析阴影身体组织的工具\n所需的特殊镜片零件。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:737:0",
+  "message_id": "material_9E1",
+  "translation": "{F2 05 FF FF}{F1 41}用来制作特殊笛子的竹子。\n具有吸引魔物的力量。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:738:0",
+  "message_id": "material_9E2",
+  "translation": "{F2 05 FF FF}{F1 41}用来制作特殊铃铛的银锡。\n具有驱魔的力量。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:739:0",
+  "message_id": "material_9E3",
+  "translation": "{F2 05 FF FF}{F1 41}黑白两色的勾玉。\n被当成肉体和精神的容器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:740:0",
+  "message_id": "material_9E4",
+  "translation": "{F2 05 FF FF}{F1 41}据说会将映入其中之物的性质\n反转后映出的镜子。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:752:0",
+  "message_id": "material_9F0",
+  "translation": "{F2 05 FF FF}{F1 41}据说没有其他素材的硬度能超过它。\n{00}"
+ },
+ {
+  "key": "export_base/init/datmaterialhelp.bmd.json:753:0",
+  "message_id": "material_9F1",
+  "translation": "{F2 05 FF FF}{F1 41}在各个迷宫中找到的物品：白玫瑰、\n心形标记、注射器、绞纹头巾。\n{00}"
+ }
+]

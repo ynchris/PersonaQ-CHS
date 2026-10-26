@@ -1,0 +1,57 @@
+[
+ {
+  "key": "export_base/battle/event/boss720.bf.json:0:0",
+  "message_id": "MSG_BTL_BOSS_001_ENCOUNT",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 3F 10}“不羁”的竞演开始了呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss720.bf.json:1:0",
+  "message_id": "MSG_BTL_BOSS_001_ENCOUNT",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 40 10}美妙的和声之后，\n等待着我们的会是什么呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss720.bf.json:2:0",
+  "message_id": "MSG_BTL_BOSS_001_ENCOUNT",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 41 10}来吧，奏响乐章！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss720.bf.json:4:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_75_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 42 10}呵呵，真美妙。\n仿佛连身体深处都沸腾起来了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss720.bf.json:5:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_75_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 43 10}来吧，再多一些，更多！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss720.bf.json:6:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_50_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 44 10}啊……\n这份充实感究竟是什么呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss720.bf.json:7:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_50_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 45 10}但是，再美妙的和声，\n反复演奏也会落入俗套……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss720.bf.json:8:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_50_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 46 10}看来该变调了……\n努力撑住吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss720.bf.json:9:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_25_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 47 10}如果我的假设正确，\n差不多也该到时候了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss720.bf.json:10:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_25_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 48 10}来，让我看看吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss720.bf.json:11:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_25_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 49 10}和声的彼端……\n你们的可能性！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

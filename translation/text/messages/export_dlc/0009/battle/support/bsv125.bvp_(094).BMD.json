@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(094).BMD.json:0:0",
+  "message_id": "BTL_MES_H105_095_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 AF 02}人格面具！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(094).BMD.json:1:0",
+  "message_id": "BTL_MES_H105_095_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B0 02}要上啦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(094).BMD.json:2:0",
+  "message_id": "BTL_MES_H105_095_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B1 02}上吧！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(094).BMD.json:3:0",
+  "message_id": "BTL_MES_H105_095_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B2 02}我也能！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(094).BMD.json:4:0",
+  "message_id": "BTL_MES_H105_095_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B3 02}接招！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(094).BMD.json:5:0",
+  "message_id": "BTL_MES_H105_095_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B4 02}预备——！\n{F2 26 00 00}{00}"
+ }
+]

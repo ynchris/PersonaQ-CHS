@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(052).BMD.json:0:0",
+  "message_id": "BTL_MES_H123_053_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6D 02}埃癸斯大人，狂欢模式发动中。\n真是可靠至极。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(052).BMD.json:1:0",
+  "message_id": "BTL_MES_H123_053_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6E 02}埃癸斯大人的狂欢模式仍在持续。\n期待您的表现。\n{F2 26 00 00}{00}"
+ }
+]

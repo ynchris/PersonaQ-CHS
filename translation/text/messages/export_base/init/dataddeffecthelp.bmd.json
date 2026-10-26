@@ -1,0 +1,987 @@
+[
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:0:0",
+  "message_id": "addeffect_000",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:1:0",
+  "message_id": "addeffect_001",
+  "translation": "{F2 05 FF FF}{F1 41}力＋１\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:2:0",
+  "message_id": "addeffect_002",
+  "translation": "{F2 05 FF FF}{F1 41}力＋２\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:3:0",
+  "message_id": "addeffect_003",
+  "translation": "{F2 05 FF FF}{F1 41}力＋３\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:4:0",
+  "message_id": "addeffect_004",
+  "translation": "{F2 05 FF FF}{F1 41}力＋４\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:5:0",
+  "message_id": "addeffect_005",
+  "translation": "{F2 05 FF FF}{F1 41}力＋５\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:6:0",
+  "message_id": "addeffect_006",
+  "translation": "{F2 05 FF FF}{F1 41}耐＋１\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:7:0",
+  "message_id": "addeffect_007",
+  "translation": "{F2 05 FF FF}{F1 41}耐＋２\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:8:0",
+  "message_id": "addeffect_008",
+  "translation": "{F2 05 FF FF}{F1 41}耐＋３\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:9:0",
+  "message_id": "addeffect_009",
+  "translation": "{F2 05 FF FF}{F1 41}耐＋４\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:10:0",
+  "message_id": "addeffect_010",
+  "translation": "{F2 05 FF FF}{F1 41}耐＋５\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:11:0",
+  "message_id": "addeffect_011",
+  "translation": "{F2 05 FF FF}{F1 41}魔＋１\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:12:0",
+  "message_id": "addeffect_012",
+  "translation": "{F2 05 FF FF}{F1 41}魔＋２\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:13:0",
+  "message_id": "addeffect_013",
+  "translation": "{F2 05 FF FF}{F1 41}魔＋３\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:14:0",
+  "message_id": "addeffect_014",
+  "translation": "{F2 05 FF FF}{F1 41}魔＋４\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:15:0",
+  "message_id": "addeffect_015",
+  "translation": "{F2 05 FF FF}{F1 41}魔＋５\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:16:0",
+  "message_id": "addeffect_016",
+  "translation": "{F2 05 FF FF}{F1 41}速＋１\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:17:0",
+  "message_id": "addeffect_017",
+  "translation": "{F2 05 FF FF}{F1 41}速＋２\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:18:0",
+  "message_id": "addeffect_018",
+  "translation": "{F2 05 FF FF}{F1 41}速＋３\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:19:0",
+  "message_id": "addeffect_019",
+  "translation": "{F2 05 FF FF}{F1 41}速＋４\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:20:0",
+  "message_id": "addeffect_020",
+  "translation": "{F2 05 FF FF}{F1 41}速＋５\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:21:0",
+  "message_id": "addeffect_021",
+  "translation": "{F2 05 FF FF}{F1 41}运＋１\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:22:0",
+  "message_id": "addeffect_022",
+  "translation": "{F2 05 FF FF}{F1 41}运＋２\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:23:0",
+  "message_id": "addeffect_023",
+  "translation": "{F2 05 FF FF}{F1 41}运＋３\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:24:0",
+  "message_id": "addeffect_024",
+  "translation": "{F2 05 FF FF}{F1 41}运＋４\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:25:0",
+  "message_id": "addeffect_025",
+  "translation": "{F2 05 FF FF}{F1 41}运＋５\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:26:0",
+  "message_id": "addeffect_026",
+  "translation": "{F2 05 FF FF}{F1 41}ＨＰ＋１０\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:27:0",
+  "message_id": "addeffect_027",
+  "translation": "{F2 05 FF FF}{F1 41}ＨＰ＋２０\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:28:0",
+  "message_id": "addeffect_028",
+  "translation": "{F2 05 FF FF}{F1 41}ＨＰ＋３０\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:29:0",
+  "message_id": "addeffect_029",
+  "translation": "{F2 05 FF FF}{F1 41}ＨＰ＋４０\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:30:0",
+  "message_id": "addeffect_030",
+  "translation": "{F2 05 FF FF}{F1 41}ＨＰ＋５０\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:31:0",
+  "message_id": "addeffect_031",
+  "translation": "{F2 05 FF FF}{F1 41}ＳＰ＋１０\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:32:0",
+  "message_id": "addeffect_032",
+  "translation": "{F2 05 FF FF}{F1 41}ＳＰ＋２０\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:33:0",
+  "message_id": "addeffect_033",
+  "translation": "{F2 05 FF FF}{F1 41}ＳＰ＋３０\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:34:0",
+  "message_id": "addeffect_034",
+  "translation": "{F2 05 FF FF}{F1 41}ＳＰ＋４０\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:35:0",
+  "message_id": "addeffect_035",
+  "translation": "{F2 05 FF FF}{F1 41}ＳＰ＋５０\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:36:0",
+  "message_id": "addeffect_036",
+  "translation": "{F2 05 FF FF}{F1 41}偶尔附加混乱\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:37:0",
+  "message_id": "addeffect_037",
+  "translation": "{F2 05 FF FF}{F1 41}有时附加混乱\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:38:0",
+  "message_id": "addeffect_038",
+  "translation": "{F2 05 FF FF}{F1 41}频繁附加混乱\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:39:0",
+  "message_id": "addeffect_039",
+  "translation": "{F2 05 FF FF}{F1 41}偶尔附加中毒\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:40:0",
+  "message_id": "addeffect_040",
+  "translation": "{F2 05 FF FF}{F1 41}有时附加中毒\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:41:0",
+  "message_id": "addeffect_041",
+  "translation": "{F2 05 FF FF}{F1 41}频繁附加中毒\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:42:0",
+  "message_id": "addeffect_042",
+  "translation": "{F2 05 FF FF}{F1 41}偶尔附加恐惧\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:43:0",
+  "message_id": "addeffect_043",
+  "translation": "{F2 05 FF FF}{F1 41}有时附加恐惧\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:44:0",
+  "message_id": "addeffect_044",
+  "translation": "{F2 05 FF FF}{F1 41}频繁附加恐惧\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:45:0",
+  "message_id": "addeffect_045",
+  "translation": "{F2 05 FF FF}{F1 41}偶尔附加激怒\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:46:0",
+  "message_id": "addeffect_046",
+  "translation": "{F2 05 FF FF}{F1 41}有时附加激怒\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:47:0",
+  "message_id": "addeffect_047",
+  "translation": "{F2 05 FF FF}{F1 41}频繁附加激怒\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:48:0",
+  "message_id": "addeffect_048",
+  "translation": "{F2 05 FF FF}{F1 41}偶尔附加昏厥\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:49:0",
+  "message_id": "addeffect_049",
+  "translation": "{F2 05 FF FF}{F1 41}有时附加昏厥\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:50:0",
+  "message_id": "addeffect_050",
+  "translation": "{F2 05 FF FF}{F1 41}频繁附加昏厥\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:51:0",
+  "message_id": "addeffect_051",
+  "translation": "{F2 05 FF FF}{F1 41}偶尔附加衰弱\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:52:0",
+  "message_id": "addeffect_052",
+  "translation": "{F2 05 FF FF}{F1 41}有时附加衰弱\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:53:0",
+  "message_id": "addeffect_053",
+  "translation": "{F2 05 FF FF}{F1 41}频繁附加衰弱\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:54:0",
+  "message_id": "addeffect_054",
+  "translation": "{F2 05 FF FF}{F1 41}偶尔附加老化\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:55:0",
+  "message_id": "addeffect_055",
+  "translation": "{F2 05 FF FF}{F1 41}有时附加老化\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:56:0",
+  "message_id": "addeffect_056",
+  "translation": "{F2 05 FF FF}{F1 41}频繁附加老化\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:57:0",
+  "message_id": "addeffect_057",
+  "translation": "{F2 05 FF FF}{F1 41}偶尔附加魔封\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:58:0",
+  "message_id": "addeffect_058",
+  "translation": "{F2 05 FF FF}{F1 41}有时附加魔封\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:59:0",
+  "message_id": "addeffect_059",
+  "translation": "{F2 05 FF FF}{F1 41}频繁附加魔封\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:60:0",
+  "message_id": "addeffect_060",
+  "translation": "{F2 05 FF FF}{F1 41}暴击率小幅提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:61:0",
+  "message_id": "addeffect_061",
+  "translation": "{F2 05 FF FF}{F1 41}暴击率中幅提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:62:0",
+  "message_id": "addeffect_062",
+  "translation": "{F2 05 FF FF}{F1 41}暴击率大幅提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:63:0",
+  "message_id": "addeffect_063",
+  "translation": "{F2 05 FF FF}{F1 41}全能力＋１\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:64:0",
+  "message_id": "addeffect_064",
+  "translation": "{F2 05 FF FF}{F1 41}全能力＋２\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:65:0",
+  "message_id": "addeffect_065",
+  "translation": "{F2 05 FF FF}{F1 41}全能力＋３\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:66:0",
+  "message_id": "addeffect_066",
+  "translation": "{F2 05 FF FF}{F1 41}全能力＋４\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:67:0",
+  "message_id": "addeffect_067",
+  "translation": "{F2 05 FF FF}{F1 41}全能力＋５\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:68:0",
+  "message_id": "addeffect_068",
+  "translation": "{F2 05 FF FF}{F1 41}火炎攻击力提升２５％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:69:0",
+  "message_id": "addeffect_069",
+  "translation": "{F2 05 FF FF}{F1 41}冰冻攻击力提升２５％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:70:0",
+  "message_id": "addeffect_070",
+  "translation": "{F2 05 FF FF}{F1 41}电击攻击力提升２５％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:71:0",
+  "message_id": "addeffect_071",
+  "translation": "{F2 05 FF FF}{F1 41}疾风攻击力提升２５％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:72:0",
+  "message_id": "addeffect_072",
+  "translation": "{F2 05 FF FF}{F1 41}偶尔反射物理攻击\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:73:0",
+  "message_id": "addeffect_073",
+  "translation": "{F2 05 FF FF}{F1 41}有时反射物理攻击\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:74:0",
+  "message_id": "addeffect_074",
+  "translation": "{F2 05 FF FF}{F1 41}频繁反射物理攻击\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:75:0",
+  "message_id": "addeffect_075",
+  "translation": "{F2 05 FF FF}{F1 41}混乱抗性\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:76:0",
+  "message_id": "addeffect_076",
+  "translation": "{F2 05 FF FF}{F1 41}中毒抗性\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:77:0",
+  "message_id": "addeffect_077",
+  "translation": "{F2 05 FF FF}{F1 41}恐惧抗性\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:78:0",
+  "message_id": "addeffect_078",
+  "translation": "{F2 05 FF FF}{F1 41}激怒抗性\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:79:0",
+  "message_id": "addeffect_079",
+  "translation": "{F2 05 FF FF}{F1 41}昏厥抗性\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:80:0",
+  "message_id": "addeffect_080",
+  "translation": "{F2 05 FF FF}{F1 41}衰弱抗性\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:81:0",
+  "message_id": "addeffect_081",
+  "translation": "{F2 05 FF FF}{F1 41}老化抗性\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:82:0",
+  "message_id": "addeffect_082",
+  "translation": "{F2 05 FF FF}{F1 41}魔封抗性\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:83:0",
+  "message_id": "addeffect_083",
+  "translation": "{F2 05 FF FF}{F1 41}战斗开始时塔尔卡加\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:84:0",
+  "message_id": "addeffect_084",
+  "translation": "{F2 05 FF FF}{F1 41}战斗开始时拉库卡加\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:85:0",
+  "message_id": "addeffect_085",
+  "translation": "{F2 05 FF FF}{F1 41}战斗开始时斯库卡加\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:86:0",
+  "message_id": "addeffect_086",
+  "translation": "{F2 05 FF FF}{F1 41}力＋１０\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:87:0",
+  "message_id": "addeffect_087",
+  "translation": "{F2 05 FF FF}{F1 41}耐＋１０\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:88:0",
+  "message_id": "addeffect_088",
+  "translation": "{F2 05 FF FF}{F1 41}魔＋１０\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:89:0",
+  "message_id": "addeffect_089",
+  "translation": "{F2 05 FF FF}{F1 41}速＋１０\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:90:0",
+  "message_id": "addeffect_090",
+  "translation": "{F2 05 FF FF}{F1 41}运＋１０\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:91:0",
+  "message_id": "addeffect_091",
+  "translation": "{F2 05 FF FF}{F1 41}ＨＰ＋１００\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:92:0",
+  "message_id": "addeffect_092",
+  "translation": "{F2 05 FF FF}{F1 41}偶尔附加全异常效果\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:93:0",
+  "message_id": "addeffect_093",
+  "translation": "{F2 05 FF FF}{F1 41}有时附加全异常效果\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:94:0",
+  "message_id": "addeffect_094",
+  "translation": "{F2 05 FF FF}{F1 41}频繁附加全异常效果\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:95:0",
+  "message_id": "addeffect_095",
+  "translation": "{F2 05 FF FF}{F1 41}物理伤害减少１０％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:96:0",
+  "message_id": "addeffect_096",
+  "translation": "{F2 05 FF FF}{F1 41}物理伤害减少２０％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:97:0",
+  "message_id": "addeffect_097",
+  "translation": "{F2 05 FF FF}{F1 41}物理伤害减少３０％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:98:0",
+  "message_id": "addeffect_098",
+  "translation": "{F2 05 FF FF}{F1 41}火炎伤害减少１０％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:99:0",
+  "message_id": "addeffect_099",
+  "translation": "{F2 05 FF FF}{F1 41}火炎伤害减少２０％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:100:0",
+  "message_id": "addeffect_100",
+  "translation": "{F2 05 FF FF}{F1 41}火炎伤害减少３０％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:101:0",
+  "message_id": "addeffect_101",
+  "translation": "{F2 05 FF FF}{F1 41}冰冻伤害减少１０％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:102:0",
+  "message_id": "addeffect_102",
+  "translation": "{F2 05 FF FF}{F1 41}冰冻伤害减少２０％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:103:0",
+  "message_id": "addeffect_103",
+  "translation": "{F2 05 FF FF}{F1 41}冰冻伤害减少３０％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:104:0",
+  "message_id": "addeffect_104",
+  "translation": "{F2 05 FF FF}{F1 41}疾风伤害减少１０％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:105:0",
+  "message_id": "addeffect_105",
+  "translation": "{F2 05 FF FF}{F1 41}疾风伤害减少２０％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:106:0",
+  "message_id": "addeffect_106",
+  "translation": "{F2 05 FF FF}{F1 41}疾风伤害减少３０％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:107:0",
+  "message_id": "addeffect_107",
+  "translation": "{F2 05 FF FF}{F1 41}电击伤害减少１０％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:108:0",
+  "message_id": "addeffect_108",
+  "translation": "{F2 05 FF FF}{F1 41}电击伤害减少２０％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:109:0",
+  "message_id": "addeffect_109",
+  "translation": "{F2 05 FF FF}{F1 41}电击伤害减少３０％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:110:0",
+  "message_id": "addeffect_110",
+  "translation": "{F2 05 FF FF}{F1 41}魔法伤害减少１０％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:111:0",
+  "message_id": "addeffect_111",
+  "translation": "{F2 05 FF FF}{F1 41}魔法伤害减少２０％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:112:0",
+  "message_id": "addeffect_112",
+  "translation": "{F2 05 FF FF}{F1 41}魔法伤害减少３０％\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:113:0",
+  "message_id": "addeffect_113",
+  "translation": "{F2 05 FF FF}{F1 41}滑倒率降低\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:114:0",
+  "message_id": "addeffect_114",
+  "translation": "{F2 05 FF FF}{F1 41}滑倒率略降\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:115:0",
+  "message_id": "addeffect_115",
+  "translation": "{F2 05 FF FF}{F1 41}滑倒率大幅降低\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:116:0",
+  "message_id": "addeffect_116",
+  "translation": "{F2 05 FF FF}{F1 41}物理闪避提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:117:0",
+  "message_id": "addeffect_117",
+  "translation": "{F2 05 FF FF}{F1 41}物理闪避略微提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:118:0",
+  "message_id": "addeffect_118",
+  "translation": "{F2 05 FF FF}{F1 41}物理闪避大幅提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:119:0",
+  "message_id": "addeffect_119",
+  "translation": "{F2 05 FF FF}{F1 41}火炎闪避提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:120:0",
+  "message_id": "addeffect_120",
+  "translation": "{F2 05 FF FF}{F1 41}火炎闪避略微提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:121:0",
+  "message_id": "addeffect_121",
+  "translation": "{F2 05 FF FF}{F1 41}火炎闪避大幅提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:122:0",
+  "message_id": "addeffect_122",
+  "translation": "{F2 05 FF FF}{F1 41}冰冻闪避提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:123:0",
+  "message_id": "addeffect_123",
+  "translation": "{F2 05 FF FF}{F1 41}冰冻闪避略微提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:124:0",
+  "message_id": "addeffect_124",
+  "translation": "{F2 05 FF FF}{F1 41}冰冻闪避大幅提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:125:0",
+  "message_id": "addeffect_125",
+  "translation": "{F2 05 FF FF}{F1 41}疾风闪避提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:126:0",
+  "message_id": "addeffect_126",
+  "translation": "{F2 05 FF FF}{F1 41}疾风闪避略微提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:127:0",
+  "message_id": "addeffect_127",
+  "translation": "{F2 05 FF FF}{F1 41}疾风闪避大幅提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:128:0",
+  "message_id": "addeffect_128",
+  "translation": "{F2 05 FF FF}{F1 41}电击闪避提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:129:0",
+  "message_id": "addeffect_129",
+  "translation": "{F2 05 FF FF}{F1 41}电击闪避略微提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:130:0",
+  "message_id": "addeffect_130",
+  "translation": "{F2 05 FF FF}{F1 41}电击闪避大幅提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:131:0",
+  "message_id": "addeffect_131",
+  "translation": "{F2 05 FF FF}{F1 41}魔法闪避提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:132:0",
+  "message_id": "addeffect_132",
+  "translation": "{F2 05 FF FF}{F1 41}魔法闪避略微提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:133:0",
+  "message_id": "addeffect_133",
+  "translation": "{F2 05 FF FF}{F1 41}魔法闪避大幅提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:134:0",
+  "message_id": "addeffect_134",
+  "translation": "{F2 05 FF FF}{F1 41}经验值１．５倍\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:135:0",
+  "message_id": "addeffect_135",
+  "translation": "{F2 05 FF FF}{F1 41}战斗结束时ＳＰ减半\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:136:0",
+  "message_id": "addeffect_136",
+  "translation": "{F2 05 FF FF}{F1 41}领袖魅力\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:137:0",
+  "message_id": "addeffect_137",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:138:0",
+  "message_id": "addeffect_138",
+  "translation": "{F2 05 FF FF}{F1 41}ＳＰ＋１００\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:139:0",
+  "message_id": "addeffect_139",
+  "translation": "{F2 05 FF FF}{F1 41}全能力＋１０\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:140:0",
+  "message_id": "addeffect_140",
+  "translation": "{F2 05 FF FF}{F1 41}ＳＰ消耗３倍\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:141:0",
+  "message_id": "addeffect_141",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:142:0",
+  "message_id": "addeffect_142",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:143:0",
+  "message_id": "addeffect_143",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:144:0",
+  "message_id": "addeffect_144",
+  "translation": "{F2 05 FF FF}{F1 41}火炎抗性\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:145:0",
+  "message_id": "addeffect_145",
+  "translation": "{F2 05 FF FF}{F1 41}冰冻抗性\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:146:0",
+  "message_id": "addeffect_146",
+  "translation": "{F2 05 FF FF}{F1 41}疾风抗性\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:147:0",
+  "message_id": "addeffect_147",
+  "translation": "{F2 05 FF FF}{F1 41}电击抗性\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:148:0",
+  "message_id": "addeffect_148",
+  "translation": "{F2 05 FF FF}{F1 41}火炎反射\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:149:0",
+  "message_id": "addeffect_149",
+  "translation": "{F2 05 FF FF}{F1 41}冰冻反射\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:150:0",
+  "message_id": "addeffect_150",
+  "translation": "{F2 05 FF FF}{F1 41}疾风反射\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:151:0",
+  "message_id": "addeffect_151",
+  "translation": "{F2 05 FF FF}{F1 41}电击反射\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:152:0",
+  "message_id": "addeffect_152",
+  "translation": "{F2 05 FF FF}{F1 41}火炎吸收\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:153:0",
+  "message_id": "addeffect_153",
+  "translation": "{F2 05 FF FF}{F1 41}冰冻吸收\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:154:0",
+  "message_id": "addeffect_154",
+  "translation": "{F2 05 FF FF}{F1 41}疾风吸收\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:155:0",
+  "message_id": "addeffect_155",
+  "translation": "{F2 05 FF FF}{F1 41}电击吸收\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:156:0",
+  "message_id": "addeffect_156",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:157:0",
+  "message_id": "addeffect_157",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:158:0",
+  "message_id": "addeffect_158",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:159:0",
+  "message_id": "addeffect_159",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:160:0",
+  "message_id": "addeffect_160",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:161:0",
+  "message_id": "addeffect_161",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:162:0",
+  "message_id": "addeffect_162",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:163:0",
+  "message_id": "addeffect_163",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:164:0",
+  "message_id": "addeffect_164",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:165:0",
+  "message_id": "addeffect_165",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:166:0",
+  "message_id": "addeffect_166",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:167:0",
+  "message_id": "addeffect_167",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:168:0",
+  "message_id": "addeffect_168",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:169:0",
+  "message_id": "addeffect_169",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:170:0",
+  "message_id": "addeffect_170",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:171:0",
+  "message_id": "addeffect_171",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:172:0",
+  "message_id": "addeffect_172",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:173:0",
+  "message_id": "addeffect_173",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:174:0",
+  "message_id": "addeffect_174",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:175:0",
+  "message_id": "addeffect_175",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:176:0",
+  "message_id": "addeffect_176",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:177:0",
+  "message_id": "addeffect_177",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:178:0",
+  "message_id": "addeffect_178",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:179:0",
+  "message_id": "addeffect_179",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:180:0",
+  "message_id": "addeffect_180",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:181:0",
+  "message_id": "addeffect_181",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:182:0",
+  "message_id": "addeffect_182",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:183:0",
+  "message_id": "addeffect_183",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:184:0",
+  "message_id": "addeffect_184",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:185:0",
+  "message_id": "addeffect_185",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:186:0",
+  "message_id": "addeffect_186",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:187:0",
+  "message_id": "addeffect_187",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:188:0",
+  "message_id": "addeffect_188",
+  "translation": "{F2 05 FF FF}{F1 41}无\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:189:0",
+  "message_id": "addeffect_189",
+  "translation": "{F2 05 FF FF}{F1 41}火炎属性攻击力提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:190:0",
+  "message_id": "addeffect_190",
+  "translation": "{F2 05 FF FF}{F1 41}冰冻属性攻击力提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:191:0",
+  "message_id": "addeffect_191",
+  "translation": "{F2 05 FF FF}{F1 41}疾风属性攻击力提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:192:0",
+  "message_id": "addeffect_192",
+  "translation": "{F2 05 FF FF}{F1 41}电击属性攻击力提升\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:193:0",
+  "message_id": "addeffect_193",
+  "translation": "{F2 05 FF FF}{F1 41}火炎属性伤害减少\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:194:0",
+  "message_id": "addeffect_194",
+  "translation": "{F2 05 FF FF}{F1 41}冰冻属性伤害减少\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:195:0",
+  "message_id": "addeffect_195",
+  "translation": "{F2 05 FF FF}{F1 41}疾风属性伤害减少\n{00}"
+ },
+ {
+  "key": "export_base/init/dataddeffecthelp.bmd.json:196:0",
+  "message_id": "addeffect_196",
+  "translation": "{F2 05 FF FF}{F1 41}电击属性伤害减少\n{00}"
+ }
+]

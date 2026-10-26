@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_base/init/gsobserver.bin_mission_05.gsd_mission_05.bf.json:4:0",
+  "message_id": "MSG_DEBUG_SKIP",
+  "translation": "{F2 05 FF FF}{F1 41}要跳过首领战吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/gsobserver.bin_mission_05.gsd_mission_05.bf.json:5:0",
+  "message_id": "SEL_DEBUG_SKIP",
+  "translation": "{F2 05 FF FF}{F1 41}跳过{00}"
+ },
+ {
+  "key": "export_base/init/gsobserver.bin_mission_05.gsd_mission_05.bf.json:5:1",
+  "message_id": "SEL_DEBUG_SKIP",
+  "translation": "{F2 05 FF FF}{F1 41}不跳过{00}{00}"
+ },
+ {
+  "key": "export_base/init/gsobserver.bin_mission_05.gsd_mission_05.bf.json:6:0",
+  "message_id": "MSG_DEBUG_SKIP_ON",
+  "translation": "{F2 05 FF FF}{F1 41}将跳过首领战，返回城镇。\n{F1 21}{00}"
+ }
+]

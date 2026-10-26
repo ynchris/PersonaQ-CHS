@@ -1,0 +1,2037 @@
+[
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:1:0",
+  "message_id": "weapon_001",
+  "translation": "{F2 05 FF FF}{F1 41}在大减价时\n廉价出售的球杆。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:2:0",
+  "message_id": "weapon_002",
+  "translation": "{F2 05 FF FF}{F1 41}只有形状像刀的棍子。\n连光泽都显得廉价。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:3:0",
+  "message_id": "weapon_003",
+  "translation": "{F2 05 FF FF}{F1 41}为便于挥动而打造的\n轻巧日本刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:4:0",
+  "message_id": "weapon_004",
+  "translation": "{F2 05 FF FF}{F1 41}重量适中，\n易于使用的双手剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:5:0",
+  "message_id": "weapon_005",
+  "translation": "{F2 05 FF FF}{F1 41}用双手挥舞的长柄剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:6:0",
+  "message_id": "weapon_006",
+  "translation": "{F2 05 FF FF}{F1 41}为融入黑暗而做了消光处理的\n暗杀用剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:7:0",
+  "message_id": "weapon_007",
+  "translation": "{F2 05 FF FF}{F1 41}士官及军官携带的\n兼具实用与美观的军刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:8:0",
+  "message_id": "weapon_008",
+  "translation": "{F2 05 FF FF}{F1 41}刀刃粗厚、十分沉重的刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:9:0",
+  "message_id": "weapon_009",
+  "translation": "{F2 05 FF FF}{F1 41}为借重量砸碎敌人而打造，\n难以驾驭的大剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:10:0",
+  "message_id": "weapon_00A",
+  "translation": "{F2 05 FF FF}{F1 41}闪耀妖异光芒，迷惑主人的魔剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:11:0",
+  "message_id": "weapon_00B",
+  "translation": "{F2 05 FF FF}{F1 41}名字意为“坚硬闪电”的魔剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:13:0",
+  "message_id": "weapon_00D",
+  "translation": "{F2 05 FF FF}{F1 41}没有突出特点的西洋剑。\n正因款式基础，才易于使用。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:14:0",
+  "message_id": "weapon_00E",
+  "translation": "{F2 05 FF FF}{F1 41}传说连无形之物也能击碎的魔剑。\n却无人知晓其来历…\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:15:0",
+  "message_id": "weapon_00F",
+  "translation": "{F2 05 FF FF}{F1 41}略显沉重的长大双手剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:16:0",
+  "message_id": "weapon_010",
+  "translation": "{F2 05 FF FF}{F1 41}握柄比通常更长，\n易于使用的双手剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:17:0",
+  "message_id": "weapon_011",
+  "translation": "{F2 05 FF FF}{F1 41}不考虑实用性，\n专为贵族打造的装饰剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:18:0",
+  "message_id": "weapon_012",
+  "translation": "{F2 05 FF FF}{F1 41}剑刃巨大如铁块的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:19:0",
+  "message_id": "weapon_013",
+  "translation": "{F2 05 FF FF}{F1 41}锋利得令人难以相信\n竟是西洋剑的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:20:0",
+  "message_id": "weapon_014",
+  "translation": "{F2 05 FF FF}{F1 41}浮现新月刃纹的名刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:21:0",
+  "message_id": "weapon_015",
+  "translation": "{F2 05 FF FF}{F1 41}刀身妖异，\n能够蛊惑人心的日本刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:22:0",
+  "message_id": "weapon_016",
+  "translation": "{F2 05 FF FF}{F1 41}刀身纤细，\n与花之名相称的刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:23:0",
+  "message_id": "weapon_017",
+  "translation": "{F2 05 FF FF}{F1 41}以极其锋利著称的利刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:24:0",
+  "message_id": "weapon_018",
+  "translation": "{F2 05 FF FF}{F1 41}从八岐大蛇尾中取出的\n锋利之刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:25:0",
+  "message_id": "weapon_019",
+  "translation": "{F2 05 FF FF}{F1 41}源义经爱用的名刀。\n曾在无数战斗中斩灭敌人。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:26:0",
+  "message_id": "weapon_01A",
+  "translation": "{F2 05 FF FF}{F1 41}将门公使用过的刀。\n被认为是最早带弧度的日本刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:27:0",
+  "message_id": "weapon_01B",
+  "translation": "{F2 05 FF FF}{F1 41}剑身呈大幅弯曲的Ｓ形，\n增强下劈力量的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:28:0",
+  "message_id": "weapon_01C",
+  "translation": "{F2 05 FF FF}{F1 41}以驱邪仪式所用的大币为剑身，\n十分神圣的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:29:0",
+  "message_id": "weapon_01D",
+  "translation": "{F2 05 FF FF}{F1 41}拥有神奇力量，\n能使受击者脱力的武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:30:0",
+  "message_id": "weapon_01E",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的大剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:31:0",
+  "message_id": "weapon_01F",
+  "translation": "{F2 05 FF FF}{F1 41}剑身会分泌麻痹毒，\n使被斩中的对手陷入麻痹的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:32:0",
+  "message_id": "weapon_020",
+  "translation": "{F2 05 FF FF}{F1 41}剑身涂有毒药的剑。\n使用时必须小心。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:33:0",
+  "message_id": "weapon_021",
+  "translation": "{F2 05 FF FF}{F1 41}散发妖异而美丽光芒的妖刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:64:0",
+  "message_id": "weapon_040",
+  "translation": "{F2 05 FF FF}{F1 41}夹口可调节，\n使用方便的扳手。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:65:0",
+  "message_id": "weapon_041",
+  "translation": "{F2 05 FF FF}{F1 41}如风般轻盈的短刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:66:0",
+  "message_id": "weapon_042",
+  "translation": "{F2 05 FF FF}{F1 41}忍者使用的双刃武器，\n形似短刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:67:0",
+  "message_id": "weapon_043",
+  "translation": "{F2 05 FF FF}{F1 41}轻巧易用的防身短刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:68:0",
+  "message_id": "weapon_044",
+  "translation": "{F2 05 FF FF}{F1 41}据说会将持有者\n引向修罗之道的苦无。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:69:0",
+  "message_id": "weapon_045",
+  "translation": "{F2 05 FF FF}{F1 41}散发着诡异气息的\n漆黑苦无。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:70:0",
+  "message_id": "weapon_046",
+  "translation": "{F2 05 FF FF}{F1 41}柄上镶嵌翡翠的\n华美短剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:71:0",
+  "message_id": "weapon_047",
+  "translation": "{F2 05 FF FF}{F1 41}也可当作手里剑使用的\n山茶叶形苦无。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:72:0",
+  "message_id": "weapon_048",
+  "translation": "{F2 05 FF FF}{F1 41}又被称为“民众的呐喊”，\n经过精心打磨的匕首。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:73:0",
+  "message_id": "weapon_049",
+  "translation": "{F2 05 FF FF}{F1 41}历经无数战乱的\n久战苦无。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:74:0",
+  "message_id": "weapon_04A",
+  "translation": "{F2 05 FF FF}{F1 41}能让动作变幻自如的\n传说中的苦无。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:75:0",
+  "message_id": "weapon_04B",
+  "translation": "{F2 05 FF FF}{F1 41}小巧的柴刀。比起切割，\n更适合利用重量劈砸。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:76:0",
+  "message_id": "weapon_04C",
+  "translation": "{F2 05 FF FF}{F1 41}狩猎时随身携带的\n实用短剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:77:0",
+  "message_id": "weapon_04D",
+  "translation": "{F2 05 FF FF}{F1 41}极其轻巧的暗杀用苦无。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:78:0",
+  "message_id": "weapon_04E",
+  "translation": "{F2 05 FF FF}{F1 41}据说连无形之物也能斩断，\n锋利得令人畏惧的小刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:79:0",
+  "message_id": "weapon_04F",
+  "translation": "{F2 05 FF FF}{F1 41}曾平息无数纷争，\n因而获赐灭火之神名号的短刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:80:0",
+  "message_id": "weapon_050",
+  "translation": "{F2 05 FF FF}{F1 41}如黑暗般漆黑的苦无。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:81:0",
+  "message_id": "weapon_051",
+  "translation": "{F2 05 FF FF}{F1 41}刀身呈Ｓ形弯曲的短刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:82:0",
+  "message_id": "weapon_052",
+  "translation": "{F2 05 FF FF}{F1 41}某位忍者爱用的苦无。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:83:0",
+  "message_id": "weapon_053",
+  "translation": "{F2 05 FF FF}{F1 41}相当厚重的短刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:84:0",
+  "message_id": "weapon_054",
+  "translation": "{F2 05 FF FF}{F1 41}散发银月般余辉的小刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:85:0",
+  "message_id": "weapon_055",
+  "translation": "{F2 05 FF FF}{F1 41}刀身如皮克希的翅膀般\n晶莹剔透的短刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:86:0",
+  "message_id": "weapon_056",
+  "translation": "{F2 05 FF FF}{F1 41}踏遍天、空、地的毗湿奴神\n持有的美丽之刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:87:0",
+  "message_id": "weapon_057",
+  "translation": "{F2 05 FF FF}{F1 41}消除烦恼、引向觉悟的法器。\n满溢的慈爱普照整个宇宙。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:88:0",
+  "message_id": "weapon_058",
+  "translation": "{F2 05 FF FF}{F1 41}比起造成伤害，\n更专注于封印对手力量的武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:89:0",
+  "message_id": "weapon_059",
+  "translation": "{F2 05 FF FF}{F1 41}以会散播催眠孢子的蘑菇\n作为刀身的短剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:90:0",
+  "message_id": "weapon_05A",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的短剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:91:0",
+  "message_id": "weapon_05B",
+  "translation": "{F2 05 FF FF}{F1 41}按下柄上的按钮，\n刀身便会分泌毒液的危险短刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:92:0",
+  "message_id": "weapon_05C",
+  "translation": "{F2 05 FF FF}{F1 41}按下柄上的按钮，\n便会放出电击麻痹对手的短刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:128:0",
+  "message_id": "weapon_080",
+  "translation": "{F2 05 FF FF}{F1 41}适合上下学穿的皮鞋。\n缝线很可爱。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:129:0",
+  "message_id": "weapon_081",
+  "translation": "{F2 05 FF FF}{F1 41}鞋底装有弹簧，能减轻腿脚负担…\n也许吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:130:0",
+  "message_id": "weapon_082",
+  "translation": "{F2 05 FF FF}{F1 41}装饰繁多、华丽非凡，\n却意外便于活动的足甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:131:0",
+  "message_id": "weapon_083",
+  "translation": "{F2 05 FF FF}{F1 41}装有特殊机关，\n能将全身体重压在脚跟上的靴子。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:132:0",
+  "message_id": "weapon_084",
+  "translation": "{F2 05 FF FF}{F1 41}凝聚了善用谋略作战的\n武将智慧的足甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:133:0",
+  "message_id": "weapon_085",
+  "translation": "{F2 05 FF FF}{F1 41}模仿轻盈驰骋天空的神兽之足制成。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:134:0",
+  "message_id": "weapon_086",
+  "translation": "{F2 05 FF FF}{F1 41}能粉碎一切的巨人之靴。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:135:0",
+  "message_id": "weapon_087",
+  "translation": "{F2 05 FF FF}{F1 41}如魔人般碾碎一切的\n恶魔之靴。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:136:0",
+  "message_id": "weapon_088",
+  "translation": "{F2 05 FF FF}{F1 41}将罪人踢入深渊的\n恶魔曾穿过的靴子。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:137:0",
+  "message_id": "weapon_089",
+  "translation": "{F2 05 FF FF}{F1 41}因公正而无情，\n令人人畏惧的刽子手之靴。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:138:0",
+  "message_id": "weapon_08A",
+  "translation": "{F2 05 FF FF}{F1 41}能让视线稍微升高，\n令人开心的运动鞋。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:139:0",
+  "message_id": "weapon_08B",
+  "translation": "{F2 05 FF FF}{F1 41}用来保护腿脚的\n结实靴子。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:140:0",
+  "message_id": "weapon_08C",
+  "translation": "{F2 05 FF FF}{F1 41}据说鞋尖藏有秘密，\n款式有些过时的鞋。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:141:0",
+  "message_id": "weapon_08D",
+  "translation": "{F2 05 FF FF}{F1 41}受到武神庇佑的足甲。\n衬里写有祝词。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:142:0",
+  "message_id": "weapon_08E",
+  "translation": "{F2 05 FF FF}{F1 41}能让人如跃马般轻快，\n击倒众多敌人的鞋。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:143:0",
+  "message_id": "weapon_08F",
+  "translation": "{F2 05 FF FF}{F1 41}衬里绣有四神图案，\n受到祝福的足甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:144:0",
+  "message_id": "weapon_090",
+  "translation": "{F2 05 FF FF}{F1 41}连毁灭都踩在脚下的\n强大神明之靴。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:145:0",
+  "message_id": "weapon_091",
+  "translation": "{F2 05 FF FF}{F1 41}外形厚重却很轻盈，\n冠以踢技名家之名的足甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:146:0",
+  "message_id": "weapon_092",
+  "translation": "{F2 05 FF FF}{F1 41}与举世无双的战士相称的\n坚固足甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:147:0",
+  "message_id": "weapon_093",
+  "translation": "{F2 05 FF FF}{F1 41}封存了星辰光辉与力量的\n美丽胫甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:149:0",
+  "message_id": "weapon_095",
+  "translation": "{F2 05 FF FF}{F1 41}小腿处饰有玄武甲壳，\n极其结实的足甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:150:0",
+  "message_id": "weapon_096",
+  "translation": "{F2 05 FF FF}{F1 41}用灵山开采的岩石制成的\n神圣足甲。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:151:0",
+  "message_id": "weapon_097",
+  "translation": "{F2 05 FF FF}{F1 41}流动的电流会使接触者麻痹的鞋。\n穿上时必须小心。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:152:0",
+  "message_id": "weapon_098",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的鞋。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:153:0",
+  "message_id": "weapon_099",
+  "translation": "{F2 05 FF FF}{F1 41}绘有神奇图案，\n能让对手混乱的靴子。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:154:0",
+  "message_id": "weapon_09A",
+  "translation": "{F2 05 FF FF}{F1 41}鞋尖仿照眼镜蛇头制成，\n会向被踢中的对手注毒的危险靴子。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:176:0",
+  "message_id": "weapon_0B0",
+  "translation": "{F2 05 FF FF}{F1 41}细节处处用心的\n上等佳品。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:177:0",
+  "message_id": "weapon_0B1",
+  "translation": "{F2 05 FF FF}{F1 41}易于使用的练习用扇。\n轻巧，容易展开。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:178:0",
+  "message_id": "weapon_0B2",
+  "translation": "{F2 05 FF FF}{F1 41}裱有丝绸的高级折扇。\n熏染着香气。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:179:0",
+  "message_id": "weapon_0B3",
+  "translation": "{F2 05 FF FF}{F1 41}会浮现出令人安心的女性面容，\n十分神奇的扇子。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:180:0",
+  "message_id": "weapon_0B4",
+  "translation": "{F2 05 FF FF}{F1 41}每次翻转扇面，\n便变幻出缤纷色彩的折扇。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:181:0",
+  "message_id": "weapon_0B5",
+  "translation": "{F2 05 FF FF}{F1 41}某位不断拈花惹草的\n贵族所持之物。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:182:0",
+  "message_id": "weapon_0B6",
+  "translation": "{F2 05 FF FF}{F1 41}为把礼仪打进脑袋而打造，\n沉重又结实的扇子。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:183:0",
+  "message_id": "weapon_0B7",
+  "translation": "{F2 05 FF FF}{F1 41}每次挥动都会响起铃声的\n风雅之扇。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:184:0",
+  "message_id": "weapon_0B8",
+  "translation": "{F2 05 FF FF}{F1 41}能揭露任何秘密，\n引来毁灭的扇子。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:185:0",
+  "message_id": "weapon_0B9",
+  "translation": "{F2 05 FF FF}{F1 41}吸收过一滴真挚泪水的\n慈爱之扇。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:186:0",
+  "message_id": "weapon_0BA",
+  "translation": "{F2 05 FF FF}{F1 41}适合搭配圣诞服装的\n圣诞风格折扇。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:187:0",
+  "message_id": "weapon_0BB",
+  "translation": "{F2 05 FF FF}{F1 41}很配浴衣的祭典用团扇。\n扇出的风最适合傍晚乘凉。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:188:0",
+  "message_id": "weapon_0BC",
+  "translation": "{F2 05 FF FF}{F1 41}扇骨用铁制成的战斗用扇。\n威力很大，却难以使用。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:189:0",
+  "message_id": "weapon_0BD",
+  "translation": "{F2 05 FF FF}{F1 41}大得足以遮住面容，\n却依然艳丽的扇子。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:190:0",
+  "message_id": "weapon_0BE",
+  "translation": "{F2 05 FF FF}{F1 41}据说能撕裂空气，\n发出笛鸣般声响的利扇。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:191:0",
+  "message_id": "weapon_0BF",
+  "translation": "{F2 05 FF FF}{F1 41}能招来无数胜利。\n令掌权者疯狂追求的一柄扇。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:192:0",
+  "message_id": "weapon_0C0",
+  "translation": "{F2 05 FF FF}{F1 41}曾拒绝无数热烈追求的\n冷艳美人所持之物。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:193:0",
+  "message_id": "weapon_0C1",
+  "translation": "{F2 05 FF FF}{F1 41}方才仿佛近在眼前，\n转眼却消失的奇幻之扇。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:194:0",
+  "message_id": "weapon_0C2",
+  "translation": "{F2 05 FF FF}{F1 41}美得令人如坠一瞬梦境的\n绘画折扇。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:195:0",
+  "message_id": "weapon_0C3",
+  "translation": "{F2 05 FF FF}{F1 41}不为任何事物牵绊心神，\n指引人前往净土的扇子。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:197:0",
+  "message_id": "weapon_0C5",
+  "translation": "{F2 05 FF FF}{F1 41}用朱雀羽毛制成的\n美丽深红之扇。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:198:0",
+  "message_id": "weapon_0C6",
+  "translation": "{F2 05 FF FF}{F1 41}如孔雀般华丽的扇子。\n蓝色光泽十分美丽。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:199:0",
+  "message_id": "weapon_0C7",
+  "translation": "{F2 05 FF FF}{F1 41}寄宿着命运悲惨的女性怨念，\n令人厌惧的不祥之扇。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:200:0",
+  "message_id": "weapon_0C8",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的折扇。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:201:0",
+  "message_id": "weapon_0C9",
+  "translation": "{F2 05 FF FF}{F1 41}饰有七福神装饰，\n极为吉祥的耙子。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:202:0",
+  "message_id": "weapon_0CA",
+  "translation": "{F2 05 FF FF}{F1 41}仿照沾有剧毒鳞粉的蛾翼\n制成的扇子。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:224:0",
+  "message_id": "weapon_0E0",
+  "translation": "{F2 05 FF FF}{F1 41}学校里常用，\n坐起来不舒服的椅子。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:225:0",
+  "message_id": "weapon_0E1",
+  "translation": "{F2 05 FF FF}{F1 41}上课时常用的课桌。\n请爱惜学校公物。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:226:0",
+  "message_id": "weapon_0E2",
+  "translation": "{F2 05 FF FF}{F1 41}为前线战士打造的圆盾。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:227:0",
+  "message_id": "weapon_0E3",
+  "translation": "{F2 05 FF FF}{F1 41}连高密度能量都能阻隔的\n厚重护板。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:228:0",
+  "message_id": "weapon_0E4",
+  "translation": "{F2 05 FF FF}{F1 41}仅仅拿着就会\n令人力量涌现的金属板。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:229:0",
+  "message_id": "weapon_0E5",
+  "translation": "{F2 05 FF FF}{F1 41}表面覆盖高度耐热合金的\n坚硬护板。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:230:0",
+  "message_id": "weapon_0E6",
+  "translation": "{F2 05 FF FF}{F1 41}又大又厚，\n只有少数人能拿起的大盾。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:231:0",
+  "message_id": "weapon_0E7",
+  "translation": "{F2 05 FF FF}{F1 41}锻造精良，连阳光与热量\n都能阻挡的逸品。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:232:0",
+  "message_id": "weapon_0E8",
+  "translation": "{F2 05 FF FF}{F1 41}也曾作为彰显神威的旗帜，\n美丽而强大的盾。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:233:0",
+  "message_id": "weapon_0E9",
+  "translation": "{F2 05 FF FF}{F1 41}绘有五大明王的神圣之盾。\n以散发的光芒裁决对手。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:234:0",
+  "message_id": "weapon_0EA",
+  "translation": "{F2 05 FF FF}{F1 41}连求助者都拒之门外的\n无情之盾。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:235:0",
+  "message_id": "weapon_0EB",
+  "translation": "{F2 05 FF FF}{F1 41}只是简单切下的铁板。\n相当薄。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:236:0",
+  "message_id": "weapon_0EC",
+  "translation": "{F2 05 FF FF}{F1 41}工厂里散放的板子。\n非常重。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:237:0",
+  "message_id": "weapon_0ED",
+  "translation": "{F2 05 FF FF}{F1 41}工厂里用来\n阻挡热量与火花的东西。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:238:0",
+  "message_id": "weapon_0EE",
+  "translation": "{F2 05 FF FF}{F1 41}容易驾驭海浪的最新款冲浪板。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:239:0",
+  "message_id": "weapon_0EF",
+  "translation": "{F2 05 FF FF}{F1 41}能击退任何恐惧，\n与勇者相称的大盾。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:240:0",
+  "message_id": "weapon_0F0",
+  "translation": "{F2 05 FF FF}{F1 41}驱邪瓦片的大型版。\n不太适合当盾用。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:241:0",
+  "message_id": "weapon_0F1",
+  "translation": "{F2 05 FF FF}{F1 41}重装步兵使用的盾。\n大得足以遮住全身。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:242:0",
+  "message_id": "weapon_0F2",
+  "translation": "{F2 05 FF FF}{F1 41}泛着暗淡黑光的盾。\n据说那是层层鲜血染成的颜色。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:243:0",
+  "message_id": "weapon_0F3",
+  "translation": "{F2 05 FF FF}{F1 41}向迎战者传来\n妖精预告死亡之声的盾。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:245:0",
+  "message_id": "weapon_0F5",
+  "translation": "{F2 05 FF FF}{F1 41}以附带提灯的光芒晃花对手双眼，\n从而封住其行动的盾。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:246:0",
+  "message_id": "weapon_0F6",
+  "translation": "{F2 05 FF FF}{F1 41}由万物之母赐予，\n刻有世间万象真理的石板。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:247:0",
+  "message_id": "weapon_0F7",
+  "translation": "{F2 05 FF FF}{F1 41}大得足以遮住身体的稻草人。\n会给被击中的对手带来巨大不幸。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:248:0",
+  "message_id": "weapon_0F8",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的盾。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:249:0",
+  "message_id": "weapon_0F9",
+  "translation": "{F2 05 FF FF}{F1 41}装有小型喷气发动机，\n以辅助持有者行动的盾。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:250:0",
+  "message_id": "weapon_0FA",
+  "translation": "{F2 05 FF FF}{F1 41}能喷出气体的盾，\n吸入后会被强烈睡意侵袭。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:272:0",
+  "message_id": "weapon_110",
+  "translation": "{F2 05 FF FF}{F1 41}口径较小，\n保险装置可靠的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:273:0",
+  "message_id": "weapon_111",
+  "translation": "{F2 05 FF FF}{F1 41}保持一定威力的同时缩小体积，\n便于携带的火器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:274:0",
+  "message_id": "weapon_112",
+  "translation": "{F2 05 FF FF}{F1 41}以新材料研发的马格南枪。\n后坐力得到抑制。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:275:0",
+  "message_id": "weapon_113",
+  "translation": "{F2 05 FF FF}{F1 41}奏响送别亡者之歌的\n慈爱之枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:276:0",
+  "message_id": "weapon_114",
+  "translation": "{F2 05 FF FF}{F1 41}射出闪耀银白光芒的子弹，\n必定贯穿要害的魔枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:277:0",
+  "message_id": "weapon_115",
+  "translation": "{F2 05 FF FF}{F1 41}据说连蜂舞般灵活的敌人也能轻易击中，\n经过轻量化的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:278:0",
+  "message_id": "weapon_116",
+  "translation": "{F2 05 FF FF}{F1 41}连握把都染红了的\n鲜血魔枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:279:0",
+  "message_id": "weapon_117",
+  "translation": "{F2 05 FF FF}{F1 41}连射能力强且便于携带的\n小型机关枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:280:0",
+  "message_id": "weapon_118",
+  "translation": "{F2 05 FF FF}{F1 41}随着技术进步，\n成功兼顾高威力与小型化的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:281:0",
+  "message_id": "weapon_119",
+  "translation": "{F2 05 FF FF}{F1 41}施行裁决的刽子手之枪。\n扳机很轻。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:282:0",
+  "message_id": "weapon_11A",
+  "translation": "{F2 05 FF FF}{F1 41}西部开拓时代使用的\n大型手枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:283:0",
+  "message_id": "weapon_11B",
+  "translation": "{F2 05 FF FF}{F1 41}操作Ｓ形金属部件点火，\n发射子弹的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:284:0",
+  "message_id": "weapon_11C",
+  "translation": "{F2 05 FF FF}{F1 41}据说能带来“真正的幸福”，\n某位科学家曾扣动其扳机。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:285:0",
+  "message_id": "weapon_11D",
+  "translation": "{F2 05 FF FF}{F1 41}强度极高的\n大口径马格南枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:286:0",
+  "message_id": "weapon_11E",
+  "translation": "{F2 05 FF FF}{F1 41}消除了射击耐久极限，\n能进行任意连射的魔枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:287:0",
+  "message_id": "weapon_11F",
+  "translation": "{F2 05 FF FF}{F1 41}外形十分贴合手掌的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:288:0",
+  "message_id": "weapon_120",
+  "translation": "{F2 05 FF FF}{F1 41}可装填贯穿厚重铠甲之弹的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:289:0",
+  "message_id": "weapon_121",
+  "translation": "{F2 05 FF FF}{F1 41}只追求兵器性能的\n必杀魔枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:290:0",
+  "message_id": "weapon_122",
+  "translation": "{F2 05 FF FF}{F1 41}据说能吞噬敌人灵魂，\n散发不祥气息的魔枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:291:0",
+  "message_id": "weapon_123",
+  "translation": "{F2 05 FF FF}{F1 41}使用高杀伤力霰弹的枪。\n会造就如血雨降临般的惨状。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:293:0",
+  "message_id": "weapon_125",
+  "translation": "{F2 05 FF FF}{F1 41}仿照魔法神灯外形制成的枪。\n擦一擦，出现的不是精灵而是子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:294:0",
+  "message_id": "weapon_126",
+  "translation": "{F2 05 FF FF}{F1 41}现身于世界末日，\n以炼狱之火烧尽敌对者的魔枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:295:0",
+  "message_id": "weapon_127",
+  "translation": "{F2 05 FF FF}{F1 41}放出封印力量的神奇光线的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:296:0",
+  "message_id": "weapon_128",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:297:0",
+  "message_id": "weapon_129",
+  "translation": "{F2 05 FF FF}{F1 41}枪身装有小盾的手枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:298:0",
+  "message_id": "weapon_12A",
+  "translation": "{F2 05 FF FF}{F1 41}射出蕴含封魔咒术之弹的\n手枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:320:0",
+  "message_id": "weapon_140",
+  "translation": "{F2 05 FF FF}{F1 41}尖刺看着就很疼的手套。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:321:0",
+  "message_id": "weapon_141",
+  "translation": "{F2 05 FF FF}{F1 41}名字虽然可爱，\n却相当锋利的爪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:322:0",
+  "message_id": "weapon_142",
+  "translation": "{F2 05 FF FF}{F1 41}让人领教冬眠初醒之熊有多可怕的爪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:323:0",
+  "message_id": "weapon_143",
+  "translation": "{F2 05 FF FF}{F1 41}潜至敌人身后一举击杀…\n或许能让人做到这一点的爪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:324:0",
+  "message_id": "weapon_144",
+  "translation": "{F2 05 FF FF}{F1 41}不仅能撕裂，\n也能粉碎目标的爪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:325:0",
+  "message_id": "weapon_145",
+  "translation": "{F2 05 FF FF}{F1 41}细密刀刃不停切碎敌人的\n残酷之爪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:326:0",
+  "message_id": "weapon_146",
+  "translation": "{F2 05 FF FF}{F1 41}据说借助统御东方的龙王之力\n制成的爪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:327:0",
+  "message_id": "weapon_147",
+  "translation": "{F2 05 FF FF}{F1 41}刀刃轻盈至极，\n无声撕裂目标的爪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:328:0",
+  "message_id": "weapon_148",
+  "translation": "{F2 05 FF FF}{F1 41}以强度罕见的贵金属强化，\n极其结实的爪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:329:0",
+  "message_id": "weapon_149",
+  "translation": "{F2 05 FF FF}{F1 41}能撕裂一切的开膛魔之爪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:330:0",
+  "message_id": "weapon_14A",
+  "translation": "{F2 05 FF FF}{F1 41}刻有命星的龙骨之爪。\n借用了星辰之力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:331:0",
+  "message_id": "weapon_14B",
+  "translation": "{F2 05 FF FF}{F1 41}再现蟹钳力量的爪。\n有着让人不知不觉闭嘴的力量。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:332:0",
+  "message_id": "weapon_14C",
+  "translation": "{F2 05 FF FF}{F1 41}凝聚风魔技艺精髓的暗器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:333:0",
+  "message_id": "weapon_14D",
+  "translation": "{F2 05 FF FF}{F1 41}以提高强度的方式锻造的爪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:334:0",
+  "message_id": "weapon_14E",
+  "translation": "{F2 05 FF FF}{F1 41}据说是从地狱爬回的使者\n留下的诡异之爪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:335:0",
+  "message_id": "weapon_14F",
+  "translation": "{F2 05 FF FF}{F1 41}卷起周围空气劈斩的爪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:336:0",
+  "message_id": "weapon_150",
+  "translation": "{F2 05 FF FF}{F1 41}轻轻一抚便能剥开钢铁的爪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:337:0",
+  "message_id": "weapon_151",
+  "translation": "{F2 05 FF FF}{F1 41}仿照龙爪制成，\n坚固又锋利的逸品。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:338:0",
+  "message_id": "weapon_152",
+  "translation": "{F2 05 FF FF}{F1 41}漆黑得仿佛会将凝视者\n吸进去的爪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:339:0",
+  "message_id": "weapon_153",
+  "translation": "{F2 05 FF FF}{F1 41}潜伏黑暗之人爱用的\n适合暗杀的小巧之爪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:341:0",
+  "message_id": "weapon_155",
+  "translation": "{F2 05 FF FF}{F1 41}仿照白虎之爪的锋利武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:342:0",
+  "message_id": "weapon_156",
+  "translation": "{F2 05 FF FF}{F1 41}为完成复仇而磨砺的\n不祥兽爪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:343:0",
+  "message_id": "weapon_157",
+  "translation": "{F2 05 FF FF}{F1 41}装有狩猎陷阱的手套。\n会牢牢咬住对手，封住其行动。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:344:0",
+  "message_id": "weapon_158",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的爪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:345:0",
+  "message_id": "weapon_159",
+  "translation": "{F2 05 FF FF}{F1 41}刀刃缠绕雷电的爪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:346:0",
+  "message_id": "weapon_15A",
+  "translation": "{F2 05 FF FF}{F1 41}仿照利齿野兽头部制成的手套。\n会吞噬被斩中之人的力量。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:368:0",
+  "message_id": "weapon_170",
+  "translation": "{F2 05 FF FF}{F1 41}３指联动的发射机构。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:369:0",
+  "message_id": "weapon_171",
+  "translation": "{F2 05 FF FF}{F1 41}枪身６段可变连射机构。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:370:0",
+  "message_id": "weapon_172",
+  "translation": "{F2 05 FF FF}{F1 41}搭载对暗影系统的榴弹炮。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:371:0",
+  "message_id": "weapon_173",
+  "translation": "{F2 05 FF FF}{F1 41}全５指联动发射机构。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:372:0",
+  "message_id": "weapon_174",
+  "translation": "{F2 05 FF FF}{F1 41}以电磁感应射出榴弹的机构。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:373:0",
+  "message_id": "weapon_175",
+  "translation": "{F2 05 FF FF}{F1 41}如美丽暗物质一般的榴弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:374:0",
+  "message_id": "weapon_176",
+  "translation": "{F2 05 FF FF}{F1 41}威力堪比据说能净化一切的\n神之吻的榴弹炮。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:375:0",
+  "message_id": "weapon_177",
+  "translation": "{F2 05 FF FF}{F1 41}射出最新式对暗影榴弹的火器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:376:0",
+  "message_id": "weapon_178",
+  "translation": "{F2 05 FF FF}{F1 41}伴随轰鸣射出大型炮弹的重火器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:377:0",
+  "message_id": "weapon_179",
+  "translation": "{F2 05 FF FF}{F1 41}内置太古遗产的榴弹炮。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:378:0",
+  "message_id": "weapon_17A",
+  "translation": "{F2 05 FF FF}{F1 41}８０毫米大口径榴弹炮。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:379:0",
+  "message_id": "weapon_17B",
+  "translation": "{F2 05 FF FF}{F1 41}使用携带奥尔贡能弹头的榴弹炮。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:380:0",
+  "message_id": "weapon_17C",
+  "translation": "{F2 05 FF FF}{F1 41}结构简单的大型火器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:381:0",
+  "message_id": "weapon_17D",
+  "translation": "{F2 05 FF FF}{F1 41}能够发射大型子弹的火器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:382:0",
+  "message_id": "weapon_17E",
+  "translation": "{F2 05 FF FF}{F1 41}可靠性与连射性能优良的榴弹炮。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:383:0",
+  "message_id": "weapon_17F",
+  "translation": "{F2 05 FF FF}{F1 41}以地狱业火般的火力\n歼灭敌人的榴弹炮。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:384:0",
+  "message_id": "weapon_180",
+  "translation": "{F2 05 FF FF}{F1 41}容易在近距离战斗中发挥威力的火器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:385:0",
+  "message_id": "weapon_181",
+  "translation": "{F2 05 FF FF}{F1 41}大量使用坚固金属包裹枪身，\n进行强化的火器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:386:0",
+  "message_id": "weapon_182",
+  "translation": "{F2 05 FF FF}{F1 41}精度足以击落高空飞鸟的火器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:387:0",
+  "message_id": "weapon_183",
+  "translation": "{F2 05 FF FF}{F1 41}会在体内引发湮灭反应的榴弹炮。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:389:0",
+  "message_id": "weapon_185",
+  "translation": "{F2 05 FF FF}{F1 41}释放绝对零度寒气的榴弹炮。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:390:0",
+  "message_id": "weapon_186",
+  "translation": "{F2 05 FF FF}{F1 41}冠以侍奉御座的天使之名，\n散发耀眼光芒的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:391:0",
+  "message_id": "weapon_187",
+  "translation": "{F2 05 FF FF}{F1 41}能够射出黏胶，\n抑制对手行动的榴弹炮。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:392:0",
+  "message_id": "weapon_188",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的榴弹炮。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:393:0",
+  "message_id": "weapon_189",
+  "translation": "{F2 05 FF FF}{F1 41}发射着弹时爆炸、\n也能伤及相邻敌人的榴弹的火器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:394:0",
+  "message_id": "weapon_18A",
+  "translation": "{F2 05 FF FF}{F1 41}发射会喷出麻痹烟雾的榴弹，\n属于重型火器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:416:0",
+  "message_id": "weapon_1A0",
+  "translation": "{F2 05 FF FF}{F1 41}没有明显特点的\n普通子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:417:0",
+  "message_id": "weapon_1A1",
+  "translation": "{F2 05 FF FF}{F1 41}弹头包覆硬质橡胶的子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:418:0",
+  "message_id": "weapon_1A2",
+  "translation": "{F2 05 FF FF}{F1 41}箭镞由铁制成的箭。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:419:0",
+  "message_id": "weapon_1A3",
+  "translation": "{F2 05 FF FF}{F1 41}命中时弹头会变形，\n更有效地造成伤害的子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:420:0",
+  "message_id": "weapon_1A4",
+  "translation": "{F2 05 FF FF}{F1 41}箭镞由铜制成的箭。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:421:0",
+  "message_id": "weapon_1A5",
+  "translation": "{F2 05 FF FF}{F1 41}填有对暗影金属粉末的子弹。\n击中柱子、墙壁等硬物便会粉碎。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:422:0",
+  "message_id": "weapon_1A6",
+  "translation": "{F2 05 FF FF}{F1 41}箭镞由银制成的箭。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:423:0",
+  "message_id": "weapon_1A7",
+  "translation": "{F2 05 FF FF}{F1 41}将１００根尖针捆在一起的发射武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:424:0",
+  "message_id": "weapon_1A8",
+  "translation": "{F2 05 FF FF}{F1 41}据说由王室代代相传的\n高贵子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:425:0",
+  "message_id": "weapon_1A9",
+  "translation": "{F2 05 FF FF}{F1 41}用黄金包裹火药，\n外观与威力都很华丽的子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:426:0",
+  "message_id": "weapon_1AA",
+  "translation": "{F2 05 FF FF}{F1 41}击中敌人后炸开，\n让碎片飞向相邻敌人的子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:427:0",
+  "message_id": "weapon_1AB",
+  "translation": "{F2 05 FF FF}{F1 41}迪奥多的倾力之作。\n似乎是参考Ｆ．Ｏ．Ｅ的箭制成。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:428:0",
+  "message_id": "weapon_1AC",
+  "translation": "{F2 05 FF FF}{F1 41}击中敌人后炸开并卷起爆炎的子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:429:0",
+  "message_id": "weapon_1AD",
+  "translation": "{F2 05 FF FF}{F1 41}前端平坦的子弹。\n会在暗影身上开出大圆洞。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:430:0",
+  "message_id": "weapon_1AE",
+  "translation": "{F2 05 FF FF}{F1 41}能够贯穿目标，\n并伤及后方敌人的子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:431:0",
+  "message_id": "weapon_1AF",
+  "translation": "{F2 05 FF FF}{F1 41}装有对暗影小箭的子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:432:0",
+  "message_id": "weapon_1B0",
+  "translation": "{F2 05 FF FF}{F1 41}填入对暗影有效的火药，\n命中后炸裂的子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:433:0",
+  "message_id": "weapon_1B1",
+  "translation": "{F2 05 FF FF}{F1 41}着弹时弹头变为蘑菇状，\n对目标造成巨大伤害的子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:434:0",
+  "message_id": "weapon_1B2",
+  "translation": "{F2 05 FF FF}{F1 41}据说能够驱魔的\n神圣子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:435:0",
+  "message_id": "weapon_1B3",
+  "translation": "{F2 05 FF FF}{F1 41}箭镞由金制成的箭。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:436:0",
+  "message_id": "weapon_1B4",
+  "translation": "{F2 05 FF FF}{F1 41}命中后还会从中射出子弹，\n杀伤力极高的子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:437:0",
+  "message_id": "weapon_1B5",
+  "translation": "{F2 05 FF FF}{F1 41}用构成迷宫的物质制成，\n呈时钟指针形状的子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:438:0",
+  "message_id": "weapon_1B6",
+  "translation": "{F2 05 FF FF}{F1 41}能将被击中者引入迷人梦境的\n魔性子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:439:0",
+  "message_id": "weapon_1B7",
+  "translation": "{F2 05 FF FF}{F1 41}蕴含毁灭世界、唤醒新生命的\n湿婆神之怒的子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:440:0",
+  "message_id": "weapon_1B8",
+  "translation": "{F2 05 FF FF}{F1 41}受冲击后破裂，喷出胶糖黏住目标，\n从而封住其魔法的弹丸。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:441:0",
+  "message_id": "weapon_1B9",
+  "translation": "{F2 05 FF FF}{F1 41}采用隐形材料，贯穿力出众。\n迪奥多反复试制后的倾力之作。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:442:0",
+  "message_id": "weapon_1BA",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:443:0",
+  "message_id": "weapon_1BB",
+  "translation": "{F2 05 FF FF}{F1 41}飞向对手要害的\n高杀伤力子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:444:0",
+  "message_id": "weapon_1BC",
+  "translation": "{F2 05 FF FF}{F1 41}填有特殊药剂，\n能够封住对手行动的子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:445:0",
+  "message_id": "weapon_1BD",
+  "translation": "{F2 05 FF FF}{F1 41}填有强效毒液的紫色子弹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:464:0",
+  "message_id": "weapon_1D0",
+  "translation": "{F2 05 FF FF}{F1 41}轻巧易用的单手剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:465:0",
+  "message_id": "weapon_1D1",
+  "translation": "{F2 05 FF FF}{F1 41}刃长６０ｃｍ的长胁差。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:466:0",
+  "message_id": "weapon_1D2",
+  "translation": "{F2 05 FF FF}{F1 41}单手也能轻松使用的短剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:467:0",
+  "message_id": "weapon_1D3",
+  "translation": "{F2 05 FF FF}{F1 41}正宗打造的艺术品般的刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:468:0",
+  "message_id": "weapon_1D4",
+  "translation": "{F2 05 FF FF}{F1 41}闪耀银光的美丽军刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:469:0",
+  "message_id": "weapon_1D5",
+  "translation": "{F2 05 FF FF}{F1 41}名为“勇气”的短剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:470:0",
+  "message_id": "weapon_1D6",
+  "translation": "{F2 05 FF FF}{F1 41}宫本武藏爱用的\n弧度较小的刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:471:0",
+  "message_id": "weapon_1D7",
+  "translation": "{F2 05 FF FF}{F1 41}带有月亮装饰的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:472:0",
+  "message_id": "weapon_1D8",
+  "translation": "{F2 05 FF FF}{F1 41}带有北斗七星图案的刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:473:0",
+  "message_id": "weapon_1D9",
+  "translation": "{F2 05 FF FF}{F1 41}不顾持有者的意志，\n斩断一切接触之物的魔剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:474:0",
+  "message_id": "weapon_1DA",
+  "translation": "{F2 05 FF FF}{F1 41}以锋利剑尖撕裂对手的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:475:0",
+  "message_id": "weapon_1DB",
+  "translation": "{F2 05 FF FF}{F1 41}保持轻巧易用的同时，\n提升杀伤力的单手剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:476:0",
+  "message_id": "weapon_1DC",
+  "translation": "{F2 05 FF FF}{F1 41}据说由亚瑟王持有的\n传说中的圣剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:477:0",
+  "message_id": "weapon_1DD",
+  "translation": "{F2 05 FF FF}{F1 41}将重心放在剑尖处的\n单手剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:478:0",
+  "message_id": "weapon_1DE",
+  "translation": "{F2 05 FF FF}{F1 41}柄头朝小指侧弯曲，\n有着弯曲长刃的钢铁弯刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:479:0",
+  "message_id": "weapon_1DF",
+  "translation": "{F2 05 FF FF}{F1 41}锋利易用，\n长度较短的单手剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:480:0",
+  "message_id": "weapon_1E0",
+  "translation": "{F2 05 FF FF}{F1 41}配有护手，\n能在激战中保护手部的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:481:0",
+  "message_id": "weapon_1E1",
+  "translation": "{F2 05 FF FF}{F1 41}散发寒光，\n极其坚固的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:482:0",
+  "message_id": "weapon_1E2",
+  "translation": "{F2 05 FF FF}{F1 41}不靠锋利，\n靠重量斩断目标的双刃剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:483:0",
+  "message_id": "weapon_1E3",
+  "translation": "{F2 05 FF FF}{F1 41}据说是平家传家宝的名刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:484:0",
+  "message_id": "weapon_1E4",
+  "translation": "{F2 05 FF FF}{F1 41}传说中的刀匠锻造的名刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:486:0",
+  "message_id": "weapon_1E6",
+  "translation": "{F2 05 FF FF}{F1 41}为嘉奖斩杀鵺的功绩，\n赐予源赖政的刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:487:0",
+  "message_id": "weapon_1E7",
+  "translation": "{F2 05 FF FF}{F1 41}背负扫除一切邪恶的宿命，\n闪耀金光的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:488:0",
+  "message_id": "weapon_1E8",
+  "translation": "{F2 05 FF FF}{F1 41}旋转螺旋状的剑身，\n专门用来迷惑对手的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:489:0",
+  "message_id": "weapon_1E9",
+  "translation": "{F2 05 FF FF}{F1 41}让人尚未察觉被斩便已入眠的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:490:0",
+  "message_id": "weapon_1EA",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的单手剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:491:0",
+  "message_id": "weapon_1EB",
+  "translation": "{F2 05 FF FF}{F1 41}能够操纵重力，\n封住对手行动的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:492:0",
+  "message_id": "weapon_1EC",
+  "translation": "{F2 05 FF FF}{F1 41}剑身不停分泌毒液的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:493:0",
+  "message_id": "weapon_1ED",
+  "translation": "{F2 05 FF FF}{F1 41}寄宿着无数怨念的\n诅咒之剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:512:0",
+  "message_id": "weapon_200",
+  "translation": "{F2 05 FF FF}{F1 41}日本弓道使用的\n廉价练习长弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:513:0",
+  "message_id": "weapon_201",
+  "translation": "{F2 05 FF FF}{F1 41}弯成Ｍ形，\n轻巧易用的弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:514:0",
+  "message_id": "weapon_202",
+  "translation": "{F2 05 FF FF}{F1 41}涂漆后又厚厚缠上藤条的弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:515:0",
+  "message_id": "weapon_203",
+  "translation": "{F2 05 FF FF}{F1 41}带有金属装饰的弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:516:0",
+  "message_id": "weapon_204",
+  "translation": "{F2 05 FF FF}{F1 41}为瞄准远方对手而调整过的弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:517:0",
+  "message_id": "weapon_205",
+  "translation": "{F2 05 FF FF}{F1 41}用竹子强化的弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:518:0",
+  "message_id": "weapon_206",
+  "translation": "{F2 05 FF FF}{F1 41}弓身用木头与皮革制成的弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:519:0",
+  "message_id": "weapon_207",
+  "translation": "{F2 05 FF FF}{F1 41}十分巨大、难以使用的弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:520:0",
+  "message_id": "weapon_208",
+  "translation": "{F2 05 FF FF}{F1 41}尺寸较大的强弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:521:0",
+  "message_id": "weapon_209",
+  "translation": "{F2 05 FF FF}{F1 41}以雷电般速度射箭的弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:522:0",
+  "message_id": "weapon_20A",
+  "translation": "{F2 05 FF FF}{F1 41}传说名家用过的弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:523:0",
+  "message_id": "weapon_20B",
+  "translation": "{F2 05 FF FF}{F1 41}射箭时会发出各种音色的\n罕见之弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:524:0",
+  "message_id": "weapon_20C",
+  "translation": "{F2 05 FF FF}{F1 41}通过增大体积，\n增强射箭威力的弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:525:0",
+  "message_id": "weapon_20D",
+  "translation": "{F2 05 FF FF}{F1 41}弓身由单一材料制成的弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:526:0",
+  "message_id": "weapon_20E",
+  "translation": "{F2 05 FF FF}{F1 41}射出的箭会将生灵\n引向地底的弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:527:0",
+  "message_id": "weapon_20F",
+  "translation": "{F2 05 FF FF}{F1 41}据说由妖精之王持有的神圣之弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:528:0",
+  "message_id": "weapon_210",
+  "translation": "{F2 05 FF FF}{F1 41}为便于追赶猎物而采用轻质材料，\n小巧易用的狩猎弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:529:0",
+  "message_id": "weapon_211",
+  "translation": "{F2 05 FF FF}{F1 41}远古繁盛一族的首领\n使用过的长弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:530:0",
+  "message_id": "weapon_212",
+  "translation": "{F2 05 FF FF}{F1 41}据说能射出流星般箭矢的传说名弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:531:0",
+  "message_id": "weapon_213",
+  "translation": "{F2 05 FF FF}{F1 41}加粗握柄以便发力的弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:533:0",
+  "message_id": "weapon_215",
+  "translation": "{F2 05 FF FF}{F1 41}用紫杉制成的\n美丽之弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:534:0",
+  "message_id": "weapon_216",
+  "translation": "{F2 05 FF FF}{F1 41}只有达到无我境界者才能使用，\n作为所有弓之原型的巨弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:535:0",
+  "message_id": "weapon_217",
+  "translation": "{F2 05 FF FF}{F1 41}蝙蝠形状的小弓。\n能发出使对手混乱的超声波。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:536:0",
+  "message_id": "weapon_218",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:537:0",
+  "message_id": "weapon_219",
+  "translation": "{F2 05 FF FF}{F1 41}为射出具有贯穿力的特殊箭矢\n而打造的特制弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:538:0",
+  "message_id": "weapon_21A",
+  "translation": "{F2 05 FF FF}{F1 41}能够射出\n使对手沉默之箭的弓。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:560:0",
+  "message_id": "weapon_230",
+  "translation": "{F2 05 FF FF}{F1 41}专为突刺而轻量化的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:561:0",
+  "message_id": "weapon_231",
+  "translation": "{F2 05 FF FF}{F1 41}适合新手的刺剑。\n剑身轻巧，不妨碍动作。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:562:0",
+  "message_id": "weapon_232",
+  "translation": "{F2 05 FF FF}{F1 41}剑柄带有装饰，\n身细尖锐的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:563:0",
+  "message_id": "weapon_233",
+  "translation": "{F2 05 FF FF}{F1 41}羽毛般轻盈的细剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:564:0",
+  "message_id": "weapon_234",
+  "translation": "{F2 05 FF FF}{F1 41}闪耀银光的美丽细剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:565:0",
+  "message_id": "weapon_235",
+  "translation": "{F2 05 FF FF}{F1 41}剑身如蛇般弯曲的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:566:0",
+  "message_id": "weapon_236",
+  "translation": "{F2 05 FF FF}{F1 41}专用于突刺的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:567:0",
+  "message_id": "weapon_237",
+  "translation": "{F2 05 FF FF}{F1 41}从铠甲缝隙与接合处刺入，\n给予慈悲的致命一击之剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:568:0",
+  "message_id": "weapon_238",
+  "translation": "{F2 05 FF FF}{F1 41}即使生锈仍相当锋利的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:569:0",
+  "message_id": "weapon_239",
+  "translation": "{F2 05 FF FF}{F1 41}尖端收窄而锐利的突刺长剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:570:0",
+  "message_id": "weapon_23A",
+  "translation": "{F2 05 FF FF}{F1 41}强化细剑、增加锋利度而成的刺剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:571:0",
+  "message_id": "weapon_23B",
+  "translation": "{F2 05 FF FF}{F1 41}易于传递穿刺力量的\n试制型刺剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:572:0",
+  "message_id": "weapon_23C",
+  "translation": "{F2 05 FF FF}{F1 41}缩小原有设计，\n使挥舞更方便的刺剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:573:0",
+  "message_id": "weapon_23D",
+  "translation": "{F2 05 FF FF}{F1 41}整体小型化，\n使快速攻击成为可能的刺剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:574:0",
+  "message_id": "weapon_23E",
+  "translation": "{F2 05 FF FF}{F1 41}改变剑刃截面形状，\n提高强度与威力的刺剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:575:0",
+  "message_id": "weapon_23F",
+  "translation": "{F2 05 FF FF}{F1 41}剑身呈锥状且无刃，\n专用于穿刺的刺剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:576:0",
+  "message_id": "weapon_240",
+  "translation": "{F2 05 FF FF}{F1 41}一刺便能贯穿任何硬物的名剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:577:0",
+  "message_id": "weapon_241",
+  "translation": "{F2 05 FF FF}{F1 41}昔日每逢皇帝即位，\n便代代相传的刺剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:578:0",
+  "message_id": "weapon_242",
+  "translation": "{F2 05 FF FF}{F1 41}使用稍有难度，\n却能发动强力攻击的刺剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:579:0",
+  "message_id": "weapon_243",
+  "translation": "{F2 05 FF FF}{F1 41}散发妖异光芒的魔法剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:581:0",
+  "message_id": "weapon_245",
+  "translation": "{F2 05 FF FF}{F1 41}染满鲜血的诅咒刺剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:582:0",
+  "message_id": "weapon_246",
+  "translation": "{F2 05 FF FF}{F1 41}以承载五谷丰登祈愿的\n圣石制成的剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:583:0",
+  "message_id": "weapon_247",
+  "translation": "{F2 05 FF FF}{F1 41}缩小原有设计，\n使挥舞更方便的刺剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:587:0",
+  "message_id": "weapon_24B",
+  "translation": "{F2 05 FF FF}{F1 41}放出强力电击，\n使对手麻痹的棍棒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:588:0",
+  "message_id": "weapon_24C",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的细剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:589:0",
+  "message_id": "weapon_24D",
+  "translation": "{F2 05 FF FF}{F1 41}剑身缠绕雷电，\n长度较长的细剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:590:0",
+  "message_id": "weapon_24E",
+  "translation": "{F2 05 FF FF}{F1 41}赐予名为永恒的死亡，\n充满高雅气质的细剑。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:608:0",
+  "message_id": "weapon_260",
+  "translation": "{F2 05 FF FF}{F1 41}枪尖呈十字的日式枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:609:0",
+  "message_id": "weapon_261",
+  "translation": "{F2 05 FF FF}{F1 41}仿照能迷倒众生的美丽尖针的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:610:0",
+  "message_id": "weapon_262",
+  "translation": "{F2 05 FF FF}{F1 41}枪尖如耙般展开的三叉枪。\n原本是用作农具的东西。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:611:0",
+  "message_id": "weapon_263",
+  "translation": "{F2 05 FF FF}{F1 41}枪头带有斧刃、钩爪等部件，\n用途广泛的优秀长枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:612:0",
+  "message_id": "weapon_264",
+  "translation": "{F2 05 FF FF}{F1 41}据说会招来死亡的不祥之枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:613:0",
+  "message_id": "weapon_265",
+  "translation": "{F2 05 FF FF}{F1 41}擅长贯穿的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:614:0",
+  "message_id": "weapon_266",
+  "translation": "{F2 05 FF FF}{F1 41}刃上雕有樱花的十字枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:615:0",
+  "message_id": "weapon_267",
+  "translation": "{F2 05 FF FF}{F1 41}长大而美丽的名枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:616:0",
+  "message_id": "weapon_268",
+  "translation": "{F2 05 FF FF}{F1 41}兼具多种功能的长枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:617:0",
+  "message_id": "weapon_269",
+  "translation": "{F2 05 FF FF}{F1 41}古罗马王者使用过的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:618:0",
+  "message_id": "weapon_26A",
+  "translation": "{F2 05 FF FF}{F1 41}蕴藏欧米伽之力的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:619:0",
+  "message_id": "weapon_26B",
+  "translation": "{F2 05 FF FF}{F1 41}装有锋利枪尖，增强杀伤力的长枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:620:0",
+  "message_id": "weapon_26C",
+  "translation": "{F2 05 FF FF}{F1 41}不只可握持挥舞，\n还能以多种方式击倒敌人的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:621:0",
+  "message_id": "weapon_26D",
+  "translation": "{F2 05 FF FF}{F1 41}枪尖分成两叉，\n专用于刺击敌人的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:622:0",
+  "message_id": "weapon_26E",
+  "translation": "{F2 05 FF FF}{F1 41}以巨大刀刃为特色，\n自古流传下来的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:623:0",
+  "message_id": "weapon_26F",
+  "translation": "{F2 05 FF FF}{F1 41}专用于突刺的四棱锥长枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:624:0",
+  "message_id": "weapon_270",
+  "translation": "{F2 05 FF FF}{F1 41}枪身约为通常的两倍，十分沉重，\n却能打出威力惊人一击的大枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:625:0",
+  "message_id": "weapon_271",
+  "translation": "{F2 05 FF FF}{F1 41}如柔风般轻舞，\n刺出烈风般一击的神枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:626:0",
+  "message_id": "weapon_272",
+  "translation": "{F2 05 FF FF}{F1 41}枪尖根部带有羽翼般突起，\n能够挡住敌人攻击的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:627:0",
+  "message_id": "weapon_273",
+  "translation": "{F2 05 FF FF}{F1 41}本多忠胜爱用的名枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:629:0",
+  "message_id": "weapon_275",
+  "translation": "{F2 05 FF FF}{F1 41}柄上刻有青龙的偃月刀。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:630:0",
+  "message_id": "weapon_276",
+  "translation": "{F2 05 FF FF}{F1 41}由统御冥界的女王斯卡哈\n授予的魔枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:631:0",
+  "message_id": "weapon_277",
+  "translation": "{F2 05 FF FF}{F1 41}装有大型Ｕ形金属部件，\n可封住对手行动的棍棒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:632:0",
+  "message_id": "weapon_278",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:633:0",
+  "message_id": "weapon_279",
+  "translation": "{F2 05 FF FF}{F1 41}柄上饰有三叶草图案，\n能招来好运的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:634:0",
+  "message_id": "weapon_27A",
+  "translation": "{F2 05 FF FF}{F1 41}能使人刺出精准一击，\n封印对手力量的枪。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:656:0",
+  "message_id": "weapon_290",
+  "translation": "{F2 05 FF FF}{F1 41}最简单的套拳武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:657:0",
+  "message_id": "weapon_291",
+  "translation": "{F2 05 FF FF}{F1 41}经过轻量化的拳套。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:658:0",
+  "message_id": "weapon_292",
+  "translation": "{F2 05 FF FF}{F1 41}仿制冠军装备的拳套。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:659:0",
+  "message_id": "weapon_293",
+  "translation": "{F2 05 FF FF}{F1 41}仿照兽牙的拳类武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:660:0",
+  "message_id": "weapon_294",
+  "translation": "{F2 05 FF FF}{F1 41}蕴含怒气的拳具。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:661:0",
+  "message_id": "weapon_295",
+  "translation": "{F2 05 FF FF}{F1 41}吸过大量鲜血的拳类武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:662:0",
+  "message_id": "weapon_296",
+  "translation": "{F2 05 FF FF}{F1 41}拳斗士使用的拳套。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:663:0",
+  "message_id": "weapon_297",
+  "translation": "{F2 05 FF FF}{F1 41}仿照龙牙的拳类武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:664:0",
+  "message_id": "weapon_298",
+  "translation": "{F2 05 FF FF}{F1 41}能放出巨大冲击波的拳类武器。\n据说最大输出只能使用３发…\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:665:0",
+  "message_id": "weapon_299",
+  "translation": "{F2 05 FF FF}{F1 41}有着咬断咽喉之势的拳类武器。\n外形宛如一匹白狼。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:666:0",
+  "message_id": "weapon_29A",
+  "translation": "{F2 05 FF FF}{F1 41}受到天空中闪耀天马庇佑的\n神圣拳类武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:667:0",
+  "message_id": "weapon_29B",
+  "translation": "{F2 05 FF FF}{F1 41}名剑改造的拳类武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:668:0",
+  "message_id": "weapon_29C",
+  "translation": "{F2 05 FF FF}{F1 41}杰克兄弟的手套。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:669:0",
+  "message_id": "weapon_29D",
+  "translation": "{F2 05 FF FF}{F1 41}重视稳定性的拳类武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:670:0",
+  "message_id": "weapon_29E",
+  "translation": "{F2 05 FF FF}{F1 41}带有利刃的拳类武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:671:0",
+  "message_id": "weapon_29F",
+  "translation": "{F2 05 FF FF}{F1 41}威力强劲的拳类武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:672:0",
+  "message_id": "weapon_2A0",
+  "translation": "{F2 05 FF FF}{F1 41}重视破坏力的拳类武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:673:0",
+  "message_id": "weapon_2A1",
+  "translation": "{F2 05 FF FF}{F1 41}如空气般轻盈的拳类武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:674:0",
+  "message_id": "weapon_2A2",
+  "translation": "{F2 05 FF FF}{F1 41}拥有众多传说的拳套。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:675:0",
+  "message_id": "weapon_2A3",
+  "translation": "{F2 05 FF FF}{F1 41}沉重如神罚的刚猛武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:677:0",
+  "message_id": "weapon_2A5",
+  "translation": "{F2 05 FF FF}{F1 41}用库柏勒的头发编成的\n漆黑手套。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:678:0",
+  "message_id": "weapon_2A6",
+  "translation": "{F2 05 FF FF}{F1 41}招来宏大终焉，\n为夺回自由而挥出的强拳。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:679:0",
+  "message_id": "weapon_2A7",
+  "translation": "{F2 05 FF FF}{F1 41}触感极佳，\n当作枕头便能安眠的手套。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:680:0",
+  "message_id": "weapon_2A8",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的拳套。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:681:0",
+  "message_id": "weapon_2A9",
+  "translation": "{F2 05 FF FF}{F1 41}仿照招财猫招福之手的手套。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:682:0",
+  "message_id": "weapon_2AA",
+  "translation": "{F2 05 FF FF}{F1 41}能使人打出沉重一击，\n压制对手速度的手套。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:704:0",
+  "message_id": "weapon_2C0",
+  "translation": "{F2 05 FF FF}{F1 41}长柄上装有巨大金属块的\n打击武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:705:0",
+  "message_id": "weapon_2C1",
+  "translation": "{F2 05 FF FF}{F1 41}据说是恶鬼爱用的战锤。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:706:0",
+  "message_id": "weapon_2C2",
+  "translation": "{F2 05 FF FF}{F1 41}某个杀人魔自制的武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:707:0",
+  "message_id": "weapon_2C3",
+  "translation": "{F2 05 FF FF}{F1 41}写着“学园前”的公交站牌。\n本来不是武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:708:0",
+  "message_id": "weapon_2C4",
+  "translation": "{F2 05 FF FF}{F1 41}能连盾一同砸碎的棍棒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:709:0",
+  "message_id": "weapon_2C5",
+  "translation": "{F2 05 FF FF}{F1 41}通过增加重量，\n提升破坏力的战锤。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:710:0",
+  "message_id": "weapon_2C6",
+  "translation": "{F2 05 FF FF}{F1 41}有着凶暴破坏力的锤。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:711:0",
+  "message_id": "weapon_2C7",
+  "translation": "{F2 05 FF FF}{F1 41}受到大地之神庇佑的锤。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:712:0",
+  "message_id": "weapon_2C8",
+  "translation": "{F2 05 FF FF}{F1 41}与传说中的杀人魔所挥舞的\n战棍款式相同。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:713:0",
+  "message_id": "weapon_2C9",
+  "translation": "{F2 05 FF FF}{F1 41}能产生穿透坚固铠甲的\n冲击力的锤。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:714:0",
+  "message_id": "weapon_2CA",
+  "translation": "{F2 05 FF FF}{F1 41}结构简单的巨大棍棒。\n沉重难用，却威力强大。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:715:0",
+  "message_id": "weapon_2CB",
+  "translation": "{F2 05 FF FF}{F1 41}前端嵌有多根\n金属尖刺的棍棒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:716:0",
+  "message_id": "weapon_2CC",
+  "translation": "{F2 05 FF FF}{F1 41}挥动装在棍上的铁环\n进行攻击的打击武器。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:717:0",
+  "message_id": "weapon_2CD",
+  "translation": "{F2 05 FF FF}{F1 41}经验尚浅的战士使用的\n较轻战棍。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:718:0",
+  "message_id": "weapon_2CE",
+  "translation": "{F2 05 FF FF}{F1 41}减少空气阻力，\n以便快速出击的棍棒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:719:0",
+  "message_id": "weapon_2CF",
+  "translation": "{F2 05 FF FF}{F1 41}整体由金属制成，\n充满重量感的锤。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:720:0",
+  "message_id": "weapon_2D0",
+  "translation": "{F2 05 FF FF}{F1 41}前端装有带刺铁球，\n增强杀伤力的锤。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:721:0",
+  "message_id": "weapon_2D1",
+  "translation": "{F2 05 FF FF}{F1 41}用球形前端\n殴打对手的战棍。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:722:0",
+  "message_id": "weapon_2D2",
+  "translation": "{F2 05 FF FF}{F1 41}名字意为“放逐”与“驱逐”的\n顶级战锤。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:723:0",
+  "message_id": "weapon_2D3",
+  "translation": "{F2 05 FF FF}{F1 41}据说曾击碎不洁之石的\n铁锤。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:725:0",
+  "message_id": "weapon_2D5",
+  "translation": "{F2 05 FF FF}{F1 41}表面带有突起，\n破坏力出众的铁棒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:726:0",
+  "message_id": "weapon_2D6",
+  "translation": "{F2 05 FF FF}{F1 41}能听到被困冥府的亡魂哀叹，\n外形邪恶的手杖。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:727:0",
+  "message_id": "weapon_2D7",
+  "translation": "{F2 05 FF FF}{F1 41}锤头是大型电击器的战锤。\n能使被击中的对手麻痹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:728:0",
+  "message_id": "weapon_2D8",
+  "translation": "{F2 05 FF FF}{F1 41}能力值减半，\n获得经验变为２倍的战锤。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:729:0",
+  "message_id": "weapon_2D9",
+  "translation": "{F2 05 FF FF}{F1 41}受到冲击便会\n喷出大量气流的战锤。\n{00}"
+ },
+ {
+  "key": "export_base/init/datweaponhelp.bmd.json:730:0",
+  "message_id": "weapon_2DA",
+  "translation": "{F2 05 FF FF}{F1 41}喷出催眠烟雾的战锤。\n{00}"
+ }
+]

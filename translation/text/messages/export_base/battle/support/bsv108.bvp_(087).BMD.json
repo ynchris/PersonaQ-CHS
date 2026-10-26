@@ -1,0 +1,27 @@
+[
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(087).BMD.json:0:0",
+  "message_id": "BTL_MES_H108_088_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 9F 02}恢复了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(087).BMD.json:1:0",
+  "message_id": "BTL_MES_H108_088_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A0 02}攻击力强化！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(087).BMD.json:2:0",
+  "message_id": "BTL_MES_H108_088_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A1 02}防御力强化！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(087).BMD.json:3:0",
+  "message_id": "BTL_MES_H108_088_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A2 02}攻击力和防御力都提升了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(087).BMD.json:4:0",
+  "message_id": "BTL_MES_H108_088_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A3 02}气力恢复！\n{F2 26 00 00}{00}"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/event/e100/e110_050.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 01 01}{F3 06 00 01 00 01}{F2 01 08 01}＞是没见过的学生……\n{F5 C1 14 01 01 01 01 01 47 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_050.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 02 01}{F3 06 00 01 00 01}刚才的反应，应该就是他们！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_050.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 03 01}{F3 06 00 01 00 01}什么人？\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ }
+]

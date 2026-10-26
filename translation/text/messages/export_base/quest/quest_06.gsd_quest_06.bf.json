@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/quest/quest_06.gsd_quest_06.bf.json:3:0",
+  "message_id": "MSG_CANCEL",
+  "translation": "{F2 05 FF FF}{F1 41}取消委托\n“想调配梦幻药水”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/quest/quest_06.gsd_quest_06.bf.json:4:0",
+  "message_id": "MSG_WARNING",
+  "translation": "{F2 05 FF FF}{F1 41}＞说起来，已取得委托要求的\n　{F4 84 04 01 01 01 01 01}……\n{F1 21}"
+ },
+ {
+  "key": "export_base/quest/quest_06.gsd_quest_06.bf.json:4:1",
+  "message_id": "MSG_WARNING",
+  "translation": "{F2 05 FF FF}{F1 41}＞趁还没把它交出去，\n　先去报告比较好……\n{F1 21}{00}"
+ }
+]

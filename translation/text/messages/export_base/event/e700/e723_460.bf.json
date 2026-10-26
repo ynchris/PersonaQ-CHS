@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/event/e700/e723_460.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 29 01 01 01 09 01 04 01}{F5 61 02 01 01 01 01 01 C0 11}我听到小顺的声音\n从那边传来了！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_460.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}大家是不是都在那边呀？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

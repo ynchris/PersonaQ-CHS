@@ -1,0 +1,142 @@
+[
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:0:0",
+  "message_id": "usercmm_sel",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}是{F2 03 01 FF}的{F2 03 01 FF}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:0:1",
+  "message_id": "usercmm_sel",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}不{F2 03 01 FF}需{F2 03 01 FF}要{F2 03 01 FF}{00}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:1:0",
+  "message_id": "usercmm_conf",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}要{F2 03 01 FF}修{F2 03 01 FF}改{F2 03 01 FF}留{F2 03 01 FF}言{F2 03 01 FF}，{F2 03 01 FF}可{F2 03 01 FF}以{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:2:0",
+  "message_id": "usercmm_can_conf",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}不{F2 03 01 FF}修{F2 03 01 FF}改{F2 03 01 FF}留{F2 03 01 FF}言{F2 03 01 FF}，{F2 03 01 FF}可{F2 03 01 FF}以{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:3:0",
+  "message_id": "usercmm_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 3D 01 02 01 01 01 02 01}{F2 03 01 FF}那{F2 03 01 FF}我{F2 03 01 FF}说{F2 03 01 FF}明{F2 03 01 FF}一{F2 03 01 FF}下{F2 03 01 FF}“{F2 03 01 FF}救{F2 03 01 FF}援{F2 03 01 FF}请{F2 03 01 FF}求{F2 03 01 FF}”{F2 03 01 FF}吧{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:3:1",
+  "message_id": "usercmm_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}那{F2 03 01 FF}个{F2 03 01 FF}，{F2 03 01 FF}世{F2 03 01 FF}界{F2 03 01 FF}不{F2 03 01 FF}只{F2 03 01 FF}有{F2 03 01 FF}这{F2 03 01 FF}里{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}据{F2 03 01 FF}说{F2 03 01 FF}还{F2 03 01 FF}有{F2 03 01 FF}很{F2 03 01 FF}多{F2 03 01 FF}和{F2 03 01 FF}这{F2 03 01 FF}里{F2 03 01 FF}相{F2 03 01 FF}似{F2 03 01 FF}的{F2 03 01 FF}世{F2 03 01 FF}界{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:3:2",
+  "message_id": "usercmm_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}而{F2 03 01 FF}且{F2 03 01 FF}，{F2 03 01 FF}那{F2 03 01 FF}些{F2 03 01 FF}世{F2 03 01 FF}界{F2 03 01 FF}也{F2 03 01 FF}有{F2 03 01 FF}“{F2 03 01 FF}不{F2 03 01 FF}是{F2 03 01 FF}你{F2 03 01 FF}的{F2 03 01 FF}你{F2 03 01 FF}”{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}虽{F2 03 01 FF}然{F2 03 01 FF}我{F2 03 01 FF}也{F2 03 01 FF}不{F2 03 01 FF}太{F2 03 01 FF}明{F2 03 01 FF}白{F2 03 01 FF}啦{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:3:3",
+  "message_id": "usercmm_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}所{F2 03 01 FF}以{F2 03 01 FF}，{F2 03 01 FF}在{F2 03 01 FF}电{F2 03 01 FF}视{F2 03 01 FF}里{F2 03 01 FF}遇{F2 03 01 FF}到{F2 03 01 FF}危{F2 03 01 FF}险{F2 03 01 FF}时{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}你{F2 03 01 FF}可{F2 03 01 FF}以{F2 03 01 FF}向{F2 03 01 FF}“{F2 03 01 FF}别{F2 03 01 FF}的{F2 03 01 FF}世{F2 03 01 FF}界{F2 03 01 FF}”{F2 03 01 FF}里{F2 03 01 FF}的{F2 03 01 FF}你{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}发{F2 03 01 FF}送{F2 03 01 FF}救{F2 03 01 FF}援{F2 03 01 FF}请{F2 03 01 FF}求{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:3:4",
+  "message_id": "usercmm_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}然{F2 03 01 FF}后{F2 03 01 FF}，{F2 03 01 FF}如{F2 03 01 FF}果{F2 03 01 FF}“{F2 03 01 FF}别{F2 03 01 FF}的{F2 03 01 FF}世{F2 03 01 FF}界{F2 03 01 FF}”{F2 03 01 FF}里{F2 03 01 FF}的{F2 03 01 FF}你{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}回{F2 03 01 FF}应{F2 03 01 FF}了{F2 03 01 FF}请{F2 03 01 FF}求{F2 03 01 FF}，{F2 03 01 FF}这{F2 03 01 FF}个{F2 03 01 FF}世{F2 03 01 FF}界{F2 03 01 FF}的{F2 03 01 FF}你{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}就{F2 03 01 FF}能{F2 03 01 FF}收{F2 03 01 FF}到{F2 03 01 FF}支{F2 03 01 FF}援{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:3:5",
+  "message_id": "usercmm_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}顺{F2 03 01 FF}便{F2 03 01 FF}说{F2 03 01 FF}一{F2 03 01 FF}下{F2 03 01 FF}，{F2 03 01 FF}发{F2 03 01 FF}送{F2 03 01 FF}救{F2 03 01 FF}援{F2 03 01 FF}请{F2 03 01 FF}求{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}不{F2 03 01 FF}用{F2 03 01 FF}花{F2 03 01 FF}钱{F2 03 01 FF}，{F2 03 01 FF}不{F2 03 01 FF}如{F2 03 01 FF}试{F2 03 01 FF}试{F2 03 01 FF}看{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:3:6",
+  "message_id": "usercmm_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}如{F2 03 01 FF}果{F2 03 01 FF}想{F2 03 01 FF}知{F2 03 01 FF}道{F2 03 01 FF}更{F2 03 01 FF}详{F2 03 01 FF}细{F2 03 01 FF}的{F2 03 01 FF}说{F2 03 01 FF}明{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}再{F2 03 01 FF}问{F2 03 01 FF}我{F2 03 01 FF}，{F2 03 01 FF}我{F2 03 01 FF}就{F2 03 01 FF}告{F2 03 01 FF}诉{F2 03 01 FF}你{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:4:0",
+  "message_id": "usercmm_conf_m",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}将{F2 03 01 FF}修{F2 03 01 FF}改{F2 03 01 FF}留{F2 03 01 FF}言{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}可{F2 03 01 FF}以{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:5:0",
+  "message_id": "usercmm_can_conf_m",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}留{F2 03 01 FF}言{F2 03 01 FF}不{F2 03 01 FF}会{F2 03 01 FF}修{F2 03 01 FF}改{F2 03 01 FF}，{F2 03 01 FF}可{F2 03 01 FF}以{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:6:0",
+  "message_id": "usercmm_tutorial_m",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 23 01 02 01 01 01 02 01}{F2 03 01 FF}明{F2 03 01 FF}白{F2 03 01 FF}了{F2 03 01 FF}，{F2 03 01 FF}下{F2 03 01 FF}面{F2 03 01 FF}就{F2 03 01 FF}为{F2 03 01 FF}您{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}说{F2 03 01 FF}明{F2 03 01 FF}“{F2 03 01 FF}救{F2 03 01 FF}援{F2 03 01 FF}请{F2 03 01 FF}求{F2 03 01 FF}”{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:6:1",
+  "message_id": "usercmm_tutorial_m",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}救{F2 03 01 FF}援{F2 03 01 FF}请{F2 03 01 FF}求{F2 03 01 FF}是{F2 03 01 FF}将{F2 03 01 FF}您{F2 03 01 FF}的{F2 03 01 FF}声{F2 03 01 FF}音{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}传{F2 03 01 FF}达{F2 03 01 FF}给{F2 03 01 FF}“{F2 03 01 FF}别{F2 03 01 FF}的{F2 03 01 FF}世{F2 03 01 FF}界{F2 03 01 FF}”{F2 03 01 FF}的{F2 03 01 FF}功{F2 03 01 FF}能{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:6:2",
+  "message_id": "usercmm_tutorial_m",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}所{F2 03 01 FF}谓{F2 03 01 FF}“{F2 03 01 FF}别{F2 03 01 FF}的{F2 03 01 FF}世{F2 03 01 FF}界{F2 03 01 FF}”{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}是{F2 03 01 FF}与{F2 03 01 FF}您{F2 03 01 FF}此{F2 03 01 FF}刻{F2 03 01 FF}所{F2 03 01 FF}在{F2 03 01 FF}的{F2 03 01 FF}世{F2 03 01 FF}界{F2 03 01 FF}平{F2 03 01 FF}行{F2 03 01 FF}存{F2 03 01 FF}在{F2 03 01 FF}的{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}“{F2 03 01 FF}另{F2 03 01 FF}一{F2 03 01 FF}个{F2 03 01 FF}世{F2 03 01 FF}界{F2 03 01 FF}”{F2 03 01 FF}…{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:6:3",
+  "message_id": "usercmm_tutorial_m",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}您{F2 03 01 FF}发{F2 03 01 FF}出{F2 03 01 FF}的{F2 03 01 FF}救{F2 03 01 FF}援{F2 03 01 FF}请{F2 03 01 FF}求{F2 03 01 FF}会{F2 03 01 FF}跨{F2 03 01 FF}越{F2 03 01 FF}世{F2 03 01 FF}界{F2 03 01 FF}的{F2 03 01 FF}壁{F2 03 01 FF}垒{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}传{F2 03 01 FF}达{F2 03 01 FF}给{F2 03 01 FF}生{F2 03 01 FF}活{F2 03 01 FF}在{F2 03 01 FF}众{F2 03 01 FF}多{F2 03 01 FF}“{F2 03 01 FF}别{F2 03 01 FF}的{F2 03 01 FF}世{F2 03 01 FF}界{F2 03 01 FF}”{F2 03 01 FF}中{F2 03 01 FF}的{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}“{F2 03 01 FF}另{F2 03 01 FF}一{F2 03 01 FF}个{F2 03 01 FF}您{F2 03 01 FF}”{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:6:4",
+  "message_id": "usercmm_tutorial_m",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}救{F2 03 01 FF}援{F2 03 01 FF}请{F2 03 01 FF}求{F2 03 01 FF}无{F2 03 01 FF}需{F2 03 01 FF}付{F2 03 01 FF}费{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}在{F2 03 01 FF}电{F2 03 01 FF}视{F2 03 01 FF}里{F2 03 01 FF}陷{F2 03 01 FF}入{F2 03 01 FF}危{F2 03 01 FF}机{F2 03 01 FF}时{F2 03 01 FF}，{F2 03 01 FF}请{F2 03 01 FF}务{F2 03 01 FF}必{F2 03 01 FF}试{F2 03 01 FF}试{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:6:5",
+  "message_id": "usercmm_tutorial_m",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}若{F2 03 01 FF}您{F2 03 01 FF}需{F2 03 01 FF}要{F2 03 01 FF}进{F2 03 01 FF}一{F2 03 01 FF}步{F2 03 01 FF}的{F2 03 01 FF}说{F2 03 01 FF}明{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}请{F2 03 01 FF}尽{F2 03 01 FF}管{F2 03 01 FF}告{F2 03 01 FF}诉{F2 03 01 FF}我{F2 03 01 FF}，{F2 03 01 FF}不{F2 03 01 FF}必{F2 03 01 FF}客{F2 03 01 FF}气{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:7:0",
+  "message_id": "usercmm_conf2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}要{F2 03 01 FF}修{F2 03 01 FF}改{F2 03 01 FF}留{F2 03 01 FF}言{F2 03 01 FF}…{F2 03 01 FF}可{F2 03 01 FF}以{F2 03 01 FF}吧{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:8:0",
+  "message_id": "usercmm_can_conf2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}不{F2 03 01 FF}修{F2 03 01 FF}改{F2 03 01 FF}留{F2 03 01 FF}言{F2 03 01 FF}…{F2 03 01 FF}可{F2 03 01 FF}以{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:9:0",
+  "message_id": "usercmm_tutorial2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}{F5 86 3D 01 05 01 01 01 02 01}{F2 03 01 FF}啊{F2 03 01 FF}…{F2 03 01 FF}我{F2 03 01 FF}说{F2 03 01 FF}明{F2 03 01 FF}一{F2 03 01 FF}下{F2 03 01 FF}“{F2 03 01 FF}救{F2 03 01 FF}援{F2 03 01 FF}请{F2 03 01 FF}求{F2 03 01 FF}”{F2 03 01 FF}吧{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:9:1",
+  "message_id": "usercmm_tutorial2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}那{F2 03 01 FF}个{F2 03 01 FF}…{F2 03 01 FF}世{F2 03 01 FF}界{F2 03 01 FF}不{F2 03 01 FF}只{F2 03 01 FF}有{F2 03 01 FF}这{F2 03 01 FF}里{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}还{F2 03 01 FF}有{F2 03 01 FF}很{F2 03 01 FF}多{F2 03 01 FF}和{F2 03 01 FF}这{F2 03 01 FF}里{F2 03 01 FF}相{F2 03 01 FF}似{F2 03 01 FF}的{F2 03 01 FF}世{F2 03 01 FF}界{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:9:2",
+  "message_id": "usercmm_tutorial2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}那{F2 03 01 FF}些{F2 03 01 FF}世{F2 03 01 FF}界{F2 03 01 FF}也{F2 03 01 FF}有{F2 03 01 FF}“{F2 03 01 FF}不{F2 03 01 FF}是{F2 03 01 FF}你{F2 03 01 FF}的{F2 03 01 FF}你{F2 03 01 FF}”{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}像{F2 03 01 FF}你{F2 03 01 FF}一{F2 03 01 FF}样{F2 03 01 FF}，{F2 03 01 FF}过{F2 03 01 FF}着{F2 03 01 FF}普{F2 03 01 FF}通{F2 03 01 FF}的{F2 03 01 FF}生{F2 03 01 FF}活{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:9:3",
+  "message_id": "usercmm_tutorial2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}所{F2 03 01 FF}以{F2 03 01 FF}，{F2 03 01 FF}在{F2 03 01 FF}电{F2 03 01 FF}视{F2 03 01 FF}里{F2 03 01 FF}遇{F2 03 01 FF}到{F2 03 01 FF}危{F2 03 01 FF}险{F2 03 01 FF}时{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}你{F2 03 01 FF}可{F2 03 01 FF}以{F2 03 01 FF}向{F2 03 01 FF}“{F2 03 01 FF}别{F2 03 01 FF}的{F2 03 01 FF}世{F2 03 01 FF}界{F2 03 01 FF}”{F2 03 01 FF}里{F2 03 01 FF}的{F2 03 01 FF}你{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}发{F2 03 01 FF}送{F2 03 01 FF}救{F2 03 01 FF}援{F2 03 01 FF}请{F2 03 01 FF}求{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:9:4",
+  "message_id": "usercmm_tutorial2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}然{F2 03 01 FF}后{F2 03 01 FF}…{F2 03 01 FF}如{F2 03 01 FF}果{F2 03 01 FF}“{F2 03 01 FF}别{F2 03 01 FF}的{F2 03 01 FF}世{F2 03 01 FF}界{F2 03 01 FF}”{F2 03 01 FF}里{F2 03 01 FF}的{F2 03 01 FF}你{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}回{F2 03 01 FF}应{F2 03 01 FF}了{F2 03 01 FF}请{F2 03 01 FF}求{F2 03 01 FF}，{F2 03 01 FF}这{F2 03 01 FF}个{F2 03 01 FF}世{F2 03 01 FF}界{F2 03 01 FF}的{F2 03 01 FF}你{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}就{F2 03 01 FF}能{F2 03 01 FF}收{F2 03 01 FF}到{F2 03 01 FF}支{F2 03 01 FF}援{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:9:5",
+  "message_id": "usercmm_tutorial2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}…{F2 03 01 FF}发{F2 03 01 FF}送{F2 03 01 FF}救{F2 03 01 FF}援{F2 03 01 FF}请{F2 03 01 FF}求{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}不{F2 03 01 FF}用{F2 03 01 FF}花{F2 03 01 FF}钱{F2 03 01 FF}，{F2 03 01 FF}你{F2 03 01 FF}先{F2 03 01 FF}试{F2 03 01 FF}试{F2 03 01 FF}看{F2 03 01 FF}吧{F2 03 01 FF}。{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_usercmm.bmd.json:9:6",
+  "message_id": "usercmm_tutorial2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}如{F2 03 01 FF}果{F2 03 01 FF}想{F2 03 01 FF}知{F2 03 01 FF}道{F2 03 01 FF}更{F2 03 01 FF}详{F2 03 01 FF}细{F2 03 01 FF}的{F2 03 01 FF}说{F2 03 01 FF}明{F2 03 01 FF}，{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}再{F2 03 01 FF}问{F2 03 01 FF}我{F2 03 01 FF}，{F2 03 01 FF}我{F2 03 01 FF}会{F2 03 01 FF}告{F2 03 01 FF}诉{F2 03 01 FF}你{F2 03 01 FF}的{F2 03 01 FF}…{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ }
+]

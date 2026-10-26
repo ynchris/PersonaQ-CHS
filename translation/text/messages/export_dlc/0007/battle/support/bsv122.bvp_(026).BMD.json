@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(026).BMD.json:0:0",
+  "message_id": "BTL_MES_H122_027_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1E 01}虽似乎是资料中没有的敌人……\n但想必不会有问题。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(026).BMD.json:1:0",
+  "message_id": "BTL_MES_H122_027_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1F 01}敌人１名。\n不是什么厉害的对手。\n{F2 26 00 00}{00}"
+ }
+]

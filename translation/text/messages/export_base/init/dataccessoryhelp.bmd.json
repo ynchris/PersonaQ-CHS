@@ -1,0 +1,547 @@
+[
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:1:0",
+  "message_id": "accessory_401",
+  "translation": "{F2 05 FF FF}{F1 41}ＨＰ提升２０％。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:3:0",
+  "message_id": "accessory_403",
+  "translation": "{F2 05 FF FF}{F1 41}ＨＰ提升３０％。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:6:0",
+  "message_id": "accessory_406",
+  "translation": "{F2 05 FF FF}{F1 41}ＳＰ增加２０。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:8:0",
+  "message_id": "accessory_408",
+  "translation": "{F2 05 FF FF}{F1 41}ＳＰ增加４０。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:11:0",
+  "message_id": "accessory_40B",
+  "translation": "{F2 05 FF FF}{F1 41}力增加１。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:13:0",
+  "message_id": "accessory_40D",
+  "translation": "{F2 05 FF FF}{F1 41}力增加３。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:15:0",
+  "message_id": "accessory_40F",
+  "translation": "{F2 05 FF FF}{F1 41}力增加５。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:16:0",
+  "message_id": "accessory_410",
+  "translation": "{F2 05 FF FF}{F1 41}魔增加１。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:18:0",
+  "message_id": "accessory_412",
+  "translation": "{F2 05 FF FF}{F1 41}魔增加３。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:20:0",
+  "message_id": "accessory_414",
+  "translation": "{F2 05 FF FF}{F1 41}魔增加５。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:21:0",
+  "message_id": "accessory_415",
+  "translation": "{F2 05 FF FF}{F1 41}耐增加１。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:23:0",
+  "message_id": "accessory_417",
+  "translation": "{F2 05 FF FF}{F1 41}耐增加３。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:25:0",
+  "message_id": "accessory_419",
+  "translation": "{F2 05 FF FF}{F1 41}耐增加５。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:26:0",
+  "message_id": "accessory_41A",
+  "translation": "{F2 05 FF FF}{F1 41}速增加１。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:28:0",
+  "message_id": "accessory_41C",
+  "translation": "{F2 05 FF FF}{F1 41}速增加３。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:30:0",
+  "message_id": "accessory_41E",
+  "translation": "{F2 05 FF FF}{F1 41}速增加５。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:31:0",
+  "message_id": "accessory_41F",
+  "translation": "{F2 05 FF FF}{F1 41}运增加１。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:33:0",
+  "message_id": "accessory_421",
+  "translation": "{F2 05 FF FF}{F1 41}运增加３。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:35:0",
+  "message_id": "accessory_423",
+  "translation": "{F2 05 FF FF}{F1 41}运增加５。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:36:0",
+  "message_id": "accessory_424",
+  "translation": "{F2 05 FF FF}{F1 41}命中率提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:38:0",
+  "message_id": "accessory_426",
+  "translation": "{F2 05 FF FF}{F1 41}命中率大幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:41:0",
+  "message_id": "accessory_429",
+  "translation": "{F2 05 FF FF}{F1 41}暴击概率\n提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:43:0",
+  "message_id": "accessory_42B",
+  "translation": "{F2 05 FF FF}{F1 41}暴击概率\n大幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:46:0",
+  "message_id": "accessory_42E",
+  "translation": "{F2 05 FF FF}{F1 41}行动速度提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:48:0",
+  "message_id": "accessory_430",
+  "translation": "{F2 05 FF FF}{F1 41}行动速度大幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:51:0",
+  "message_id": "accessory_433",
+  "translation": "{F2 05 FF FF}{F1 41}更不容易\n陷入失明。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:53:0",
+  "message_id": "accessory_435",
+  "translation": "{F2 05 FF FF}{F1 41}使失明效果\n无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:56:0",
+  "message_id": "accessory_438",
+  "translation": "{F2 05 FF FF}{F1 41}更不容易\n陷入中毒。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:58:0",
+  "message_id": "accessory_43A",
+  "translation": "{F2 05 FF FF}{F1 41}使中毒效果\n无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:61:0",
+  "message_id": "accessory_43D",
+  "translation": "{F2 05 FF FF}{F1 41}更不容易\n陷入麻痹。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:63:0",
+  "message_id": "accessory_43F",
+  "translation": "{F2 05 FF FF}{F1 41}使麻痹效果\n无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:66:0",
+  "message_id": "accessory_442",
+  "translation": "{F2 05 FF FF}{F1 41}更不容易\n陷入睡眠。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:68:0",
+  "message_id": "accessory_444",
+  "translation": "{F2 05 FF FF}{F1 41}使睡眠效果\n无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:71:0",
+  "message_id": "accessory_447",
+  "translation": "{F2 05 FF FF}{F1 41}更不容易\n陷入混乱。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:73:0",
+  "message_id": "accessory_449",
+  "translation": "{F2 05 FF FF}{F1 41}使混乱效果\n无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:76:0",
+  "message_id": "accessory_44C",
+  "translation": "{F2 05 FF FF}{F1 41}更不容易\n陷入诅咒。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:77:0",
+  "message_id": "accessory_44D",
+  "translation": "{F2 05 FF FF}{F1 41}使诅咒效果\n无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:79:0",
+  "message_id": "accessory_44F",
+  "translation": "{F2 05 FF FF}{F1 41}更不容易\n陷入石化。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:80:0",
+  "message_id": "accessory_450",
+  "translation": "{F2 05 FF FF}{F1 41}使石化效果\n无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:88:0",
+  "message_id": "accessory_458",
+  "translation": "{F2 05 FF FF}{F1 41}更不容易\n陷入力封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:89:0",
+  "message_id": "accessory_459",
+  "translation": "{F2 05 FF FF}{F1 41}使力封印效果\n无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:91:0",
+  "message_id": "accessory_45B",
+  "translation": "{F2 05 FF FF}{F1 41}更不容易\n陷入魔封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:92:0",
+  "message_id": "accessory_45C",
+  "translation": "{F2 05 FF FF}{F1 41}使魔封印效果\n无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:94:0",
+  "message_id": "accessory_45E",
+  "translation": "{F2 05 FF FF}{F1 41}更不容易\n陷入速封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:95:0",
+  "message_id": "accessory_45F",
+  "translation": "{F2 05 FF FF}{F1 41}使速封印效果\n无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:98:0",
+  "message_id": "accessory_462",
+  "translation": "{F2 05 FF FF}{F1 41}受到的火炎属性伤害\n减少。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:100:0",
+  "message_id": "accessory_464",
+  "translation": "{F2 05 FF FF}{F1 41}受到的火炎属性伤害\n大幅减少。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:103:0",
+  "message_id": "accessory_467",
+  "translation": "{F2 05 FF FF}{F1 41}受到的冰冻属性伤害\n减少。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:105:0",
+  "message_id": "accessory_469",
+  "translation": "{F2 05 FF FF}{F1 41}受到的冰冻属性伤害\n大幅减少。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:108:0",
+  "message_id": "accessory_46C",
+  "translation": "{F2 05 FF FF}{F1 41}受到的电击属性伤害\n减少。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:110:0",
+  "message_id": "accessory_46E",
+  "translation": "{F2 05 FF FF}{F1 41}受到的电击属性伤害\n大幅减少。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:113:0",
+  "message_id": "accessory_471",
+  "translation": "{F2 05 FF FF}{F1 41}受到的疾风属性伤害\n减少。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:115:0",
+  "message_id": "accessory_473",
+  "translation": "{F2 05 FF FF}{F1 41}受到的疾风属性伤害\n大幅减少。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:117:0",
+  "message_id": "accessory_475",
+  "translation": "{F2 05 FF FF}{F1 41}因光属性而无法战斗的概率\n降低。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:119:0",
+  "message_id": "accessory_477",
+  "translation": "{F2 05 FF FF}{F1 41}因光属性而无法战斗的概率\n大幅降低。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:122:0",
+  "message_id": "accessory_47A",
+  "translation": "{F2 05 FF FF}{F1 41}因暗属性而无法战斗的概率\n降低。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:124:0",
+  "message_id": "accessory_47C",
+  "translation": "{F2 05 FF FF}{F1 41}因暗属性而无法战斗的概率\n大幅降低。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:142:0",
+  "message_id": "accessory_48E",
+  "translation": "{F2 05 FF FF}{F1 41}ＨＰ增加１０，ＳＰ增加１０，\n所有能力值增加１。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:144:0",
+  "message_id": "accessory_490",
+  "translation": "{F2 05 FF FF}{F1 41}ＨＰ增加３０，ＳＰ增加３０，\n所有能力值增加３。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:146:0",
+  "message_id": "accessory_492",
+  "translation": "{F2 05 FF FF}{F1 41}ＨＰ增加５０，ＳＰ增加５０，\n所有能力值增加５。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:147:0",
+  "message_id": "accessory_493",
+  "translation": "{F2 05 FF FF}{F1 41}ＨＰ加１００，ＳＰ加１００，\n所有能力值增加１０。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:150:0",
+  "message_id": "accessory_496",
+  "translation": "{F2 05 FF FF}{F1 41}受到的斩击、打击、突刺属性伤害\n减少。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:151:0",
+  "message_id": "accessory_497",
+  "translation": "{F2 05 FF FF}{F1 41}更不容易陷入\n魔封印、力封印或速封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:152:0",
+  "message_id": "accessory_498",
+  "translation": "{F2 05 FF FF}{F1 41}ＨＰ增加１００，ＳＰ增加４０。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:153:0",
+  "message_id": "accessory_499",
+  "translation": "{F2 05 FF FF}{F1 41}受到的火炎、冰冻、电击、疾风属性\n伤害减少。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:154:0",
+  "message_id": "accessory_49A",
+  "translation": "{F2 05 FF FF}{F1 41}具有自动绘制地图墙壁功能的\n神奇手镯。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:157:0",
+  "message_id": "accessory_49D",
+  "translation": "{F2 05 FF FF}{F1 41}即使未加入队伍，\n也能获得２５％经验值。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:158:0",
+  "message_id": "accessory_49E",
+  "translation": "{F2 05 FF FF}{F1 41}即使未加入队伍，\n也能获得５０％经验值。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:159:0",
+  "message_id": "accessory_49F",
+  "translation": "{F2 05 FF FF}{F1 41}即使未加入队伍，\n也能获得１００％经验值。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:160:0",
+  "message_id": "accessory_4A0",
+  "translation": "{F2 05 FF FF}{F1 41}能挡下任何子弹的神奇硬币。\n不过，仅限电影之中。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:161:0",
+  "message_id": "accessory_4A1",
+  "translation": "{F2 05 FF FF}{F1 41}ＨＰ增加２０。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:162:0",
+  "message_id": "accessory_4A2",
+  "translation": "{F2 05 FF FF}{F1 41}每场战斗仅一次，即使受到令ＨＰ降至０的\n伤害，也能以ＨＰ１存活。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:163:0",
+  "message_id": "accessory_4A3",
+  "translation": "{F2 05 FF FF}{F1 41}每场战斗仅一次，受到令ＨＰ降至０的\n伤害时，ＨＰ完全恢复。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:164:0",
+  "message_id": "accessory_4A4",
+  "translation": "{F2 05 FF FF}{F1 41}ＨＰ消耗变为１／２。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:165:0",
+  "message_id": "accessory_4A5",
+  "translation": "{F2 05 FF FF}{F1 41}ＳＰ消耗变为１／２。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:166:0",
+  "message_id": "accessory_4A6",
+  "translation": "{F2 05 FF FF}{F1 41}交换力与魔的能力值。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:167:0",
+  "message_id": "accessory_4A7",
+  "translation": "{F2 05 FF FF}{F1 41}交换力与耐的能力值。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:168:0",
+  "message_id": "accessory_4A8",
+  "translation": "{F2 05 FF FF}{F1 41}交换力与速的能力值。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:169:0",
+  "message_id": "accessory_4A9",
+  "translation": "{F2 05 FF FF}{F1 41}交换力与运的能力值。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:170:0",
+  "message_id": "accessory_4AA",
+  "translation": "{F2 05 FF FF}{F1 41}交换魔与耐的能力值。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:171:0",
+  "message_id": "accessory_4AB",
+  "translation": "{F2 05 FF FF}{F1 41}交换魔与速的能力值。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:172:0",
+  "message_id": "accessory_4AC",
+  "translation": "{F2 05 FF FF}{F1 41}交换魔与运的能力值。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:173:0",
+  "message_id": "accessory_4AD",
+  "translation": "{F2 05 FF FF}{F1 41}交换耐与速的能力值。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:174:0",
+  "message_id": "accessory_4AE",
+  "translation": "{F2 05 FF FF}{F1 41}交换耐与运的能力值。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:175:0",
+  "message_id": "accessory_4AF",
+  "translation": "{F2 05 FF FF}{F1 41}交换速与运的能力值。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:176:0",
+  "message_id": "accessory_4B0",
+  "translation": "{F2 05 FF FF}{F1 41}对火炎、冰冻、疾风、电击属性攻击的\n闪避率提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:177:0",
+  "message_id": "accessory_4B1",
+  "translation": "{F2 05 FF FF}{F1 41}对斩击、打击、突刺属性攻击的\n闪避率提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:178:0",
+  "message_id": "accessory_4B2",
+  "translation": "{F2 05 FF FF}{F1 41}对所有攻击的闪避率提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:179:0",
+  "message_id": "accessory_4B3",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n火炎属性伤害无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:180:0",
+  "message_id": "accessory_4B4",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n冰冻属性伤害无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:181:0",
+  "message_id": "accessory_4B5",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n疾风属性伤害无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:182:0",
+  "message_id": "accessory_4B6",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n电击属性伤害无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:183:0",
+  "message_id": "accessory_4B7",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n光属性的无法战斗效果无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:184:0",
+  "message_id": "accessory_4B8",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n暗属性的无法战斗效果无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:185:0",
+  "message_id": "accessory_4B9",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n斩击属性伤害无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:186:0",
+  "message_id": "accessory_4BA",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n突刺属性伤害无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:187:0",
+  "message_id": "accessory_4BB",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n破破坏属性伤害无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:188:0",
+  "message_id": "accessory_4BC",
+  "translation": "{F2 05 FF FF}{F1 41}使万能属性以外的伤害\n无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:189:0",
+  "message_id": "accessory_4BD",
+  "translation": "{F2 05 FF FF}{F1 41}使所有异常状态无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:190:0",
+  "message_id": "accessory_4BE",
+  "translation": "{F2 05 FF FF}{F1 41}交换ＨＰ与ＳＰ的最大值。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:191:0",
+  "message_id": "accessory_4BF",
+  "translation": "{F2 05 FF FF}{F1 41}编入了玲的发饰的项圈。\n提升所有能力值。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:192:0",
+  "message_id": "accessory_4C0",
+  "translation": "{F2 05 FF FF}{F1 41}使能力值减半，\n但获得的经验值变为２倍的护腕。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:193:0",
+  "message_id": "accessory_4C1",
+  "translation": "{F2 05 FF FF}{F1 41}耐增加３，运增加３。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:194:0",
+  "message_id": "accessory_4C2",
+  "translation": "{F2 05 FF FF}{F1 41}力增加３，魔增加３。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:195:0",
+  "message_id": "accessory_4C3",
+  "translation": "{F2 05 FF FF}{F1 41}ＨＰ提升１５％，速增加３。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:196:0",
+  "message_id": "accessory_4C4",
+  "translation": "{F2 05 FF FF}{F1 41}能使用“神圣加护”的\n粉红色手镯。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:197:0",
+  "message_id": "accessory_4C5",
+  "translation": "{F2 05 FF FF}{F1 41}能使用“专心致志”的\n黑色耳环。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:198:0",
+  "message_id": "accessory_4C6",
+  "translation": "{F2 05 FF FF}{F1 41}能使用“蓄力”的\n蓝色指环。\n{00}"
+ },
+ {
+  "key": "export_base/init/dataccessoryhelp.bmd.json:199:0",
+  "message_id": "accessory_4C7",
+  "translation": "{F2 05 FF FF}{F1 41}能使用“龙之咆哮”的\n白色腰带。\n{00}"
+ }
+]

@@ -1,0 +1,237 @@
+[
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:1:0",
+  "message_id": "quest_explain_001",
+  "translation": "{F2 05 FF FF}{F1 41}讨伐\n请击败“不可思议之国的你”的\nＦ．Ｏ．Ｅ扑克牌士兵。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:2:0",
+  "message_id": "quest_explain_002",
+  "translation": "{F2 05 FF FF}{F1 41}校园漫步\n想和小熊进行“以物易物对决”，\n让玲吃到美味的食物。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:3:0",
+  "message_id": "quest_explain_003",
+  "translation": "{F2 05 FF FF}{F1 41}迷宫探索\n请从“联谊咖啡厅”第１场的墙上，\n取得射程较远的箭。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:4:0",
+  "message_id": "quest_explain_004",
+  "translation": "{F2 05 FF FF}{F1 41}校园漫步\n请推理并指出\n校园盗窃事件的犯人。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:5:0",
+  "message_id": "quest_explain_005",
+  "translation": "{F2 05 FF FF}{F1 41}迷宫探索\n请在“联谊咖啡厅”中，\n寻找颜色不同的心形。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:6:0",
+  "message_id": "quest_explain_006",
+  "translation": "{F2 05 FF FF}{F1 41}收集素材\n请从“联谊咖啡厅”的阴影身上，\n获得蛇皮素材。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:7:0",
+  "message_id": "quest_explain_007",
+  "translation": "{F2 05 FF FF}{F1 41}讨伐\n请击败“不可思议之国的你”\n最终章的阴影，并调查深处。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:8:0",
+  "message_id": "quest_explain_008",
+  "translation": "{F2 05 FF FF}{F1 41}校园漫步\nＸ先生想举办茶会，\n希望你帮忙邀请女生们。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:9:0",
+  "message_id": "quest_explain_009",
+  "translation": "{F2 05 FF FF}{F1 41}迷宫探索\n请在“联谊咖啡厅”中，\n找到迷情药。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:10:0",
+  "message_id": "quest_explain_010",
+  "translation": "{F2 05 FF FF}{F1 41}讨伐\n请到“联谊咖啡厅”第３场的房间，\n让我测量各位的实力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:11:0",
+  "message_id": "quest_explain_011",
+  "translation": "{F2 05 FF FF}{F1 41}校园漫步\n闲得快死了，陪我玩。\n一起逛文化祭吧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:12:0",
+  "message_id": "quest_explain_012",
+  "translation": "{F2 05 FF FF}{F1 41}讨伐\n到“放学后的恶灵俱乐部”第壹怪，\n进行连续与阴影战斗的特训。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:13:0",
+  "message_id": "quest_explain_013",
+  "translation": "{F2 05 FF FF}{F1 41}迷宫探索\n“放学后的恶灵俱乐部”第壹怪，\n请打开音乐教室那扇打不开的门。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:14:0",
+  "message_id": "quest_explain_014",
+  "translation": "{F2 05 FF FF}{F1 41}迷宫探索\n请到“放学后的恶灵俱乐部”第贰怪，\n取得地狱奶嘴。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:15:0",
+  "message_id": "quest_explain_015",
+  "translation": "{F2 05 FF FF}{F1 41}校园漫步\n女生们开始煮火锅了！\n快阻止她们暴走！！\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:16:0",
+  "message_id": "quest_explain_016",
+  "translation": "{F2 05 FF FF}{F1 41}迷宫探索\n要在“放学后的恶灵俱乐部”中，\n靠气味找到某样东西熊！\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:17:0",
+  "message_id": "quest_explain_017",
+  "translation": "{F2 05 FF FF}{F1 41}讨伐\n请击败“联谊咖啡厅”终成眷属层\n的阴影，并调查深处。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:18:0",
+  "message_id": "quest_explain_018",
+  "translation": "{F2 05 FF FF}{F1 41}收集素材\n请从“放学后的恶灵俱乐部”的\n阴影身上，获得邪眼素材。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:19:0",
+  "message_id": "quest_explain_019",
+  "translation": "{F2 05 FF FF}{F1 41}迷宫探索\n请创造人格面具“獬豸”，\n并展示给我看。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:20:0",
+  "message_id": "quest_explain_020",
+  "translation": "{F2 05 FF FF}{F1 41}迷宫探索\n请在“放学后的恶灵俱乐部”中，\n找到泻药并带回来。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:21:0",
+  "message_id": "quest_explain_021",
+  "translation": "{F2 05 FF FF}{F1 41}讨伐\n到“放学后的恶灵俱乐部”第参怪，\n在房间里让我测量各位的实力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:22:0",
+  "message_id": "quest_explain_022",
+  "translation": "{F2 05 FF FF}{F1 41}迷宫探索\n请寻找藏在“放学后的恶灵俱乐部”\n第肆怪的秘密留言。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:23:0",
+  "message_id": "quest_explain_023",
+  "translation": "{F2 05 FF FF}{F1 41}校园漫步\n请陪同姐姐和我，\n试着让我们两个满意。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:24:0",
+  "message_id": "quest_explain_024",
+  "translation": "{F2 05 FF FF}{F1 41}迷宫探索\n想在“稻羽乡土展”第一夜，\n带小虎散散步…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:25:0",
+  "message_id": "quest_explain_025",
+  "translation": "{F2 05 FF FF}{F1 41}校园漫步\n问出善想要的东西，\n为准备惊喜礼物作参考吧！\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:26:0",
+  "message_id": "quest_explain_026",
+  "translation": "{F2 05 FF FF}{F1 41}迷宫探索\n请在“稻羽乡土展”中，\n找到祭典外褂。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:27:0",
+  "message_id": "quest_explain_027",
+  "translation": "{F2 05 FF FF}{F1 41}收集素材\n去向迪奥先生打听，\n收集制作项圈所需的素材吧！\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:28:0",
+  "message_id": "quest_explain_028",
+  "translation": "{F2 05 FF FF}{F1 41}讨伐\n请打开“稻羽乡土展”第二夜的宝箱，\n赢得与阴影的连续战斗。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:29:0",
+  "message_id": "quest_explain_029",
+  "translation": "{F2 05 FF FF}{F1 41}讨伐\n请击败“放学后的恶灵俱乐部”\n最终怪的阴影，并调查深处。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:30:0",
+  "message_id": "quest_explain_030",
+  "translation": "{F2 05 FF FF}{F1 41}迷宫探索\n请在“稻羽乡土展”第三夜，\n找到我放置的中奖抽奖券。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:31:0",
+  "message_id": "quest_explain_031",
+  "translation": "{F2 05 FF FF}{F1 41}收集素材\n请从“稻羽乡土展”的阴影身上，\n获得尾巴素材。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:32:0",
+  "message_id": "quest_explain_032",
+  "translation": "{F2 05 FF FF}{F1 41}校园漫步\n我要给天田上课，\n可心里实在没底，想请你帮忙…\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:33:0",
+  "message_id": "quest_explain_033",
+  "translation": "{F2 05 FF FF}{F1 41}讨伐\n请到“稻羽乡土展”第三夜的房间，\n让我测量各位的实力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:34:0",
+  "message_id": "quest_explain_034",
+  "translation": "{F2 05 FF FF}{F1 41}迷宫探索\n请到“稻羽乡土展”第四夜，\n拔出插在地板上的试制箭。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:35:0",
+  "message_id": "quest_explain_035",
+  "translation": "{F2 05 FF FF}{F1 41}收集素材\n请从“时钟塔”的阴影身上，\n获得齿轮素材。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:36:0",
+  "message_id": "quest_explain_036",
+  "translation": "{F2 05 FF FF}{F1 41}迷宫探索\n请从“时钟塔”１层至３层的\n宝箱中，选出正确的一个。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:37:0",
+  "message_id": "quest_explain_037",
+  "translation": "{F2 05 FF FF}{F1 41}迷宫探索\n善好像在时钟塔发现了什么。\n有点在意，能帮忙解决吗？\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:38:0",
+  "message_id": "quest_explain_038",
+  "translation": "{F2 05 FF FF}{F1 41}讨伐\n请击败“稻羽乡土展”最终夜\n的阴影，并调查深处。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:39:0",
+  "message_id": "quest_explain_039",
+  "translation": "{F2 05 FF FF}{F1 41}迷宫探索\n请取得“时钟塔”６层\n上锁宝箱中的物品。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:40:0",
+  "message_id": "quest_explain_040",
+  "translation": "{F2 05 FF FF}{F1 41}讨伐\n请在“时钟塔”８层的房间里，\n与我认真交手，并战胜我。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:41:0",
+  "message_id": "quest_explain_041",
+  "translation": "{F2 05 FF FF}{F1 41}收集素材\n请从“时钟塔”的稀有阴影身上，\n获得荣华碎片。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:42:0",
+  "message_id": "quest_explain_042",
+  "translation": "{F2 05 FF FF}{F1 41}讨伐\n在“不可思议之国的你”第３章，\n让我见识两位不羁者的力量。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:43:0",
+  "message_id": "quest_explain_043",
+  "translation": "{F2 05 FF FF}{F1 41}讨伐\n请击败“时钟塔”的\nＦ．Ｏ．Ｅ收割者。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:44:0",
+  "message_id": "quest_explain_044",
+  "translation": "{F2 05 FF FF}{F1 41}讨伐\n请在天鹅绒房间，\n战胜我们三姐妹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:45:0",
+  "message_id": "quest_explain_045",
+  "translation": "{F2 05 FF FF}{F1 41}讨伐\n请击败“联谊咖啡厅”的\nＦ．Ｏ．Ｅ爱之天使。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:46:0",
+  "message_id": "quest_explain_046",
+  "translation": "{F2 05 FF FF}{F1 41}讨伐\n请击败“放学后的恶灵俱乐部”的\nＦ．Ｏ．Ｅ陈旧的人偶。\n{00}"
+ },
+ {
+  "key": "export_base/init/datquestexplain_p4.bmd.json:47:0",
+  "message_id": "quest_explain_047",
+  "translation": "{F2 05 FF FF}{F1 41}讨伐\n请击败“稻羽乡土展”的\nＦ．Ｏ．Ｅ祭典男。\n{00}"
+ }
+]

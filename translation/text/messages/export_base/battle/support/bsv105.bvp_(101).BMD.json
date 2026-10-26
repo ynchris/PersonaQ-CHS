@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(101).BMD.json:0:0",
+  "message_id": "BTL_MES_H105_102_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B5 02}冲呀冲呀！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(101).BMD.json:1:0",
+  "message_id": "BTL_MES_H105_102_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B6 02}上啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(101).BMD.json:2:0",
+  "message_id": "BTL_MES_H105_102_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 B7 02}加油！\n{F2 26 00 00}{00}"
+ }
+]

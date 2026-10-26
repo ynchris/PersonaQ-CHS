@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(105).BMD.json:0:0",
+  "message_id": "BTL_MES_H121_106_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DC 02}队长大人……竟变成这样……\n实在出乎意料……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(105).BMD.json:1:0",
+  "message_id": "BTL_MES_H121_106_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DD 02}队长大人……您难道是\n会在这种地方结束的人吗？\n{F2 26 00 00}{00}"
+ }
+]

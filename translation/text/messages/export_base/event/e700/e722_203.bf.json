@@ -1,0 +1,47 @@
+[
+ {
+  "key": "export_base/event/e700/e722_203.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞前方的道路被封锁了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_203.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 04 01 01 01 01 01 03 01}迷途的小羊们登场了。\n在新的楼层，也向你们问好。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_203.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}请等一下。\n您究竟是什么人？\n{F2 23 79 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_203.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 04 01 01 01 01 01 03 01}你们闯过了死亡的第二题，\n仍然继续前进，堪称勇者。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_203.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 04 01 01 01 01 01 03 01}为表彰这份荣誉，\n我准备了特别的第三题。\n做好觉悟再回答吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_203.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 07 01}{F5 C1 03 01 01 01 01 01 0A 01}……不行。\n根本无法对话。\n{F2 23 79 01}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_203.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}也就是说，除了回答问题，\n没有其他前进的办法了吗……\n{F2 23 79 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_203.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 04 01 01 01 01 01 03 01}那么，第三题。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_203.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 04 01 01 01 01 01 03 01}看来你们已经不需要开场白了。\n那么，难关第三题来了哦。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

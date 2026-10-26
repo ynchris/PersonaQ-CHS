@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:0:0",
+  "message_id": "BTL_MES_H123_066_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 29 02}副队长大人，请小心。\n现在无法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:1:0",
+  "message_id": "BTL_MES_H123_066_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 20 02}副队长大人现在无法回避或逃跑。\n请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:2:0",
+  "message_id": "BTL_MES_H123_066_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2A 02}花村大人的速度被封印了。\n无法回避或逃跑，真令人失望。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:3:0",
+  "message_id": "BTL_MES_H123_066_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2B 02}里中大人的速度被封印了。\n现在无法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:4:0",
+  "message_id": "BTL_MES_H123_066_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2C 02}天城大人的速度被封印了。\n现在无法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:6:0",
+  "message_id": "BTL_MES_H123_066_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2D 02}巽大人的速度被封印了。\n现在无法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:7:0",
+  "message_id": "BTL_MES_H123_066_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2F 02}白钟大人的速度被封印了。\n现在无法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:8:0",
+  "message_id": "BTL_MES_H123_066_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2E 02}小熊大人的速度被封印了。\n现在无法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:9:0",
+  "message_id": "BTL_MES_H123_066_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 21 02}岳羽大人，请小心。\n现在无法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:10:0",
+  "message_id": "BTL_MES_H123_066_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 22 02}伊织大人的速度被封印了。\n现在无法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:11:0",
+  "message_id": "BTL_MES_H123_066_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 23 02}真田大人的速度被封印了。\n现在无法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:12:0",
+  "message_id": "BTL_MES_H123_066_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 24 02}桐条大人的速度被封印了。\n现在无法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:14:0",
+  "message_id": "BTL_MES_H123_066_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 27 02}埃癸斯大人的速度被封印了。\n现在无法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:15:0",
+  "message_id": "BTL_MES_H123_066_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 25 02}天田大人的速度被封印了。\n现在无法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:16:0",
+  "message_id": "BTL_MES_H123_066_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 26 02}虎狼丸大人的速度被封印了。\n现在无法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:17:0",
+  "message_id": "BTL_MES_H123_066_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 28 02}荒垣大人的速度被封印了。\n现在无法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:18:0",
+  "message_id": "BTL_MES_H123_066_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 30 02}善大人和玲大人的速度被封印了。\n现在无法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:19:0",
+  "message_id": "BTL_MES_H123_066_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 31 02}善大人的速度被封印了。\n现在无法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:20:0",
+  "message_id": "BTL_MES_H123_066_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1F 02}队长大人的速度被封印了。\n现在无法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(065).BMD.json:21:0",
+  "message_id": "BTL_MES_H123_066_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1E 02}队长大人的速度被封印了。\n现在无法回避或逃跑。\n{F2 26 00 00}{00}"
+ }
+]

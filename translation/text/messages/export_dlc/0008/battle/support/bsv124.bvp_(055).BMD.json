@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_056_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 64 01}副队长没什么体力了。\n帮他恢复一下吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_056_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5B 01}哇，副队长伤痕累累……\n谁快帮他恢复一下啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_056_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 65 01}阳介是不是很不妙？\n都伤痕累累了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:3:0",
+  "message_id": "BTL_MES_H124_056_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 66 01}千枝的体力没问题吗？\n少得也太离谱了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:4:0",
+  "message_id": "BTL_MES_H124_056_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 67 01}雪子的体力太少了。\n恢复一下吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:6:0",
+  "message_id": "BTL_MES_H124_056_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 68 01}完二受伤太重了。\n那样没问题吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:7:0",
+  "message_id": "BTL_MES_H124_056_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6A 01}直斗的体力太少了。\n帮她恢复一下啊。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:8:0",
+  "message_id": "BTL_MES_H124_056_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 69 01}咦！？小熊摇摇晃晃的。\n体力是不是很危险？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:9:0",
+  "message_id": "BTL_MES_H124_056_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5C 01}等等……由加莉，没事吧？\n体力很危险啊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:10:0",
+  "message_id": "BTL_MES_H124_056_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5D 01}顺平都站不稳了。\n不管他没问题吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:11:0",
+  "message_id": "BTL_MES_H124_056_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5E 01}真田的体力太少了。\n太离谱了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:12:0",
+  "message_id": "BTL_MES_H124_056_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5F 01}美鹤……没事吧？\n体力也太少了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:14:0",
+  "message_id": "BTL_MES_H124_056_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 62 01}埃癸斯的体力太少了。\n已经很危险了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:15:0",
+  "message_id": "BTL_MES_H124_056_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 60 01}等等，乾的体力快见底了！\n已经站在死亡边缘了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:16:0",
+  "message_id": "BTL_MES_H124_056_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 61 01}谁快治治狗狗啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:17:0",
+  "message_id": "BTL_MES_H124_056_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 63 01}荒垣没事吧？\n体力……好少。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:18:0",
+  "message_id": "BTL_MES_H124_056_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6B 01}善和玲的体力很危险。\n喂，快恢复一下啊。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:19:0",
+  "message_id": "BTL_MES_H124_056_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6C 01}善的体力很少。\n……太危险了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:20:0",
+  "message_id": "BTL_MES_H124_056_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5A 01}等等！你受伤太重了。\n快恢复啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(055).BMD.json:21:0",
+  "message_id": "BTL_MES_H124_056_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 59 01}哇！？队长，\n伤得很重啊！快恢复！\n{F2 26 00 00}{00}"
+ }
+]

@@ -1,0 +1,92 @@
+[
+ {
+  "key": "export_base/event/e000/e000_010.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 19 01 01 01 01 01 01 01}{F5 86 03 01 08 01 03 01 04 01}{F5 C1 19 01 01 01 01 01 01 01}{F5 86 22 01 03 01 09 01 02 01}{F5 61 02 01 01 01 01 01 02 01}欢迎来到天鹅绒房间……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_010.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 09 01 01 01}{F5 61 02 01 01 01 01 01 03 01}这里是梦境与现实、\n精神与物质之间的夹缝……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_010.bf.json:1:1",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}真是难得呢。\n您竟会在主人不在的时候\n来到这里……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_010.bf.json:2:0",
+  "message_id": "MSG_0003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 05 01 09 01 01 01}{F5 61 02 01 01 01 01 01 05 01}……咦？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_010.bf.json:2:1",
+  "message_id": "MSG_0003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 06 01}是我的错觉……吗？\n总觉得以前似乎也有过\n这样的对话……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_010.bf.json:3:0",
+  "message_id": "MSG_0004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 09 01 01 01}{F5 61 02 01 01 01 01 01 07 01}是啊……那是在\n不久之前，一个台风之夜……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_010.bf.json:3:1",
+  "message_id": "MSG_0004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}发生了某起“事件”，\n您遇见了“某个人”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_010.bf.json:3:2",
+  "message_id": "MSG_0004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}这样的念头，突然掠过了我的脑海……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_010.bf.json:3:3",
+  "message_id": "MSG_0004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 05 01 09 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}那是我的梦……吗？\n还是说……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_010.bf.json:3:4",
+  "message_id": "MSG_0004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 22 01 06 01 09 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_010.bf.json:4:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞听到伊丽莎白的话，\n　脑海中掠过了一个声音……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_010.bf.json:5:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0F 01}{F5 C1 04 01 01 01 01 01 03 01}总有一天，还会再见。\n……一定会的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_010.bf.json:6:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_010.bf.json:6:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这个声音是……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_010.bf.json:6:2",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_010.bf.json:7:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 08 01 03 01 04 01}{F5 86 22 01 01 01 09 01 02 01}{F5 61 02 01 01 01 01 01 0C 01}有件事，我想郑重地\n向您请教。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_010.bf.json:7:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0D 01}在那个台风之夜发生的“某起事件”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_010.bf.json:7:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0E 01}您遇见的“某个人”，\n您还记得那个人的名字吗？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

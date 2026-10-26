@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_base/event/e800/e823_831.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 17 0B}似乎是新类型的阴影。\n一定……很强。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_831.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 B7 05}{F5 C1 03 01 01 01 01 01 0A 01}嚯——\n这家伙块头可真够大的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_831.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 2D 0B}{F5 C1 03 01 01 01 01 01 07 01}啊，还有！\n我看到里面有个奇怪的地方。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_831.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 07 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}也许就是伊丽莎白小姐说的\n那处奇异空间……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_831.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 6A 05}好嘞！\n看我大干一场！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e823_831.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 05 01 65 01 01 01}{F5 61 02 01 01 01 01 01 1C 0B}要战斗的话，请小心！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

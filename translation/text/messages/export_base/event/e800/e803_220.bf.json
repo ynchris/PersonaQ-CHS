@@ -1,0 +1,742 @@
+[
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞美食广场……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞美鹤和顺平摊开了笔记本。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 02 01 01 01 02 01}{F5 86 01 01 02 01 01 01 04 01}{F5 86 0E 01 0B 01 02 01 07 01}{F5 61 02 01 01 01 01 01 F5 09}你来了啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:2:0",
+  "message_id": "MSG_0012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……那么，伊织，怎么样？\n课本上的范围我都讲过一遍了，\n理解了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 C0 08}{F5 C1 03 01 01 01 01 01 07 01}……不可能啊！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:3:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0B 01}我要是有那种能一下记住\n咒语似的公式的脑子，\n就不用在这里请您教我了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 0A}{F5 C1 03 01 01 01 01 01 04 01}别破罐子破摔……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 88 08}{F5 C1 03 01 01 01 01 01 0A 01}而且这里正在办文化祭啊？\n也太不适合学习了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 0E 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1F 0A}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 A8 08}{F5 C1 03 01 01 01 01 01 07 01}啊，骗、骗您的啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3D 0A}……说得也是。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 03 01}{F5 86 0C 01 04 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 05 01}诶？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}伊织。\n换一种教学方式吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:10:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 22 0A}难得是文化祭。\n把它当成问答游戏之类的吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}游戏？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 4E 0A}游戏需要对手呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:12:1",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0B 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F1 81}。\n就拜托你了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:13:0",
+  "message_id": "SEL_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}交给我吧{F5 47 02 01 01 01 03 01 01 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:13:1",
+  "message_id": "SEL_012",
+  "translation": "{F2 05 FF FF}{F1 41}没什么自信{F5 47 02 01 01 01 07 01 01 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 21 0A}呵呵……真可靠。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:15:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 16 0A}{F5 C1 04 01 01 01 01 01 07 01}那你也在这里学会吧。\n你的考试范围和伊织一样吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:16:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 0E 01 01 01 01 01 07 01}{F5 61 02 01 01 01 01 01 01 01}一共３道题。\n都是４选１，但不抢答。\n可以慢慢想。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:16:1",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 22 0A}答对更多题目的人获胜。\n我会给出你们想要的奖品。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:17:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 13 09}哦哦哦，好嘞——！\n我绝对不会输！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:18:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞要和顺平展开问答对决了……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:19:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3D 0A}第１题……开始之前。\n伊织，考试范围是什么？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:20:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 03 01 01 01}{F5 61 02 01 01 01 01 01 83 08}呃，历史是……战国时代。\n不过小野老师一直都在讲战国。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:20:1",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}战国时代平民的文化什么的……\n啊，说过什么祭典、什么舞蹈来着……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:21:0",
+  "message_id": "MSG_0192",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 88 08}{F5 C1 03 01 01 01 01 01 04 01}完全……没兴趣……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:22:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 4E 0A}那首先，\n就让你对文化产生兴趣吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:23:0",
+  "message_id": "MSG_0202",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}第１题。\n各个国家和地区的祭典形式多样，\n也有令人惊讶的内容。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:23:1",
+  "message_id": "MSG_0202",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}下面我会举出４种祭典。\n其中３种我参加过，\n还有１种是我临时编造的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:23:2",
+  "message_id": "MSG_0202",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 3D 0A}那么，哪一种是我临时想出来的、\n“不存在的祭典”呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:24:0",
+  "message_id": "SEL_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}围着基督的坟墓跳舞{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:24:1",
+  "message_id": "SEL_021",
+  "translation": "{F2 05 FF FF}{F1 41}发射自制火箭{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:24:2",
+  "message_id": "SEL_021",
+  "translation": "{F2 05 FF FF}{F1 41}喝下１００升水{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:24:3",
+  "message_id": "SEL_021",
+  "translation": "{F2 05 FF FF}{F1 41}５秒内结束{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:25:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 E2 08}我选５秒内结束的祭典。\n那根本没意义吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:26:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 22 0A}哼……\n两个人都答错了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:27:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 86 08}{F5 C1 03 01 01 01 01 01 01 01}诶，真的！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:28:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}答案是喝下１００升水的祭典。\n世界再大，也不会有这么危险的祭典吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:28:1",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}……大概。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:29:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞双方都是０分……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:30:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 E2 08}我选５秒内结束的祭典。\n那根本没意义吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:31:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 56 0A}{F1 81}，答对了。\n世界再大，也不会有\n喝下１００升水这种祭典吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:32:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 86 08}{F5 C1 03 01 01 01 01 01 01 01}诶，真的！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:33:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞获得了１分！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:34:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 E2 08}我也选５秒内结束的祭典。\n那根本没意义吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:35:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 22 0A}哼……\n两个人都答错了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:36:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 86 08}{F5 C1 03 01 01 01 01 01 01 01}诶，真的！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:37:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}答案是喝下１００升水的祭典。\n世界再大，也不会有这么危险的祭典吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:37:1",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}……大概。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:38:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞双方都是０分……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:39:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 88 11}{F5 C1 03 01 01 01 01 01 0B 01}话说，其他祭典真的存在？\n而且您还参加过！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:40:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 21 0A}我和父亲一起受邀参加的……\n这也是常有的事。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:41:0",
+  "message_id": "MSG_0372",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 65 0A}怎么样？\n说起文化，往往让人觉得严肃枯燥，\n但归根结底就是人们的生活。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:41:1",
+  "message_id": "MSG_0372",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}是不是稍微觉得亲近一点了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:42:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 03 01 01 01}{F5 61 02 01 01 01 01 01 84 08}{F5 C1 03 01 01 01 01 01 0A 01}算是吧……\n奇怪祭典的事，我倒是弄明白了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:43:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}祭典与文化、宗教、历史、地理……\n乃至社会学的各个方面相通。\n掌握这些知识总没有坏处。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:44:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 B4 08}原来如此……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:45:0",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}那么，第２题。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:45:1",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}一般认为夏秋两季祭典较多。\n夏季多为祈求健康，\n毕竟过去夏季容易发生饥荒。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:45:2",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 3D 0A}那么，秋季举行的祭典，\n一般以什么为目的？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:46:0",
+  "message_id": "SEL_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}祈求天气安稳{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:46:1",
+  "message_id": "SEL_042",
+  "translation": "{F2 05 FF FF}{F1 41}感谢五谷丰收{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:46:2",
+  "message_id": "SEL_042",
+  "translation": "{F2 05 FF FF}{F1 41}做好入冬的觉悟{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:46:3",
+  "message_id": "SEL_042",
+  "translation": "{F2 05 FF FF}{F1 41}惋惜即将过去的夏天{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:47:0",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 C8 08}感谢五谷丰收吧。\n毕竟都说秋天是收获的季节嘛。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:48:0",
+  "message_id": "MSG_044",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 22 0A}哼……\n伊织，答对了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:49:0",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 85 08}{F5 C1 03 01 01 01 01 01 01 01}诶，真的！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:50:0",
+  "message_id": "MSG_046",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}正如伊织所说，秋天是收获的季节。\n人们会把收获的食物取一部分献给神明。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:50:1",
+  "message_id": "MSG_046",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}并且祈愿来年也能丰收，\n因此举办祭典。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:51:0",
+  "message_id": "MSG_047",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 B3 08}哦——哦——哦——。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:52:0",
+  "message_id": "MSG_048",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞顺平获得了１分……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:53:0",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 C8 08}我也选感谢五谷丰收。\n毕竟都说秋天是收获的季节嘛。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:54:0",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 8F 0A}精彩！\n两个人都答对了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:55:0",
+  "message_id": "MSG_051",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 85 08}{F5 C1 03 01 01 01 01 01 01 01}诶，真的！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:56:0",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}正如伊织所说，秋天是收获的季节。\n人们会把收获的食物取一部分献给神明。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:56:1",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}并且祈愿来年也能丰收，\n因此举办祭典。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:57:0",
+  "message_id": "MSG_053",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 B3 08}哦——哦——哦——。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:58:0",
+  "message_id": "MSG_054",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞和顺平一起，\n各获得了１分！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:59:0",
+  "message_id": "MSG_055",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 C8 08}感谢五谷丰收吧。\n毕竟都说秋天是收获的季节嘛。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:60:0",
+  "message_id": "MSG_056",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 22 0A}哼……\n伊织，答对了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:61:0",
+  "message_id": "MSG_057",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 85 08}{F5 C1 03 01 01 01 01 01 01 01}诶，真的！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:62:0",
+  "message_id": "MSG_058",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}正如伊织所说，秋天是收获的季节。\n人们会把收获的食物取一部分献给神明。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:62:1",
+  "message_id": "MSG_058",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}并且祈愿来年也能丰收，\n因此举办祭典。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:63:0",
+  "message_id": "MSG_059",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 B3 08}哦——哦——哦——。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:64:0",
+  "message_id": "MSG_060",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞顺平获得了１分……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:65:0",
+  "message_id": "MSG_061",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 C8 08}感谢五谷丰收吧。\n毕竟都说秋天是收获的季节嘛。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:66:0",
+  "message_id": "MSG_062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 22 0A}哼……\n伊织，答对了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:67:0",
+  "message_id": "MSG_063",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 85 08}{F5 C1 03 01 01 01 01 01 01 01}诶，真的！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:68:0",
+  "message_id": "MSG_064",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}正如伊织所说，秋天是收获的季节。\n人们会把收获的食物取一部分献给神明。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:68:1",
+  "message_id": "MSG_064",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}并且祈愿来年也能丰收，\n因此举办祭典。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:69:0",
+  "message_id": "MSG_065",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 B3 08}哦——哦——哦——。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:70:0",
+  "message_id": "MSG_066",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞顺平获得了１分……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:71:0",
+  "message_id": "MSG_067",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 9A 08}总觉得当成问答游戏，\n就很有趣啊。\n会忍不住想“一定要答对”！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:72:0",
+  "message_id": "MSG_068",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 21 0A}学习也是一样。\n有正确答案的问题，解答起来很有趣。\n没有正确答案的问题，寻找答案也很有趣。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:73:0",
+  "message_id": "MSG_069",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 7C 08}嗯……\n是这样吗……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:74:0",
+  "message_id": "MSG_070",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}那么，最后一题。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:74:1",
+  "message_id": "MSG_070",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3D 0A}以下哪一项，\n不是举行祭典的正确理由？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:75:0",
+  "message_id": "SEL_071",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}希望下雨{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:75:1",
+  "message_id": "SEL_071",
+  "translation": "{F2 05 FF FF}{F1 41}因为要盖房子{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:75:2",
+  "message_id": "SEL_071",
+  "translation": "{F2 05 FF FF}{F1 41}希望能生儿育女{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:75:3",
+  "message_id": "SEL_071",
+  "translation": "{F2 05 FF FF}{F1 41}没有不正确的理由{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:76:0",
+  "message_id": "MSG_072",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 E2 08}我选因为要盖房子吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:77:0",
+  "message_id": "MSG_073",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……很遗憾。\n两个人都答错了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:77:1",
+  "message_id": "MSG_073",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 14 01 02 01 01 01}{F5 61 02 01 01 01 01 01 21 0A}答案是没有不正确的理由。\n呵呵，是不是有点狡猾？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:77:2",
+  "message_id": "MSG_073",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}祭典是对神灵的祈祷，也是对话。\n无论自己的愿望，还是对世界和平的祈求，\n从这个意义上，都能成为祭典。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:78:0",
+  "message_id": "MSG_074",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 B4 08}原来如此。\n记下来记下来。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:79:0",
+  "message_id": "MSG_075",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞分数没有变化……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:80:0",
+  "message_id": "MSG_076",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 03 01 01 01}{F5 61 02 01 01 01 01 01 6B 08}{F5 C1 03 01 01 01 01 01 0A 01}啊，我也一样……\n不过这就没什么竞争的感觉了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:81:0",
+  "message_id": "MSG_077",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……很遗憾。\n两个人都答错了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:81:1",
+  "message_id": "MSG_077",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 14 01 02 01 01 01}{F5 61 02 01 01 01 01 01 21 0A}答案是没有不正确的理由。\n呵呵，是不是有点狡猾？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:81:2",
+  "message_id": "MSG_077",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}祭典是对神灵的祈祷，也是对话。\n无论自己的愿望，还是对世界和平的祈求，\n从这个意义上，都能成为祭典。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:82:0",
+  "message_id": "MSG_078",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 B4 08}原来如此。\n记下来记下来。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:83:0",
+  "message_id": "MSG_079",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞分数没有变化……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:84:0",
+  "message_id": "MSG_080",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 E2 08}我选因为要盖房子吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:85:0",
+  "message_id": "MSG_081",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3B 0A}……不愧是你，{F1 81}。\n答对了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:86:0",
+  "message_id": "MSG_082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 02 01 01 01}{F5 61 02 01 01 01 01 01 F5 08}{F5 C1 03 01 01 01 01 01 04 01}可恶——！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:87:0",
+  "message_id": "MSG_083",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}祭典是对神灵的祈祷，也是对话。\n无论自己的愿望，还是对世界和平的祈求，\n从这个意义上，都能成为祭典。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:88:0",
+  "message_id": "MSG_084",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 B4 08}原来如此。\n记下来记下来。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:89:0",
+  "message_id": "MSG_085",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞获得了１分！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:90:0",
+  "message_id": "MSG_086",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 02 01 01 01 02 01}{F5 86 0E 01 01 01 01 01 07 01}{F5 61 02 01 01 01 01 01 01 01}那么，公布结果。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:91:0",
+  "message_id": "MSG_087",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 8F 0A}{F5 C1 03 01 01 01 01 01 08 01}精彩！\n{F1 81}，全部答对！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:92:0",
+  "message_id": "MSG_088",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 89 08}{F5 C1 03 01 01 01 01 01 04 01}真的假的……这是什么超人啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:93:0",
+  "message_id": "MSG_089",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞战胜了顺平！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:94:0",
+  "message_id": "MSG_090",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3A 0A}恭喜你，{F1 81}！\n你赢了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:95:0",
+  "message_id": "MSG_091",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 02 01 01 01}{F5 61 02 01 01 01 01 01 85 08}{F5 C1 03 01 01 01 01 01 0B 01}真的！？\n不过也只是险胜吧，险胜！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:96:0",
+  "message_id": "MSG_092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞战胜了顺平！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:97:0",
+  "message_id": "MSG_093",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3E 0A}这次看来是平局。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:98:0",
+  "message_id": "MSG_094",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 9E 08}哦哦？\n你也意外地没什么了不起嘛！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:99:0",
+  "message_id": "MSG_095",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞和顺平打成了平局……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:100:0",
+  "message_id": "MSG_096",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 30 0A}恭喜你，伊织！\n你赢了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:101:0",
+  "message_id": "MSG_097",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 85 08}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 01 01}什什什么！？\n我赢了！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:102:0",
+  "message_id": "MSG_0972",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 07 09}{F5 C1 03 01 01 01 01 01 08 01}噔噔噔噔——。\n顺平的学力提高了。\n成为了“相当出色的秀才”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:103:0",
+  "message_id": "MSG_098",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞输给了顺平……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:104:0",
+  "message_id": "MSG_099",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 02 01 01 01 02 01}{F5 86 0E 01 0D 01 01 01 07 01}{F5 61 02 01 01 01 01 01 3D 0A}怎么样，伊织？\n稍微对学习产生兴趣了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:105:0",
+  "message_id": "MSG_100",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 68 08}嗯，完全没问题了！\n下周的考试也能拿满分！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:106:0",
+  "message_id": "MSG_101",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 4E 0A}……说起来，伊织。\n你说的下周考试是什么？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:107:0",
+  "message_id": "MSG_102",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 6D 08}诶，您在说什么啊。\n第二学期的期中考试啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:108:0",
+  "message_id": "MSG_103",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……那个在下个月。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:109:0",
+  "message_id": "MSG_104",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 01 01}{F5 61 02 01 01 01 01 01 86 08}{F5 C1 03 01 01 01 01 01 02 01}不会吧！？\n那不是根本不用学习了吗！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:110:0",
+  "message_id": "MSG_1042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 F5 08}{F5 C1 03 01 01 01 01 01 04 01}不——！\n浪费时间啦——！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:111:0",
+  "message_id": "MSG_105",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}我还以为是随堂测验之类的……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:111:1",
+  "message_id": "MSG_105",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 84 0A}……不过，这正好是个机会。\n其他科目也一起学吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:112:0",
+  "message_id": "MSG_106",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 02 01}{F5 86 0C 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 84 11}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 0B 01}不————！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:113:0",
+  "message_id": "MSG_107",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞又留了一会儿，\n帮助顺平学习……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e803_220.bf.json:114:0",
+  "message_id": "MSG_108",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞稍后去保健室{F2 01 03 01}报告{F2 01 01 01}吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

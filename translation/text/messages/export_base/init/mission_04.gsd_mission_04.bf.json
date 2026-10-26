@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_base/init/mission_04.gsd_mission_04.bf.json:1:0",
+  "message_id": "MSG_MATHURI_B5_BOSS_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}＞感觉前方的气氛十分紧张…\n{F1 21}"
+ },
+ {
+  "key": "export_base/init/mission_04.gsd_mission_04.bf.json:1:1",
+  "message_id": "MSG_MATHURI_B5_BOSS_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}＞该怎么办呢…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/mission_04.gsd_mission_04.bf.json:2:0",
+  "message_id": "SEL_MATHURI_B5_BOSS_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}继续前进{00}"
+ },
+ {
+  "key": "export_base/init/mission_04.gsd_mission_04.bf.json:2:1",
+  "message_id": "SEL_MATHURI_B5_BOSS_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}暂时算了{00}{00}"
+ },
+ {
+  "key": "export_base/init/mission_04.gsd_mission_04.bf.json:3:0",
+  "message_id": "MSG_MATSURI_TOWNIN_VARIA",
+  "translation": "{F2 05 FF FF}{F1 41}＞校内的景象变了…\n{F1 21}"
+ },
+ {
+  "key": "export_base/init/mission_04.gsd_mission_04.bf.json:3:1",
+  "message_id": "MSG_MATSURI_TOWNIN_VARIA",
+  "translation": "{F2 05 FF FF}{F1 41}＞是时钟塔的缘故吗…\n{F1 21}{00}"
+ }
+]

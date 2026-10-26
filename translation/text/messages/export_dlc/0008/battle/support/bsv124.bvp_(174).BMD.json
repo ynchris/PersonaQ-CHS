@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(174).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_175_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2B 03}成功了，打坏了！\n还剩１条！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(174).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_175_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2C 03}很厉害嘛。\n还剩１条哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(174).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_175_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2D 03}啊……厉害厉害，\n还剩１条！\n{F2 26 00 00}{00}"
+ }
+]

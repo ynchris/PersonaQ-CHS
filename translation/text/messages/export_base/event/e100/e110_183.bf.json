@@ -1,0 +1,37 @@
+[
+ {
+  "key": "export_base/event/e100/e110_183.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 02 01}{F3 06 00 01 00 01}这真的能变回去吧……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_183.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 03 01}{F3 06 00 01 00 01}嘿嘿嘿，这可真是绝景熊。\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_183.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}哇啊啊啊！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_183.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}唔哦哦！？\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_183.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}呀——！\n{F5 C1 14 01 01 01 01 01 47 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_183.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}……啊，抱歉。　没踩中。\n{F5 C1 14 01 01 01 01 01 4A 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_183.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 08 01}{F3 06 00 01 00 01}快走吧，不然要被踩扁了……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ }
+]

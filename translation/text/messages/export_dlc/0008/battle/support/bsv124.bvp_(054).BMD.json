@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_055_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7C 02}哇！？副队长被打倒了！\n等等……谁能救救他？喂！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_055_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 73 02}咦？副队长被打倒了！\n恢复呢？治疗呢？救救他啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_055_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7D 02}哇！阳介被打倒了啊！\n恢复呢？救救他啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:3:0",
+  "message_id": "BTL_MES_H124_055_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7E 02}哇！千枝被打倒了！\n等等，谁能帮她恢复一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:4:0",
+  "message_id": "BTL_MES_H124_055_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7F 02}啊！雪子被打倒了！\n谁能治好她？救救她啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:6:0",
+  "message_id": "BTL_MES_H124_055_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 80 02}呃！完二被打倒了啊！\n快救救他！没法恢复吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:7:0",
+  "message_id": "BTL_MES_H124_055_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 82 02}哇！直斗被打倒了！！\n等等，恢复呢？谁能治好她？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:8:0",
+  "message_id": "BTL_MES_H124_055_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 81 02}哇！小熊被打倒了！\n不动了…还翻白眼…跟尸体一样…\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:9:0",
+  "message_id": "BTL_MES_H124_055_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 74 02}咦！？由加莉被打倒了！\n谁、谁快救救她啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:10:0",
+  "message_id": "BTL_MES_H124_055_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 75 02}啊！顺平被打倒了啊！\n恢、恢复呢？不复活他吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:11:0",
+  "message_id": "BTL_MES_H124_055_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 76 02}咦！？真田被打倒了啊！\n快、快治好他啊！治不了吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:12:0",
+  "message_id": "BTL_MES_H124_055_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 77 02}哇！？美鹤被打倒了！？\n等等……谁能治好她？快治啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:14:0",
+  "message_id": "BTL_MES_H124_055_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7A 02}啊！埃癸斯被打倒了！？\n怎、怎么办？要救她吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:15:0",
+  "message_id": "BTL_MES_H124_055_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 78 02}哇！乾被打倒了啊！\n不、不复活他，或者恢复一下吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:16:0",
+  "message_id": "BTL_MES_H124_055_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 79 02}哇！狗狗被打倒了！\n快救它啊！用恢复什么的！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:17:0",
+  "message_id": "BTL_MES_H124_055_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7B 02}哇！荒垣被打倒了！\n谁、谁能恢复或者复活他？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:18:0",
+  "message_id": "BTL_MES_H124_055_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 83 02}哇！？善和玲被打倒了！\n复、复活呢？恢复呢？谁能帮忙？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:19:0",
+  "message_id": "BTL_MES_H124_055_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 84 02}哇！？善被打倒了！！\n等等，快治好他啊！谁来帮忙！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:20:0",
+  "message_id": "BTL_MES_H124_055_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 72 02}哇！？你被打倒了！？\n等等，谁快帮他恢复一下啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(054).BMD.json:21:0",
+  "message_id": "BTL_MES_H124_055_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 71 02}等等，队长被打倒了！？\n谁、谁快复活、恢复或者治疗啊！\n{F2 26 00 00}{00}"
+ }
+]

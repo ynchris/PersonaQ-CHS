@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_base/event/e700/e711_355.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 05 01 02 01}{F5 61 02 01 01 01 01 01 E5 02}{F5 C1 03 01 01 01 01 01 05 01}嗯？这是挂锁吗？\n还真够严密的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_355.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……这玩意儿，砸起来恐怕挺费劲。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e711_355.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}倒也不是砸不了……\n不过找钥匙更快。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_355.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3C 06}是啊……\n那么，先沿着这条路\n找找看吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

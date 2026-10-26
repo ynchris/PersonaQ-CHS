@@ -1,0 +1,42 @@
+[
+ {
+  "key": "export_base/dungeon/pack/field/f02_02.arc_dungeon12f.gsd_dungeon12f.bf.json:0:0",
+  "message_id": "SEL_002",
+  "translation": "{F2 05 FF FF}{F1 41}哦！{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f02_02.arc_dungeon12f.gsd_dungeon12f.bf.json:0:1",
+  "message_id": "SEL_002",
+  "translation": "{F2 05 FF FF}{F1 41}才不上当{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f02_02.arc_dungeon12f.gsd_dungeon12f.bf.json:1:0",
+  "message_id": "MSG_D12_WAIT",
+  "translation": "{F2 05 FF FF}{F1 41}＞还是算了吧…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f02_02.arc_dungeon12f.gsd_dungeon12f.bf.json:2:0",
+  "message_id": "MSG_D12_LOCKED_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}＞那扇门，\n　似乎很像１次会见过的门…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f02_02.arc_dungeon12f.gsd_dungeon12f.bf.json:4:0",
+  "message_id": "MSG_D12_PRE_BATTLEROOM",
+  "translation": "{F2 05 FF FF}{F1 41}＞门后传来不祥的气息…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f02_02.arc_dungeon12f.gsd_dungeon12f.bf.json:4:1",
+  "message_id": "MSG_D12_PRE_BATTLEROOM",
+  "translation": "{F2 05 FF FF}{F1 41}＞要打开门继续前进吗…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f02_02.arc_dungeon12f.gsd_dungeon12f.bf.json:6:0",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}打开门看看{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f02_02.arc_dungeon12f.gsd_dungeon12f.bf.json:6:1",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}算了{00}{00}"
+ }
+]

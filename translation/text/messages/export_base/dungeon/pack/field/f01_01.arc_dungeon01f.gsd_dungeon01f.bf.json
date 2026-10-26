@@ -1,0 +1,67 @@
+[
+ {
+  "key": "export_base/dungeon/pack/field/f01_01.arc_dungeon01f.gsd_dungeon01f.bf.json:0:0",
+  "message_id": "SEL_999",
+  "translation": "{F2 05 FF FF}{F1 41}１普通{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f01_01.arc_dungeon01f.gsd_dungeon01f.bf.json:0:1",
+  "message_id": "SEL_999",
+  "translation": "{F2 05 FF FF}{F1 41}２滑动{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f01_01.arc_dungeon01f.gsd_dungeon01f.bf.json:0:2",
+  "message_id": "SEL_999",
+  "translation": "{F2 05 FF FF}{F1 41}３○擦除{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f01_01.arc_dungeon01f.gsd_dungeon01f.bf.json:1:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}＞似乎无法从这边打开…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f01_01.arc_dungeon01f.gsd_dungeon01f.bf.json:2:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}＞打开了门锁！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f01_01.arc_dungeon01f.gsd_dungeon01f.bf.json:3:0",
+  "message_id": "GET_FOUNTAIN_HPUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞受到能量点的影响，\n　ＨＰ恢复了\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f01_01.arc_dungeon01f.gsd_dungeon01f.bf.json:4:0",
+  "message_id": "GET_FOUNTAIN_SPUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞受到能量点的影响，\n　ＳＰ恢复了\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f01_01.arc_dungeon01f.gsd_dungeon01f.bf.json:5:0",
+  "message_id": "GET_FOUNTAIN_STATUSUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞受到能量点的影响，\n　下一个能量点的效果翻倍了\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f01_01.arc_dungeon01f.gsd_dungeon01f.bf.json:6:0",
+  "message_id": "GET_FOUNTAIN_EXPUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞受到能量点的影响，\n　战斗获得的经验值翻倍了\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f01_01.arc_dungeon01f.gsd_dungeon01f.bf.json:7:0",
+  "message_id": "GET_FOUNTAIN_RAREUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞受到能量点的影响，\n　遭遇金手的概率提高了\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f01_01.arc_dungeon01f.gsd_dungeon01f.bf.json:8:0",
+  "message_id": "GET_FOUNTAIN_BOXUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞受到能量点的影响，\n　下个宝箱中物品的品质提高了\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f01_01.arc_dungeon01f.gsd_dungeon01f.bf.json:9:0",
+  "message_id": "GET_FOUNTAIN_FOUNTAINUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞受到能量点的影响，\n　下一个能量点的效果提高了\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f01_01.arc_dungeon01f.gsd_dungeon01f.bf.json:10:0",
+  "message_id": "GET_FOUNTAIN_END",
+  "translation": "{F2 05 FF FF}{F1 41}＞能量点的效果消失了\n{F1 21}{00}"
+ }
+]

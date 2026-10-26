@@ -1,0 +1,177 @@
+[
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 04 01 01 01 01 01 04 01}这是……{F1 82}和我。\n这身衣服，是婚礼用的吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 04 01 01 01 01 01 04 01}不过，这不是真的。\n这张照片是假的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞正如埃癸斯所说，\n　这似乎是合成照片……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 01 01 02 01 04 01}{F5 61 02 01 01 01 01 01 04 01}刚才那张照片，\n哪里算是爱的纪念呢？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 05 01}在我看来，\n那只是一张合成照片……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 32 01 02 01 02 01 01 01}{F5 61 02 01 01 01 01 01 06 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:2:3",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 07 01}{F1 82}，我有个请求。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:2:4",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}可以尝试重现\n刚才那张爱的纪念照吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:3:0",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 12 01 02 01 01 01}重现？{F5 47 02 01 32 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:3:1",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}要结婚吗？{F5 47 02 01 32 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:3:2",
+  "message_id": "SEL_TALK003",
+  "translation": "{F2 05 FF FF}{F1 41}随你吧{F5 47 02 01 32 01 01 01 05 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 09 01}失礼了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}不，不是那样。\n我要重现的是这个。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}那么，失礼了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 01 01 04 01 04 01}{F5 61 02 01 01 01 01 01 0C 01}判断您不可能抬起我的重量，\n所以将角色对调了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:7:1",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}感觉如何？\n心情有什么变化吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:8:0",
+  "message_id": "SEL_TALK008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 02 01 04 01 01 01}没什么感觉{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:8:1",
+  "message_id": "SEL_TALK008",
+  "translation": "{F2 05 FF FF}{F1 41}心跳加速了{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}这样啊……看来只靠姿势，\n无法完全重现呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:9:1",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}顺带一提，{F1 82}的体温\n已经迅速升至３６．８度，\n脉搏也加快了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:9:2",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 10 01}似乎会对身体造成负担，\n还是不要持续太久比较好。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 11 01}体温和脉搏正在迅速上升。\n很危险！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:10:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 32 01 02 01 04 01 01 01}{F5 61 02 01 01 01 01 01 12 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:10:2",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 13 01}这就是心跳加速，爱的纪念……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:10:3",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 32 01 02 01 04 01 01 01}{F5 61 02 01 01 01 01 01 14 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:10:4",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 15 01}原来如此啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 11 01 02 01 04 01}{F5 61 02 01 01 01 01 01 16 01}想必您已经知道，\n我是一台机器。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:11:1",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 17 01}身为机器的我，\n并不太理解“爱”这种情感……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:11:2",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 18 01}可与您接触时，\n胸腔深处的中枢机构附近，\n会产生与平时不同的运作。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:11:3",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 19 01}{F5 C1 11 01 01 01 01 01 01 01}——和他接触时一样的……\n不可思议的心情……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:11:4",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 1A 01}若要用语言表达这种心情……\n究竟是什么呢？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:11:5",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 32 01 08 01 02 01 01 01}{F5 61 02 01 01 01 01 01 1B 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:11:6",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 1C 01}今后，我想继续探寻。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_506.bf.json:12:1",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞气氛变得有些微妙……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(010).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_011_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 38 01}啊，虽是敌人先制，但有稀有敌人。\n一定要反杀。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(010).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_011_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 39 01}咦……稀有敌人攻过来了……\n这也不算坏事吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(010).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_011_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 3A 01}啊……罕见的敌人…\n自己过来了呢。\n{F2 26 00 00}{00}"
+ }
+]

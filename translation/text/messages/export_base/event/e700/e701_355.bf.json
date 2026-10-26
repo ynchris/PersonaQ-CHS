@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_base/event/e700/e701_355.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 8F 11}{F5 C1 03 01 01 01 01 01 05 01}嗯？这是挂锁吗？\n还真是戒备森严啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_355.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 68 0B}……调查完毕。\n这把挂锁似乎使用了\n耐冲击的特殊材料。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_355.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}寻找钥匙，\n会比强行破坏快得多。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_355.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}是吗。\n那先沿着那条路\n找找看吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

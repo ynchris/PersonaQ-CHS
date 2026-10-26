@@ -1,0 +1,7 @@
+[
+ {
+  "key": "export_base/facility/network.bf.json:1:0",
+  "message_id": "NETWORK_TUTORIAL_TO_STAR",
+  "translation": "{F2 05 FF FF}{F1 41}进行擦肩通信的准备已完成。\n　\n要开始擦肩通信，\n请选择{F2 01 03 01}“擦肩通信设置”{F2 01 01 01}。\n{F1 21}{00}"
+ }
+]

@@ -1,0 +1,3307 @@
+[
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1:0",
+  "message_id": "skill_001",
+  "translation": "{F2 05 FF FF}{F1 41}普通攻击。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:2:0",
+  "message_id": "skill_002",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成少量火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:3:0",
+  "message_id": "skill_003",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成中量火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:4:0",
+  "message_id": "skill_004",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成大量火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:5:0",
+  "message_id": "skill_005",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成少量火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:6:0",
+  "message_id": "skill_006",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成中量火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:7:0",
+  "message_id": "skill_007",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成大量火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:8:0",
+  "message_id": "skill_008",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成少量火炎伤害，\n并对相邻目标造成扩散伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:9:0",
+  "message_id": "skill_009",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成巨量火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:14:0",
+  "message_id": "skill_00E",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成少量疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:15:0",
+  "message_id": "skill_00F",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成中量疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:16:0",
+  "message_id": "skill_010",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成大量疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:17:0",
+  "message_id": "skill_011",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成少量疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:18:0",
+  "message_id": "skill_012",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成中量疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:19:0",
+  "message_id": "skill_013",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成大量疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:20:0",
+  "message_id": "skill_014",
+  "translation": "{F2 05 FF FF}{F1 41}对１列敌人造成２～３次\n少量疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:21:0",
+  "message_id": "skill_015",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成巨量疾风伤害，\n并对相邻目标造成扩散伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:26:0",
+  "message_id": "skill_01A",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成少量冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:27:0",
+  "message_id": "skill_01B",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成中量冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:28:0",
+  "message_id": "skill_01C",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成大量冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:29:0",
+  "message_id": "skill_01D",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成少量冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:30:0",
+  "message_id": "skill_01E",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成中量冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:31:0",
+  "message_id": "skill_01F",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成大量冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:32:0",
+  "message_id": "skill_020",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成２～４次\n中量冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:33:0",
+  "message_id": "skill_021",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成巨量冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:34:0",
+  "message_id": "skill_022",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成少量冰冻伤害，\n并对后排敌人造成贯穿伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:39:0",
+  "message_id": "skill_027",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成少量电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:40:0",
+  "message_id": "skill_028",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成中量电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:41:0",
+  "message_id": "skill_029",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成大量电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:42:0",
+  "message_id": "skill_02A",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成少量电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:43:0",
+  "message_id": "skill_02B",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成中量电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:44:0",
+  "message_id": "skill_02C",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成大量电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:46:0",
+  "message_id": "skill_02E",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成巨量电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:47:0",
+  "message_id": "skill_02F",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成６次\n大量电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:48:0",
+  "message_id": "skill_030",
+  "translation": "{F2 05 FF FF}{F1 41}对１列敌人造成少量电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:51:0",
+  "message_id": "skill_033",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成中量万能伤害，\n并以中等概率使敌人倒地。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:52:0",
+  "message_id": "skill_034",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成大量万能伤害，\n并以中等概率使敌人倒地。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:53:0",
+  "message_id": "skill_035",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成巨量万能伤害，\n并以中等概率使敌人倒地。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:55:0",
+  "message_id": "skill_037",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成巨量万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:56:0",
+  "message_id": "skill_038",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成巨量万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:61:0",
+  "message_id": "skill_03D",
+  "translation": "{F2 05 FF FF}{F1 41}以低概率对１名敌人\n施加光属性即死效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:62:0",
+  "message_id": "skill_03E",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率对１名敌人\n施加光属性即死效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:63:0",
+  "message_id": "skill_03F",
+  "translation": "{F2 05 FF FF}{F1 41}以低概率对所有敌人\n施加光属性即死效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:64:0",
+  "message_id": "skill_040",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率对所有敌人\n施加光属性即死效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:67:0",
+  "message_id": "skill_043",
+  "translation": "{F2 05 FF FF}{F1 41}以高概率对所有敌人\n施加光属性即死效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:72:0",
+  "message_id": "skill_048",
+  "translation": "{F2 05 FF FF}{F1 41}以低概率对１名敌人\n施加暗属性即死效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:73:0",
+  "message_id": "skill_049",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率对１名敌人\n施加暗属性即死效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:74:0",
+  "message_id": "skill_04A",
+  "translation": "{F2 05 FF FF}{F1 41}以低概率对所有敌人\n施加暗属性即死效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:75:0",
+  "message_id": "skill_04B",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率对所有敌人\n施加暗属性即死效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:78:0",
+  "message_id": "skill_04E",
+  "translation": "{F2 05 FF FF}{F1 41}以高概率对所有敌人\n施加暗属性即死效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:83:0",
+  "message_id": "skill_053",
+  "translation": "{F2 05 FF FF}{F1 41}１名敌人中等概率\n陷入混乱。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:84:0",
+  "message_id": "skill_054",
+  "translation": "{F2 05 FF FF}{F1 41}所有敌人中等概率\n陷入混乱。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:85:0",
+  "message_id": "skill_055",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率对１名敌人\n附加中毒效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:86:0",
+  "message_id": "skill_056",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率对所有敌人\n附加中毒效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:87:0",
+  "message_id": "skill_057",
+  "translation": "{F2 05 FF FF}{F1 41}１名敌人中等概率\n陷入失明。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:88:0",
+  "message_id": "skill_058",
+  "translation": "{F2 05 FF FF}{F1 41}所有敌人中等概率\n陷入失明。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:89:0",
+  "message_id": "skill_059",
+  "translation": "{F2 05 FF FF}{F1 41}１名敌人中等概率\n陷入睡眠。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:90:0",
+  "message_id": "skill_05A",
+  "translation": "{F2 05 FF FF}{F1 41}所有敌人中等概率\n陷入睡眠。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:91:0",
+  "message_id": "skill_05B",
+  "translation": "{F2 05 FF FF}{F1 41}１名敌人中等概率\n陷入诅咒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:92:0",
+  "message_id": "skill_05C",
+  "translation": "{F2 05 FF FF}{F1 41}所有敌人中等概率\n陷入诅咒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:129:0",
+  "message_id": "skill_081",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成中量破坏属性伤害，\n并降低其物理攻击力，持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:130:0",
+  "message_id": "skill_082",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成中量破坏属性伤害，\n并降低其属性攻击力，持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:131:0",
+  "message_id": "skill_083",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成少量斩击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:132:0",
+  "message_id": "skill_084",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成２次少量斩击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:133:0",
+  "message_id": "skill_085",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》刻意延后自身行动，\n对１名敌人造成大量突刺伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:134:0",
+  "message_id": "skill_086",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成２次少量突刺属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:135:0",
+  "message_id": "skill_087",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成少量斩击伤害，\n并对相邻目标造成扩散伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:136:0",
+  "message_id": "skill_088",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》刻意延后自身行动，\n对１名敌人造成大量斩击伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:137:0",
+  "message_id": "skill_089",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成大量突刺伤害，\n并对后排敌人造成贯穿伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:138:0",
+  "message_id": "skill_08A",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》迅速行动，\n对１列敌人造成３次中量突刺伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:139:0",
+  "message_id": "skill_08B",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成少量斩击＋冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:140:0",
+  "message_id": "skill_08C",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成中量斩击伤害。\n若行动者此后至回合结束未受伤，则再次攻击。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:141:0",
+  "message_id": "skill_08D",
+  "translation": "{F2 05 FF FF}{F1 41}延迟突刺（实体）\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:142:0",
+  "message_id": "skill_08E",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成大量突刺伤害。\n低概率即死；目标有异常状态时概率提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:143:0",
+  "message_id": "skill_08F",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成大量斩击伤害。\n目标有异常状态时，伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:144:0",
+  "message_id": "skill_090",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成３次少量斩击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:145:0",
+  "message_id": "skill_091",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成少量打击＋电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:146:0",
+  "message_id": "skill_092",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成大量破破坏属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:147:0",
+  "message_id": "skill_093",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》１回合后以破破坏属性攻击１名敌人。\n此前受到的攻击次数越多，威力越高。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:148:0",
+  "message_id": "skill_094",
+  "translation": "{F2 05 FF FF}{F1 41}复仇重击（实体）\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:149:0",
+  "message_id": "skill_095",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成中量破坏属性伤害，\n并对相邻目标造成扩散伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:150:0",
+  "message_id": "skill_096",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成少量突刺伤害，\n并对后排敌人造成贯穿伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:151:0",
+  "message_id": "skill_097",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率对１名敌人\n附加速封印效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:152:0",
+  "message_id": "skill_098",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率对１名敌人\n附加力封印效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:153:0",
+  "message_id": "skill_099",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率对１名敌人\n附加魔封印效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:154:0",
+  "message_id": "skill_09A",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成中量突刺伤害，\n并对后排敌人造成贯穿伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:155:0",
+  "message_id": "skill_09B",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》无视敌人的耐性与强化效果，\n对１名敌人造成大量突刺伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:156:0",
+  "message_id": "skill_09C",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成大量突刺伤害，\n并对后排敌人造成贯穿伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:157:0",
+  "message_id": "skill_09D",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１列敌人造成少量突刺属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:158:0",
+  "message_id": "skill_09E",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对所有敌人造成６～８次\n少量突刺伤害，命中率较低。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:159:0",
+  "message_id": "skill_09F",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成大量突刺伤害。\n目标被封印时威力提升，但会解除其封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:160:0",
+  "message_id": "skill_0A0",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成中量破坏属性伤害，\n并以中等概率使目标倒地。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:161:0",
+  "message_id": "skill_0A1",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成少量破坏属性伤害，\n并以中等概率附加睡眠效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:162:0",
+  "message_id": "skill_0A2",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成少量破坏属性伤害，\n并在本回合内降低其防御力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:163:0",
+  "message_id": "skill_0A3",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成少量破破坏属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:164:0",
+  "message_id": "skill_0A4",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对所有敌人造成大量斩击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:165:0",
+  "message_id": "skill_0A5",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１列敌人造成大量斩击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:166:0",
+  "message_id": "skill_0A6",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成少量斩击＋冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:167:0",
+  "message_id": "skill_0A7",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成大量斩击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:168:0",
+  "message_id": "skill_0A8",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对所有敌人造成５～７次\n中量斩击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:169:0",
+  "message_id": "skill_0A9",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成少量破坏属性伤害，\n并以中等概率附加魔封印效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:170:0",
+  "message_id": "skill_0AA",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成少量打击＋火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:171:0",
+  "message_id": "skill_0AB",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成中量破坏属性伤害，\n并对相邻目标造成扩散伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:172:0",
+  "message_id": "skill_0AC",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成巨量破破坏属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:173:0",
+  "message_id": "skill_0AD",
+  "translation": "{F2 05 FF FF}{F1 41}乾坤一掷后：麻痹\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:174:0",
+  "message_id": "skill_0AE",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成大量斩击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:175:0",
+  "message_id": "skill_0AF",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成大量万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:176:0",
+  "message_id": "skill_0B0",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对所有敌人造成巨量万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:177:0",
+  "message_id": "skill_0B1",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成巨量斩击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:178:0",
+  "message_id": "skill_0B2",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成巨量破破坏属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:179:0",
+  "message_id": "skill_0B3",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对所有敌人造成３次大量破破坏属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:180:0",
+  "message_id": "skill_0B4",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对所有敌人造成８次中量斩击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:181:0",
+  "message_id": "skill_0B5",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对所有敌人造成中量突刺属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:182:0",
+  "message_id": "skill_0B6",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对所有敌人造成少量突刺属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:183:0",
+  "message_id": "skill_0B7",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对所有敌人造成中量突刺属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:184:0",
+  "message_id": "skill_0B8",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成少量斩击伤害，\n并以中等概率附加失明效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:185:0",
+  "message_id": "skill_0B9",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成少量斩击伤害，\n并以中等概率附加中毒效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:186:0",
+  "message_id": "skill_0BA",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成少量斩击伤害，\n并以中等概率附加睡眠效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:187:0",
+  "message_id": "skill_0BB",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成少量斩击伤害，\n并以中等概率附加麻痹效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:188:0",
+  "message_id": "skill_0BC",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成少量斩击伤害，\n并以中等概率附加诅咒效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:189:0",
+  "message_id": "skill_0BD",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成少量斩击＋火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:190:0",
+  "message_id": "skill_0BE",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成大量斩击＋冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:191:0",
+  "message_id": "skill_0BF",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成少量斩击＋电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:192:0",
+  "message_id": "skill_0C0",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成少量斩击＋疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:193:0",
+  "message_id": "skill_0C1",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成２次中量万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:194:0",
+  "message_id": "skill_0C2",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》随机对１～５名敌人\n造成中量万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:195:0",
+  "message_id": "skill_0C3",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对所有敌人造成巨量万能伤害。\n并以中等概率附加即死效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:196:0",
+  "message_id": "skill_0C4",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对所有敌人造成大量万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:197:0",
+  "message_id": "skill_0C5",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对所有敌人造成巨量万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:198:0",
+  "message_id": "skill_0C6",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成中量斩击＋电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:199:0",
+  "message_id": "skill_0C7",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成大量斩击＋电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:200:0",
+  "message_id": "skill_0C8",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成中量斩击＋火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:201:0",
+  "message_id": "skill_0C9",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成大量斩击＋火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:202:0",
+  "message_id": "skill_0CA",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成中量斩击＋疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:203:0",
+  "message_id": "skill_0CB",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成大量斩击＋疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:204:0",
+  "message_id": "skill_0CC",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成中量斩击伤害，\n并以中等概率附加诅咒效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:205:0",
+  "message_id": "skill_0CD",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成大量斩击伤害，\n并以中等概率附加诅咒效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:209:0",
+  "message_id": "skill_0D1",
+  "translation": "{F2 05 FF FF}{F1 41}少量恢复１名同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:210:0",
+  "message_id": "skill_0D2",
+  "translation": "{F2 05 FF FF}{F1 41}中量恢复１名同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:211:0",
+  "message_id": "skill_0D3",
+  "translation": "{F2 05 FF FF}{F1 41}完全恢复１名同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:212:0",
+  "message_id": "skill_0D4",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，少量恢复１列同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:213:0",
+  "message_id": "skill_0D5",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，中量恢复１列同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:214:0",
+  "message_id": "skill_0D6",
+  "translation": "{F2 05 FF FF}{F1 41}少量恢复所有同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:215:0",
+  "message_id": "skill_0D7",
+  "translation": "{F2 05 FF FF}{F1 41}中量恢复所有同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:216:0",
+  "message_id": "skill_0D8",
+  "translation": "{F2 05 FF FF}{F1 41}完全恢复所有同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:217:0",
+  "message_id": "skill_0D9",
+  "translation": "{F2 05 FF FF}{F1 41}使１名无法战斗的同伴复活，\n并恢复５０％的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:218:0",
+  "message_id": "skill_0DA",
+  "translation": "{F2 05 FF FF}{F1 41}使１名无法战斗的同伴复活，\n并完全恢复ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:219:0",
+  "message_id": "skill_0DB",
+  "translation": "{F2 05 FF FF}{F1 41}消除１名同伴的全部能力降低效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:220:0",
+  "message_id": "skill_0DC",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，消除１列同伴的\n全部能力降低效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:221:0",
+  "message_id": "skill_0DD",
+  "translation": "{F2 05 FF FF}{F1 41}解除１名同伴的异常状态。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:222:0",
+  "message_id": "skill_0DE",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，解除１列同伴的异常状态。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:223:0",
+  "message_id": "skill_0DF",
+  "translation": "{F2 05 FF FF}{F1 41}解除所有同伴的异常状态。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:224:0",
+  "message_id": "skill_0E0",
+  "translation": "{F2 05 FF FF}{F1 41}解除１名同伴的封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:225:0",
+  "message_id": "skill_0E1",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，解除１列同伴的封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:226:0",
+  "message_id": "skill_0E2",
+  "translation": "{F2 05 FF FF}{F1 41}解除所有同伴的封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:227:0",
+  "message_id": "skill_0E3",
+  "translation": "{F2 05 FF FF}{F1 41}完全恢复１名同伴的ＨＰ，\n并解除其异常状态与封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:230:0",
+  "message_id": "skill_0E6",
+  "translation": "{F2 05 FF FF}{F1 41}连续３回合以最快速度行动，\n期间提升自身的物理攻击力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:231:0",
+  "message_id": "skill_0E7",
+  "translation": "{F2 05 FF FF}{F1 41}连续３回合以最快速度行动，\n期间大幅提升自身的物理攻击力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:232:0",
+  "message_id": "skill_0E8",
+  "translation": "{F2 05 FF FF}{F1 41}提升连锁技能的追加伤害触发次数，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:233:0",
+  "message_id": "skill_0E9",
+  "translation": "{F2 05 FF FF}{F1 41}提升连锁技能的追加伤害触发次数，\n持续５回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:234:0",
+  "message_id": "skill_0EA",
+  "translation": "{F2 05 FF FF}{F1 41}在３回合内，\n抵挡一次针对自身的物理攻击。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:235:0",
+  "message_id": "skill_0EB",
+  "translation": "{F2 05 FF FF}{F1 41}提升自身的物理与属性防御力，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:236:0",
+  "message_id": "skill_0EC",
+  "translation": "{F2 05 FF FF}{F1 41}提升自身防御力及被敌人攻击的概率，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:237:0",
+  "message_id": "skill_0ED",
+  "translation": "{F2 05 FF FF}{F1 41}替１名同伴承受伤害。\n技能效果会减轻所受伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:238:0",
+  "message_id": "skill_0EE",
+  "translation": "{F2 05 FF FF}{F1 41}替１列同伴承受伤害。\n技能效果会减轻所受伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:239:0",
+  "message_id": "skill_0EF",
+  "translation": "{F2 05 FF FF}{F1 41}替所有同伴承受伤害。\n技能效果会减轻所受伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:240:0",
+  "message_id": "skill_0F0",
+  "translation": "{F2 05 FF FF}{F1 41}在３回合内，保护ＨＰ不高于５０％的同伴，\n替其承受伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:241:0",
+  "message_id": "skill_0F1",
+  "translation": "{F2 05 FF FF}{F1 41}抵挡一次异常状态或封印。\n有效期为３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:242:0",
+  "message_id": "skill_0F2",
+  "translation": "{F2 05 FF FF}{F1 41}提升１列同伴的攻击力，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:243:0",
+  "message_id": "skill_0F3",
+  "translation": "{F2 05 FF FF}{F1 41}提升１列同伴的防御力，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:244:0",
+  "message_id": "skill_0F4",
+  "translation": "{F2 05 FF FF}{F1 41}提升所有同伴的命中率，\n持续５回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:245:0",
+  "message_id": "skill_0F5",
+  "translation": "{F2 05 FF FF}{F1 41}提升自身的暴击率，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:247:0",
+  "message_id": "skill_0F7",
+  "translation": "{F2 05 FF FF}{F1 41}提升所有同伴的攻击力，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:248:0",
+  "message_id": "skill_0F8",
+  "translation": "{F2 05 FF FF}{F1 41}提升所有同伴的防御力，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:249:0",
+  "message_id": "skill_0F9",
+  "translation": "{F2 05 FF FF}{F1 41}提升所有同伴的命中率与回避率，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:250:0",
+  "message_id": "skill_0FA",
+  "translation": "{F2 05 FF FF}{F1 41}将自身物理攻击力提升至接近３倍。\n仅生效一次，有效期为３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:251:0",
+  "message_id": "skill_0FB",
+  "translation": "{F2 05 FF FF}{F1 41}将自身魔法攻击力提升至接近３倍。\n仅生效一次，有效期为３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:257:0",
+  "message_id": "skill_101",
+  "translation": "{F2 05 FF FF}{F1 41}降低所有敌人的物理与属性攻击力，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:258:0",
+  "message_id": "skill_102",
+  "translation": "{F2 05 FF FF}{F1 41}降低所有敌人的物理与属性防御力，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:259:0",
+  "message_id": "skill_103",
+  "translation": "{F2 05 FF FF}{F1 41}降低１名敌人的物理防御力，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:260:0",
+  "message_id": "skill_104",
+  "translation": "{F2 05 FF FF}{F1 41}降低１名敌人的属性防御力，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:261:0",
+  "message_id": "skill_105",
+  "translation": "{F2 05 FF FF}{F1 41}降低所有敌人的攻击力，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:262:0",
+  "message_id": "skill_106",
+  "translation": "{F2 05 FF FF}{F1 41}降低所有敌人的防御力，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:263:0",
+  "message_id": "skill_107",
+  "translation": "{F2 05 FF FF}{F1 41}降低所有敌人的命中率与回避率，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:264:0",
+  "message_id": "skill_108",
+  "translation": "{F2 05 FF FF}{F1 41}使１名同伴最后行动，持续５回合，\n同时提升其物理与属性防御力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:268:0",
+  "message_id": "skill_10C",
+  "translation": "{F2 05 FF FF}{F1 41}延长所有敌人的异常状态与封印持续时间。\n重复施放无法再次延长。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:269:0",
+  "message_id": "skill_10D",
+  "translation": "{F2 05 FF FF}{F1 41}以高概率封印１名敌人的魔、力、速。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:273:0",
+  "message_id": "skill_111",
+  "translation": "{F2 05 FF FF}{F1 41}消除所有敌人身上的\n全部强化效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:274:0",
+  "message_id": "skill_112",
+  "translation": "{F2 05 FF FF}{F1 41}消除所有同伴身上的\n全部能力降低效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:275:0",
+  "message_id": "skill_113",
+  "translation": "{F2 05 FF FF}{F1 41}排出热量，\n使自身的过热时间缩短２回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:276:0",
+  "message_id": "skill_114",
+  "translation": "{F2 05 FF FF}{F1 41}恢复同伴的ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:277:0",
+  "message_id": "skill_115",
+  "translation": "{F2 05 FF FF}{F1 41}提升１名同伴被敌人攻击的概率，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:278:0",
+  "message_id": "skill_116",
+  "translation": "{F2 05 FF FF}{F1 41}提升所有同伴的火炎耐性，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:279:0",
+  "message_id": "skill_117",
+  "translation": "{F2 05 FF FF}{F1 41}提升所有同伴的疾风耐性，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:280:0",
+  "message_id": "skill_118",
+  "translation": "{F2 05 FF FF}{F1 41}提升所有同伴的冰冻耐性，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:281:0",
+  "message_id": "skill_119",
+  "translation": "{F2 05 FF FF}{F1 41}提升所有同伴的电击耐性，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:282:0",
+  "message_id": "skill_11A",
+  "translation": "{F2 05 FF FF}{F1 41}提升所有同伴的光属性耐性，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:283:0",
+  "message_id": "skill_11B",
+  "translation": "{F2 05 FF FF}{F1 41}提升所有同伴的暗属性耐性，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:284:0",
+  "message_id": "skill_11C",
+  "translation": "{F2 05 FF FF}{F1 41}提升１名同伴的攻击力，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:285:0",
+  "message_id": "skill_11D",
+  "translation": "{F2 05 FF FF}{F1 41}提升１名同伴的防御力，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:286:0",
+  "message_id": "skill_11E",
+  "translation": "{F2 05 FF FF}{F1 41}提升１名同伴的命中率与回避率，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:287:0",
+  "message_id": "skill_11F",
+  "translation": "{F2 05 FF FF}{F1 41}降低１名敌人的攻击力，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:288:0",
+  "message_id": "skill_120",
+  "translation": "{F2 05 FF FF}{F1 41}降低１名敌人的防御力，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:289:0",
+  "message_id": "skill_121",
+  "translation": "{F2 05 FF FF}{F1 41}降低１名敌人的命中率与回避率，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:290:0",
+  "message_id": "skill_122",
+  "translation": "{F2 05 FF FF}{F1 41}大幅降低１名敌人的攻击力、防御力、\n命中率及回避率，持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:291:0",
+  "message_id": "skill_123",
+  "translation": "{F2 05 FF FF}{F1 41}大幅提升１名同伴的攻击力、防御力、\n命中率及回避率，持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:292:0",
+  "message_id": "skill_124",
+  "translation": "{F2 05 FF FF}{F1 41}提升所有同伴的暴击率，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:293:0",
+  "message_id": "skill_125",
+  "translation": "{F2 05 FF FF}{F1 41}每回合对所有敌人造成大量万能伤害，\n并以高概率使其即死，持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:295:0",
+  "message_id": "skill_127",
+  "translation": "{F2 05 FF FF}{F1 41}每回合对所有敌人造成多次大量斩击伤害，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:297:0",
+  "message_id": "skill_129",
+  "translation": "{F2 05 FF FF}{F1 41}每回合抵挡一次攻击，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:299:0",
+  "message_id": "skill_12B",
+  "translation": "{F2 05 FF FF}{F1 41}每回合恢复所有同伴的ＨＰ，\n并解除异常状态与封印，持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:301:0",
+  "message_id": "skill_12D",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成中量打击＋电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:302:0",
+  "message_id": "skill_12E",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成大量打击＋电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:303:0",
+  "message_id": "skill_12F",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成中量打击＋火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:304:0",
+  "message_id": "skill_130",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１名敌人造成大量打击＋火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:305:0",
+  "message_id": "skill_131",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成中量破坏属性伤害，\n并以中等概率使其睡眠。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:306:0",
+  "message_id": "skill_132",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成大量破坏属性伤害，\n并以中等概率使其睡眠。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:307:0",
+  "message_id": "skill_133",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成中量破坏属性伤害，\n并在本回合内降低其防御力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:308:0",
+  "message_id": "skill_134",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成大量破坏属性伤害，\n并在本回合内降低其防御力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:322:0",
+  "message_id": "skill_142",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》脱离战斗，\n逃回当前楼层的入口。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:325:0",
+  "message_id": "skill_145",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》\n以高概率阻止敌人的先制攻击。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:326:0",
+  "message_id": "skill_146",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》\n每回合恢复所有同伴５％的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:331:0",
+  "message_id": "skill_14B",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》提升获得稀有素材的概率，\n并偶尔增加采集次数。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:332:0",
+  "message_id": "skill_14C",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援用》提升稀有素材概率，\n并有时增加采集次数。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:333:0",
+  "message_id": "skill_14D",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》回合结束时中量恢复\n所有同伴的ＨＰ，持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:335:0",
+  "message_id": "skill_14F",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》\n战斗中，少量恢复所有同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:336:0",
+  "message_id": "skill_150",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》\n战斗中，中量恢复所有同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:337:0",
+  "message_id": "skill_151",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》回合结束时少量恢复\n所有同伴的ＨＰ，持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:338:0",
+  "message_id": "skill_152",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》\n使１名同伴最先行动。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:339:0",
+  "message_id": "skill_153",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》使１名同伴复活，\n并恢复５０％的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:340:0",
+  "message_id": "skill_154",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援用》选目标时显示\n攻击是否有效。未知耐性时无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:341:0",
+  "message_id": "skill_155",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》提升所有同伴的\n物理与属性防御力，持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:342:0",
+  "message_id": "skill_156",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》提升所有同伴的\n物理与属性攻击力，持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:343:0",
+  "message_id": "skill_157",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》提升所有同伴的\n命中率与回避率，持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:344:0",
+  "message_id": "skill_158",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》战斗结束时，\n恢复所有同伴２０％的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:345:0",
+  "message_id": "skill_159",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》战斗结束时，\n完全恢复所有同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:346:0",
+  "message_id": "skill_15A",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》\n在能量点采集时会稍微安全一些。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:347:0",
+  "message_id": "skill_15B",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》\n可以安全地在能量点采集。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:348:0",
+  "message_id": "skill_15C",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》\n小幅提升采集时获得稀有素材的概率。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:349:0",
+  "message_id": "skill_15D",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》\n提升采集时获得稀有素材的概率。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:350:0",
+  "message_id": "skill_15E",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》\n敌人不会发动先制攻击。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:351:0",
+  "message_id": "skill_15F",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》仅在使用的回合内，\n免疫敌人造成的所有伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:352:0",
+  "message_id": "skill_160",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》\n使所有同伴最先行动。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:353:0",
+  "message_id": "skill_161",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》\n为所有同伴带来某种有益效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:354:0",
+  "message_id": "skill_162",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》恢复所有同伴的ＨＰ，\n并解除异常状态、封印及无法战斗状态。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:355:0",
+  "message_id": "skill_163",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》本回合内提升所有同伴的\n物理、属性攻击力及物理、属性防御力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:356:0",
+  "message_id": "skill_164",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援用》３回合内\n提升所有同伴的攻击力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:357:0",
+  "message_id": "skill_165",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援用》３回合内\n提升所有同伴的防御力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:358:0",
+  "message_id": "skill_166",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》使所有同伴在本次战斗中\n获得的经验值增加５０％。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:359:0",
+  "message_id": "skill_167",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援用》\n促进治愈的持续栏位\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:361:0",
+  "message_id": "skill_169",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》恢复所有同伴的ＨＰ，\n并解除异常状态与封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:363:0",
+  "message_id": "skill_16B",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》\n在地图上显示周围宝箱的位置。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:364:0",
+  "message_id": "skill_16C",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》在地图上显示\n较大范围内宝箱的位置。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:365:0",
+  "message_id": "skill_16D",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》\n在地图上显示周围的捷径。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:366:0",
+  "message_id": "skill_16E",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》在地图上显示\n较大范围内的捷径。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:367:0",
+  "message_id": "skill_16F",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》在地图上显示\n周围的宝箱、捷径与ＦＯＥ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:368:0",
+  "message_id": "skill_170",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》在地图上显示\n较大范围内的宝箱、捷径与ＦＯＥ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:369:0",
+  "message_id": "skill_171",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》\n解除所有同伴的异常状态与封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:371:0",
+  "message_id": "skill_173",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》仅在使用的回合内，\n所有同伴的技能消耗变为零。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:372:0",
+  "message_id": "skill_174",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》\n强化技能的持续时间延长３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:377:0",
+  "message_id": "skill_179",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》\n小幅提升击败敌人后获得素材的概率。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:378:0",
+  "message_id": "skill_17A",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援专用》\n提升击败敌人后获得素材的概率。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:380:0",
+  "message_id": "skill_17C",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援用》迷宫中每走一步，\n少量恢复所有同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:381:0",
+  "message_id": "skill_17D",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援用》迷宫中每走一步，\n恢复所有同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:382:0",
+  "message_id": "skill_17E",
+  "translation": "{F2 05 FF FF}{F1 41}《情报支援用》迷宫中每走一步，\n少量恢复所有同伴的ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:385:0",
+  "message_id": "skill_181",
+  "translation": "{F2 05 FF FF}{F1 41}每回合以中等概率使所有敌人麻痹，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:387:0",
+  "message_id": "skill_183",
+  "translation": "{F2 05 FF FF}{F1 41}每回合以中等概率使所有敌人睡眠，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:389:0",
+  "message_id": "skill_185",
+  "translation": "{F2 05 FF FF}{F1 41}每回合以中等概率使所有敌人中毒，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:391:0",
+  "message_id": "skill_187",
+  "translation": "{F2 05 FF FF}{F1 41}每回合以中等概率使所有敌人混乱，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:393:0",
+  "message_id": "skill_189",
+  "translation": "{F2 05 FF FF}{F1 41}每回合以中等概率对所有敌人施加魔封印，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:395:0",
+  "message_id": "skill_18B",
+  "translation": "{F2 05 FF FF}{F1 41}每回合以中等概率对所有敌人施加力封印，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:397:0",
+  "message_id": "skill_18D",
+  "translation": "{F2 05 FF FF}{F1 41}每回合以中等概率对所有敌人施加速封印，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:399:0",
+  "message_id": "skill_18F",
+  "translation": "{F2 05 FF FF}{F1 41}利用已展开的魔法阵，\n对所有敌人造成中量万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:400:0",
+  "message_id": "skill_190",
+  "translation": "{F2 05 FF FF}{F1 41}利用已展开的魔法阵，\n对所有敌人造成大量万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:401:0",
+  "message_id": "skill_191",
+  "translation": "{F2 05 FF FF}{F1 41}自身行动的回合中，ＨＰ会大幅减少，\n但造成的伤害会大幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:402:0",
+  "message_id": "skill_192",
+  "translation": "{F2 05 FF FF}{F1 41}解除“修罗转生”，\n恢复自身的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:403:0",
+  "message_id": "skill_193",
+  "translation": "{F2 05 FF FF}{F1 41}战斗开始时，以高概率发动“修罗转生”。\n行动回合中ＨＰ减少，但攻击力提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:404:0",
+  "message_id": "skill_194",
+  "translation": "{F2 05 FF FF}{F1 41}大幅提升自身的攻击力，\n但经过一定回合后会进入过热状态。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:405:0",
+  "message_id": "skill_195",
+  "translation": "{F2 05 FF FF}{F1 41}解除狂欢模式。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:406:0",
+  "message_id": "skill_196",
+  "translation": "{F2 05 FF FF}{F1 41}回合结束时少量恢复自身与\n同列同伴的ＨＰ，持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:408:0",
+  "message_id": "skill_198",
+  "translation": "{F2 05 FF FF}{F1 41}每回合解除自身与同列同伴的封印，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:410:0",
+  "message_id": "skill_19A",
+  "translation": "{F2 05 FF FF}{F1 41}每回合解除自身与同列同伴的异常状态，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:413:0",
+  "message_id": "skill_19D",
+  "translation": "{F2 05 FF FF}{F1 41}自身或同列同伴受到攻击时反击该敌人，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:415:0",
+  "message_id": "skill_19F",
+  "translation": "{F2 05 FF FF}{F1 41}同列同伴攻击时，追击其目标，\n持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:417:0",
+  "message_id": "skill_1A1",
+  "translation": "{F2 05 FF FF}{F1 41}自身每次攻击时，同列同伴以中等概率\n对该敌人发动普通攻击，持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:421:0",
+  "message_id": "skill_1A5",
+  "translation": "{F2 05 FF FF}{F1 41}仅在加护技能生效时可用。\n恢复所有同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:423:0",
+  "message_id": "skill_1A7",
+  "translation": "{F2 05 FF FF}{F1 41}仅在架势技能生效时可用，本回合内\n最多３次普攻追击同伴攻击的敌人。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:425:0",
+  "message_id": "skill_1A9",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成少量斩击＋火炎伤害。\n同伴追击时还会触发连锁伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:427:0",
+  "message_id": "skill_1AB",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成少量斩击＋冰冻伤害。\n同伴追击时还会触发连锁伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:429:0",
+  "message_id": "skill_1AD",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成少量斩击＋电击伤害。\n同伴追击时还会触发连锁伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:431:0",
+  "message_id": "skill_1AF",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成少量斩击＋疾风伤害。\n同伴追击时还会触发连锁伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:433:0",
+  "message_id": "skill_1B1",
+  "translation": "{F2 05 FF FF}{F1 41}战斗开始时以高概率发动“憎恨吞噬”。\n提升防御力与被盯上的概率。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:434:0",
+  "message_id": "skill_1B2",
+  "translation": "{F2 05 FF FF}{F1 41}战斗开始时，有中等概率\n获得隐身斗篷的效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:465:0",
+  "message_id": "skill_1D1",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，每次进入过热状态，\n造成的伤害都会增加。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:466:0",
+  "message_id": "skill_1D2",
+  "translation": "{F2 05 FF FF}{F1 41}击中敌人弱点时，恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:467:0",
+  "message_id": "skill_1D3",
+  "translation": "{F2 05 FF FF}{F1 41}击中敌人弱点时，恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:468:0",
+  "message_id": "skill_1D4",
+  "translation": "{F2 05 FF FF}{F1 41}打倒敌人时，恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:469:0",
+  "message_id": "skill_1D5",
+  "translation": "{F2 05 FF FF}{F1 41}打倒敌人时，大幅恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:470:0",
+  "message_id": "skill_1D6",
+  "translation": "{F2 05 FF FF}{F1 41}代替同伴承受伤害时，\n恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:471:0",
+  "message_id": "skill_1D7",
+  "translation": "{F2 05 FF FF}{F1 41}代替同伴承受伤害时，\n大幅恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:472:0",
+  "message_id": "skill_1D8",
+  "translation": "{F2 05 FF FF}{F1 41}同伴在同一回合攻击自己攻击过的敌人时，\n造成的伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:473:0",
+  "message_id": "skill_1D9",
+  "translation": "{F2 05 FF FF}{F1 41}同伴在同一回合攻击自己攻击过的敌人时，\n造成的伤害大幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:474:0",
+  "message_id": "skill_1DA",
+  "translation": "{F2 05 FF FF}{F1 41}成功施加封印时，恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:475:0",
+  "message_id": "skill_1DB",
+  "translation": "{F2 05 FF FF}{F1 41}成功施加封印时，大幅恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:476:0",
+  "message_id": "skill_1DC",
+  "translation": "{F2 05 FF FF}{F1 41}火炎、冰冻、疾风、电击属性攻击\n造成的伤害略微提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:477:0",
+  "message_id": "skill_1DD",
+  "translation": "{F2 05 FF FF}{F1 41}火炎、冰冻、疾风、电击属性攻击\n造成的伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:478:0",
+  "message_id": "skill_1DE",
+  "translation": "{F2 05 FF FF}{F1 41}普通攻击时，恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:479:0",
+  "message_id": "skill_1DF",
+  "translation": "{F2 05 FF FF}{F1 41}普通攻击时，大幅恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:480:0",
+  "message_id": "skill_1E0",
+  "translation": "{F2 05 FF FF}{F1 41}减少使用物理攻击技能时\n消耗的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:481:0",
+  "message_id": "skill_1E1",
+  "translation": "{F2 05 FF FF}{F1 41}大幅减少使用物理攻击技能时\n消耗的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:482:0",
+  "message_id": "skill_1E2",
+  "translation": "{F2 05 FF FF}{F1 41}每次闪避攻击时，\n恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:483:0",
+  "message_id": "skill_1E3",
+  "translation": "{F2 05 FF FF}{F1 41}每次闪避攻击时，\n恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:484:0",
+  "message_id": "skill_1E4",
+  "translation": "{F2 05 FF FF}{F1 41}自身位于前排且ＨＰ全满时，\n回合结束时恢复自身的ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:485:0",
+  "message_id": "skill_1E5",
+  "translation": "{F2 05 FF FF}{F1 41}自身位于前排且ＨＰ全满时，\n回合结束时恢复自身的ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:486:0",
+  "message_id": "skill_1E6",
+  "translation": "{F2 05 FF FF}{F1 41}面对ＨＰ远高于自己的敌人时，\n攻击力略微提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:487:0",
+  "message_id": "skill_1E7",
+  "translation": "{F2 05 FF FF}{F1 41}面对ＨＰ远高于自己的敌人时，\n攻击力提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:488:0",
+  "message_id": "skill_1E8",
+  "translation": "{F2 05 FF FF}{F1 41}方阵效果结束时，\n恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:489:0",
+  "message_id": "skill_1E9",
+  "translation": "{F2 05 FF FF}{F1 41}方阵效果结束时，\n大幅恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:490:0",
+  "message_id": "skill_1EA",
+  "translation": "{F2 05 FF FF}{F1 41}在前排每次受敌人攻击时，\n恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:491:0",
+  "message_id": "skill_1EB",
+  "translation": "{F2 05 FF FF}{F1 41}在前排每次受敌人攻击时，\n大幅恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:492:0",
+  "message_id": "skill_1EC",
+  "translation": "{F2 05 FF FF}{F1 41}战斗胜利时，\n恢复所有同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:493:0",
+  "message_id": "skill_1ED",
+  "translation": "{F2 05 FF FF}{F1 41}战斗胜利时，\n大幅恢复所有同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:494:0",
+  "message_id": "skill_1EE",
+  "translation": "{F2 05 FF FF}{F1 41}自身采取的架势\n持续时间延长１回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:495:0",
+  "message_id": "skill_1EF",
+  "translation": "{F2 05 FF FF}{F1 41}自身采取的架势\n持续时间延长１回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:496:0",
+  "message_id": "skill_1F0",
+  "translation": "{F2 05 FF FF}{F1 41}普通攻击时，恢复HP。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:497:0",
+  "message_id": "skill_1F1",
+  "translation": "{F2 05 FF FF}{F1 41}普通攻击时，大幅恢复HP。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:498:0",
+  "message_id": "skill_1F2",
+  "translation": "{F2 05 FF FF}{F1 41}以敌人为目标的攻击技能\n有低概率发动２次。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:499:0",
+  "message_id": "skill_1F3",
+  "translation": "{F2 05 FF FF}{F1 41}以敌人为目标的攻击技能\n有中等概率发动２次。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:500:0",
+  "message_id": "skill_1F4",
+  "translation": "{F2 05 FF FF}{F1 41}有中等概率使对同排同伴的\n火炎、冰冻、疾风、电击属性攻击无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:501:0",
+  "message_id": "skill_1F5",
+  "translation": "{F2 05 FF FF}{F1 41}有高概率使对同排同伴的\n火炎、冰冻、疾风、电击属性攻击无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:502:0",
+  "message_id": "skill_1F6",
+  "translation": "{F2 05 FF FF}{F1 41}有中等概率使自身及同排同伴\n受到的物理伤害减半。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:503:0",
+  "message_id": "skill_1F7",
+  "translation": "{F2 05 FF FF}{F1 41}爆发槽更容易积攒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:505:0",
+  "message_id": "skill_1F9",
+  "translation": "{F2 05 FF FF}{F1 41}先于所有敌人攻击时，\n造成的伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:506:0",
+  "message_id": "skill_1FA",
+  "translation": "{F2 05 FF FF}{F1 41}施加封印的成功率提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:507:0",
+  "message_id": "skill_1FB",
+  "translation": "{F2 05 FF FF}{F1 41}自身所受异常状态和封印的\n自然恢复能力大幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:508:0",
+  "message_id": "skill_1FC",
+  "translation": "{F2 05 FF FF}{F1 41}自身的暴击率提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:509:0",
+  "message_id": "skill_1FD",
+  "translation": "{F2 05 FF FF}{F1 41}自身的暴击率大幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:511:0",
+  "message_id": "skill_1FF",
+  "translation": "{F2 05 FF FF}{F1 41}使用恢复技能时，\nＨＰ恢复量提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:512:0",
+  "message_id": "skill_200",
+  "translation": "{F2 05 FF FF}{F1 41}自身或同排同伴\n进行防御时，少量恢复ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:513:0",
+  "message_id": "skill_201",
+  "translation": "{F2 05 FF FF}{F1 41}自身或同排同伴\n进行防御时，恢复ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:514:0",
+  "message_id": "skill_202",
+  "translation": "{F2 05 FF FF}{F1 41}以１名敌人为目标的攻击技能\n有低概率扩散至左右两侧的敌人。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:515:0",
+  "message_id": "skill_203",
+  "translation": "{F2 05 FF FF}{F1 41}以１名敌人为目标的攻击技能\n有中等概率扩散至左右敌人。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:516:0",
+  "message_id": "skill_204",
+  "translation": "{F2 05 FF FF}{F1 41}连锁伤害随次数增加而提升。\n连锁仅持续１次时无法获得效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:517:0",
+  "message_id": "skill_205",
+  "translation": "{F2 05 FF FF}{F1 41}暗影的素材掉落率提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:518:0",
+  "message_id": "skill_206",
+  "translation": "{F2 05 FF FF}{F1 41}普通攻击时，有中等概率再次攻击。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:519:0",
+  "message_id": "skill_207",
+  "translation": "{F2 05 FF FF}{F1 41}对所有攻击的闪避率提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:520:0",
+  "message_id": "skill_208",
+  "translation": "{F2 05 FF FF}{F1 41}每场战斗仅一次，即使受到致命伤害\n令ＨＰ降至０，也能以ＨＰ１存活。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:521:0",
+  "message_id": "skill_209",
+  "translation": "{F2 05 FF FF}{F1 41}战斗结束时，若自身仍然存活，\n所有同伴获得的经验值增加。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:522:0",
+  "message_id": "skill_20A",
+  "translation": "{F2 05 FF FF}{F1 41}有高概率使针对自身的物理攻击无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:523:0",
+  "message_id": "skill_20B",
+  "translation": "{F2 05 FF FF}{F1 41}通过魔法阵召唤时，威力提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:524:0",
+  "message_id": "skill_20C",
+  "translation": "{F2 05 FF FF}{F1 41}有中等概率使针对同排同伴的\n异常状态与封印无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:525:0",
+  "message_id": "skill_20D",
+  "translation": "{F2 05 FF FF}{F1 41}吸收火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:526:0",
+  "message_id": "skill_20E",
+  "translation": "{F2 05 FF FF}{F1 41}吸收疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:527:0",
+  "message_id": "skill_20F",
+  "translation": "{F2 05 FF FF}{F1 41}吸收冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:528:0",
+  "message_id": "skill_210",
+  "translation": "{F2 05 FF FF}{F1 41}吸收电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:530:0",
+  "message_id": "skill_212",
+  "translation": "{F2 05 FF FF}{F1 41}火炎属性攻击造成的伤害\n略微提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:531:0",
+  "message_id": "skill_213",
+  "translation": "{F2 05 FF FF}{F1 41}冰冻属性攻击造成的伤害\n略微提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:532:0",
+  "message_id": "skill_214",
+  "translation": "{F2 05 FF FF}{F1 41}电击属性攻击造成的伤害\n略微提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:533:0",
+  "message_id": "skill_215",
+  "translation": "{F2 05 FF FF}{F1 41}疾风属性攻击造成的伤害\n略微提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:534:0",
+  "message_id": "skill_216",
+  "translation": "{F2 05 FF FF}{F1 41}火炎属性攻击造成的伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:535:0",
+  "message_id": "skill_217",
+  "translation": "{F2 05 FF FF}{F1 41}冰冻属性攻击造成的伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:536:0",
+  "message_id": "skill_218",
+  "translation": "{F2 05 FF FF}{F1 41}电击属性攻击造成的伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:537:0",
+  "message_id": "skill_219",
+  "translation": "{F2 05 FF FF}{F1 41}疾风属性攻击造成的伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:539:0",
+  "message_id": "skill_21B",
+  "translation": "{F2 05 FF FF}{F1 41}减少使用技能时消耗的ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:540:0",
+  "message_id": "skill_21C",
+  "translation": "{F2 05 FF FF}{F1 41}大幅减少使用技能时消耗的ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:542:0",
+  "message_id": "skill_21E",
+  "translation": "{F2 05 FF FF}{F1 41}攻击处于异常状态的敌人时，\n伤害大幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:543:0",
+  "message_id": "skill_21F",
+  "translation": "{F2 05 FF FF}{F1 41}施加异常状态的成功率提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:545:0",
+  "message_id": "skill_221",
+  "translation": "{F2 05 FF FF}{F1 41}魔法阵存在期间，\n每回合少量恢复所有同伴的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:546:0",
+  "message_id": "skill_222",
+  "translation": "{F2 05 FF FF}{F1 41}火炎、冰冻、疾风、电击属性攻击\n造成的伤害大幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:547:0",
+  "message_id": "skill_223",
+  "translation": "{F2 05 FF FF}{F1 41}火炎属性攻击造成的伤害\n大幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:548:0",
+  "message_id": "skill_224",
+  "translation": "{F2 05 FF FF}{F1 41}疾风属性攻击造成的伤害\n大幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:549:0",
+  "message_id": "skill_225",
+  "translation": "{F2 05 FF FF}{F1 41}使敌人倒地的概率提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:551:0",
+  "message_id": "skill_227",
+  "translation": "{F2 05 FF FF}{F1 41}有中等概率不消耗ＳＰ\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:553:0",
+  "message_id": "skill_229",
+  "translation": "{F2 05 FF FF}{F1 41}击中弱点时造成的伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:554:0",
+  "message_id": "skill_22A",
+  "translation": "{F2 05 FF FF}{F1 41}物理攻击力小幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:555:0",
+  "message_id": "skill_22B",
+  "translation": "{F2 05 FF FF}{F1 41}物理攻击力略微提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:556:0",
+  "message_id": "skill_22C",
+  "translation": "{F2 05 FF FF}{F1 41}物理攻击力大幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:557:0",
+  "message_id": "skill_22D",
+  "translation": "{F2 05 FF FF}{F1 41}物理防御力小幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:558:0",
+  "message_id": "skill_22E",
+  "translation": "{F2 05 FF FF}{F1 41}物理防御力略微提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:559:0",
+  "message_id": "skill_22F",
+  "translation": "{F2 05 FF FF}{F1 41}物理防御力大幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:560:0",
+  "message_id": "skill_230",
+  "translation": "{F2 05 FF FF}{F1 41}属性防御力小幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:561:0",
+  "message_id": "skill_231",
+  "translation": "{F2 05 FF FF}{F1 41}属性防御力略微提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:562:0",
+  "message_id": "skill_232",
+  "translation": "{F2 05 FF FF}{F1 41}属性防御力大幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:563:0",
+  "message_id": "skill_233",
+  "translation": "{F2 05 FF FF}{F1 41}在迷宫中每走一步，\n少量恢复自身的ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:564:0",
+  "message_id": "skill_234",
+  "translation": "{F2 05 FF FF}{F1 41}在迷宫中每走一步，\n恢复自身的ＨＰ和ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:565:0",
+  "message_id": "skill_235",
+  "translation": "{F2 05 FF FF}{F1 41}在迷宫中每走一步，\n恢复自身的ＨＰ和ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:566:0",
+  "message_id": "skill_236",
+  "translation": "{F2 05 FF FF}{F1 41}首次攻击造成的伤害提升，\n之后触发的连锁次数也会增加。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:568:0",
+  "message_id": "skill_238",
+  "translation": "{F2 05 FF FF}{F1 41}属性攻击力提升１０％。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:569:0",
+  "message_id": "skill_239",
+  "translation": "{F2 05 FF FF}{F1 41}属性攻击力提升２０％。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:570:0",
+  "message_id": "skill_23A",
+  "translation": "{F2 05 FF FF}{F1 41}属性攻击力提升３０％。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:571:0",
+  "message_id": "skill_23B",
+  "translation": "{F2 05 FF FF}{F1 41}最大ＨＰ提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:572:0",
+  "message_id": "skill_23C",
+  "translation": "{F2 05 FF FF}{F1 41}最大ＨＰ提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:573:0",
+  "message_id": "skill_23D",
+  "translation": "{F2 05 FF FF}{F1 41}最大ＳＰ提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:574:0",
+  "message_id": "skill_23E",
+  "translation": "{F2 05 FF FF}{F1 41}最大ＳＰ提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:575:0",
+  "message_id": "skill_23F",
+  "translation": "{F2 05 FF FF}{F1 41}行动速度、闪避率与命中率\n略微提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:576:0",
+  "message_id": "skill_240",
+  "translation": "{F2 05 FF FF}{F1 41}行动速度、闪避率与命中率提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:577:0",
+  "message_id": "skill_241",
+  "translation": "{F2 05 FF FF}{F1 41}受到的火炎属性伤害减少。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:578:0",
+  "message_id": "skill_242",
+  "translation": "{F2 05 FF FF}{F1 41}受到的冰冻属性伤害减少。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:579:0",
+  "message_id": "skill_243",
+  "translation": "{F2 05 FF FF}{F1 41}受到的电击属性伤害减少。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:580:0",
+  "message_id": "skill_244",
+  "translation": "{F2 05 FF FF}{F1 41}受到的疾风属性伤害减少。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:581:0",
+  "message_id": "skill_245",
+  "translation": "{F2 05 FF FF}{F1 41}更不容易因光属性效果\n陷入无法战斗状态。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:582:0",
+  "message_id": "skill_246",
+  "translation": "{F2 05 FF FF}{F1 41}更不容易因暗属性效果\n陷入无法战斗状态。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:583:0",
+  "message_id": "skill_247",
+  "translation": "{F2 05 FF FF}{F1 41}受到的斩击属性伤害减少。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:584:0",
+  "message_id": "skill_248",
+  "translation": "{F2 05 FF FF}{F1 41}受到的破破坏属性伤害减少。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:585:0",
+  "message_id": "skill_249",
+  "translation": "{F2 05 FF FF}{F1 41}受到的突刺属性伤害减少。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:586:0",
+  "message_id": "skill_24A",
+  "translation": "{F2 05 FF FF}{F1 41}免疫石化。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:587:0",
+  "message_id": "skill_24B",
+  "translation": "{F2 05 FF FF}{F1 41}免疫睡眠。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:588:0",
+  "message_id": "skill_24C",
+  "translation": "{F2 05 FF FF}{F1 41}免疫混乱。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:589:0",
+  "message_id": "skill_24D",
+  "translation": "{F2 05 FF FF}{F1 41}免疫中毒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:591:0",
+  "message_id": "skill_24F",
+  "translation": "{F2 05 FF FF}{F1 41}免疫诅咒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:592:0",
+  "message_id": "skill_250",
+  "translation": "{F2 05 FF FF}{F1 41}免疫麻痹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:594:0",
+  "message_id": "skill_252",
+  "translation": "{F2 05 FF FF}{F1 41}即使位于后排，\n物理攻击的威力也不会降低。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:595:0",
+  "message_id": "skill_253",
+  "translation": "{F2 05 FF FF}{F1 41}敌人陷入封印状态时，\n对其进行普通攻击。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:597:0",
+  "message_id": "skill_255",
+  "translation": "{F2 05 FF FF}{F1 41}免疫魔封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:598:0",
+  "message_id": "skill_256",
+  "translation": "{F2 05 FF FF}{F1 41}免疫力封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:599:0",
+  "message_id": "skill_257",
+  "translation": "{F2 05 FF FF}{F1 41}免疫速封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:600:0",
+  "message_id": "skill_258",
+  "translation": "{F2 05 FF FF}{F1 41}斩击属性攻击造成的伤害\n略微提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:601:0",
+  "message_id": "skill_259",
+  "translation": "{F2 05 FF FF}{F1 41}破破坏属性攻击造成的伤害\n略微提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:602:0",
+  "message_id": "skill_25A",
+  "translation": "{F2 05 FF FF}{F1 41}突刺属性攻击造成的伤害\n略微提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:603:0",
+  "message_id": "skill_25B",
+  "translation": "{F2 05 FF FF}{F1 41}斩击属性攻击造成的伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:604:0",
+  "message_id": "skill_25C",
+  "translation": "{F2 05 FF FF}{F1 41}破破坏属性攻击造成的伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:605:0",
+  "message_id": "skill_25D",
+  "translation": "{F2 05 FF FF}{F1 41}突刺属性攻击造成的伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:606:0",
+  "message_id": "skill_25E",
+  "translation": "{F2 05 FF FF}{F1 41}对敌施加异常状态或封印时，\n少量恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:607:0",
+  "message_id": "skill_25F",
+  "translation": "{F2 05 FF FF}{F1 41}对敌施加异常状态或封印时，\n恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:609:0",
+  "message_id": "skill_261",
+  "translation": "{F2 05 FF FF}{F1 41}对１列敌人造成万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:610:0",
+  "message_id": "skill_262",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:611:0",
+  "message_id": "skill_263",
+  "translation": "{F2 05 FF FF}{F1 41}对多名敌人造成万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:612:0",
+  "message_id": "skill_264",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:613:0",
+  "message_id": "skill_265",
+  "translation": "{F2 05 FF FF}{F1 41}对１列敌人造成万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:615:0",
+  "message_id": "skill_267",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:616:0",
+  "message_id": "skill_268",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成万能属性伤害，\n并对后排敌人造成贯穿伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:617:0",
+  "message_id": "skill_269",
+  "translation": "{F2 05 FF FF}{F1 41}对１列敌人造成万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:618:0",
+  "message_id": "skill_26A",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成万能属性伤害，\n并对后排敌人造成贯穿伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:619:0",
+  "message_id": "skill_26B",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:620:0",
+  "message_id": "skill_26C",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成万能属性伤害，\n并对后排敌人造成贯穿伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:621:0",
+  "message_id": "skill_26D",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:623:0",
+  "message_id": "skill_26F",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人\n造成万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:624:0",
+  "message_id": "skill_270",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成万能属性伤害，\n并对后排敌人造成贯穿伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:625:0",
+  "message_id": "skill_271",
+  "translation": "{F2 05 FF FF}{F1 41}对１列敌人造成万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:626:0",
+  "message_id": "skill_272",
+  "translation": "{F2 05 FF FF}{F1 41}对１列敌人造成万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:627:0",
+  "message_id": "skill_273",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:628:0",
+  "message_id": "skill_274",
+  "translation": "{F2 05 FF FF}{F1 41}对所有敌人造成万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:659:0",
+  "message_id": "skill_293",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，持续３回合\n提升１名同伴的物理攻击力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:660:0",
+  "message_id": "skill_294",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，持续３回合\n提升１名同伴的物理防御力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:664:0",
+  "message_id": "skill_298",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，持续３回合\n减轻火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:665:0",
+  "message_id": "skill_299",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，持续３回合\n减轻冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:666:0",
+  "message_id": "skill_29A",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，持续３回合\n减轻电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:667:0",
+  "message_id": "skill_29B",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，持续３回合\n减轻疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:668:0",
+  "message_id": "skill_29C",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，持续３回合\n为武器追加火炎属性。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:669:0",
+  "message_id": "skill_29D",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，持续３回合\n为武器追加冰冻属性。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:670:0",
+  "message_id": "skill_29E",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，持续３回合\n为武器追加电击属性。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:671:0",
+  "message_id": "skill_29F",
+  "translation": "{F2 05 FF FF}{F1 41}战斗中，持续３回合\n为武器追加疾风属性。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:690:0",
+  "message_id": "skill_2B2",
+  "translation": "{F2 05 FF FF}{F1 41}驱魔护符：降低遇敌率。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:691:0",
+  "message_id": "skill_2B3",
+  "translation": "{F2 05 FF FF}{F1 41}招魔符：提高遇敌率。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:694:0",
+  "message_id": "skill_2B6",
+  "translation": "{F2 05 FF FF}{F1 41}悬浮凉鞋：免疫地板伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:695:0",
+  "message_id": "skill_2B7",
+  "translation": "{F2 05 FF FF}{F1 41}简易雷达：看清Ｆ．Ｏ．Ｅ的位置。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:700:0",
+  "message_id": "skill_2BC",
+  "translation": "{F2 05 FF FF}{F1 41}驱魔铃：大幅降低遇敌率。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:701:0",
+  "message_id": "skill_2BD",
+  "translation": "{F2 05 FF FF}{F1 41}集魔之笛：大幅提高遇敌率。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:704:0",
+  "message_id": "skill_2C0",
+  "translation": "{F2 05 FF FF}{F1 41}异常、封印成功率提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:705:0",
+  "message_id": "skill_2C1",
+  "translation": "{F2 05 FF FF}{F1 41}异常、封印成功率大幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:706:0",
+  "message_id": "skill_2C2",
+  "translation": "{F2 05 FF FF}{F1 41}暴击造成的伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:707:0",
+  "message_id": "skill_2C3",
+  "translation": "{F2 05 FF FF}{F1 41}暴击造成的伤害\n大幅提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:708:0",
+  "message_id": "skill_2C4",
+  "translation": "{F2 05 FF FF}{F1 41}对处于封印状态的敌人，\n暴击率提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:715:0",
+  "message_id": "skill_2CB",
+  "translation": "{F2 05 FF FF}{F1 41}自身ＨＰ降至３０％以下时，\n有中等概率恢复ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:716:0",
+  "message_id": "skill_2CC",
+  "translation": "{F2 05 FF FF}{F1 41}首次攻击造成的伤害提升，\n之后触发的连锁次数也会增加。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:717:0",
+  "message_id": "skill_2CD",
+  "translation": "{F2 05 FF FF}{F1 41}首次攻击造成的伤害提升，\n之后触发的连锁次数也会增加。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:718:0",
+  "message_id": "skill_2CE",
+  "translation": "{F2 05 FF FF}{F1 41}首次攻击造成的伤害提升，\n之后触发的连锁次数也会增加。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:719:0",
+  "message_id": "skill_2CF",
+  "translation": "{F2 05 FF FF}{F1 41}击中弱点并打倒敌人时，\n恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:720:0",
+  "message_id": "skill_2D0",
+  "translation": "{F2 05 FF FF}{F1 41}使用物理技能时造成的伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:722:0",
+  "message_id": "skill_2D2",
+  "translation": "{F2 05 FF FF}{F1 41}方阵展开期间，\n每回合恢复ＳＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:723:0",
+  "message_id": "skill_2D3",
+  "translation": "{F2 05 FF FF}{F1 41}恢复ＨＰ时的恢复量提升。\n自身受到的强化越多，效果越强。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:769:0",
+  "message_id": "skill_301",
+  "translation": "{F2 05 FF FF}{F1 41}对１个目标造成少量火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:770:0",
+  "message_id": "skill_302",
+  "translation": "{F2 05 FF FF}{F1 41}对１个目标造成中量火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:771:0",
+  "message_id": "skill_303",
+  "translation": "{F2 05 FF FF}{F1 41}对１个目标造成大量火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:772:0",
+  "message_id": "skill_304",
+  "translation": "{F2 05 FF FF}{F1 41}对所有目标造成少量火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:773:0",
+  "message_id": "skill_305",
+  "translation": "{F2 05 FF FF}{F1 41}对所有目标造成中量火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:774:0",
+  "message_id": "skill_306",
+  "translation": "{F2 05 FF FF}{F1 41}对所有目标造成大量火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:775:0",
+  "message_id": "skill_307",
+  "translation": "{F2 05 FF FF}{F1 41}对１个目标造成少量火炎属性伤害，\n并对其相邻目标造成扩散伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:779:0",
+  "message_id": "skill_30B",
+  "translation": "{F2 05 FF FF}{F1 41}对１个目标造成少量疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:780:0",
+  "message_id": "skill_30C",
+  "translation": "{F2 05 FF FF}{F1 41}对１个目标造成中量疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:781:0",
+  "message_id": "skill_30D",
+  "translation": "{F2 05 FF FF}{F1 41}对１个目标造成大量疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:782:0",
+  "message_id": "skill_30E",
+  "translation": "{F2 05 FF FF}{F1 41}对所有目标造成少量疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:783:0",
+  "message_id": "skill_30F",
+  "translation": "{F2 05 FF FF}{F1 41}对所有目标造成中量疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:784:0",
+  "message_id": "skill_310",
+  "translation": "{F2 05 FF FF}{F1 41}对所有目标造成大量疾风属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:785:0",
+  "message_id": "skill_311",
+  "translation": "{F2 05 FF FF}{F1 41}对１列目标造成少量疾风属性伤害，\n攻击２～４次。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:789:0",
+  "message_id": "skill_315",
+  "translation": "{F2 05 FF FF}{F1 41}对１个目标造成少量冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:790:0",
+  "message_id": "skill_316",
+  "translation": "{F2 05 FF FF}{F1 41}对１个目标造成中量冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:791:0",
+  "message_id": "skill_317",
+  "translation": "{F2 05 FF FF}{F1 41}对１个目标造成大量冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:792:0",
+  "message_id": "skill_318",
+  "translation": "{F2 05 FF FF}{F1 41}对所有目标造成少量冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:793:0",
+  "message_id": "skill_319",
+  "translation": "{F2 05 FF FF}{F1 41}对所有目标造成中量冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:794:0",
+  "message_id": "skill_31A",
+  "translation": "{F2 05 FF FF}{F1 41}对所有目标造成大量冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:795:0",
+  "message_id": "skill_31B",
+  "translation": "{F2 05 FF FF}{F1 41}对所有目标造成大量冰冻属性伤害，\n攻击２～４次。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:796:0",
+  "message_id": "skill_31C",
+  "translation": "{F2 05 FF FF}{F1 41}对１名敌人造成少量冰冻属性伤害，\n并对后排敌人造成贯穿伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:800:0",
+  "message_id": "skill_320",
+  "translation": "{F2 05 FF FF}{F1 41}对１个目标造成少量电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:801:0",
+  "message_id": "skill_321",
+  "translation": "{F2 05 FF FF}{F1 41}对１个目标造成中量电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:802:0",
+  "message_id": "skill_322",
+  "translation": "{F2 05 FF FF}{F1 41}对１个目标造成大量电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:803:0",
+  "message_id": "skill_323",
+  "translation": "{F2 05 FF FF}{F1 41}对所有目标造成少量电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:804:0",
+  "message_id": "skill_324",
+  "translation": "{F2 05 FF FF}{F1 41}对所有目标造成中量电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:805:0",
+  "message_id": "skill_325",
+  "translation": "{F2 05 FF FF}{F1 41}对所有目标造成大量电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:806:0",
+  "message_id": "skill_326",
+  "translation": "{F2 05 FF FF}{F1 41}对所有目标造成大量电击属性伤害，\n攻击６次。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:807:0",
+  "message_id": "skill_327",
+  "translation": "{F2 05 FF FF}{F1 41}对１列目标造成少量电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:811:0",
+  "message_id": "skill_32B",
+  "translation": "{F2 05 FF FF}{F1 41}对所有目标造成中量万能属性伤害，\n并有中等概率使目标倒地。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:812:0",
+  "message_id": "skill_32C",
+  "translation": "{F2 05 FF FF}{F1 41}对所有目标造成大量万能属性伤害，\n并有中等概率使目标倒地。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:813:0",
+  "message_id": "skill_32D",
+  "translation": "{F2 05 FF FF}{F1 41}对所有目标造成巨量万能属性伤害，\n并有中等概率使目标倒地。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:817:0",
+  "message_id": "skill_331",
+  "translation": "{F2 05 FF FF}{F1 41}以低概率使１个目标\n因光属性效果而无法战斗。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:818:0",
+  "message_id": "skill_332",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使１个目标\n因光属性效果而无法战斗。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:819:0",
+  "message_id": "skill_333",
+  "translation": "{F2 05 FF FF}{F1 41}以低概率使所有目标\n因光属性效果而无法战斗。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:820:0",
+  "message_id": "skill_334",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使所有目标\n因光属性效果而无法战斗。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:824:0",
+  "message_id": "skill_338",
+  "translation": "{F2 05 FF FF}{F1 41}以低概率使１个目标\n因暗属性效果而无法战斗。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:825:0",
+  "message_id": "skill_339",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使１个目标\n因暗属性效果而无法战斗。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:826:0",
+  "message_id": "skill_33A",
+  "translation": "{F2 05 FF FF}{F1 41}以低概率使所有目标\n因暗属性效果而无法战斗。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:827:0",
+  "message_id": "skill_33B",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使所有目标\n因暗属性效果而无法战斗。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:831:0",
+  "message_id": "skill_33F",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n１个目标陷入中毒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:832:0",
+  "message_id": "skill_340",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n所有目标陷入中毒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:833:0",
+  "message_id": "skill_341",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n１个目标陷入石化。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:834:0",
+  "message_id": "skill_342",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n１列目标陷入石化。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:835:0",
+  "message_id": "skill_343",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n１个目标陷入睡眠。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:836:0",
+  "message_id": "skill_344",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n所有目标陷入睡眠。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:837:0",
+  "message_id": "skill_345",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n１个目标陷入混乱。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:838:0",
+  "message_id": "skill_346",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n所有目标陷入混乱。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:839:0",
+  "message_id": "skill_347",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n１个目标陷入失明。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:840:0",
+  "message_id": "skill_348",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n所有目标陷入失明。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:841:0",
+  "message_id": "skill_349",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n１个目标陷入诅咒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:842:0",
+  "message_id": "skill_34A",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n所有目标陷入诅咒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:843:0",
+  "message_id": "skill_34B",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n１个目标陷入麻痹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:844:0",
+  "message_id": "skill_34C",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n所有目标陷入麻痹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:845:0",
+  "message_id": "skill_34D",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n１个目标陷入魔封。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:846:0",
+  "message_id": "skill_34E",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n所有目标陷入魔封。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:847:0",
+  "message_id": "skill_34F",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n１个目标陷入力封。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:848:0",
+  "message_id": "skill_350",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n所有目标陷入力封。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:849:0",
+  "message_id": "skill_351",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n１个目标陷入速封。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:850:0",
+  "message_id": "skill_352",
+  "translation": "{F2 05 FF FF}{F1 41}以中等概率使\n所有目标陷入速封。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:851:0",
+  "message_id": "skill_353",
+  "translation": "{F2 05 FF FF}{F1 41}对敌我全体造成\n中量万能属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:897:0",
+  "message_id": "skill_381",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成中量破坏属性伤害。\n降低其物理攻击力，持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:898:0",
+  "message_id": "skill_382",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成中量破坏属性伤害。\n降低其属性攻击力，持续３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:899:0",
+  "message_id": "skill_383",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１个目标造成少量斩击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:900:0",
+  "message_id": "skill_384",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１个目标造成２次少量斩击伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:901:0",
+  "message_id": "skill_385",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１个目标造成大量突刺属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:902:0",
+  "message_id": "skill_386",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１个目标造成２次少量突刺伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:903:0",
+  "message_id": "skill_387",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成中量斩击伤害。\n并对其相邻目标造成扩散伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:904:0",
+  "message_id": "skill_388",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１个目标造成中量斩击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:905:0",
+  "message_id": "skill_389",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１名敌人造成巨量突刺伤害。\n并对后排敌人造成贯穿伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:906:0",
+  "message_id": "skill_38A",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１列目标造成３次少量突刺伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:907:0",
+  "message_id": "skill_38B",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成\n少量斩击＋冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:908:0",
+  "message_id": "skill_38C",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成中量斩击伤害。\n目标处于异常状态时，伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:909:0",
+  "message_id": "skill_38D",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１个目标造成３次少量斩击伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:910:0",
+  "message_id": "skill_38E",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成\n中量打击＋电击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:911:0",
+  "message_id": "skill_38F",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成中量破坏属性伤害。\n根据造成的伤害恢复ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:912:0",
+  "message_id": "skill_390",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成大量破坏属性伤害。\n并对其相邻目标造成扩散伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:913:0",
+  "message_id": "skill_391",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成少量突刺伤害。\n并对后排目标造成贯穿伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:914:0",
+  "message_id": "skill_392",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成少量突刺伤害。\n并有中等概率施加速封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:915:0",
+  "message_id": "skill_393",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成少量突刺伤害。\n并有中等概率施加力封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:916:0",
+  "message_id": "skill_394",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成少量突刺伤害。\n并有中等概率施加魔封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:917:0",
+  "message_id": "skill_395",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成中量突刺伤害。\n并对后排目标造成贯穿伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:918:0",
+  "message_id": "skill_396",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》无视目标的抗性与强化效果，\n对１个目标造成大量突刺属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:919:0",
+  "message_id": "skill_397",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成大量突刺伤害。\n并对后排目标造成贯穿伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:920:0",
+  "message_id": "skill_398",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１列目标造成中量突刺属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:921:0",
+  "message_id": "skill_399",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对所有目标造成少量突刺伤害，\n攻击６～１０次。命中率较低。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:922:0",
+  "message_id": "skill_39A",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成大量破坏属性伤害。\n并有中等概率使目标倒地。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:923:0",
+  "message_id": "skill_39B",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成中量破坏属性伤害。\n并有中等概率施加睡眠。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:924:0",
+  "message_id": "skill_39C",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成中量破坏属性伤害。\n仅在本回合降低目标的防御力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:925:0",
+  "message_id": "skill_39D",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１个目标造成少量破破坏属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:926:0",
+  "message_id": "skill_39E",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对所有目标造成大量斩击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:927:0",
+  "message_id": "skill_39F",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１列目标造成大量斩击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:928:0",
+  "message_id": "skill_3A0",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成\n中量斩击＋冰冻属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:929:0",
+  "message_id": "skill_3A1",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１个目标造成大量斩击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:930:0",
+  "message_id": "skill_3A2",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对所有目标造成大量斩击伤害，\n攻击５～７次。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:931:0",
+  "message_id": "skill_3A3",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成中量破坏属性伤害。\n并有中等概率施加魔封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:932:0",
+  "message_id": "skill_3A4",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成\n大量打击＋火炎属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:933:0",
+  "message_id": "skill_3A5",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成中量破坏属性伤害。\n并对其相邻目标造成扩散伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:934:0",
+  "message_id": "skill_3A6",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１个目标造成大量破破坏属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:935:0",
+  "message_id": "skill_3A7",
+  "translation": "{F2 05 FF FF}{F1 41}乾坤一掷后：麻痹\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:936:0",
+  "message_id": "skill_3A8",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成少量斩击伤害。\n并有中等概率施加失明。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:937:0",
+  "message_id": "skill_3A9",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成少量斩击伤害。\n并有中等概率施加中毒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:938:0",
+  "message_id": "skill_3AA",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成少量斩击伤害。\n并有中等概率施加睡眠。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:939:0",
+  "message_id": "skill_3AB",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成少量斩击伤害。\n并有中等概率施加麻痹。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:940:0",
+  "message_id": "skill_3AC",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对１个目标造成少量斩击伤害。\n并有中等概率施加诅咒。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:941:0",
+  "message_id": "skill_3AD",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对１列目标造成少量斩击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:942:0",
+  "message_id": "skill_3AE",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对所有目标造成大量斩击属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:943:0",
+  "message_id": "skill_3AF",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对所有目标造成大量突刺属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:944:0",
+  "message_id": "skill_3B0",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》\n对所有目标造成大量破破坏属性伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:977:0",
+  "message_id": "skill_3D1",
+  "translation": "{F2 05 FF FF}{F1 41}少量恢复１个目标的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:978:0",
+  "message_id": "skill_3D2",
+  "translation": "{F2 05 FF FF}{F1 41}中量恢复１个目标的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:979:0",
+  "message_id": "skill_3D3",
+  "translation": "{F2 05 FF FF}{F1 41}完全恢复１个目标的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:980:0",
+  "message_id": "skill_3D4",
+  "translation": "{F2 05 FF FF}{F1 41}少量恢复１列目标的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:981:0",
+  "message_id": "skill_3D5",
+  "translation": "{F2 05 FF FF}{F1 41}中量恢复１列目标的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:982:0",
+  "message_id": "skill_3D6",
+  "translation": "{F2 05 FF FF}{F1 41}少量恢复所有目标的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:983:0",
+  "message_id": "skill_3D7",
+  "translation": "{F2 05 FF FF}{F1 41}中量恢复所有目标的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:984:0",
+  "message_id": "skill_3D8",
+  "translation": "{F2 05 FF FF}{F1 41}完全恢复所有目标的ＨＰ。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:985:0",
+  "message_id": "skill_3D9",
+  "translation": "{F2 05 FF FF}{F1 41}复活１个目标，\n使其ＨＰ恢复至５０％。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:986:0",
+  "message_id": "skill_3DA",
+  "translation": "{F2 05 FF FF}{F1 41}复活１个目标，\n使其ＨＰ完全恢复。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:987:0",
+  "message_id": "skill_3DB",
+  "translation": "{F2 05 FF FF}{F1 41}消除１名同伴的所有弱化效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:988:0",
+  "message_id": "skill_3DC",
+  "translation": "{F2 05 FF FF}{F1 41}消除１列目标的所有弱化效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:989:0",
+  "message_id": "skill_3DD",
+  "translation": "{F2 05 FF FF}{F1 41}解除１个目标的异常状态。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:990:0",
+  "message_id": "skill_3DE",
+  "translation": "{F2 05 FF FF}{F1 41}解除１列目标的异常状态。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:991:0",
+  "message_id": "skill_3DF",
+  "translation": "{F2 05 FF FF}{F1 41}解除所有目标的异常状态。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:992:0",
+  "message_id": "skill_3E0",
+  "translation": "{F2 05 FF FF}{F1 41}解除１个目标的封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:993:0",
+  "message_id": "skill_3E1",
+  "translation": "{F2 05 FF FF}{F1 41}解除１列目标的封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:994:0",
+  "message_id": "skill_3E2",
+  "translation": "{F2 05 FF FF}{F1 41}解除所有目标的封印。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:997:0",
+  "message_id": "skill_3E5",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合以最快速度行动，\n期间自身的物理攻击力提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:999:0",
+  "message_id": "skill_3E7",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n使使用者受到的物理攻击仅一次无效。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1000:0",
+  "message_id": "skill_3E8",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n提升使用者的物理及属性防御力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1001:0",
+  "message_id": "skill_3E9",
+  "translation": "{F2 05 FF FF}{F1 41}代替１个目标承受伤害。\n所受伤害会因技能效果而减轻。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1002:0",
+  "message_id": "skill_3EA",
+  "translation": "{F2 05 FF FF}{F1 41}本回合保护１列目标，\n由使用者代为承受伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1003:0",
+  "message_id": "skill_3EB",
+  "translation": "{F2 05 FF FF}{F1 41}代替所有目标承受伤害。\n所受伤害会因技能效果而减轻。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1004:0",
+  "message_id": "skill_3EC",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合保护ＨＰ在５０％以下的目标，\n由使用者代为承受伤害。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1005:0",
+  "message_id": "skill_3ED",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n提升所有目标的物理防御力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1006:0",
+  "message_id": "skill_3EE",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n提升所有目标的属性防御力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1007:0",
+  "message_id": "skill_3EF",
+  "translation": "{F2 05 FF FF}{F1 41}持续５回合，\n提升所有目标的命中率。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1008:0",
+  "message_id": "skill_3F0",
+  "translation": "{F2 05 FF FF}{F1 41}持续５回合，\n提升使用者的暴击率。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1009:0",
+  "message_id": "skill_3F1",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n提升使用者的属性攻击力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1010:0",
+  "message_id": "skill_3F2",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n提升所有目标的攻击力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1011:0",
+  "message_id": "skill_3F3",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n提升所有目标的防御力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1012:0",
+  "message_id": "skill_3F4",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n提升所有目标的命中率与闪避率。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1013:0",
+  "message_id": "skill_3F5",
+  "translation": "{F2 05 FF FF}{F1 41}使自身物理攻击力提升至２倍以上。\n效果仅１次，有效期为３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1014:0",
+  "message_id": "skill_3F6",
+  "translation": "{F2 05 FF FF}{F1 41}使自身魔法攻击力提升至２倍以上。\n效果仅１次，有效期为３回合。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1015:0",
+  "message_id": "skill_3F7",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n降低所有目标的火炎抗性。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1016:0",
+  "message_id": "skill_3F8",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n降低所有目标的冰冻抗性。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1017:0",
+  "message_id": "skill_3F9",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n降低所有目标的电击抗性。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1018:0",
+  "message_id": "skill_3FA",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n降低所有目标的疾风抗性。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1019:0",
+  "message_id": "skill_3FB",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n降低１个目标的物理防御力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1020:0",
+  "message_id": "skill_3FC",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n降低１个目标的属性防御力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1021:0",
+  "message_id": "skill_3FD",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n降低所有目标的攻击力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1022:0",
+  "message_id": "skill_3FE",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n降低所有目标的防御力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1023:0",
+  "message_id": "skill_3FF",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n降低所有目标的命中率与闪避率。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1024:0",
+  "message_id": "skill_400",
+  "translation": "{F2 05 FF FF}{F1 41}使积攒的队伍计量槽清零。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1025:0",
+  "message_id": "skill_401",
+  "translation": "{F2 05 FF FF}{F1 41}消除所有目标身上的\n全部强化效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1026:0",
+  "message_id": "skill_402",
+  "translation": "{F2 05 FF FF}{F1 41}消除所有目标身上的\n全部弱化效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1027:0",
+  "message_id": "skill_403",
+  "translation": "{F2 05 FF FF}{F1 41}为了与同伴一起攻击，\n等待攻击者行动。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1028:0",
+  "message_id": "skill_404",
+  "translation": "{F2 05 FF FF}{F1 41}从现场逃走，脱离战斗。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1031:0",
+  "message_id": "skill_407",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n提升１名同伴的攻击力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1032:0",
+  "message_id": "skill_408",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n提升１名同伴的防御力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1033:0",
+  "message_id": "skill_409",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n提升１个目标的命中率与闪避率。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1034:0",
+  "message_id": "skill_40A",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n降低１个目标的攻击力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1035:0",
+  "message_id": "skill_40B",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n降低１个目标的防御力。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1036:0",
+  "message_id": "skill_40C",
+  "translation": "{F2 05 FF FF}{F1 41}持续３回合，\n降低１个目标的命中率与闪避率。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1073:0",
+  "message_id": "skill_431",
+  "translation": "{F2 05 FF FF}{F1 41}火炎属性攻击造成的伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1074:0",
+  "message_id": "skill_432",
+  "translation": "{F2 05 FF FF}{F1 41}冰冻属性攻击造成的伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1075:0",
+  "message_id": "skill_433",
+  "translation": "{F2 05 FF FF}{F1 41}电击属性攻击造成的伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1076:0",
+  "message_id": "skill_434",
+  "translation": "{F2 05 FF FF}{F1 41}疾风属性攻击造成的伤害提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1077:0",
+  "message_id": "skill_435",
+  "translation": "{F2 05 FF FF}{F1 41}对所有攻击的闪避率提升。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1083:0",
+  "message_id": "skill_43B",
+  "translation": "{F2 05 FF FF}{F1 41}以１个目标为对象的攻击技能\n有低概率扩散至目标左右两侧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1084:0",
+  "message_id": "skill_43C",
+  "translation": "{F2 05 FF FF}{F1 41}以１个目标为对象的攻击技能\n有中等概率扩散至目标左右两侧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1085:0",
+  "message_id": "skill_43D",
+  "translation": "{F2 05 FF FF}{F1 41}以１个目标为对象的攻击技能\n有高概率扩散至目标左右两侧。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1086:0",
+  "message_id": "skill_43E",
+  "translation": "{F2 05 FF FF}{F1 41}攻击技能有低概率再次发动。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1087:0",
+  "message_id": "skill_43F",
+  "translation": "{F2 05 FF FF}{F1 41}攻击技能有中等概率再次发动。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1088:0",
+  "message_id": "skill_440",
+  "translation": "{F2 05 FF FF}{F1 41}攻击技能有高概率再次发动。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1185:0",
+  "message_id": "skill_4A1",
+  "translation": "{F2 05 FF FF}{F1 41}在自身前方召唤扑克牌士兵，\n自身则退到后方。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1186:0",
+  "message_id": "skill_4A2",
+  "translation": "{F2 05 FF FF}{F1 41}扑克牌士兵前来增援，加入战斗。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1188:0",
+  "message_id": "skill_4A4",
+  "translation": "{F2 05 FF FF}{F1 41}对违反誓言者造成大量伤害，\n并施加魔封、力封与速封。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1189:0",
+  "message_id": "skill_4A5",
+  "translation": "{F2 05 FF FF}{F1 41}禁止所有目标进行特定行动。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1199:0",
+  "message_id": "skill_4AF",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对所有目标造成中量破坏属性伤害，\n攻击５次。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1200:0",
+  "message_id": "skill_4B0",
+  "translation": "{F2 05 FF FF}{F1 41}ＨＰ即将降至０时，解除所有异常状态和\n封印，并以５０％ＨＰ恢复战斗。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1201:0",
+  "message_id": "skill_4B1",
+  "translation": "{F2 05 FF FF}{F1 41}《物理》对所有目标造成少量破坏属性伤害，\n攻击１０次。命中率较低。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1202:0",
+  "message_id": "skill_4B2",
+  "translation": "{F2 05 FF FF}{F1 41}以高概率使所有目标倒地。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1204:0",
+  "message_id": "skill_4B4",
+  "translation": "{F2 05 FF FF}{F1 41}开始死亡倒计时。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1205:0",
+  "message_id": "skill_4B5",
+  "translation": "{F2 05 FF FF}{F1 41}加快刻命齿轮引发的\n死亡倒计时。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1207:0",
+  "message_id": "skill_4B7",
+  "translation": "{F2 05 FF FF}{F1 41}使用者ＨＰ全满，解除异常状态、封印，\n以及所有强化与弱化效果。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1208:0",
+  "message_id": "skill_4B8",
+  "translation": "{F2 05 FF FF}{F1 41}仅在使用当回合，\n使用者可行动４次。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1212:0",
+  "message_id": "skill_4BC",
+  "translation": "{F2 05 FF FF}{F1 41}大蜘蛛第一形态时\n普通ＡＴＴＡＣＫ\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillhelp.bmd.json:1227:0",
+  "message_id": "skill_4CB",
+  "translation": "{F2 05 FF FF}{F1 41}对所有目标造成超大量万能属性伤害，\n并有中等概率使目标倒地。\n{00}"
+ }
+]

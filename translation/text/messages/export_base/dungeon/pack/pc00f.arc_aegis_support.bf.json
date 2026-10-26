@@ -1,0 +1,257 @@
+[
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:0:0",
+  "message_id": "AEGIS_FOE_FOLLOW_START1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 D9 03}Ｆ．Ｏ．Ｅ\n正在追赶我们。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:1:0",
+  "message_id": "AEGIS_FOE_FOLLOW_START2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DA 03}危险！\nＦ．Ｏ．Ｅ正在接近！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:2:0",
+  "message_id": "AEGIS_FOE_FOLLOW_START3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DB 03}我们正被Ｆ．Ｏ．Ｅ追踪，\n请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:3:0",
+  "message_id": "AEGIS_FOE_SENSOR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DC 03}确认有Ｆ．Ｏ．Ｅ存在。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:4:0",
+  "message_id": "AEGIS_FOE_SENSOR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DD 03}确认发现菲西斯·奥伊凯因·\n艾多隆。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:5:0",
+  "message_id": "AEGIS_FOE_SENSOR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DE 03}探测到Ｆ．Ｏ．Ｅ的气息。\n请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:6:0",
+  "message_id": "AEGIS_FOE_FOLLOW_END1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DF 03}看来已经摆脱\nＦ．Ｏ．Ｅ的追踪。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:7:0",
+  "message_id": "AEGIS_FOE_FOLLOW_END2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E0 03}看来已经甩掉了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:8:0",
+  "message_id": "AEGIS_FOE_FOLLOW_END3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E1 03}Ｆ．Ｏ．Ｅ\n似乎已放弃追踪。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:9:0",
+  "message_id": "AEGIS_PARTY_HPTP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E2 03}需要冷却休息。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:10:0",
+  "message_id": "AEGIS_PARTY_HPTP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E3 03}建议返回。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:11:0",
+  "message_id": "AEGIS_PARTY_HPTP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E4 03}即将\n停止活动。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:12:0",
+  "message_id": "AEGIS_PARTY_HP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E5 03}报告。\n体力已大幅下降。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:13:0",
+  "message_id": "AEGIS_PARTY_HP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E6 03}体力不足。\n这样下去将停止运作。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:14:0",
+  "message_id": "AEGIS_PARTY_HP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E7 03}体力已达危险值。\n需要恢复。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:15:0",
+  "message_id": "AEGIS_PARTY_TP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E8 03}报告。\n精力已大幅下降。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:16:0",
+  "message_id": "AEGIS_PARTY_TP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E9 03}耐力即将耗尽。\n请求解决该问题。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:17:0",
+  "message_id": "AEGIS_PARTY_TP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EA 03}精力下降。\n直说就是，我累了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:18:0",
+  "message_id": "AEGIS_STAIR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EB 03}发现楼梯！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:19:0",
+  "message_id": "AEGIS_STAIR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EC 03}发现楼梯！\n前进吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:20:0",
+  "message_id": "AEGIS_STAIR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 ED 03}前方发现楼梯！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:21:0",
+  "message_id": "AEGIS_TREASURE1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EE 03}前方确认有宝箱！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:22:0",
+  "message_id": "AEGIS_TREASURE2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EF 03}发现宝箱！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:23:0",
+  "message_id": "AEGIS_TREASURE3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F0 03}是宝箱……\n要打开？还是破坏？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:24:0",
+  "message_id": "AEGIS_FOUNTAIN1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F1 03}前方\n确认有能量点。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:25:0",
+  "message_id": "AEGIS_FOUNTAIN2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F2 03}发现能量点，\n过去看看吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:26:0",
+  "message_id": "AEGIS_FOUNTAIN3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F3 03}有能量点……\n调查一下吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:27:0",
+  "message_id": "AEGIS_SEARCH_OBJ1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F4 03}前方发现可疑地点。\n调查一下吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:28:0",
+  "message_id": "AEGIS_SEARCH_OBJ2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F5 03}建议\n调查这附近。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:29:0",
+  "message_id": "AEGIS_SEARCH_OBJ3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F6 03}前方有东西。\n靠近调查一下吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:30:0",
+  "message_id": "AEGIS_SWITCH1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F7 03}是开关。\n要按下？还是破坏？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:31:0",
+  "message_id": "AEGIS_SWITCH2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F8 03}发现开关。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:32:0",
+  "message_id": "AEGIS_SWITCH3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 F9 03}前方有疑似开关的物体。\n要怎么做？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:33:0",
+  "message_id": "AEGIS_SHORTCUT1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FA 03}那面墙十分可疑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:34:0",
+  "message_id": "AEGIS_SHORTCUT2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FB 03}前面的墙似乎能轰穿……\n要开火吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:35:0",
+  "message_id": "AEGIS_SHORTCUT3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FC 03}那面墙并非普通墙壁。\n建议进行调查。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:36:0",
+  "message_id": "AEGIS_PARTY_HPTP15_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E2 03}需要冷却休息。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:37:0",
+  "message_id": "AEGIS_PARTY_HPTP15_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E3 03}建议返回。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:38:0",
+  "message_id": "AEGIS_PARTY_HPTP15_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E4 03}即将\n停止活动。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:39:0",
+  "message_id": "AEGIS_PARTY_TP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E8 03}报告。\n精力已大幅下降。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:40:0",
+  "message_id": "AEGIS_PARTY_TP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E9 03}耐力即将耗尽。\n请求解决该问题。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:41:0",
+  "message_id": "AEGIS_PARTY_TP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 EA 03}精力下降。\n直说就是，我累了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:42:0",
+  "message_id": "AEGIS_PARTY_HP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E5 03}报告。\n体力已大幅下降。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:43:0",
+  "message_id": "AEGIS_PARTY_HP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E6 03}体力不足。\n这样下去将停止运作。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:44:0",
+  "message_id": "AEGIS_PARTY_HP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 E7 03}体力已达危险值。\n需要恢复。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:45:0",
+  "message_id": "AEGIS_FOE_NEAR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 D9 03}Ｆ．Ｏ．Ｅ\n正在追赶我们。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:46:0",
+  "message_id": "AEGIS_FOE_NEAR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DA 03}危险！\nＦ．Ｏ．Ｅ正在接近！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:47:0",
+  "message_id": "AEGIS_FOE_NEAR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 DB 03}我们正被Ｆ．Ｏ．Ｅ追踪，\n请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:48:0",
+  "message_id": "AEGIS_ME_LEVEL_UP1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FD 03}等级很快就要\n噔噔噔噔——了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:49:0",
+  "message_id": "AEGIS_ME_LEVEL_UP2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FE 03}距离升级\n已进入倒计时。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/pc00f.arc_aegis_support.bf.json:50:0",
+  "message_id": "AEGIS_ME_LEVEL_UP3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 FF 03}报告。\n已开始准备升级。\n{F2 26 00 00}{00}"
+ }
+]

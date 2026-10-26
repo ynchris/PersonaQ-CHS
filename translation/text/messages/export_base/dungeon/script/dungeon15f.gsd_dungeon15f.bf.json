@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/dungeon/script/dungeon15f.gsd_dungeon15f.bf.json:1:0",
+  "message_id": "MSG_STOP",
+  "translation": "{F2 05 FF FF}{F1 41}＞现在没工夫管这个…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon15f.gsd_dungeon15f.bf.json:2:0",
+  "message_id": "MSG_PORT",
+  "translation": "{F2 05 FF FF}{F1 41}＞是一张合成了\n　我们脸孔的结婚照…\n{F1 21}{00}"
+ }
+]

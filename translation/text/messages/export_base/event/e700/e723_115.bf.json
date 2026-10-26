@@ -1,0 +1,1062 @@
+[
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这里有块公告板……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞上面用红字写着：\n　{F2 01 03 01}“告诉我周一第４节课\n　和周五第３节课是什么。”{F2 01 01 01}\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 02 01}{F5 61 02 01 01 01 01 01 01 01}……又是课程表啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 4F 09}{F5 C1 03 01 01 01 01 01 04 01}信息太零碎，\n完全不知道什么意思。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}得有关键的课程表才行……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 8C 0B}{F5 C1 03 01 01 01 01 01 07 01}课程表在我这里。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 64 09}{F5 C1 03 01 01 01 01 01 08 01}哦，埃癸斯！\n干得好！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 09 01 02 01 03 01 02 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 05 01}……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}这是……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 02 01}课程表{F2 01 01 01}\n{F2 01 04 01}一：{F2 01 01 01}社会、技术、－、？、音乐\n{F2 01 04 01}二：{F2 01 01 01}理科、－、家政、－、－\n{F2 01 04 01}三：{F2 01 01 01}保健体育、社会、－、－、国语\n{F2 01 04 01}四：{F2 01 01 01}音乐、理科、－、－、英语\n{F2 01 04 01}五：{F2 01 01 01}综合、－、？、技术、－\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞课程表上的部分文字\n　已经模糊不清了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}周一第４节课和周五第３节课，\n都没办法确认呢……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 09 01 02 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞直斗似乎正在思考……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞怎么办……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:11:0",
+  "message_id": "SEL_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 03 01 02 01}{F5 86 01 01 02 01 01 01 04 01}说说自己的推理{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:11:1",
+  "message_id": "SEL_011",
+  "translation": "{F2 05 FF FF}{F1 41}看看直斗的反应{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:11:2",
+  "message_id": "SEL_011",
+  "translation": "{F2 05 FF FF}{F1 41}重新查看课程表{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:11:3",
+  "message_id": "SEL_011",
+  "translation": "{F2 05 FF FF}{F1 41}重新收集情报{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}好、好快啊……\n我还停留在假设阶段……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:12:1",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}可以告诉我您的答案吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 09 01 02 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞直斗似乎正在思考……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞重新看看课程表吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 02 01}课程表{F2 01 01 01}\n{F2 01 04 01}一：{F2 01 01 01}社会、技术、－、？、音乐\n{F2 01 04 01}二：{F2 01 01 01}理科、－、家政、－、－\n{F2 01 04 01}三：{F2 01 01 01}保健体育、社会、－、－、国语\n{F2 01 04 01}四：{F2 01 01 01}音乐、理科、－、－、英语\n{F2 01 04 01}五：{F2 01 01 01}综合、－、？、技术、－\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞课程表上的部分文字\n　已经模糊不清了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3C 06}……明白了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:19:0",
+  "message_id": "SEL_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 03 01 02 01}{F5 86 01 01 02 01 01 01 04 01}说说自己的推理{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:19:1",
+  "message_id": "SEL_019",
+  "translation": "{F2 05 FF FF}{F1 41}继续看看直斗的反应{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:19:2",
+  "message_id": "SEL_019",
+  "translation": "{F2 05 FF FF}{F1 41}重新查看课程表{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:19:3",
+  "message_id": "SEL_019",
+  "translation": "{F2 05 FF FF}{F1 41}重新收集情报{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}好、好快啊……\n我还停留在假设阶段……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:20:1",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}可以告诉我您的答案吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:21:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 09 01 02 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:22:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞直斗似乎还在思考……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:23:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 04 01 02 01 01 01 02 01}{F5 86 08 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 01 01}这学校真不错啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:24:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 04 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 E5 02}{F5 C1 03 01 01 01 01 01 05 01}……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:25:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 6E 05}你们看，从周一到周五，\n每天都只有５节课嘛。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:25:1",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}能早点回家，真好啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:26:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0E 0A}能安静一点吗？\n会分心。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:27:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 75 11}{F5 C1 03 01 01 01 01 01 04 01}对、对不起……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:28:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 03 01 02 01}{F5 61 02 01 01 01 01 01 01 01}每天都在第５节课结束……？\n作为课程表，的确很奇怪……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:28:1",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}难道是按照某种规律排列的……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:29:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞直斗似乎注意到了什么……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:30:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞重新看看课程表吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:31:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 02 01}课程表{F2 01 01 01}\n{F2 01 04 01}一：{F2 01 01 01}社会、技术、－、？、音乐\n{F2 01 04 01}二：{F2 01 01 01}理科、－、家政、－、－\n{F2 01 04 01}三：{F2 01 01 01}保健体育、社会、－、－、国语\n{F2 01 04 01}四：{F2 01 01 01}音乐、理科、－、－、英语\n{F2 01 04 01}五：{F2 01 01 01}综合、－、？、技术、－\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:32:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞课程表上的部分文字\n　已经模糊不清了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:33:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3C 06}明白了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:34:0",
+  "message_id": "SEL_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 03 01 02 01}{F5 86 01 01 02 01 01 01 04 01}说说自己的推理{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:34:1",
+  "message_id": "SEL_034",
+  "translation": "{F2 05 FF FF}{F1 41}再看看直斗的反应{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:34:2",
+  "message_id": "SEL_034",
+  "translation": "{F2 05 FF FF}{F1 41}重新查看课程表{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:34:3",
+  "message_id": "SEL_034",
+  "translation": "{F2 05 FF FF}{F1 41}重新收集情报{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:35:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}好、好快啊……\n我还停留在假设阶段……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:35:1",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}可以告诉我您的答案吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:36:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 09 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 07 01}……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:36:1",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 DC 06}{F5 C1 03 01 01 01 01 01 06 01}原来如此……\n我解出来了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:37:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 B3 08}{F5 C1 03 01 01 01 01 01 08 01}真的！？\n不愧是侦探王子！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:38:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 65 06}{F5 C1 03 01 01 01 01 01 0B 01}请、请别这么叫我……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:39:0",
+  "message_id": "MSG_0382",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 09 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}……那、那么。\n您知道答案了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:40:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞重新看看课程表吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:41:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 02 01}课程表{F2 01 01 01}\n{F2 01 04 01}一：{F2 01 01 01}社会、技术、－、？、音乐\n{F2 01 04 01}二：{F2 01 01 01}理科、－、家政、－、－\n{F2 01 04 01}三：{F2 01 01 01}保健体育、社会、－、－、国语\n{F2 01 04 01}四：{F2 01 01 01}音乐、理科、－、－、英语\n{F2 01 04 01}五：{F2 01 01 01}综合、－、？、技术、－\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:42:0",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞课程表上的部分文字\n　已经模糊不清了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:43:0",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3C 06}明白了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:44:0",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞怎么办……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:45:0",
+  "message_id": "SEL_044",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 03 01 02 01}{F5 86 01 01 02 01 01 01 04 01}说说自己的推理{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:45:1",
+  "message_id": "SEL_044",
+  "translation": "{F2 05 FF FF}{F1 41}把推理交给直斗{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:45:2",
+  "message_id": "SEL_044",
+  "translation": "{F2 05 FF FF}{F1 41}重新查看课程表{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:45:3",
+  "message_id": "SEL_044",
+  "translation": "{F2 05 FF FF}{F1 41}重新收集情报{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:46:0",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}那么……\n来核对答案吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:46:1",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}可以告诉我您的答案吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:47:0",
+  "message_id": "MSG_046",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3C 06}明白了……\n那么，让我说明一下。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:48:0",
+  "message_id": "MSG_047",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞重新看看课程表吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:49:0",
+  "message_id": "MSG_048",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 02 01}课程表{F2 01 01 01}\n{F2 01 04 01}一：{F2 01 01 01}社会、技术、－、？、音乐\n{F2 01 04 01}二：{F2 01 01 01}理科、－、家政、－、－\n{F2 01 04 01}三：{F2 01 01 01}保健体育、社会、－、－、国语\n{F2 01 04 01}四：{F2 01 01 01}音乐、理科、－、－、英语\n{F2 01 04 01}五：{F2 01 01 01}综合、－、？、技术、－\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:50:0",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞课程表上的部分文字\n　已经模糊不清了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:51:0",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3C 06}明白了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:52:0",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞周一第４节课是……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:53:0",
+  "message_id": "SEL_053",
+  "translation": "{F2 05 FF FF}{F1 41}国语{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:53:1",
+  "message_id": "SEL_053",
+  "translation": "{F2 05 FF FF}{F1 41}数学{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:53:2",
+  "message_id": "SEL_053",
+  "translation": "{F2 05 FF FF}{F1 41}社会{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:53:3",
+  "message_id": "SEL_053",
+  "translation": "{F2 05 FF FF}{F1 41}理科{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:53:4",
+  "message_id": "SEL_053",
+  "translation": "{F2 05 FF FF}{F1 41}其他科目{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:54:0",
+  "message_id": "SEL_054",
+  "translation": "{F2 05 FF FF}{F1 41}英语{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:54:1",
+  "message_id": "SEL_054",
+  "translation": "{F2 05 FF FF}{F1 41}美术{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:54:2",
+  "message_id": "SEL_054",
+  "translation": "{F2 05 FF FF}{F1 41}音乐{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:54:3",
+  "message_id": "SEL_054",
+  "translation": "{F2 05 FF FF}{F1 41}家政{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:54:4",
+  "message_id": "SEL_054",
+  "translation": "{F2 05 FF FF}{F1 41}其他科目{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:55:0",
+  "message_id": "SEL_055",
+  "translation": "{F2 05 FF FF}{F1 41}技术{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:55:1",
+  "message_id": "SEL_055",
+  "translation": "{F2 05 FF FF}{F1 41}保健体育{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:55:2",
+  "message_id": "SEL_055",
+  "translation": "{F2 05 FF FF}{F1 41}综合{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:55:3",
+  "message_id": "SEL_055",
+  "translation": "{F2 05 FF FF}{F1 41}返回开头{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:55:4",
+  "message_id": "SEL_055",
+  "translation": "{F2 05 FF FF}{F1 41}重新考虑{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:56:0",
+  "message_id": "MSG_057",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞周五第３节课是……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:57:0",
+  "message_id": "SEL_058",
+  "translation": "{F2 05 FF FF}{F1 41}国语{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:57:1",
+  "message_id": "SEL_058",
+  "translation": "{F2 05 FF FF}{F1 41}数学{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:57:2",
+  "message_id": "SEL_058",
+  "translation": "{F2 05 FF FF}{F1 41}社会{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:57:3",
+  "message_id": "SEL_058",
+  "translation": "{F2 05 FF FF}{F1 41}理科{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:57:4",
+  "message_id": "SEL_058",
+  "translation": "{F2 05 FF FF}{F1 41}其他科目{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:58:0",
+  "message_id": "SEL_059",
+  "translation": "{F2 05 FF FF}{F1 41}英语{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:58:1",
+  "message_id": "SEL_059",
+  "translation": "{F2 05 FF FF}{F1 41}美术{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:58:2",
+  "message_id": "SEL_059",
+  "translation": "{F2 05 FF FF}{F1 41}音乐{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:58:3",
+  "message_id": "SEL_059",
+  "translation": "{F2 05 FF FF}{F1 41}家政{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:58:4",
+  "message_id": "SEL_059",
+  "translation": "{F2 05 FF FF}{F1 41}其他科目{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:59:0",
+  "message_id": "SEL_060",
+  "translation": "{F2 05 FF FF}{F1 41}技术{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:59:1",
+  "message_id": "SEL_060",
+  "translation": "{F2 05 FF FF}{F1 41}保健体育{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:59:2",
+  "message_id": "SEL_060",
+  "translation": "{F2 05 FF FF}{F1 41}综合{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:59:3",
+  "message_id": "SEL_060",
+  "translation": "{F2 05 FF FF}{F1 41}返回开头{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:59:4",
+  "message_id": "SEL_060",
+  "translation": "{F2 05 FF FF}{F1 41}重新考虑{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:60:0",
+  "message_id": "MSG_061",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 03 01 01 01}{F5 61 02 01 01 01 01 01 72 06}原来如此……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:60:1",
+  "message_id": "MSG_061",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}周一第４节课是{F2 01 03 01}“国语”{F2 01 01 01}，\n周五第３节课是{F2 01 03 01}“社会”{F2 01 01 01}……\n确实符合规律。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:60:2",
+  "message_id": "MSG_061",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}发现规律后就很简单了呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:61:0",
+  "message_id": "MSG_062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 21 0A}哼……\n真不愧是你。\n我也刚刚解出来了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:62:0",
+  "message_id": "MSG_063",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 04 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 E5 02}{F5 C1 03 01 01 01 01 01 05 01}啊？\n我完全搞不懂，\n难道就我这样？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:63:0",
+  "message_id": "MSG_064",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 88 08}你可真认真啊。\n我早就放弃思考了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:64:0",
+  "message_id": "MSG_065",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 09 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}也、也是……\n那就让我说明一下。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:65:0",
+  "message_id": "MSG_066",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 03 01 01 01}{F5 61 02 01 01 01 01 01 72 06}原来如此……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:65:1",
+  "message_id": "MSG_066",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}如果是这样……\n确实符合某种规律？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:66:0",
+  "message_id": "MSG_067",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 04 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 E5 02}{F5 C1 03 01 01 01 01 01 05 01}啊？\n我完全搞不懂，\n难道就我这样？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:67:0",
+  "message_id": "MSG_068",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 88 08}你可真认真啊。\n我早就放弃思考了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:68:0",
+  "message_id": "MSG_069",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 09 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}虽然还处在假设阶段……\n那就让我说明一下。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:69:0",
+  "message_id": "MSG_070",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 42 06}很遗憾，\n和我的想法不同……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:70:0",
+  "message_id": "MSG_071",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 09 01 02 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:70:1",
+  "message_id": "MSG_071",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 09 01 03 01 01 01}{F5 61 02 01 01 01 01 01 DC 06}{F5 C1 03 01 01 01 01 01 06 01}……原来如此。\n谜题解开了……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:71:0",
+  "message_id": "MSG_0712",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}周一第４节课是{F2 01 03 01}“国语”{F2 01 01 01}，\n周五第３节课是{F2 01 03 01}“社会”{F2 01 01 01}！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:71:1",
+  "message_id": "MSG_0712",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}发现规律后就很简单了呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:72:0",
+  "message_id": "MSG_072",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 04 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 E5 02}{F5 C1 03 01 01 01 01 01 05 01}啊？\n我完全搞不懂，\n难道就我这样？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:73:0",
+  "message_id": "MSG_073",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 88 08}你可真认真啊。\n我早就放弃思考了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:74:0",
+  "message_id": "MSG_074",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 09 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}也、也是……\n那就让我说明一下。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:75:0",
+  "message_id": "MSG_075",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}其实，课程表似乎在\n重复一个固定的模式。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:75:1",
+  "message_id": "MSG_075",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}首先，破损的课程表上\n写着这些信息。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:76:0",
+  "message_id": "MSG_076",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 02 01}课程表{F2 01 01 01}\n{F2 01 04 01}一：{F2 01 01 01}社会、技术、－、？、音乐\n{F2 01 04 01}二：{F2 01 01 01}理科、－、家政、－、－\n{F2 01 04 01}三：{F2 01 01 01}保健体育、社会、－、－、国语\n{F2 01 04 01}四：{F2 01 01 01}音乐、理科、－、－、英语\n{F2 01 04 01}五：{F2 01 01 01}综合、－、？、技术、－\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:77:0",
+  "message_id": "MSG_077",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}再加上我们获得的情报……\n{F2 01 03 01}“技术之后是美术。\n数学之前是理科。”{F2 01 01 01}……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:78:0",
+  "message_id": "MSG_078",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 02 01}课程表{F2 01 01 01}\n{F2 01 04 01}一：{F2 01 01 01}社会、技术、美术、？、音乐\n{F2 01 04 01}二：{F2 01 01 01}理科、数学、家政、－、－\n{F2 01 04 01}三：{F2 01 01 01}保健体育、社会、－、－、国语\n{F2 01 04 01}四：{F2 01 01 01}音乐、理科、数学、－、英语\n{F2 01 04 01}五：{F2 01 01 01}综合、－、？、技术、美术\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:79:0",
+  "message_id": "MSG_079",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}就会变成这样。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:80:0",
+  "message_id": "MSG_080",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 AC 11}{F5 C1 03 01 01 01 01 01 05 01}这又怎么了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:81:0",
+  "message_id": "MSG_081",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 8A 11}{F5 C1 03 01 01 01 01 01 07 01}嗯……我明白了。\n是体育课太少了吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:82:0",
+  "message_id": "MSG_082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 AE 11}{F5 C1 03 01 01 01 01 01 0A 01}闭嘴听着，笨蛋。\n别让人分心。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:83:0",
+  "message_id": "MSG_0822",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 0D 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 8F 11}{F5 C1 03 01 01 01 01 01 05 01}……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:83:1",
+  "message_id": "MSG_0822",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 08 01 01 01 01 01}{F5 61 02 01 01 01 01 01 CE 09}仔细想想，确实不太对劲。\n“音乐”“美术”之类的实践科目，\n占的比例实在太高了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:83:2",
+  "message_id": "MSG_0822",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}普通学校的课程表里，\n它们的比例应该低得多……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:84:0",
+  "message_id": "MSG_083",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}那么，为了方便观察，\n我们只取每个科目的首字吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:85:0",
+  "message_id": "MSG_084",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞直斗只取各科目的首字，\n　开始重新整理课程表……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:86:0",
+  "message_id": "MSG_085",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 02 01}课程表{F2 01 01 01}\n{F2 01 04 01}一：{F2 01 01 01}社、技、美、？、音\n{F2 01 04 01}二：{F2 01 01 01}理、数、家、－、－\n{F2 01 04 01}三：{F2 01 01 01}保、社、－、－、国\n{F2 01 04 01}四：{F2 01 01 01}音、理、数、－、英\n{F2 01 04 01}五：{F2 01 01 01}综、－、？、技、美\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:87:0",
+  "message_id": "MSG_086",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}有没有发现什么？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:88:0",
+  "message_id": "MSG_087",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 56 04}{F5 C1 03 01 01 01 01 01 07 01}啊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:88:1",
+  "message_id": "MSG_087",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}“社”和“理”斜着排列呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:89:0",
+  "message_id": "MSG_088",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 09 01 04 01 07 01}{F5 61 02 01 01 01 01 01 6C 11}{F5 C1 03 01 01 01 01 01 05 01}诶，什么什么？\n什么意思？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:90:0",
+  "message_id": "MSG_089",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 02 01 01 01 07 01}{F5 86 09 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 5A 06}没错，天城学姐。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:90:1",
+  "message_id": "MSG_089",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}周一第１节、周三第２节……\n周二第１节、周四第２节……\n“社”和“理”都斜着排列。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:90:2",
+  "message_id": "MSG_089",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}假如这些课按周一到周五、\n第１节到第５节的次序排列……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:90:3",
+  "message_id": "MSG_089",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}假如这种斜向排列\n并非偶然……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:91:0",
+  "message_id": "MSG_090",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 4E 0A}这就是你的假设……对吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:92:0",
+  "message_id": "MSG_091",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 3C 06}对。\n接下来只需代入即可。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:93:0",
+  "message_id": "MSG_092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2B 0C}{F5 C1 03 01 01 01 01 01 0B 01}不、不好意思。\n能具体说明一下吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:94:0",
+  "message_id": "MSG_093",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}也就是说……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:94:1",
+  "message_id": "MSG_093",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}社会、技术、美术、国语、音乐、\n理科、数学、家政、英语、综合、\n保健体育……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:94:2",
+  "message_id": "MSG_093",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}可以看出，这只是将１１个科目\n按这个顺序反复排列而已。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:94:3",
+  "message_id": "MSG_093",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}按照这个规律排列……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:95:0",
+  "message_id": "MSG_094",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 02 01}课程表{F2 01 01 01}\n{F2 01 04 01}一：{F2 01 01 01}社、技、美、国、音\n{F2 01 04 01}二：{F2 01 01 01}理、数、家、英、综\n{F2 01 04 01}三：{F2 01 01 01}保、社、技、美、国\n{F2 01 04 01}四：{F2 01 01 01}音、理、数、家、英\n{F2 01 04 01}五：{F2 01 01 01}综、保、社、技、美\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:96:0",
+  "message_id": "MSG_095",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}……就会变成这样。\n再看周一第４节和周五第３节……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:96:1",
+  "message_id": "MSG_095",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}也就是“国语”和“社会”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:97:0",
+  "message_id": "MSG_0952",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 48 06}以上就是推理的论证过程，\n各位还有疑问吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:98:0",
+  "message_id": "MSG_096",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}原来如此……\n确实符合规律啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:99:0",
+  "message_id": "MSG_097",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 5E 09}{F5 C1 03 01 01 01 01 01 07 01}果然还是体育课太少了吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:100:0",
+  "message_id": "MSG_098",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 D5 0C}{F5 C1 03 01 01 01 01 01 04 01}你给我闭嘴。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:101:0",
+  "message_id": "MSG_099",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}其实，课程表似乎在\n重复一个固定的模式。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:101:1",
+  "message_id": "MSG_099",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}首先，破损的课程表上\n写着这些信息。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:102:0",
+  "message_id": "MSG_100",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 02 01}课程表{F2 01 01 01}\n{F2 01 04 01}一：{F2 01 01 01}社会、技术、－、？、音乐\n{F2 01 04 01}二：{F2 01 01 01}理科、－、家政、－、－\n{F2 01 04 01}三：{F2 01 01 01}保健体育、社会、－、－、国语\n{F2 01 04 01}四：{F2 01 01 01}音乐、理科、－、－、英语\n{F2 01 04 01}五：{F2 01 01 01}综合、－、？、技术、－\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:103:0",
+  "message_id": "MSG_101",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}再加上刚才的答案……\n周一第４节是{F2 01 03 01}“国语”{F2 01 01 01}，\n周五第３节是{F2 01 03 01}“社会”{F2 01 01 01}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:103:1",
+  "message_id": "MSG_101",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}把这些放在一起……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:104:0",
+  "message_id": "MSG_102",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 02 01}课程表{F2 01 01 01}\n{F2 01 04 01}一：{F2 01 01 01}社会、技术、－、国语、音乐\n{F2 01 04 01}二：{F2 01 01 01}理科、－、家政、－、－\n{F2 01 04 01}三：{F2 01 01 01}保健体育、社会、－、－、国语\n{F2 01 04 01}四：{F2 01 01 01}音乐、理科、－、－、英语\n{F2 01 04 01}五：{F2 01 01 01}综合、－、社会、技术、－\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:105:0",
+  "message_id": "MSG_103",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}就会变成这样。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:106:0",
+  "message_id": "MSG_104",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 AC 11}{F5 C1 03 01 01 01 01 01 05 01}这又怎么了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:107:0",
+  "message_id": "MSG_105",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 8A 11}{F5 C1 03 01 01 01 01 01 07 01}嗯……我明白了。\n是体育课太少了吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:108:0",
+  "message_id": "MSG_106",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 AE 11}{F5 C1 03 01 01 01 01 01 0A 01}闭嘴听着，笨蛋。\n别让人分心。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:109:0",
+  "message_id": "MSG_1062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 0D 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 8F 11}{F5 C1 03 01 01 01 01 01 05 01}……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:109:1",
+  "message_id": "MSG_1062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 08 01 01 01 01 01}{F5 61 02 01 01 01 01 01 CE 09}仔细想想，确实不太对劲。\n“音乐”“美术”之类的实践科目，\n占的比例实在太高了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:109:2",
+  "message_id": "MSG_1062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}普通学校的课程表里，\n它们的比例应该低得多……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:110:0",
+  "message_id": "MSG_107",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}那么，为了方便观察，\n我们只取每个科目的首字吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:111:0",
+  "message_id": "MSG_108",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞直斗只取各科目的首字，\n　开始重新整理课程表……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:112:0",
+  "message_id": "MSG_109",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 02 01}课程表{F2 01 01 01}\n{F2 01 04 01}一：{F2 01 01 01}社、技、－、国、音\n{F2 01 04 01}二：{F2 01 01 01}理、－、家、－、－\n{F2 01 04 01}三：{F2 01 01 01}保、社、－、－、国\n{F2 01 04 01}四：{F2 01 01 01}音、理、－、－、英\n{F2 01 04 01}五：{F2 01 01 01}综、－、社、技、－\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:113:0",
+  "message_id": "MSG_110",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}有没有发现什么？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:114:0",
+  "message_id": "MSG_111",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 56 04}{F5 C1 03 01 01 01 01 01 07 01}啊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:114:1",
+  "message_id": "MSG_111",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}“社”斜着排列呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:115:0",
+  "message_id": "MSG_112",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 09 01 04 01 07 01}{F5 61 02 01 01 01 01 01 6C 11}{F5 C1 03 01 01 01 01 01 05 01}诶，什么什么？\n什么意思？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:116:0",
+  "message_id": "MSG_113",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 02 01 01 01 07 01}{F5 86 09 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 5A 06}没错，天城学姐。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:116:1",
+  "message_id": "MSG_113",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}仔细看周一第１节、周三第２节，\n以及周五第３节，\n“社会”课呈斜向排列。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:116:2",
+  "message_id": "MSG_113",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}这其实并非偶然，\n“国语”和“理科”也都出现在\n向下２行、向右１列的位置。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:116:3",
+  "message_id": "MSG_113",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}假设课程按这个规律排列，\n填上其他空缺后……\n课程表就会变成这样。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:117:0",
+  "message_id": "MSG_114",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F2 01 02 01}课程表{F2 01 01 01}\n{F2 01 04 01}一：{F2 01 01 01}社、技、美、国、音\n{F2 01 04 01}二：{F2 01 01 01}理、数、家、英、综\n{F2 01 04 01}三：{F2 01 01 01}保、社、技、美、国\n{F2 01 04 01}四：{F2 01 01 01}音、理、数、家、英\n{F2 01 04 01}五：{F2 01 01 01}综、保、社、技、美\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:118:0",
+  "message_id": "MSG_115",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 13 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}原来如此……\n确实符合规律啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:119:0",
+  "message_id": "MSG_116",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 5E 09}{F5 C1 03 01 01 01 01 01 07 01}果然还是体育课太少了吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:120:0",
+  "message_id": "MSG_117",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 D5 0C}{F5 C1 03 01 01 01 01 01 04 01}你给我闭嘴。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:121:0",
+  "message_id": "MSG_118",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 08 01 03 01 01 01 04 01}{F5 61 02 01 01 01 01 01 9F 05}{F5 C1 03 01 01 01 01 01 07 01}原来如此……\n我明白了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:122:0",
+  "message_id": "MSG_119",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 02 01}{F5 61 02 01 01 01 01 01 86 08}{F5 C1 03 01 01 01 01 01 01 01}真的假的！？\n这种时候，你跟我不是都该\n保持沉默的吗！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:123:0",
+  "message_id": "MSG_120",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 9D 05}{F5 C1 03 01 01 01 01 01 08 01}没错，我明白了——\n我完全不明白！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:124:0",
+  "message_id": "MSG_121",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 88 08}{F5 C1 03 01 01 01 01 01 04 01}啊，真是浪费时间……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:125:0",
+  "message_id": "MSG_122",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 09 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}那么接下来……\n把答案填到课程表上吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:126:0",
+  "message_id": "MSG_123",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞在课程表的“？”处，\n　填上了“国语”和“社会”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:126:1",
+  "message_id": "MSG_123",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:127:0",
+  "message_id": "MSG_124",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞黑板的粉笔槽里传来了声音……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:127:1",
+  "message_id": "MSG_124",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:127:2",
+  "message_id": "MSG_124",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞粉笔槽里放着一把钥匙，\n　挂着写有{F2 01 03 01}“实习楼”{F2 01 01 01}的牌子！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:127:3",
+  "message_id": "MSG_124",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 61 07 01 01 01 01 01 0D 01}＞获得了{F4 84 04 01 01 01 07 07}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:128:0",
+  "message_id": "MSG_125",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:128:1",
+  "message_id": "MSG_125",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞里面似乎还有１样东西。\n　既然找到了，就带走吧……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:128:2",
+  "message_id": "MSG_125",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 61 07 01 01 01 01 01 0D 01}＞获得了{F4 84 04 01 01 01 0E 06}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:129:0",
+  "message_id": "MSG_126",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 09 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}好了，谜题解开了。\n继续前进吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:130:0",
+  "message_id": "MSG_127",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 29 01 03 01 02 01 04 01}{F5 61 02 01 01 01 01 01 BD 11}{F5 C1 03 01 01 01 01 01 08 01}小直！\n{F1 82}！\n好帅呀！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:131:0",
+  "message_id": "MSG_128",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0F 01 02 01 02 01}{F5 61 02 01 01 01 01 01 B7 0D}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:131:1",
+  "message_id": "MSG_128",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}……继续前进。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_115.bf.json:132:0",
+  "message_id": "MSG_129",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 09 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 07 01}啊，嗯！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

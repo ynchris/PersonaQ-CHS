@@ -1,0 +1,1152 @@
+[
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞看来这里只是一条死路……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞被{F5 C1 0B 01 01 01 01 01 01 01}叫到了角落……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 02 01 0D 01 01 01 02 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 04 01}队长。\n最近状态怎么样？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}有什么事就告诉我。\n作为副队长，我会帮忙的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}尤其是战斗方面，\n我想能帮上不少忙。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:2:3",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}别看我这样，在原来的世界里，\n我也是队长……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:3:0",
+  "message_id": "SEL_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}战斗方面能帮忙？{F5 47 02 01 03 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:3:1",
+  "message_id": "SEL_003",
+  "translation": "{F2 05 FF FF}{F1 41}你想战斗？{F5 47 02 01 03 01 09 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 24 01}{F5 C1 03 01 01 01 01 01 0A 01}{F5 C1 04 01 01 01 01 01 02 01}不、不是……那个……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 2E 01}{F5 C1 04 01 01 01 01 01 02 01}最近感觉我和大家之间，\n实力开始拉开差距了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:4:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}所以，该说是希望你\n多锻炼锻炼我……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:5:0",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 0D 01 01 01 01 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 07 01}……啊，不过，并不是说\n你的指挥有什么问题。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:5:1",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}只是觉得，为了丰富战术，\n应该多培养不同的人……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:5:2",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 08 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}总之……交给你了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞不知是否错觉，{F5 C1 0B 01 01 01 01 01 01 01}\n　迈着沉重的脚步离开了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 04 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 E7 02}……喂，能聊两句吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞阳介露出了一副欲言又止的表情……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}总觉得最近，\n我和大家的实力差距\n越来越大了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:9:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}该怎么说呢……\n我也想要锻炼自己的机会啊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:9:2",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 A7 02}再这样下去，\n我都没脸自称那家伙的“搭档”了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:9:3",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}总之，拜托了，哈哈……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞阳介神情痛苦地离开了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞被千枝叫到了角落……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 05 01 01 01 08 01 02 01}{F5 61 02 01 01 01 01 01 C0 03}唉……\n好想吃爱家的肉盖饭啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:13:0",
+  "message_id": "MSG_0112",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 07 01}……啊，不过得忍住！\n最近运动量不够……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:14:0",
+  "message_id": "SEL_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}运动量不够？{F5 47 02 01 03 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:14:1",
+  "message_id": "SEL_012",
+  "translation": "{F2 05 FF FF}{F1 41}你要忍着不吃饭？{F5 47 02 01 03 01 09 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:15:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 03 01 06 01 01 01}{F5 61 02 01 01 01 01 01 6B 03}是、是啊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:15:1",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 04 01}因为最近没怎么和敌人战斗……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:15:2",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}所以和大家的实力差距\n也越来越大……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:15:3",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 04 01 06 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:16:0",
+  "message_id": "MSG_0132",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0F 01 05 01 01 01}{F5 61 02 01 01 01 01 01 6D 11}{F5 C1 03 01 01 01 01 01 0B 01}……真、真是的！　太过分了！\n你是队长，明明都知道的！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:17:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞千枝神情痛苦地跑开了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:18:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞被雪子叫到了角落。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:19:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 06 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 58 04}辛、辛苦了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:19:1",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 73 04}……最近状态怎么样？\n累不累？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:19:2",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}有什么烦恼吗？\n只要是我能做的，\n都可以告诉我哦？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:20:0",
+  "message_id": "SEL_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}没什么特别的……{F5 47 02 01 03 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:20:1",
+  "message_id": "SEL_017",
+  "translation": "{F2 05 FF FF}{F1 41}……怎么突然问这个？{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:21:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 06 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 23 04}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:21:1",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 08 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0B 01}最、最近感觉\n我和大家的实力拉开差距了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:21:2",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 06 01 08 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:21:3",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 08 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}那个……\n我不是个没用的人吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:22:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞雪子低着头离开了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:23:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 03 01 02 01 01 01 04 01}{F5 86 07 01 01 01 65 01 02 01}{F5 61 02 01 01 01 01 01 DE 04}那、那个……\n队长。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:24:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞理世突然开口搭话……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:25:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 01 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}那个……我啊，\n对自己的口齿清晰度很有信心。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:25:1",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}啊，还有还有！\n我也很擅长说话活跃气氛……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:25:2",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 03 01 65 01 01 01}{F5 61 02 01 01 01 01 01 F6 04}而且，如果有人累了，\n我会为他加油打气哦？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:25:3",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 07 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}还有什么是我能做的……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:25:4",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}那个，还有……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:26:0",
+  "message_id": "SEL_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}怎么突然说这个？{F5 47 02 01 03 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:26:1",
+  "message_id": "SEL_023",
+  "translation": "{F2 05 FF FF}{F1 41}……。{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:27:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 01 01 66 01 01 01}{F5 61 02 01 01 01 01 01 E4 04}{F5 C1 03 01 01 01 01 01 0B 01}因、因为……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:27:1",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}最近的我……\n有好好帮上大家的忙吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:27:2",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}战斗和探索的时候，\n好像都不怎么叫我了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:27:3",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}我会竭尽全力为大家加油的……\n偶尔也让我出份力，好吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:28:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞短暂的沉默后，\n　理世单方面切断了通讯……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:29:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 08 01 01 01 02 01 02 01}{F5 61 02 01 01 01 01 01 69 05}……啊，辛苦了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:30:0",
+  "message_id": "MSG_0262",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……那、那个！\n能聊两句吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:31:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞完二过来搭话。\n　但神情似乎有些阴沉……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:32:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 6E 05}有件事我一直很在意，\n可一直没能说出口……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:32:1",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}……怎么说呢，最近，\n我和大家的实力差距……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:32:2",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0B 01}……啊，算了，我就直说了！\n说实话，我是不是实力不够，\n拖大家后腿了！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:33:0",
+  "message_id": "SEL_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}你想多了{F5 47 02 01 03 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:33:1",
+  "message_id": "SEL_029",
+  "translation": "{F2 05 FF FF}{F1 41}你一时糊涂了{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:34:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 FC 05}是、是吧！\n我、我怎么会拖后腿……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:34:1",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}我……\n拖后腿……\n怎么会……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:35:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞完二突然一动不动了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:36:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 08 01 08 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:36:1",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 08 01 01 01 01 01}{F5 61 02 01 01 01 01 01 75 11}{F5 C1 04 01 01 01 01 01 02 01}可、可以的话……\n也给我一次机会，我会很高兴的……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:37:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞完二神情阴沉地离开了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:38:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞被直斗叫到了角落……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:39:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 09 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 24 06}不好意思。\n可以稍微聊聊吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:40:0",
+  "message_id": "MSG_0352",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 3E 06}……媒体给我起的绰号，\n是“侦探王子”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:40:1",
+  "message_id": "MSG_0352",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}听到侦探这个词，\n您会想到什么样的形象呢？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:40:2",
+  "message_id": "MSG_0352",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}像小说中那样的\n“头脑派”或者“知识分子”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:40:3",
+  "message_id": "MSG_0352",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}一般人恐怕都会这么想吧……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:40:4",
+  "message_id": "MSG_0352",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}但我也会用枪，\n身体能力应该也有同龄人的水平……\n至少我认为是这样。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:41:0",
+  "message_id": "SEL_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}你想说什么？{F5 47 02 01 03 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:41:1",
+  "message_id": "SEL_036",
+  "translation": "{F2 05 FF FF}{F1 41}哦……然后呢？{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:42:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 42 06}……也、也就是说。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:42:1",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}我不光能动脑，\n需要出力的地方也能帮上忙！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:43:0",
+  "message_id": "MSG_0372",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0B 01}所、所以，那个……\n希望能尽量让我站上前线……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:43:1",
+  "message_id": "MSG_0372",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}总觉得最近，\n我和大家的实力差距有些大了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:43:2",
+  "message_id": "MSG_0372",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 48 06}……总之，请您考虑一下。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:44:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞直斗神情阴沉地离开了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:45:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞被小熊叫到了角落……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:46:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 0A 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 4E 07}那个，班长。\n小熊想请教一下……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:46:1",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}您觉得最近的小熊怎么样？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:46:2",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}或者说……\n对班长而言，小熊的存在\n究竟算是什么呢……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:47:0",
+  "message_id": "SEL_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}惹人喜爱的存在{F5 47 02 01 03 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:47:1",
+  "message_id": "SEL_041",
+  "translation": "{F2 05 FF FF}{F1 41}大家的吉祥物{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:48:0",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 11 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0A 07}……是、是这样熊？\n那就好，不过熊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:48:1",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}小熊希望能更多地\n和大家一起战斗……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:48:2",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 49 07}{F5 C1 03 01 01 01 01 01 04 01}最近和大家的实力差距\n越来越明显，\n小熊很难过熊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:48:3",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}……拜、拜托了熊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:49:0",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞小熊神情阴沉地离开了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:50:0",
+  "message_id": "MSG_044",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞由加莉神情凝重地走了过来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:51:0",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 0B 01 09 01 02 01 02 01}{F5 61 02 01 01 01 01 01 0F 08}那个，有件事……想找你商量。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:51:1",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}你有没有觉得，最近我和大家的\n实力开始拉开差距了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:52:0",
+  "message_id": "SEL_046",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}没有那回事{F5 47 02 01 03 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:52:1",
+  "message_id": "SEL_046",
+  "translation": "{F2 05 FF FF}{F1 41}是你想多了吧？{F5 47 02 01 03 01 09 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:53:0",
+  "message_id": "MSG_047",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 C6 07}{F5 C1 03 01 01 01 01 01 0A 01}不，实际上已经有差距了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:53:1",
+  "message_id": "MSG_047",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 0B 01 08 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:54:0",
+  "message_id": "MSG_0472",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 C2 07}我说，队长。\n我也是伙伴啊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:54:1",
+  "message_id": "MSG_0472",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}我想多锻炼一下，\n为大家出份力……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:55:0",
+  "message_id": "MSG_048",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞由加莉迈着沉重的脚步离开了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:56:0",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 0C 01 01 01 02 01 02 01}{F5 61 02 01 01 01 01 01 88 08}……哎呀，最近可真轻松啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:57:0",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞顺平走了过来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:58:0",
+  "message_id": "SEL_051",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}什么很轻松？{F5 47 02 01 03 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:58:1",
+  "message_id": "SEL_051",
+  "translation": "{F2 05 FF FF}{F1 41}什么意思？{F5 47 02 01 03 01 09 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:59:0",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 03 01 01 01}{F5 61 02 01 01 01 01 01 83 08}因为都不叫我了嘛……\n最近完全没干活。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:59:1",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}轻松是挺好的。不过啊？\n没了我，你们不吃力吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:59:2",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}是跟我客气吗？\n不用那么顾虑我啦……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:59:3",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 03 01}{F5 86 0C 01 0C 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:60:0",
+  "message_id": "MSG_0522",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 03 09}真的不用顾虑我……\n好吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:60:1",
+  "message_id": "MSG_0522",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 04 01}再这样下去，\n和大家的实力差距就拉开了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:60:2",
+  "message_id": "MSG_0522",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0B 01}……我、我可不管了啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:61:0",
+  "message_id": "MSG_053",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞顺平神情阴沉地跑开了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:62:0",
+  "message_id": "MSG_054",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 0D 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 2A 09}队长。\n有空吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:63:0",
+  "message_id": "MSG_055",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞真田似乎有话要说。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:64:0",
+  "message_id": "MSG_056",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}我一直在寻找\n更有效的肌肉训练方法。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:64:1",
+  "message_id": "MSG_056",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}每天都坚持练习，\n再贵也会买效果好的蛋白粉。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:64:2",
+  "message_id": "MSG_056",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}每次训练，肌肉纤维都会变粗变强，\n带给我耐力与胜利。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:65:0",
+  "message_id": "MSG_0562",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 11 01 04 01 01 01}{F5 61 02 01 01 01 01 01 01 01}也就是说，锻炼出来的肌肉，\n是不会背叛自己的……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:66:0",
+  "message_id": "SEL_057",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}你想说什么？{F5 47 02 01 03 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:66:1",
+  "message_id": "SEL_057",
+  "translation": "{F2 05 FF FF}{F1 41}肌肉的事我知道了，可是……{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:67:0",
+  "message_id": "MSG_058",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 4E 09}{F5 C1 03 01 01 01 01 01 0A 01}不、不是……\n我是说……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:67:1",
+  "message_id": "MSG_058",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}最近感觉，\n我和大家的实力有些差距了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:67:2",
+  "message_id": "MSG_058",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}就像肌肉不会背叛我一样，\n我想让你知道，\n培养我也绝不会吃亏……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:68:0",
+  "message_id": "MSG_059",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞真田神情阴沉地离开了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:69:0",
+  "message_id": "MSG_060",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞被美鹤叫到了角落……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:70:0",
+  "message_id": "MSG_061",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 0E 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 59 0A}队长。\n你是怎么看待休养的？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:70:1",
+  "message_id": "MSG_061",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}休息很重要。\n有营养的饮食、充足的睡眠，\n还有能放松心情的时间……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:70:2",
+  "message_id": "MSG_061",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}有了这些，\n人才能恢复迎接明天的活力，\n再次投入战斗……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:71:0",
+  "message_id": "SEL_062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}你想休息？{F5 47 02 01 03 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:71:1",
+  "message_id": "SEL_062",
+  "translation": "{F2 05 FF FF}{F1 41}到底想说什么？{F5 47 02 01 03 01 09 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:72:0",
+  "message_id": "MSG_063",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0F 0A}{F5 C1 03 01 01 01 01 01 0B 01}不、不是……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:72:1",
+  "message_id": "MSG_063",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}我是想告诉你，\n我差不多已经休息够了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:72:2",
+  "message_id": "MSG_063",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}而、而且，除了我之外，\n也许还有其他人需要休息。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:72:3",
+  "message_id": "MSG_063",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}方便的话就好。\n考虑一下吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:73:0",
+  "message_id": "MSG_064",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞美鹤面色阴沉地离开了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:74:0",
+  "message_id": "MSG_065",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 03 01 02 01 01 01 04 01}{F5 86 0F 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 11 0B}……队长。\n我们的队伍真是庞大呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:75:0",
+  "message_id": "MSG_066",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞风花开口搭话……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:76:0",
+  "message_id": "MSG_067",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 07 01 65 01 01 01}{F5 61 02 01 01 01 01 01 CA 0A}月光馆和八十神的大家……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:76:1",
+  "message_id": "MSG_067",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}同时为这么多人提供情报支援，\n真的很辛苦……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:77:0",
+  "message_id": "SEL_068",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}不想做吗？{F5 47 02 01 03 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:77:1",
+  "message_id": "SEL_068",
+  "translation": "{F2 05 FF FF}{F1 41}没有自信吗？{F5 47 02 01 03 01 09 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:78:0",
+  "message_id": "MSG_069",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 05 01 65 01 01 01}{F5 61 02 01 01 01 01 01 F1 0A}{F5 C1 03 01 01 01 01 01 0B 01}没……没有那回事！\n无论何时，我都会全力以赴！\n我一定会的，所以……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:78:1",
+  "message_id": "MSG_069",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 0F 01 06 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:79:0",
+  "message_id": "MSG_0692",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 07 01 65 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……最近，\n我有帮上大家的忙吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:79:1",
+  "message_id": "MSG_0692",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}也许是我能力不足……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:79:2",
+  "message_id": "MSG_0692",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}总觉得战斗和探索的支援，\n不怎么交给我了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:79:3",
+  "message_id": "MSG_0692",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 65 01 01 01}{F5 61 02 01 01 01 01 01 F0 0A}{F5 C1 03 01 01 01 01 01 0B 01}……不、没什么，请别在意。\n对不起，我先结束通讯了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:80:0",
+  "message_id": "MSG_070",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞与风花的通讯中断了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:81:0",
+  "message_id": "MSG_071",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞被埃癸斯叫到了角落……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:82:0",
+  "message_id": "MSG_072",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 10 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 5F 0B}队长。\n请容我重新说明。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:82:1",
+  "message_id": "MSG_072",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}我是对阴影特别压制兵装，\n七式埃癸斯。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:82:2",
+  "message_id": "MSG_072",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}最大载重量超过３００Ｋｇ，\n最高时速超过１３０ｋｍ／ｈ……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:83:0",
+  "message_id": "MSG_0722",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 01 01 07 01 01 01}{F5 61 02 01 01 01 01 01 01 01}手指配备机枪，眼部装有瞄准器，\n通过搭载各种选配装备，\n可参与任何作战的万能兵器。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:83:1",
+  "message_id": "MSG_0722",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}另外，我还搭载了狂欢模式，\n只需下达指令即可切换……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:84:0",
+  "message_id": "SEL_073",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}怎么突然说这个？{F5 47 02 01 03 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:84:1",
+  "message_id": "SEL_073",
+  "translation": "{F2 05 FF FF}{F1 41}你想说什么？{F5 47 02 01 03 01 09 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:85:0",
+  "message_id": "MSG_074",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 70 0B}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:85:1",
+  "message_id": "MSG_074",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}最近感觉，\n我与大家的实力差距很大。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:85:2",
+  "message_id": "MSG_074",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}这也会导致联合队伍的战力下降，\n是个严重的问题。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:85:3",
+  "message_id": "MSG_074",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……简而言之，请派我上场。\n请加以考虑。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:86:0",
+  "message_id": "MSG_075",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞埃癸斯离开了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:87:0",
+  "message_id": "MSG_076",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 11 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 F7 0B}{F5 C1 03 01 01 01 01 01 0B 01}队、队长！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:88:0",
+  "message_id": "MSG_077",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞天田露出了心事重重的表情……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:89:0",
+  "message_id": "MSG_078",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0E 0C}为什么……？\n到底为什么……！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:89:1",
+  "message_id": "MSG_078",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}请告诉我，队长！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:90:0",
+  "message_id": "SEL_079",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}到底是什么事？{F5 47 02 01 03 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:90:1",
+  "message_id": "SEL_079",
+  "translation": "{F2 05 FF FF}{F1 41}我不明白你在说什么……{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:91:0",
+  "message_id": "MSG_080",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 11 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:91:1",
+  "message_id": "MSG_080",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0A 01 02 01 01 01}{F5 61 02 01 01 01 01 01 2B 0C}最近感觉，我和大家的\n实力开始拉开差距了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:91:2",
+  "message_id": "MSG_080",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}好像也没怎么帮上忙……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:92:0",
+  "message_id": "MSG_0802",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}如、如果我有什么做得不好，\n马上就会改！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:92:1",
+  "message_id": "MSG_0802",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}所以，所以……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:92:2",
+  "message_id": "MSG_0802",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0B 01}……失、失陪了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:93:0",
+  "message_id": "MSG_081",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞天田仍旧一脸心事重重，\n　从这里跑开了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:94:0",
+  "message_id": "MSG_082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 12 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 AB 0C}呜嗯……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:95:0",
+  "message_id": "MSG_083",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞虎狼丸发出了悲伤的呜咽……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:96:0",
+  "message_id": "MSG_084",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 AD 0C}{F5 C1 04 01 01 01 01 01 02 01}汪呜……汪呜……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:96:1",
+  "message_id": "MSG_084",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 AB 0C}{F5 C1 04 01 01 01 01 01 02 01}汪呜……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:96:2",
+  "message_id": "MSG_084",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 AB 0C}{F5 C1 04 01 01 01 01 01 02 01}汪……汪呜……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:97:0",
+  "message_id": "SEL_085",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}怎么了？{F5 47 02 01 03 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:97:1",
+  "message_id": "SEL_085",
+  "translation": "{F2 05 FF FF}{F1 41}听不懂……{F5 47 02 01 03 01 0B 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:98:0",
+  "message_id": "MSG_086",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:98:1",
+  "message_id": "MSG_086",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 AB 0C}{F5 C1 03 01 01 01 01 01 04 01}{F5 C1 04 01 01 01 01 01 02 01}呜……嗯……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:99:0",
+  "message_id": "MSG_087",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞虎狼丸不时回头，\n慢慢走远了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:100:0",
+  "message_id": "MSG_088",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 10 01 08 01 01 01 02 01}{F5 61 02 01 01 01 01 01 70 0B}……队长。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:100:1",
+  "message_id": "MSG_088",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}虎狼丸正在为自己与大家的\n实力差距感到难过。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:100:2",
+  "message_id": "MSG_088",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}它似乎在说，\n自己也想帮上大家的忙，\n并不只是个吉祥物。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:100:3",
+  "message_id": "MSG_088",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}请考虑一下。\n我也拜托您了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:101:0",
+  "message_id": "MSG_089",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞被荒垣叫到了角落……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:102:0",
+  "message_id": "MSG_090",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 13 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 B4 0C}喂，{F1 81}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:102:1",
+  "message_id": "MSG_090",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}虽然我休过学……\n但我是３年级，你是２年级……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:102:2",
+  "message_id": "MSG_090",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}我觉得，让学弟学妹顾虑自己的家伙，\n没资格当年长者……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:103:0",
+  "message_id": "SEL_091",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}怎么了？{F5 47 02 01 03 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:103:1",
+  "message_id": "SEL_091",
+  "translation": "{F2 05 FF FF}{F1 41}怎么突然说这个？{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:104:0",
+  "message_id": "MSG_092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 13 01 04 01 05 01 02 01}{F5 61 02 01 01 01 01 01 AB 11}{F5 C1 04 01 01 01 01 01 02 01}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:105:0",
+  "message_id": "MSG_0922",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 D5 0C}我有帮上你们的忙吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:105:1",
+  "message_id": "MSG_0922",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}感觉跟其他人的实力差距\n也开始拉开了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:105:2",
+  "message_id": "MSG_0922",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}不用瞒着我。\n直接说出来，我也能轻松点。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:106:0",
+  "message_id": "MSG_0923",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……算了。\n反正，\n我也只能做自己能做的事……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:107:0",
+  "message_id": "MSG_093",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞荒垣离开了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:108:0",
+  "message_id": "MSG_094",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞被善和玲叫到了角落……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:109:0",
+  "message_id": "MSG_095",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 15 01 02 01 01 01 05 01}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 29 01 07 01 02 01 02 01}{F5 61 02 01 01 01 01 01 C2 11}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:109:1",
+  "message_id": "MSG_095",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 08 01 02 01 02 01}{F5 61 02 01 01 01 01 01 01 01}甜甜圈……好想吃。\n可是……不能吃。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:110:0",
+  "message_id": "SEL_096",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}怎么了？{F5 47 02 01 03 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:110:1",
+  "message_id": "SEL_096",
+  "translation": "{F2 05 FF FF}{F1 41}吃就好了{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:111:0",
+  "message_id": "MSG_097",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 29 01 08 01 02 01 02 01}{F5 61 02 01 01 01 01 01 CA 11}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:112:0",
+  "message_id": "MSG_098",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 91 0D}玲似乎在克制自己。\n这种情况很少见。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:113:0",
+  "message_id": "MSG_0982",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 B7 0D}最近感觉，我们和你们的\n实力差距越来越大了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:113:1",
+  "message_id": "MSG_0982",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}也请好好锻炼我们。\n再这样下去，玲会饿倒的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:114:0",
+  "message_id": "MSG_099",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 08 01 02 01 02 01}{F5 61 02 01 01 01 01 01 C2 11}……我会，努力的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:115:0",
+  "message_id": "MSG_100",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞在善的催促下，\n　玲迈着沉重的脚步离开了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:116:0",
+  "message_id": "MSG_101",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 02 01 0D 01 01 01 02 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 0C 01}{F1 82}……能聊两句吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:117:0",
+  "message_id": "MSG_102",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞被{F5 C1 0B 01 01 01 01 01 01 01}叫住了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:118:0",
+  "message_id": "MSG_103",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 01 01 01 01 01 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 01 01}虽然还不能说一切都结束了……\n不过，有些话想趁还没忘记时说出来。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:118:1",
+  "message_id": "MSG_103",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 15 01}……谢谢。\n多亏有你，我们才能走到这里。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:118:2",
+  "message_id": "MSG_103",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}大家都很开心地一起探索，\n也变强了许多。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:118:3",
+  "message_id": "MSG_103",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}冷静的判断力、等待时机的耐心，\n大胆的行动力，以及无所畏惧的勇气。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:118:4",
+  "message_id": "MSG_103",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}……让你当队长果然没错。\n我想大家也都是这么觉得的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:118:5",
+  "message_id": "MSG_103",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 38 01}虽然只剩下一点路了……\n接下来也请多关照，队长。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:119:0",
+  "message_id": "MSG_104",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞{F5 C1 0B 01 01 01 01 01 01 01}心满意足地\n　回到了大家身边……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:120:0",
+  "message_id": "MSG_105",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞刚才，伙伴在这里吐露了心声……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e704_380.bf.json:120:1",
+  "message_id": "MSG_105",
+  "translation": "{F2 05 FF FF}{F1 41}＞也许可以过段时间再来看看……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

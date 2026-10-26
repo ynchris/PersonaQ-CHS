@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_base/event/e200/e220_181.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 01 01}{F3 06 00 01 00 01}{F2 01 08 01}＞天鹅绒房间……\n{F5 C1 14 01 01 01 01 01 3D 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_181.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 01 01}{F3 06 00 01 00 01}{F2 01 08 01}＞有一把锁快要解开了……\n{F5 C1 14 01 01 01 01 01 77 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_181.bf.json:2:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 01 01}{F3 06 00 01 00 01}{F2 01 08 01}＞锁消失了……\n{F5 C1 14 01 01 01 01 01 56 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_181.bf.json:3:0",
+  "message_id": "MSG_0012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 01 01}{F3 06 00 01 00 01}{F2 01 08 01}＞还剩下“２把”锁……\n{F5 C1 14 01 01 01 01 01 5B 01}{00}"
+ }
+]

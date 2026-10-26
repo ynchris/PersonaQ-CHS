@@ -1,0 +1,112 @@
+[
+ {
+  "key": "export_base/facility/msg_town.bmd.json:0:0",
+  "message_id": "town_sel",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:0:1",
+  "message_id": "town_sel",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:1:0",
+  "message_id": "town_warning_persona",
+  "translation": "{F2 05 FF FF}{F1 41}学长，队伍里有人没有装备\n“副”人格面具哦，请注意。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:2:0",
+  "message_id": "town_warning_persona_p3",
+  "translation": "{F2 05 FF FF}{F1 41}队长，队伍里有人\n没有装备“副”人格面具。\n请注意。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:3:0",
+  "message_id": "town_warning_item",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 84 04 01 01 01 36 06}没带，没关系吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:4:0",
+  "message_id": "town_warning_item_F",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 84 04 01 01 01 36 06}没有携带，\n没关系吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:5:0",
+  "message_id": "town_warning_both_p4",
+  "translation": "{F2 05 FF FF}{F1 41}学长，队伍里有人没有装备\n“副”人格面具哦，请注意。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:5:1",
+  "message_id": "town_warning_both_p4",
+  "translation": "{F2 05 FF FF}{F1 41}此外，还没携带{F4 84 04 01 01 01 36 06}，\n没关系吧？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:6:0",
+  "message_id": "town_warning_both_p3",
+  "translation": "{F2 05 FF FF}{F1 41}队长，队伍里有人\n没有装备“副”人格面具。\n请注意。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:6:1",
+  "message_id": "town_warning_both_p3",
+  "translation": "{F2 05 FF FF}{F1 41}另外，没有携带{F4 84 04 01 01 01 36 06}，\n没关系吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:7:0",
+  "message_id": "town_goukon_event_p3",
+  "translation": "{F2 05 FF FF}{F1 41}队长，那个迷宫放到以后，\n现在先去下一个迷宫吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:8:0",
+  "message_id": "town_goukon_event_p4",
+  "translation": "{F2 05 FF FF}{F1 41}学长，那个迷宫放到以后，\n现在先去下一个迷宫吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:9:0",
+  "message_id": "town_odekake_alone",
+  "translation": "{F2 05 FF FF}{F1 41}＞校内没有发生什么特别的事。\n　有变化的话再来吧……\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:10:0",
+  "message_id": "town_1st_warning_p4",
+  "translation": "{F2 05 FF FF}{F1 41}学长，那个迷宫放到以后，\n现在先去下一个迷宫吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:11:0",
+  "message_id": "town_warning_dungeon_p4",
+  "translation": "{F2 05 FF FF}{F1 41}学长，你有带“回归道具”吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:11:1",
+  "message_id": "town_warning_dungeon_p4",
+  "translation": "{F2 05 FF FF}{F1 41}在迷宫里使用“回归道具”，\n应该就能回到这里。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:11:2",
+  "message_id": "town_warning_dungeon_p4",
+  "translation": "{F2 05 FF FF}{F1 41}不要勉强，如果体力\n陷入危机，就马上使用哦。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:11:3",
+  "message_id": "town_warning_dungeon_p4",
+  "translation": "{F2 05 FF FF}{F1 41}在这里可以恢复体力，\n也能更换装备，\n所以不用急，慢慢来吧！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:12:0",
+  "message_id": "town_warning_dungeon_p3",
+  "translation": "{F2 05 FF FF}{F1 41}队长，你带了提奥给的\n“回归道具”吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:12:1",
+  "message_id": "town_warning_dungeon_p3",
+  "translation": "{F2 05 FF FF}{F1 41}在迷宫里使用“回归道具”的话，\n好像就能回到这里。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:12:2",
+  "message_id": "town_warning_dungeon_p3",
+  "translation": "{F2 05 FF FF}{F1 41}如果体力陷入危机，\n不要勉强，马上使用哦。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_town.bmd.json:12:3",
+  "message_id": "town_warning_dungeon_p3",
+  "translation": "{F2 05 FF FF}{F1 41}在这里可以恢复体力，\n也能更换装备，\n所以不用急，慢慢来吧！\n{F1 21}{00}"
+ }
+]

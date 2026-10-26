@@ -1,0 +1,92 @@
+[
+ {
+  "key": "export_base/event/e200/e210_806.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 11 01 02 01 04 01}{F5 61 02 01 01 01 01 01 02 01}{F1 82}，\n我有１个问题想请教。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_806.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}您的身边，有好几位女性……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_806.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}您是否与其中某位\n建立了恋爱关系？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_806.bf.json:1:0",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 12 01 02 01 04 01}有{F5 47 02 01 32 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_806.bf.json:1:1",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}这是秘密{F5 47 02 01 32 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_806.bf.json:1:2",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}都只是朋友{F5 47 02 01 32 01 01 01 05 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_806.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 05 01}哦～，原来如此。\n这可是大新闻。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_806.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 06 01}原来如此……\n有着复杂到\n无法说出口的隐情呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_806.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 12 01 02 01 01 01}{F5 61 02 01 01 01 01 01 07 01}是这样吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_806.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 08 01}据我观察，似乎也有人对您\n抱有超越友谊的感情……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_806.bf.json:4:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}嗯……原来如此啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_806.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0A 01}{F5 C1 04 01 01 01 01 01 04 01}……那个，{F1 82}，\n命中注定的另一半是我，\n对您来说好吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_806.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}最初没有什么感觉，\n但一直与您牵着手……\n就突然在意起来。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_806.bf.json:5:2",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}身为机器的我，\n可以站在您身边吗……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_806.bf.json:6:0",
+  "message_id": "MSG_0052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}啊……对不起。\n我在说些什么呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_806.bf.json:6:1",
+  "message_id": "MSG_0052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}会产生这样的想法，\n是不是因为您身上\n有着与那个人相同的气息……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_806.bf.json:7:0",
+  "message_id": "MSG_0052a",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 32 01 10 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_806.bf.json:7:1",
+  "message_id": "MSG_0052a",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 32 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 10 01}抱歉……叫住了您。\n那么，走吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

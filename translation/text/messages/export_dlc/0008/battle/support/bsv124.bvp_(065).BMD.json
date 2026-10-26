@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_066_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 29 02}副队长的行动被封印了。\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_066_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 20 02}副队长的行动被封印了。\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_066_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2A 02}阳介的行动被封印了。\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:3:0",
+  "message_id": "BTL_MES_H124_066_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2B 02}千枝的行动被封印了。\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:4:0",
+  "message_id": "BTL_MES_H124_066_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2C 02}雪子的行动被封印了。\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:6:0",
+  "message_id": "BTL_MES_H124_066_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2D 02}完二的行动被封印了。\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:7:0",
+  "message_id": "BTL_MES_H124_066_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2F 02}直斗的行动被封印了。\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:8:0",
+  "message_id": "BTL_MES_H124_066_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2E 02}小熊的行动被封印了。\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:9:0",
+  "message_id": "BTL_MES_H124_066_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 21 02}由加莉的行动被封印了。\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:10:0",
+  "message_id": "BTL_MES_H124_066_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 22 02}顺平的行动被封印了。\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:11:0",
+  "message_id": "BTL_MES_H124_066_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 23 02}真田的行动被封印了。\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:12:0",
+  "message_id": "BTL_MES_H124_066_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 24 02}美鹤的行动被封印了。\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:14:0",
+  "message_id": "BTL_MES_H124_066_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 27 02}埃癸斯的行动被封印了。\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:15:0",
+  "message_id": "BTL_MES_H124_066_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 25 02}乾的行动被封印了。\n躲不了，也逃不掉。……绝对。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:16:0",
+  "message_id": "BTL_MES_H124_066_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 26 02}狗狗的行动被封印了。\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:17:0",
+  "message_id": "BTL_MES_H124_066_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 28 02}荒垣的行动被封印了。\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:18:0",
+  "message_id": "BTL_MES_H124_066_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 30 02}善和玲的行动被封印了。\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:19:0",
+  "message_id": "BTL_MES_H124_066_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 31 02}善的行动被封印了。\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:20:0",
+  "message_id": "BTL_MES_H124_066_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1F 02}你的行动被封印了。\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(065).BMD.json:21:0",
+  "message_id": "BTL_MES_H124_066_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1E 02}队长，行动被封印了？\n现在没法回避或逃跑。\n{F2 26 00 00}{00}"
+ }
+]

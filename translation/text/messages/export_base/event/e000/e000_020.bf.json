@@ -1,0 +1,52 @@
+[
+ {
+  "key": "export_base/event/e000/e000_020.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 09 01 09 01 02 01}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 04 01 01 01 01 01 03 01}原来如此，果然……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_020.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 07 01 09 01 01 01}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 04 01 01 01 01 01 03 01}这究竟是怎么一回事呢？\n据说台风期间，您一直身体不适，\n卧病在床……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_020.bf.json:1:1",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 04 01 01 01 01 01 03 01}而“那起事件”恰恰发生在台风之夜。\n当时，您正和朋友们\n一起待在塔尔塔罗斯……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_020.bf.json:2:0",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}请说给我听{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_020.bf.json:2:1",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}我想知道详情{00}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_020.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 07 01 09 01 01 01}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 04 01 01 01 01 01 03 01}好的，那么关于“那起事件”，\n就让我为您稍作讲述吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_020.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 07 01 09 01 01 01}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 04 01 01 01 01 01 03 01}是啊，这不可能……\n除非是在梦中……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_020.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 08 01 09 01 01 01}{F5 61 02 01 01 01 01 01 07 01}{F5 C1 04 01 01 01 01 01 03 01}那是在几天前，\n一个台风之夜……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e000/e000_020.bf.json:5:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}{F5 C1 04 01 01 01 01 01 03 01}由于主人的缺席，\n这间天鹅绒房间的存在\n也变得不再稳固……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e000/e000_020.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白开始讲述\n　一个很长、很长的故事……\n{F2 22 38 01}{F1 21}{00}"
+ }
+]

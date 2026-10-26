@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/event/e700/e701_390.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 02 01}{F5 61 02 01 01 01 01 01 D1 08}试试刚才那把钥匙吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e701_390.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞将{F4 84 04 01 01 01 14 07}插进锁孔，\n　打开了挂锁！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

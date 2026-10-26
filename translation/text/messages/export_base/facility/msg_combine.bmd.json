@@ -1,0 +1,3532 @@
+[
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:0:0",
+  "message_id": "combine_sel",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:0:1",
+  "message_id": "combine_sel",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:1:0",
+  "message_id": "combine_check",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 0F 01}确定合成这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:2:0",
+  "message_id": "combine_not_level",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}想创造这个人格面具，\n你的等级似乎还不够呢…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:3:0",
+  "message_id": "combine_possession",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}这个人格面具，\n你似乎已经拥有了呢…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:4:0",
+  "message_id": "combine_stock_over",
+  "translation": "{F2 05 FF FF}{F1 41}似乎无法再持有\n更多人格面具了呢…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:5:0",
+  "message_id": "combine_money",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}哎呀，\n你的钱似乎不够呢…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:6:0",
+  "message_id": "combine_money_conf",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 13 01}创造这个人格面具，\n需要收取{F2 44 01 01}日元，\n可以吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:7:0",
+  "message_id": "combine_succession",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}请选择要继承的技能。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:8:0",
+  "message_id": "combine_burst",
+  "translation": "{F2 05 FF FF}{F1 41}哎呀…？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:8:1",
+  "message_id": "combine_burst",
+  "translation": "{F2 05 FF FF}{F1 41}新诞生的人格面具，\n似乎蕴藏着不可思议的力量呢…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:9:0",
+  "message_id": "combine_check_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 02 01}确定合成这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:10:0",
+  "message_id": "combine_not_level_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}若要创造这个人格面具，\n您的等级似乎\n还不够呢。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:11:0",
+  "message_id": "combine_possession_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}这个人格面具，\n您已经拥有了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:12:0",
+  "message_id": "combine_stock_over_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}似乎无法再持有\n更多人格面具了呢…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:13:0",
+  "message_id": "combine_money_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}哎呀，\n您的钱似乎不够呢…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:14:0",
+  "message_id": "combine_money_conf_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 08 01 01 01 01 01 0A 01}创造这个人格面具，\n需收取{F2 44 01 01}日元，可以吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:15:0",
+  "message_id": "combine_succession_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}请选择要继承的技能。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:16:0",
+  "message_id": "combine_burst_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}哎呀…？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:16:1",
+  "message_id": "combine_burst_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}新诞生的人格面具，\n似乎蕴藏着不可思议的力量呢…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:17:0",
+  "message_id": "combine_comu_bonus",
+  "translation": "{F2 05 FF FF}{F1 41}＞{F2 44 01 01}社群的力量，\n　为{F2 44 02 01}赋予力量…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:18:0",
+  "message_id": "combine_get_comu_bonus",
+  "translation": "{F2 05 FF FF}{F1 41}＞诞生的{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}，\n　竟然获得了{F2 44 03 01}ＥＸＰ！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:19:0",
+  "message_id": "combine_008",
+  "translation": "{F2 05 FF FF}{F1 41}＞{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}似乎要升级了！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:20:0",
+  "message_id": "combine_no_comu_bonus",
+  "translation": "{F2 05 FF FF}{F1 41}＞{F2 44 01 01}社群的力量，\n　为{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}赋予力量…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:20:1",
+  "message_id": "combine_no_comu_bonus",
+  "translation": "{F2 05 FF FF}{F1 41}＞…但是，{F2 44 01 01}社群\n　还未建立…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:21:0",
+  "message_id": "combine_get_card",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞人格面具“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”\n　在心中诞生了！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:22:0",
+  "message_id": "combine_accident",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 10 01}哎呀…\n似乎和预想的有些不同呢…\n{F2 22 86 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:23:0",
+  "message_id": "combine_fool_accident",
+  "translation": "{F2 05 FF FF}{F1 41}哎呀，这是…\n“万能牌”呢。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:24:0",
+  "message_id": "combine_accident_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 03 01}…虽然与预想的略有不同，\n不过这样也不错。\n{F2 22 96 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:25:0",
+  "message_id": "combine_fool_accident_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}哎呀，这是…\n“万能牌”呢。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:28:0",
+  "message_id": "weather_bonus_omen",
+  "translation": "{F2 05 FF FF}{F1 41}＞预报的效果为{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}赋予力量。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:29:0",
+  "message_id": "weather_bonus_omen_add",
+  "translation": "{F2 05 FF FF}{F1 41}＞预报的效果为{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}赋予力量！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:30:0",
+  "message_id": "weather_bonus_get_skill",
+  "translation": "{F2 05 FF FF}{F1 41}＞由于预报的效果，{F2 44 02 01}\n　学会了“{F2 01 03 01}{F2 44 01 01}{F2 01 01 01}”！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:31:0",
+  "message_id": "weather_bonus_noget_skil",
+  "translation": "{F2 05 FF FF}{F1 41}＞但是，“{F2 01 03 01}{F2 44 01 01}{F2 01 01 01}”\n　已经学会了，只好放弃…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:32:0",
+  "message_id": "weather_bonus_no_skill",
+  "translation": "{F2 05 FF FF}{F1 41}＞但是，{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}无法学会“{F2 01 03 01}{F2 44 01 01}{F2 01 01 01}”…\n　\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:33:0",
+  "message_id": "weather_bonus_powerup",
+  "translation": "{F2 05 FF FF}{F1 41}＞由于预报的效果，各项能力获得了额外加成！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:34:0",
+  "message_id": "weather_bonus_get_comubo",
+  "translation": "{F2 05 FF FF}{F1 41}＞此外，由于预报的效果，\n　社群带来的经验值加成进一步提升！\n　\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:35:0",
+  "message_id": "weather_bonus_get_change",
+  "translation": "{F2 05 FF FF}{F1 41}＞预报的效果让“{F2 01 03 01}{F2 44 01 01}{F2 01 01 01}”似乎要变化了！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:35:1",
+  "message_id": "weather_bonus_get_change",
+  "translation": "{F2 05 FF FF}{F1 41}＞要让“{F2 01 03 01}{F2 44 01 01}{F2 01 01 01}”发生变化吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:36:0",
+  "message_id": "weather_bonus_changeskil",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 03 01}{F2 44 01 01}{F2 01 01 01}”\n　变成了“{F2 01 03 01}{F2 44 02 01}{F2 01 01 01}”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:37:0",
+  "message_id": "weather_news_greeting",
+  "translation": "{F2 05 FF FF}{F1 41}这是今天{F2 44 01 01}月{F2 44 02 01}日的合体预报。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:38:0",
+  "message_id": "weather_news_wait",
+  "translation": "{F2 05 FF FF}{F1 41}目前的合体预报，\n如您所见。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:39:0",
+  "message_id": "zensyo_menu",
+  "translation": "{F2 05 FF FF}{F1 41}以上人格面具与全书记录不同。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:40:0",
+  "message_id": "zensyo_summons",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 13 01}召唤这个人格面具，\n需要{F2 44 01 01}日元。\n可以吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:41:0",
+  "message_id": "zensyo_not_summons",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 15 01}要召唤这个人格面具，\n你的钱似乎还不够呢。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:42:0",
+  "message_id": "zensyo_get_summons",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞召唤了人格面具\n　“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:43:0",
+  "message_id": "zensyo_not2_summons",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}这个人格面具，\n你似乎已经拥有了呢…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:44:0",
+  "message_id": "zensyo_not3_summons",
+  "translation": "{F2 05 FF FF}{F1 41}想创造这个人格面具，\n你的等级似乎还不够…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:45:0",
+  "message_id": "zensyo_not4_summons",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}似乎无法再持有\n更多人格面具了呢…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:46:0",
+  "message_id": "zensyo_regist",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}已覆盖人格面具全书的记录。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:47:0",
+  "message_id": "zensyo_add_check",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 14 01}要将持有的{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}\n登记到全书中吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:48:0",
+  "message_id": "zensyo_all_add_check",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 14 01}要将持有的所有人格面具\n登记到全书中吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:49:0",
+  "message_id": "zensyo_mark_add_check",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 14 01}要将选中的人格面具\n登记到全书中吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:50:0",
+  "message_id": "zensyo_no_regist",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}你似乎没有持有\n可登记到全书的人格面具呢…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:51:0",
+  "message_id": "powerup_message",
+  "translation": "{F2 05 FF FF}{F1 41}要强化这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:52:0",
+  "message_id": "powerup_cancel",
+  "translation": "{F2 05 FF FF}{F1 41}您目前装备着的人格面具，\n我无法代为保管……\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:53:0",
+  "message_id": "powerup_non",
+  "translation": "{F2 05 FF FF}{F1 41}看来您没有可作为\n强化素材的人格面具……\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:54:0",
+  "message_id": "powerup_receive",
+  "translation": "{F2 05 FF FF}{F1 41}要中止强化，\n取回这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:55:0",
+  "message_id": "powerup_receive1",
+  "translation": "{F2 05 FF FF}{F1 41}目前代为保管的人格面具，\n状态如您所见。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:56:0",
+  "message_id": "powerup_receive2",
+  "translation": "{F2 05 FF FF}{F1 41}目前代为保管的人格面具，\n状态如您所见。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:57:0",
+  "message_id": "powerup_receive3",
+  "translation": "{F2 05 FF FF}{F1 41}目前代为保管的人格面具，\n状态如您所见。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:58:0",
+  "message_id": "powerup_failed",
+  "translation": "{F2 05 FF FF}{F1 41}真是令人遗憾的结果……\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:59:0",
+  "message_id": "powerup_no_receive",
+  "translation": "{F2 05 FF FF}{F1 41}看来您无法携带更多人格面具了……\n请腾出空位后再来领取。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:60:0",
+  "message_id": "skill_powerup",
+  "translation": "{F2 05 FF FF}{F1 41}人格面具的技能似乎要强化了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:60:1",
+  "message_id": "skill_powerup",
+  "translation": "{F2 05 FF FF}{F1 41}“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”，要强化吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:61:0",
+  "message_id": "cmb_comu_achieve_get_ite",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞{F4 45 04 01 00 00 01 01}已获得。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:62:0",
+  "message_id": "comu_achieve_rank_A",
+  "translation": "{F2 05 FF FF}{F1 41}看来不需要\n我的忠告呢。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:63:0",
+  "message_id": "comu_achieve_rank_B",
+  "translation": "{F2 05 FF FF}{F1 41}进展十分出色。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:63:1",
+  "message_id": "comu_achieve_rank_B",
+  "translation": "{F2 05 FF FF}{F1 41}正是社群构成了您的“世界”…\n还请不要忘记…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:64:0",
+  "message_id": "comu_achieve_rank_C",
+  "translation": "{F2 05 FF FF}{F1 41}进展相当不错呢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:64:1",
+  "message_id": "comu_achieve_rank_C",
+  "translation": "{F2 05 FF FF}{F1 41}正是社群构成了您的“世界”…\n还请不要忘记…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:65:0",
+  "message_id": "comu_achieve_rank_D",
+  "translation": "{F2 05 FF FF}{F1 41}我想，您应该更加珍惜羁绊。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:65:1",
+  "message_id": "comu_achieve_rank_D",
+  "translation": "{F2 05 01 FF}{F1 41}正是社群构成了您的“世界”…\n还请不要忘记…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:66:0",
+  "message_id": "comu_achieve_rank_E",
+  "translation": "{F2 05 FF FF}{F1 41}请更加珍惜羁绊。\n在您身边，一定能找到的。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:66:1",
+  "message_id": "comu_achieve_rank_E",
+  "translation": "{F2 05 01 FF}{F1 41}正是社群构成了您的“世界”…\n还请不要忘记…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:67:0",
+  "message_id": "cmb_comu_achieve",
+  "translation": "{F2 05 FF FF}{F1 41}哎呀…？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:67:1",
+  "message_id": "cmb_comu_achieve",
+  "translation": "{F2 05 FF FF}{F1 41}看来，您的社群完成率\n已经超过５０％了…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:67:2",
+  "message_id": "cmb_comu_achieve",
+  "translation": "{F2 05 FF FF}{F1 41}真了不起。\n那么…请收下这个吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:67:3",
+  "message_id": "cmb_comu_achieve",
+  "translation": "{F2 05 FF FF}{F1 41}社群越充实，\n您的“世界”也就越充实…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:67:4",
+  "message_id": "cmb_comu_achieve",
+  "translation": "{F2 05 FF FF}{F1 41}我很期待\n您的“世界”呢。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:68:0",
+  "message_id": "cmb_comu_achieve_100",
+  "translation": "{F2 05 FF FF}{F1 41}真了不起…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:68:1",
+  "message_id": "cmb_comu_achieve_100",
+  "translation": "{F2 05 FF FF}{F1 41}您终于将所有社群\n都培育成了真正的羁绊呢…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:68:2",
+  "message_id": "cmb_comu_achieve_100",
+  "translation": "{F2 05 01 FF}{F1 41}这可不是谁都能做到的…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:68:3",
+  "message_id": "cmb_comu_achieve_100",
+  "translation": "{F2 05 01 FF}{F1 41}您果然…和我想的一样。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:68:4",
+  "message_id": "cmb_comu_achieve_100",
+  "translation": "{F2 05 01 FF}{F1 41}您的“世界”…\n究竟是什么样的呢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:68:5",
+  "message_id": "cmb_comu_achieve_100",
+  "translation": "{F2 05 01 FF}{F1 41}如果可以，也请带我\n去那个“世界”吧…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:68:6",
+  "message_id": "cmb_comu_achieve_100",
+  "translation": "{F2 05 01 FF}{F1 41}…那么，请收下这个。\n这是我花了漫长岁月制作的。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:68:7",
+  "message_id": "cmb_comu_achieve_100",
+  "translation": "{F2 05 01 FF}{F1 41}它一定会保护您的。\n代替我…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:69:0",
+  "message_id": "book_bonus001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}哎呀…不知不觉间，\n原本空白的全书里，\n已登记了许多人格面具呢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:69:1",
+  "message_id": "book_bonus001",
+  "translation": "{F2 05 FF FF}{F1 41}这都是你努力的成果…\n就让我送上一份\n小小的礼物吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:69:2",
+  "message_id": "book_bonus001",
+  "translation": "{F2 05 FF FF}{F1 41}持有这个，\n从人格面具全书召唤时，\n就能享受费用优惠。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:69:3",
+  "message_id": "book_bonus001",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 25}　\n＞{F4 45 04 01 00 00 01 01}已获得！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:69:4",
+  "message_id": "book_bonus001",
+  "translation": "{F2 05 FF FF}{F1 41}＞从全书召唤的费用\n　可减免１０％了！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:69:5",
+  "message_id": "book_bonus001",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 25}玛格丽特\n今后，若你创造出\n更多的人格面具，我也会…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:69:6",
+  "message_id": "book_bonus001",
+  "translation": "{F2 05 FF FF}{F1 41}像这次一样送上礼物，\n还请多多创造\n新的人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:69:7",
+  "message_id": "book_bonus001",
+  "translation": "{F2 05 FF FF}{F1 41}那么…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:70:0",
+  "message_id": "book_bonus002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}至今由你创造的\n人格面具…\n似乎比之前更多了呢…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:70:1",
+  "message_id": "book_bonus002",
+  "translation": "{F2 05 FF FF}{F1 41}那么，就按约定，\n送上我的礼物吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:70:2",
+  "message_id": "book_bonus002",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 25}　\n＞{F4 45 04 01 00 00 01 01}已获得！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:70:3",
+  "message_id": "book_bonus002",
+  "translation": "{F2 05 FF FF}{F1 41}＞从全书召唤的费用\n　可减免１５％了！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:70:4",
+  "message_id": "book_bonus002",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 25}玛格丽特\n持有这个，\n从全书召唤的费用\n就能享受更多优惠。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:70:5",
+  "message_id": "book_bonus002",
+  "translation": "{F2 05 FF FF}{F1 41}不过，\n似乎仍有许多\n你尚未认识的人格面具…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:70:6",
+  "message_id": "book_bonus002",
+  "translation": "{F2 05 FF FF}{F1 41}你们还会创造出\n怎样的人格面具，\n我也十分感兴趣呢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:70:7",
+  "message_id": "book_bonus002",
+  "translation": "{F2 05 FF FF}{F1 41}期待你们今后\n创造出更多的人格面具…\n我会准备好礼物等着。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:70:8",
+  "message_id": "book_bonus002",
+  "translation": "{F2 05 FF FF}{F1 41}那么…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:71:0",
+  "message_id": "book_bonus003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}不知不觉，已有相当多的\n人格面具从你心中诞生了呢…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:71:1",
+  "message_id": "book_bonus003",
+  "translation": "{F2 05 FF FF}{F1 41}在全书中登记\n所有人格面具的日子，\n或许已经不远了…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:71:2",
+  "message_id": "book_bonus003",
+  "translation": "{F2 05 FF FF}{F1 41}哎呀…\n差点忘了。\n请收下这个。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:71:3",
+  "message_id": "book_bonus003",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 25}　\n＞{F4 45 04 01 00 00 01 01}已获得！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:71:4",
+  "message_id": "book_bonus003",
+  "translation": "{F2 05 FF FF}{F1 41}＞从全书召唤的费用\n　可减免２０％了！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:71:5",
+  "message_id": "book_bonus003",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 25}玛格丽特\n距离完成全书只差一点…\n希望它能帮到你。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:71:6",
+  "message_id": "book_bonus003",
+  "translation": "{F2 05 FF FF}{F1 41}创造出世上\n所有的人格面具…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:71:7",
+  "message_id": "book_bonus003",
+  "translation": "{F2 05 FF FF}{F1 41}你的话，或许真能做到呢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:71:8",
+  "message_id": "book_bonus003",
+  "translation": "{F2 05 FF FF}{F1 41}我期待着那一刻…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:72:0",
+  "message_id": "book_bonus004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 0D 01 01 01 02 01}没想到你竟拥有\n如此强大的能力…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:72:1",
+  "message_id": "book_bonus004",
+  "translation": "{F2 05 FF FF}{F1 41}就在此刻，所有人格面具\n都已登记到全书中了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:72:2",
+  "message_id": "book_bonus004",
+  "translation": "{F2 05 FF FF}{F1 41}为赞赏你的努力，\n我将送上最好的礼物。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:72:3",
+  "message_id": "book_bonus004",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 25}　\n＞{F4 45 04 01 00 00 01 01}已获得！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:72:4",
+  "message_id": "book_bonus004",
+  "translation": "{F2 05 FF FF}{F1 41}＞从全书召唤的费用\n　可减免２５％了！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:72:5",
+  "message_id": "book_bonus004",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 25}玛格丽特\n持有这个，\n人格面具全书\n就能用得更加方便了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:72:6",
+  "message_id": "book_bonus004",
+  "translation": "{F2 05 FF FF}{F1 41}不过，这可不意味着\n召唤免费哦。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:72:7",
+  "message_id": "book_bonus004",
+  "translation": "{F2 05 FF FF}{F1 41}毕竟，世间常理就是如此。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:72:8",
+  "message_id": "book_bonus004",
+  "translation": "{F2 05 FF FF}{F1 41}那么…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:73:0",
+  "message_id": "combine_before_comu_none",
+  "translation": "{F2 05 FF FF}{F1 41}看来您还没有“{F2 44 01 01}”社群。\n不过，建立“{F2 44 01 01}”社群，\n似乎还需要一段时间…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:73:1",
+  "message_id": "combine_before_comu_none",
+  "translation": "{F2 05 FF FF}{F1 41}虽然不会获得新的力量，\n确定选择这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:74:0",
+  "message_id": "combine_before_comu_none",
+  "translation": "{F2 05 FF FF}{F1 41}看来您还没有“{F2 44 01 01}”社群。\n不过，我想也快出现了…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:74:1",
+  "message_id": "combine_before_comu_none",
+  "translation": "{F2 05 FF FF}{F1 41}虽然不会获得新的力量，\n确定选择这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:75:0",
+  "message_id": "combine_before_comu_none",
+  "translation": "{F2 05 FF FF}{F1 41}看来您还没有“{F2 44 01 01}”社群。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:75:1",
+  "message_id": "combine_before_comu_none",
+  "translation": "{F2 05 FF FF}{F1 41}虽然不会获得新的力量，\n确定选择这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:76:0",
+  "message_id": "combine_comu_rank_00",
+  "translation": "{F2 05 FF FF}{F1 41}看来您没有对应的“社群”…\n这样就无法获得新的力量了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:76:1",
+  "message_id": "combine_comu_rank_00",
+  "translation": "{F2 05 FF FF}{F1 41}确定选择这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:77:0",
+  "message_id": "combine_comu_rank_01",
+  "translation": "{F2 05 FF FF}{F1 41}对应的“社群”等级为１…\n那么…究竟会获得多少力量呢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:77:1",
+  "message_id": "combine_comu_rank_01",
+  "translation": "{F2 05 FF FF}{F1 41}确定选择这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:78:0",
+  "message_id": "combine_comu_rank_02",
+  "translation": "{F2 05 FF FF}{F1 41}对应的“社群”等级为２…\n诞生时应该能获得一些力量…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:78:1",
+  "message_id": "combine_comu_rank_02",
+  "translation": "{F2 05 FF FF}{F1 41}确定选择这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:79:0",
+  "message_id": "combine_comu_rank_03",
+  "translation": "{F2 05 FF FF}{F1 41}对应的“社群”等级为３…\n诞生时应该能获得一些力量…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:79:1",
+  "message_id": "combine_comu_rank_03",
+  "translation": "{F2 05 FF FF}{F1 41}确定选择这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:80:0",
+  "message_id": "combine_comu_rank_04",
+  "translation": "{F2 05 FF FF}{F1 41}对应的“社群”等级为４…\n诞生时看来能获得不俗的力量。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:80:1",
+  "message_id": "combine_comu_rank_04",
+  "translation": "{F2 05 FF FF}{F1 41}确定选择这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:81:0",
+  "message_id": "combine_comu_rank_05",
+  "translation": "{F2 05 FF FF}{F1 41}对应的“社群”等级为５…\n诞生时看来能获得不俗的力量。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:81:1",
+  "message_id": "combine_comu_rank_05",
+  "translation": "{F2 05 FF FF}{F1 41}确定选择这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:82:0",
+  "message_id": "combine_comu_rank_06",
+  "translation": "{F2 05 FF FF}{F1 41}对应的“社群”等级为６…\n诞生时看来能获得相当强的力量。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:82:1",
+  "message_id": "combine_comu_rank_06",
+  "translation": "{F2 05 FF FF}{F1 41}确定选择这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:83:0",
+  "message_id": "combine_comu_rank_07",
+  "translation": "{F2 05 FF FF}{F1 41}对应的“社群”等级为７…\n诞生时看来能获得相当强的力量。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:83:1",
+  "message_id": "combine_comu_rank_07",
+  "translation": "{F2 05 FF FF}{F1 41}确定选择这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:84:0",
+  "message_id": "combine_comu_rank_08",
+  "translation": "{F2 05 FF FF}{F1 41}对应的“社群”等级为８…\n诞生时将会获得很强的力量…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:84:1",
+  "message_id": "combine_comu_rank_08",
+  "translation": "{F2 05 FF FF}{F1 41}确定选择这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:85:0",
+  "message_id": "combine_comu_rank_09",
+  "translation": "{F2 05 FF FF}{F1 41}对应的“社群”等级为９…\n诞生时将会获得很强的力量…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:85:1",
+  "message_id": "combine_comu_rank_09",
+  "translation": "{F2 05 FF FF}{F1 41}确定选择这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:86:0",
+  "message_id": "combine_comu_rank_10",
+  "translation": "{F2 05 FF FF}{F1 41}对应的“社群”等级为１０…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:86:1",
+  "message_id": "combine_comu_rank_10",
+  "translation": "{F2 05 FF FF}{F1 41}哦…这无疑会\n带着强大的力量诞生。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:86:2",
+  "message_id": "combine_comu_rank_10",
+  "translation": "{F2 05 FF FF}{F1 41}确定选择这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:87:0",
+  "message_id": "combine_comu_world",
+  "translation": "{F2 05 FF FF}{F1 41}确定选择这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:88:0",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}欢迎来到…天鹅绒房间。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:88:1",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}那么…就来谈谈\n我们能提供的“帮助”吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:88:2",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}我们可以将您持有的多个人格面具\n组合起来，进行“合体”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:88:3",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}如何获得强大的人格面具，\n是您旅途中最重要的课题之一…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:88:4",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}想创造新的人格面具时，\n请选择“创造人格面具”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:88:5",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}另外，将人格面具登录到“人格面具全书”，\n以后就能随时取出相同的人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:88:6",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}届时，请向玛格丽特提出\n“查看人格面具全书”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:89:0",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}…那么，就让我说明一下\n创造新的人格面具的“合体”吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:89:1",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}人格面具的合体，有多种不同的方式。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:89:2",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}“普通合体”是２身合体…\n“三角合体”是３身合体…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:89:3",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}使用越多的人格面具卡作为素材，\n就越有可能获得更强大的成果。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:89:4",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}不过，既然是将多个合为一个，人格面具的数量\n自然会减少…还请务必牢记这一点。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:89:5",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}此外，合体诞生的人格面具，\n可能随日期不同而获得各种力量。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:89:6",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}查看“合体预报”，\n就能进行更符合您心意的合体。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:89:7",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}若需要更详细的说明，\n请尽管开口。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:90:0",
+  "message_id": "combine_yohou_tutorial_m",
+  "translation": "{F2 05 FF FF}{F1 41}感谢您提出\n查看“合体预报”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:90:1",
+  "message_id": "combine_yohou_tutorial_m",
+  "translation": "{F2 05 FF FF}{F1 41}合体诞生的人格面具，\n可能随日期不同而获得各种能力。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:90:2",
+  "message_id": "combine_yohou_tutorial_m",
+  "translation": "{F2 05 FF FF}{F1 41}所谓“合体预报”，就是预告\n每天的效果及其所需条件。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:90:3",
+  "message_id": "combine_yohou_tutorial_m",
+  "translation": "{F2 05 FF FF}{F1 41}有时也会出现意想不到的效果，\n建议您经常查看。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:91:0",
+  "message_id": "book_tutorial_mes",
+  "translation": "{F2 05 FF FF}{F1 41}那么，就让我简单说明一下\n“人格面具全书”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:91:1",
+  "message_id": "book_tutorial_mes",
+  "translation": "{F2 05 FF FF}{F1 41}人格面具全书可以登录您持有的\n人格面具及其能力。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:91:2",
+  "message_id": "book_tutorial_mes",
+  "translation": "{F2 05 FF FF}{F1 41}登录后的人格面具，可以不限次数地\n以登录时的能力再次取出。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:91:3",
+  "message_id": "book_tutorial_mes",
+  "translation": "{F2 05 FF FF}{F1 41}不过，届时会根据所取出\n人格面具的强度收取费用。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:91:4",
+  "message_id": "book_tutorial_mes",
+  "translation": "{F2 05 FF FF}{F1 41}如果只是登录人格面具，\n则不收取费用。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:91:5",
+  "message_id": "book_tutorial_mes",
+  "translation": "{F2 05 FF FF}{F1 41}登录信息可以反复覆盖。\n请在您满意的状态下进行登录。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:92:0",
+  "message_id": "combine_powerup_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}那么，就让我详细说明一下\n强化合体。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:92:1",
+  "message_id": "combine_powerup_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}我也是侍奉伊戈尔大人的人…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:92:2",
+  "message_id": "combine_powerup_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}虽然还在修行中，\n但也能进行人格面具合体。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:92:3",
+  "message_id": "combine_powerup_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}只是，我无法像伊戈尔大人一样\n操作所有的人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:92:4",
+  "message_id": "combine_powerup_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}通过使用由伊戈尔大人合体创造的\n特定人格面具，\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:92:5",
+  "message_id": "combine_powerup_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}我就能在不改变形态的情况下，\n强化各位持有的人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:92:6",
+  "message_id": "combine_powerup_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}不过，我也还在修行中…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:92:7",
+  "message_id": "combine_powerup_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}进行这些强化，\n至少需要将人格面具\n交给我保管一天。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:92:8",
+  "message_id": "combine_powerup_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}保管超过一天也无妨，\n但我的强化能力也有极限。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:92:9",
+  "message_id": "combine_powerup_tutorial",
+  "translation": "{F2 05 FF FF}{F1 41}对于超过强化极限的人格面具，\n我无法承担责任，\n还请留意。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:93:0",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}…那么，就让我说明一下\n“推荐合体”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:93:1",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}推荐合体会告诉您，使用持有的人格面具\n可以创造出哪些更实用的人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:93:2",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}实用的人格面具包括“等级最高的人格面具”、\n“拥有回复技能的人格面具”等各种类型…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:93:3",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}这样，就能让您一眼看出\n哪些人格面具符合您的目的。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:93:4",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}此外，有时也会从人格面具全书中\n选取作为素材的人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:93:5",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}届时会收取从人格面具全书中\n取出素材的费用，还请谅解。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:93:6",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}若需要进一步说明，\n请尽管开口。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:94:0",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}…那么，就让我说明一下\n“搜索合体”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:94:1",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}搜索合体会列出，使用持有的人格面具\n能够创造出的所有人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:94:2",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}如果您觉得合体难以掌握，\n或是只想获得强大的人格面具，\n它应该能帮上忙。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:94:3",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}此外，倾听“另一个世界”的声音，\n或许也能得知哪些人格面具比较实用。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:94:4",
+  "message_id": "combine_tutorial_mes_igo",
+  "translation": "{F2 05 FF FF}{F1 41}不妨也参考一下。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:95:0",
+  "message_id": "msg_combine_HELP000_M",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 23 01 0D 01 01 01 02 01}“合体”是以２个以上\n人格面具为素材，召唤出\n１个新人格面具的秘术。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:95:1",
+  "message_id": "msg_combine_HELP000_M",
+  "translation": "{F2 05 FF FF}{F1 41}通过合体，通常能创造出\n等级高于素材个体的\n人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:95:2",
+  "message_id": "msg_combine_HELP000_M",
+  "translation": "{F2 05 FF FF}{F1 41}但作为素材的人格面具\n会就此消失。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:95:3",
+  "message_id": "msg_combine_HELP000_M",
+  "translation": "{F2 05 FF FF}{F1 41}现在的你们\n究竟需要获得什么力量…\n请仔细考虑后再尝试吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:96:0",
+  "message_id": "msg_combine_HELP001",
+  "translation": "{F2 05 FF FF}{F1 41}人格面具，是“心”的力量。\n而心，会因“羁绊”而充实。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:96:1",
+  "message_id": "msg_combine_HELP001",
+  "translation": "{F2 05 01 FF}{F1 41}那么，作为羁绊源泉的“社群”，\n自然也会影响人格面具的力量。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:96:2",
+  "message_id": "msg_combine_HELP001",
+  "translation": "{F2 05 01 FF}{F1 41}合体时，若您拥有与即将诞生的\n人格面具相同阿尔卡那的社群…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:96:3",
+  "message_id": "msg_combine_HELP001",
+  "translation": "{F2 05 01 FF}{F1 41}那个人格面具就会在诞生的同时，\n获得力量并提升等级。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:96:4",
+  "message_id": "msg_combine_HELP001",
+  "translation": "{F2 05 01 FF}{F1 41}能提升多少等级，取决于\n代表社群成长程度的“等级”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:96:5",
+  "message_id": "msg_combine_HELP001",
+  "translation": "{F2 05 01 FF}{F1 41}有时，甚至可能超过\n您自身的等级呢…呵呵。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:96:6",
+  "message_id": "msg_combine_HELP001",
+  "translation": "{F2 05 01 FF}{F1 41}您明白“社群”对人格面具使者\n究竟有多么重要了吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:97:0",
+  "message_id": "msg_combine_HELP002_M",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 23 01 0D 01 01 01 02 01}合体的素材与结果之间，\n大致存在着以阿尔卡那\n为基础的规律。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:97:1",
+  "message_id": "msg_combine_HELP002_M",
+  "translation": "{F2 05 FF FF}{F1 41}不过，也有许多组合\n并不符合这些规律…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:97:2",
+  "message_id": "msg_combine_HELP002_M",
+  "translation": "{F2 05 FF FF}{F1 41}例如，相同阿尔卡那之间\n的组合就是如此。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:97:3",
+  "message_id": "msg_combine_HELP002_M",
+  "translation": "{F2 05 FF FF}{F1 41}不妨多尝试一下吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:98:0",
+  "message_id": "msg_combine_HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}接下来，就谈谈以４个人格面具以上\n作为素材的特殊合体吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:98:1",
+  "message_id": "msg_combine_HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}通过４个以上合体诞生的人格面具，\n都是无法用其他方法获得的。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:98:2",
+  "message_id": "msg_combine_HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}我可以保证，\n它们一定值得您费这番工夫。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:99:0",
+  "message_id": "msg_combine_HELP004_M",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 23 01 0D 01 01 01 02 01}合体诞生的人格面具，\n有时会继承\n素材所持有的技能。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:99:1",
+  "message_id": "msg_combine_HELP004_M",
+  "translation": "{F2 05 FF FF}{F1 41}也就是说，善用合体，\n就能赋予人格面具\n原本无法习得的技能。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:99:2",
+  "message_id": "msg_combine_HELP004_M",
+  "translation": "{F2 05 FF FF}{F1 41}若想创造强大的人格面具，\n这可是绝对不能忽视的。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:99:3",
+  "message_id": "msg_combine_HELP004_M",
+  "translation": "{F2 05 FF FF}{F1 41}继承的原理\n尚未完全明晰，\n不过有３点可以告诉你。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:99:4",
+  "message_id": "msg_combine_HELP004_M",
+  "translation": "{F2 05 FF FF}{F1 41}第１，“想要继承的技能，\n可以由你自由选择。”\n…就是这样。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:99:5",
+  "message_id": "msg_combine_HELP004_M",
+  "translation": "{F2 05 FF FF}{F1 41}第２，“新诞生的人格面具\n所能继承的技能有所限制。”\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:99:6",
+  "message_id": "msg_combine_HELP004_M",
+  "translation": "{F2 05 FF FF}{F1 41}…这一点我会另作说明。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:99:7",
+  "message_id": "msg_combine_HELP004_M",
+  "translation": "{F2 05 FF FF}{F1 41}最后，“素材持有的技能\n越多，能够继承的技能\n数量也会越多。”\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:99:8",
+  "message_id": "msg_combine_HELP004_M",
+  "translation": "{F2 05 FF FF}{F1 41}请务必多多尝试哦。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:100:0",
+  "message_id": "msg_combine_HELP005_M",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 23 01 0D 01 01 01 02 01}关于技能继承，\n我再详细解释一下。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:100:1",
+  "message_id": "msg_combine_HELP005_M",
+  "translation": "{F2 05 FF FF}{F1 41}每个人格面具都有\n“能够继承的技能”和\n“无法继承的技能”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:100:2",
+  "message_id": "msg_combine_HELP005_M",
+  "translation": "{F2 05 FF FF}{F1 41}这些大致由每个人格面具\n各自的特点决定…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:100:3",
+  "message_id": "msg_combine_HELP005_M",
+  "translation": "{F2 05 FF FF}{F1 41}…可以作如下归纳。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:100:4",
+  "message_id": "msg_combine_HELP005_M",
+  "translation": "{F2 05 FF FF}{F1 41}首先是擅长物理攻击的类型。\n它们无法继承恢复技能…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:100:5",
+  "message_id": "msg_combine_HELP005_M",
+  "translation": "{F2 05 FF FF}{F1 41}相反，擅长恢复的类型，\n无法继承物理攻击技能。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:100:6",
+  "message_id": "msg_combine_HELP005_M",
+  "translation": "{F2 05 FF FF}{F1 41}此外，火与冰、雷与风、光与暗\n这些相对属性中，偏向一方的类型，\n无法继承另一方的技能。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:100:7",
+  "message_id": "msg_combine_HELP005_M",
+  "translation": "{F2 05 FF FF}{F1 41}简单来说，无法继承与自身特性\n相反的技能，\n这样理解大致不会错。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:100:8",
+  "message_id": "msg_combine_HELP005_M",
+  "translation": "{F2 05 FF FF}{F1 41}似乎也存在能够继承\n所有技能的类型…\n不过这种性质极其罕见。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:100:9",
+  "message_id": "msg_combine_HELP005_M",
+  "translation": "{F2 05 FF FF}{F1 41}不妨多多尝试吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:101:0",
+  "message_id": "msg_combine_HELP006_M",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 23 01 0D 01 01 01 02 01}虽然不太想承认，\n我的力量也并非“完美”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:101:1",
+  "message_id": "msg_combine_HELP006_M",
+  "translation": "{F2 05 FF FF}{F1 41}极少数情况下，\n会因展开卡牌时出错…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:101:2",
+  "message_id": "msg_combine_HELP006_M",
+  "translation": "{F2 05 FF FF}{F1 41}而引发“事故”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:101:3",
+  "message_id": "msg_combine_HELP006_M",
+  "translation": "{F2 05 FF FF}{F1 41}发生事故时，可能会诞生\n与事先展示的不同的人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:101:4",
+  "message_id": "msg_combine_HELP006_M",
+  "translation": "{F2 05 FF FF}{F1 41}会诞生什么，连我也不知道。\n就在这里先向你道歉吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:102:0",
+  "message_id": "msg_combine_HELP007",
+  "translation": "{F2 05 FF FF}{F1 41}合体诞生的人格面具，\n有时会出现各种“效果”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:102:1",
+  "message_id": "msg_combine_HELP007",
+  "translation": "{F2 05 FF FF}{F1 41}具体会出现什么“效果”，每天都不同，\n内容也是多种多样…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:102:2",
+  "message_id": "msg_combine_HELP007",
+  "translation": "{F2 05 FF FF}{F1 41}比如习得新的技能，\n或是能力本身得到提升。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:102:3",
+  "message_id": "msg_combine_HELP007",
+  "translation": "{F2 05 FF FF}{F1 41}不过，虽说是“每天不同”，\n却并非只要日期相符即可。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:102:4",
+  "message_id": "msg_combine_HELP007",
+  "translation": "{F2 05 FF FF}{F1 41}此外还有若干“条件”，\n只有满足后才能获得“效果”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:102:5",
+  "message_id": "msg_combine_HELP007",
+  "translation": "{F2 05 FF FF}{F1 41}什么“条件”能带来什么“效果”，\n玛格丽特对此了如指掌。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:102:6",
+  "message_id": "msg_combine_HELP007",
+  "translation": "{F2 05 FF FF}{F1 41}将这些内容详细告知您的服务，\n我们称为“合体预报”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:102:7",
+  "message_id": "msg_combine_HELP007",
+  "translation": "{F2 05 FF FF}{F1 41}想查看预报时，请告诉玛格丽特，\n不收取费用。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:102:8",
+  "message_id": "msg_combine_HELP007",
+  "translation": "{F2 05 FF FF}{F1 41}还请经常查看。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:103:0",
+  "message_id": "msg_combine_HELP008",
+  "translation": "{F2 05 FF FF}{F1 41}合体预报的效果，似乎有时会让\n诞生的人格面具进入“觉醒”状态。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:103:1",
+  "message_id": "msg_combine_HELP008",
+  "translation": "{F2 05 FF FF}{F1 41}“觉醒”状态的人格面具，\n在战斗中的成长速度会提升，而且…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:103:2",
+  "message_id": "msg_combine_HELP008",
+  "translation": "{F2 05 FF FF}{F1 41}成长的同时，已有的技能\n似乎也有可能得到强化。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:103:3",
+  "message_id": "msg_combine_HELP008",
+  "translation": "{F2 05 FF FF}{F1 41}但觉醒只是暂时的状态，\n会随着日期推移而结束…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:103:4",
+  "message_id": "msg_combine_HELP008",
+  "translation": "{F2 05 FF FF}{F1 41}持有觉醒状态的人格面具时，\n不妨留意一下。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:104:0",
+  "message_id": "msg_combine_HELP009",
+  "translation": "{F2 05 FF FF}{F1 41}…那么，就让我说明一下\n“推荐合体”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:104:1",
+  "message_id": "msg_combine_HELP009",
+  "translation": "{F2 05 FF FF}{F1 41}推荐合体会告诉您，使用持有的人格面具\n可以创造出哪些更实用的人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:104:2",
+  "message_id": "msg_combine_HELP009",
+  "translation": "{F2 05 FF FF}{F1 41}推荐的人格面具，\n会从以下组合中选出。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:104:3",
+  "message_id": "msg_combine_HELP009",
+  "translation": "{F2 05 FF FF}{F1 41}首先是持有的２个，或持有的１个\n与全书中的１个所进行的２身合体…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:104:4",
+  "message_id": "msg_combine_HELP009",
+  "translation": "{F2 05 FF FF}{F1 41}以及持有的３个，或持有的２个\n与全书中的１个所进行的３身合体。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:104:5",
+  "message_id": "msg_combine_HELP009",
+  "translation": "{F2 05 FF FF}{F1 41}此外，有时也会从人格面具全书中\n选取作为素材的人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:104:6",
+  "message_id": "msg_combine_HELP009",
+  "translation": "{F2 05 FF FF}{F1 41}届时会收取从人格面具全书中\n取出素材的费用，还请谅解。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:105:0",
+  "message_id": "msg_combine_HELP010_M",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 23 01 0D 01 01 01 02 01}接下来，\n我来说明“搜索合体”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:105:1",
+  "message_id": "msg_combine_HELP010_M",
+  "translation": "{F2 05 FF FF}{F1 41}搜索合体会列出用现有人格面具\n进行２身合体、３身合体时，\n能够创造的所有人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:105:2",
+  "message_id": "msg_combine_HELP010_M",
+  "translation": "{F2 05 FF FF}{F1 41}你可以从中寻找\n能够创造的最高等级个体…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:105:3",
+  "message_id": "msg_combine_HELP010_M",
+  "translation": "{F2 05 FF FF}{F1 41}也可以寻找并创造\n尚未登记到全书的人格面具。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:106:0",
+  "message_id": "msg_combine_MHELP001_M",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 23 01 0D 01 01 01 02 01}登记到人格面具全书中的\n人格面具能力，\n当然随时都能查看。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:106:1",
+  "message_id": "msg_combine_MHELP001_M",
+  "translation": "{F2 05 FF FF}{F1 41}此外，已登记的人格面具，\n今后无论多少次，都能以\n同样的能力交付给你。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:106:2",
+  "message_id": "msg_combine_MHELP001_M",
+  "translation": "{F2 05 FF FF}{F1 41}届时，会根据交付人格面具\n的强度收取费用。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:106:3",
+  "message_id": "msg_combine_MHELP001_M",
+  "translation": "{F2 05 FF FF}{F1 41}不过，登记的人格面具\n种类超过一定数量后，\n我们会给予优惠。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:106:4",
+  "message_id": "msg_combine_MHELP001_M",
+  "translation": "{F2 05 FF FF}{F1 41}请当作对你惠顾的谢意。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:106:5",
+  "message_id": "msg_combine_MHELP001_M",
+  "translation": "{F2 05 FF FF}{F1 41}期待你能让我见识到\n更多的人格面具。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:107:0",
+  "message_id": "msg_combine_MHELP002_M",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 23 01 0D 01 01 01 02 01}你可以将持有的人格面具\n及其能力登记下来。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:107:1",
+  "message_id": "msg_combine_MHELP002_M",
+  "translation": "{F2 05 FF FF}{F1 41}仅登记的话，不收取费用。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:107:2",
+  "message_id": "msg_combine_MHELP002_M",
+  "translation": "{F2 05 FF FF}{F1 41}另外，若你来访时持有\n尚未登记到全书的人格面具，\n我会事先为你登记。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:107:3",
+  "message_id": "msg_combine_MHELP002_M",
+  "translation": "{F2 05 FF FF}{F1 41}如果持有的都已经登记过，\n是否覆盖记录，\n由你自行决定。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:107:4",
+  "message_id": "msg_combine_MHELP002_M",
+  "translation": "{F2 05 FF FF}{F1 41}有需要时，\n请选择“登记到人格面具全书”，\n向我提出即可。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:108:0",
+  "message_id": "msg_combine_MHELP003",
+  "translation": "{F2 05 FF FF}{F1 41}我也是侍奉伊戈尔大人的人…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:108:1",
+  "message_id": "msg_combine_MHELP003",
+  "translation": "{F2 05 FF FF}{F1 41}虽然还在修行中，\n但也能进行人格面具合体。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:108:2",
+  "message_id": "msg_combine_MHELP003",
+  "translation": "{F2 05 FF FF}{F1 41}只是，我无法像伊戈尔大人一样\n操作所有的人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:108:3",
+  "message_id": "msg_combine_MHELP003",
+  "translation": "{F2 05 FF FF}{F1 41}由伊戈尔大人合体创造的人格面具…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:108:4",
+  "message_id": "msg_combine_MHELP003",
+  "translation": "{F2 05 FF FF}{F1 41}荒魂…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:108:5",
+  "message_id": "msg_combine_MHELP003",
+  "translation": "{F2 05 FF FF}{F1 41}奇魂…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:108:6",
+  "message_id": "msg_combine_MHELP003",
+  "translation": "{F2 05 FF FF}{F1 41}和魂…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:108:7",
+  "message_id": "msg_combine_MHELP003",
+  "translation": "{F2 05 FF FF}{F1 41}幸魂…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:108:8",
+  "message_id": "msg_combine_MHELP003",
+  "translation": "{F2 05 FF FF}{F1 41}以其中任意一个作为素材，\n我就能在不改变形态的情况下，\n强化各位持有的人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:108:9",
+  "message_id": "msg_combine_MHELP003",
+  "translation": "{F2 05 FF FF}{F1 41}不过，进行这些强化，\n至少需要将人格面具\n交给我保管一天。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:108:10",
+  "message_id": "msg_combine_MHELP003",
+  "translation": "{F2 05 FF FF}{F1 41}保管超过一天也无妨，\n但请不要忘记，每多过一天，\n都会给人格面具增加负担。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:108:11",
+  "message_id": "msg_combine_MHELP003",
+  "translation": "{F2 05 FF FF}{F1 41}对于超过强化极限的人格面具，\n我无法承担责任，\n请仔细考虑后再委托我。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:109:0",
+  "message_id": "msg_combine_S0HELP001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}那我来说明一下“购买技能卡”吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:109:1",
+  "message_id": "msg_combine_S0HELP001",
+  "translation": "{F2 05 FF FF}{F1 41}你把找到的技能卡交给我，\n我就能复制那张卡。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:109:2",
+  "message_id": "msg_combine_S0HELP001",
+  "translation": "{F2 05 FF FF}{F1 41}想复制多少张都行，所以只要交给我１次，\n之后想要时就能随时购买，数量不限。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:109:3",
+  "message_id": "msg_combine_S0HELP001",
+  "translation": "{F2 05 FF FF}{F1 41}可是要收钱的哦？他们是这么吩咐的。\n我也不清楚，反正规矩就是这样吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:109:4",
+  "message_id": "msg_combine_S0HELP001",
+  "translation": "{F2 05 FF FF}{F1 41}还有，技能卡的效果不同，\n价格也会不同，要看清楚哦。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:109:5",
+  "message_id": "msg_combine_S0HELP001",
+  "translation": "{F2 05 FF FF}{F1 41}多复制些不同的技能卡，\n应该有助于强化人格面具吧？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:110:0",
+  "message_id": "msg_combine_S0HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}呃…说明一下“交出技能卡”\n就行了，对吧？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:110:1",
+  "message_id": "msg_combine_S0HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}只要把你持有的卡交给我１张，\n我就会复制它，\n加入出售的卡片清单。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:110:2",
+  "message_id": "msg_combine_S0HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}不过，交给我也不会给你钱，\n收下的卡也不能还给你，要注意哦？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:110:3",
+  "message_id": "msg_combine_S0HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}不愿意的话，不交给我而是直接用掉也行，\n不过交给我，以后就能买很多张了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:110:4",
+  "message_id": "msg_combine_S0HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}怎样都行，但我觉得还是想清楚了\n再决定用途比较好。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:111:0",
+  "message_id": "msg_combine_S0HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}啊？“技能卡的获取方法”？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:111:1",
+  "message_id": "msg_combine_S0HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}叫什么来着，呃…阴影？\n听说打倒那些东西，就有机会拿到。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:111:2",
+  "message_id": "msg_combine_S0HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}听说战斗打得好，机会就会增加，\n不如想点办法试试？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:111:3",
+  "message_id": "msg_combine_S0HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}还有，打倒强大的阴影时，\n似乎更容易拿到强力的卡。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:111:4",
+  "message_id": "msg_combine_S0HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}而且，你生活的世界里，\n也有能获得技能卡的地方。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:111:5",
+  "message_id": "msg_combine_S0HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}想强化人格面具的话，\n我觉得可以多收集些不同的技能卡。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:112:0",
+  "message_id": "msg_combine_S1HELP001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}下面就为您说明\n“购买技能卡”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:112:1",
+  "message_id": "msg_combine_S1HELP001",
+  "translation": "{F2 05 FF FF}{F1 41}将您持有的技能卡交给我们，\n我们就能为您复制。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:112:2",
+  "message_id": "msg_combine_S1HELP001",
+  "translation": "{F2 05 FF FF}{F1 41}复制后的技能卡，\n之后就能不限数量地购买。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:112:3",
+  "message_id": "msg_combine_S1HELP001",
+  "translation": "{F2 05 FF FF}{F1 41}届时会根据技能卡的效果\n收取相应费用，还请留意。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:112:4",
+  "message_id": "msg_combine_S1HELP001",
+  "translation": "{F2 05 FF FF}{F1 41}请复制各种技能卡，\n用来强化人格面具。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:113:0",
+  "message_id": "msg_combine_S1HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}下面就为您说明\n“交出技能卡”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:113:1",
+  "message_id": "msg_combine_S1HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}只需交出持有的技能卡１张，\n我们就会复制它，并加入购买清单。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:113:2",
+  "message_id": "msg_combine_S1HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}交出技能卡时，我们不会支付费用，\n而且那１张卡也无法归还。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:113:3",
+  "message_id": "msg_combine_S1HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}是直接使用获得的技能卡，\n还是付费购买复制后的多张卡片…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:113:4",
+  "message_id": "msg_combine_S1HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}请仔细考虑之后，\n再决定用途。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:114:0",
+  "message_id": "msg_combine_S1HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}下面就为您说明\n“技能卡的获取方法”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:114:1",
+  "message_id": "msg_combine_S1HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}打倒阴影时，\n有时会出现获得技能卡的机会。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:114:2",
+  "message_id": "msg_combine_S1HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}如果能更有效率地打倒阴影，\n这样的机会就会更多。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:114:3",
+  "message_id": "msg_combine_S1HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}此外，打倒强大的阴影时，\n似乎更容易获得强力的技能卡。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:114:4",
+  "message_id": "msg_combine_S1HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}您生活的世界里，\n似乎也有能获得技能卡的地方。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:114:5",
+  "message_id": "msg_combine_S1HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}为了强化人格面具，\n建议您多收集些不同的技能卡。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:115:0",
+  "message_id": "msg_combine_S2HELP001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}啊…我来说明一下\n“购买技能卡”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:115:1",
+  "message_id": "msg_combine_S2HELP001",
+  "translation": "{F2 05 FF FF}{F1 41}只要把你找到的技能卡\n交给我，我就能复制出相同的卡。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:115:2",
+  "message_id": "msg_combine_S2HELP001",
+  "translation": "{F2 05 FF FF}{F1 41}…只要交给我１次，之后想要时\n告诉我，就能买，数量不限。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:115:3",
+  "message_id": "msg_combine_S2HELP001",
+  "translation": "{F2 05 FF FF}{F1 41}虽然要收钱，不过只要你想要，\n随时都能拿到技能卡。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:115:4",
+  "message_id": "msg_combine_S2HELP001",
+  "translation": "{F2 05 FF FF}{F1 41}…技能卡的效果不同，\n价格也不同，要看清楚哦。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:115:5",
+  "message_id": "msg_combine_S2HELP001",
+  "translation": "{F2 05 FF FF}{F1 41}多复制些不同的技能卡，\n应该有助于培养人格面具吧…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:116:0",
+  "message_id": "msg_combine_S2HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}啊…说明一下“交出技能卡”\n就行了，对吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:116:1",
+  "message_id": "msg_combine_S2HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}只要把你持有的技能卡\n交给我１张…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:116:2",
+  "message_id": "msg_combine_S2HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}我就会复制它，\n加入出售的卡片清单。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:116:3",
+  "message_id": "msg_combine_S2HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}不过…交给我也不会给你钱，\n收下的卡也不能还给你…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:116:4",
+  "message_id": "msg_combine_S2HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}不愿意的话，不交给我而是直接用掉也行，\n不过交给我，以后就能买很多张了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:116:5",
+  "message_id": "msg_combine_S2HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}…之后，你选自己喜欢的\n方式就好了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:117:0",
+  "message_id": "msg_combine_S2HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}呃…“技能卡的获取方法”啊。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:117:1",
+  "message_id": "msg_combine_S2HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}听说…打倒阴影时，\n有时就能拿到。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:117:2",
+  "message_id": "msg_combine_S2HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}战斗打得好，机会就会增加。\n具体的我也不清楚…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:117:3",
+  "message_id": "msg_combine_S2HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}还有…打倒强大的阴影时，\n更容易拿到强力的卡。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:117:4",
+  "message_id": "msg_combine_S2HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}而且，你生活的世界里，\n好像也有能获得技能卡的地方。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:117:5",
+  "message_id": "msg_combine_S2HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}…想强化人格面具的话，\n我觉得可以多收集些不同的技能卡。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:119:0",
+  "message_id": "msg_combine_U0HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}咦？“编写留言”？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:119:1",
+  "message_id": "msg_combine_U0HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}就是在回应你收到的救援请求时，\n可以发送你的留言。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:119:2",
+  "message_id": "msg_combine_U0HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}留言的内容可以在这个房间里设定。\n试着写下你想传达的话吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:120:0",
+  "message_id": "msg_combine_U0HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 02 01 01 01 02 01}啊？“查看救援记录”？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:120:1",
+  "message_id": "msg_combine_U0HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}哦，就是能查看回应你救援请求的\n“别的世界”里的你\n发来的留言之类的。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:120:2",
+  "message_id": "msg_combine_U0HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}但不能把所有记录都留下，\n数量多了，就会从最旧的开始删除。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:120:3",
+  "message_id": "msg_combine_U0HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}想留下哪些，告诉我就能保留，\n记得说哦。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:122:0",
+  "message_id": "msg_combine_U1HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}下面就为您说明\n“编写留言”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:122:1",
+  "message_id": "msg_combine_U1HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}回应您收到的救援请求时，\n可以附上您的留言。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:122:2",
+  "message_id": "msg_combine_U1HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}留言内容可以在这个房间里编写，\n请自由选择您想传达的话语。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:123:0",
+  "message_id": "msg_combine_U1HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}下面就为您说明\n“查看救援记录”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:123:1",
+  "message_id": "msg_combine_U1HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}这是记录回应您救援请求的\n“别的世界”里的您\n所发来的留言等内容的功能。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:123:2",
+  "message_id": "msg_combine_U1HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}不过，无法保留所有记录，\n超过上限后，就会从最旧的开始删除。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:123:3",
+  "message_id": "msg_combine_U1HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}重要的记录可以保留，\n还请事先指定。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:125:0",
+  "message_id": "msg_combine_U2HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}啊…“编写留言”？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:125:1",
+  "message_id": "msg_combine_U2HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}…回应你收到的救援请求时，\n就能发送你的留言。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:125:2",
+  "message_id": "msg_combine_U2HELP002",
+  "translation": "{F2 05 FF FF}{F1 41}留言内容可以在这个房间里设定，\n我觉得写下你想传达的话就好。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:126:0",
+  "message_id": "msg_combine_U2HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 3D 01 05 01 01 01 02 01}啊…是“查看救援记录”吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:126:1",
+  "message_id": "msg_combine_U2HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}就是能查看回应你救援请求的\n“别的世界”里的你\n发来的留言之类的…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:126:2",
+  "message_id": "msg_combine_U2HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}但不能把所有记录都留下，\n数量多了，就会从最旧的…开始删除。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:126:3",
+  "message_id": "msg_combine_U2HELP003",
+  "translation": "{F2 05 FF FF}{F1 41}想留下哪些，告诉我就能保留。\n记得说哦…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:127:0",
+  "message_id": "cmm_please_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}请求…是啊，\n我有件事想问您…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:127:1",
+  "message_id": "cmm_please_000",
+  "translation": "{F2 05 FF FF}{F1 41}…不过，现在的您\n似乎还无法给我答案呢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:127:2",
+  "message_id": "cmm_please_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞她似乎不太感兴趣…\n{F1 24}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:127:3",
+  "message_id": "cmm_please_000",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}知识{F2 01 01 01}”要达到“{F2 01 02 01}博闻强识{F2 01 01 01}”左右，\n　她才愿意理会自己…\n{F1 24}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:128:0",
+  "message_id": "cmm_please_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}现在想看的是，\n会“{F2 01 02 01}斯库卡加{F2 01 01 01}”的“{F2 01 02 01}一本踏鞴{F2 01 01 01}”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:128:1",
+  "message_id": "cmm_please_001",
+  "translation": "{F2 05 FF FF}{F1 41}一本踏鞴的阿尔卡那是“隐者”…\n会斯库卡加的话，一定能大显身手吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:128:2",
+  "message_id": "cmm_please_001",
+  "translation": "{F2 05 FF FF}{F1 41}而且肌肉也会更加健壮…\n呵呵，真令人期待。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:129:0",
+  "message_id": "cmm_please_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}现在想看的是，\n会“{F2 01 02 01}玛翰玛{F2 01 01 01}”的“{F2 01 02 01}斗牛士{F2 01 01 01}”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:129:1",
+  "message_id": "cmm_please_002",
+  "translation": "{F2 05 FF FF}{F1 41}斗牛士的阿尔卡那是“死神”…\n没错，是象征“死亡”的牌。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:129:2",
+  "message_id": "cmm_please_002",
+  "translation": "{F2 05 FF FF}{F1 41}不过，不必害怕。\n死也是生的一面，两者互为表里。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:129:3",
+  "message_id": "cmm_please_002",
+  "translation": "{F2 05 FF FF}{F1 41}一切存在终有一死…\n然后，新的生命又会诞生。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:129:4",
+  "message_id": "cmm_please_002",
+  "translation": "{F2 05 FF FF}{F1 41}旧事物消逝，新事物即将萌芽…\n它就是这样的阿尔卡那。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:129:5",
+  "message_id": "cmm_please_002",
+  "translation": "{F2 05 FF FF}{F1 41}您心中的旧事物和新事物…\n也在不断消逝，又不断诞生。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:129:6",
+  "message_id": "cmm_please_002",
+  "translation": "{F2 05 FF FF}{F1 41}…您又会从中抓住什么呢？\n呵呵，真令人好奇。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:129:7",
+  "message_id": "cmm_please_002",
+  "translation": "{F2 05 FF FF}{F1 41}…那么，我就满怀期待地等候了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:130:0",
+  "message_id": "cmm_please_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}现在想看的是，\n会“{F2 01 02 01}横冲直撞{F2 01 01 01}”的“{F2 01 02 01}敦{F2 01 01 01}”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:130:1",
+  "message_id": "cmm_please_003",
+  "translation": "{F2 05 FF FF}{F1 41}敦的阿尔卡那是“太阳”…\n象征达成与成功，是一张很强的牌。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:130:2",
+  "message_id": "cmm_please_003",
+  "translation": "{F2 05 FF FF}{F1 41}每个人心目中的达成与成功都不一样…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:130:3",
+  "message_id": "cmm_please_003",
+  "translation": "{F2 05 FF FF}{F1 41}对您来说，怎样才算达成呢？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:130:4",
+  "message_id": "cmm_please_003",
+  "translation": "{F2 05 FF FF}{F1 41}…那么，我就满怀期待地等候了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:131:0",
+  "message_id": "cmm_please_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}现在想看的是，\n会“{F2 01 02 01}布芙拉{F2 01 01 01}”的“{F2 01 02 01}猫将军{F2 01 01 01}”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:131:1",
+  "message_id": "cmm_please_004",
+  "translation": "{F2 05 FF FF}{F1 41}它需要用到４个人格面具，\n通过特殊合体才能诞生。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:131:2",
+  "message_id": "cmm_please_004",
+  "translation": "{F2 05 FF FF}{F1 41}猫将军的阿尔卡那是“星”…\n它力量强大，为世人带来希望。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:131:3",
+  "message_id": "cmm_please_004",
+  "translation": "{F2 05 FF FF}{F1 41}它所象征的，是片刻的闪耀…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:131:4",
+  "message_id": "cmm_please_004",
+  "translation": "{F2 05 FF FF}{F1 41}又终将在某一天坠落地面，消逝…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:131:5",
+  "message_id": "cmm_please_004",
+  "translation": "{F2 05 FF FF}{F1 41}…也让我感到一丝哀伤。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:131:6",
+  "message_id": "cmm_please_004",
+  "translation": "{F2 05 FF FF}{F1 41}您一人就能成为太阳、月亮和星星…\n真是个不可思议的人…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:131:7",
+  "message_id": "cmm_please_004",
+  "translation": "{F2 05 FF FF}{F1 41}不，您真的算是“人”吗…？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:131:8",
+  "message_id": "cmm_please_004",
+  "translation": "{F2 05 FF FF}{F1 41}真让人想从各方面…试一试呢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:131:9",
+  "message_id": "cmm_please_004",
+  "translation": "{F2 05 FF FF}{F1 41}…那么，我就满怀期待地等候了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:132:0",
+  "message_id": "cmm_please_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}现在想看的是，\n会“{F2 01 02 01}敏捷的心得{F2 01 01 01}”的“{F2 01 02 01}邪恶霜精{F2 01 01 01}”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:132:1",
+  "message_id": "cmm_please_005",
+  "translation": "{F2 05 FF FF}{F1 41}邪恶霜精的阿尔卡那是“愚者”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:132:2",
+  "message_id": "cmm_please_005",
+  "translation": "{F2 05 FF FF}{F1 41}所谓愚者，绝不是愚蠢之人的意思。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:132:3",
+  "message_id": "cmm_please_005",
+  "translation": "{F2 05 FF FF}{F1 41}愚者是０号…\n没错，象征着“一切的开始”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:132:4",
+  "message_id": "cmm_please_005",
+  "translation": "{F2 05 FF FF}{F1 41}对您而言，“一切的开始”\n又是什么呢？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:132:5",
+  "message_id": "cmm_please_005",
+  "translation": "{F2 05 FF FF}{F1 41}而您今后又会抓住什么…\n呵呵，真令人好奇。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:132:6",
+  "message_id": "cmm_please_005",
+  "translation": "{F2 05 FF FF}{F1 41}…那么，我就满怀期待地等候了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:133:0",
+  "message_id": "cmm_please_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}现在想看的是，\n会“{F2 01 02 01}米吉多{F2 01 01 01}”的“{F2 01 02 01}八咫乌{F2 01 01 01}”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:133:1",
+  "message_id": "cmm_please_006",
+  "translation": "{F2 05 FF FF}{F1 41}八咫乌的阿尔卡那是“太阳”…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:133:2",
+  "message_id": "cmm_please_006",
+  "translation": "{F2 05 FF FF}{F1 41}……。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:133:3",
+  "message_id": "cmm_please_006",
+  "translation": "{F2 05 FF FF}{F1 41}太阳？想看得我心痒痒。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:133:4",
+  "message_id": "cmm_please_006",
+  "translation": "{F2 05 FF FF}{F1 41}……。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:133:5",
+  "message_id": "cmm_please_006",
+  "translation": "{F2 05 FF FF}{F1 41}我会满怀期待地等候。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:134:0",
+  "message_id": "cmm_please_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}现在想看的是，\n会“{F2 01 02 01}梅迪拉玛{F2 01 01 01}”的“{F2 01 02 01}八房{F2 01 01 01}”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:134:1",
+  "message_id": "cmm_please_007",
+  "translation": "{F2 05 FF FF}{F1 41}八房的阿尔卡那是“倒吊人”…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:134:2",
+  "message_id": "cmm_please_007",
+  "translation": "{F2 05 FF FF}{F1 41}是个很可爱的人格面具吧？\n…“倒吊人”，倒叫人小看它了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:134:3",
+  "message_id": "cmm_please_007",
+  "translation": "{F2 05 FF FF}{F1 41}……。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:134:4",
+  "message_id": "cmm_please_007",
+  "translation": "{F2 05 FF FF}{F1 41}刚才的笑话，大概２０分吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:134:5",
+  "message_id": "cmm_please_007",
+  "translation": "{F2 05 FF FF}{F1 41}…我会满怀期待地等候。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:135:0",
+  "message_id": "cmm_please_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}现在想看的是，\n会“{F2 01 02 01}提特拉康{F2 01 01 01}”的“{F2 01 02 01}象头神{F2 01 01 01}”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:135:1",
+  "message_id": "cmm_please_008",
+  "translation": "{F2 05 FF FF}{F1 41}象头神的阿尔卡那是“星”…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:135:2",
+  "message_id": "cmm_please_008",
+  "translation": "{F2 05 FF FF}{F1 41}…一见倾星。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:135:3",
+  "message_id": "cmm_please_008",
+  "translation": "{F2 05 FF FF}{F1 41}……。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:135:4",
+  "message_id": "cmm_please_008",
+  "translation": "{F2 05 FF FF}{F1 41}刚才的笑话，大概８０分吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:135:5",
+  "message_id": "cmm_please_008",
+  "translation": "{F2 05 FF FF}{F1 41}…我会满怀期待地等候。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:136:0",
+  "message_id": "cmm_please_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}现在想看的是，\n会“{F2 01 02 01}专心致志{F2 01 01 01}”的“{F2 01 02 01}吹号者{F2 01 01 01}”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:136:1",
+  "message_id": "cmm_please_009",
+  "translation": "{F2 05 FF FF}{F1 41}吹号者的阿尔卡那是“审判”…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:136:2",
+  "message_id": "cmm_please_009",
+  "translation": "{F2 05 FF FF}{F1 41}自然，合体的方法很难。\n走错一步就会彻底失败…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:136:3",
+  "message_id": "cmm_please_009",
+  "translation": "{F2 05 FF FF}{F1 41}失败…真难办…审判…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:136:4",
+  "message_id": "cmm_please_009",
+  "translation": "{F2 05 FF FF}{F1 41}……。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:136:5",
+  "message_id": "cmm_please_009",
+  "translation": "{F2 05 FF FF}{F1 41}刚才大概７０分吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:136:6",
+  "message_id": "cmm_please_009",
+  "translation": "{F2 05 FF FF}{F1 41}…我会满怀期待地等候。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:137:0",
+  "message_id": "cmm_please_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}我已经没有更多要求了…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:137:1",
+  "message_id": "cmm_please_010",
+  "translation": "{F2 05 FF FF}{F1 41}建立羁绊意味着什么…\n您已经明白了吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:138:0",
+  "message_id": "cmm_please_0320",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}现在，我只希望您做一件事…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:138:1",
+  "message_id": "cmm_please_0320",
+  "translation": "{F2 05 FF FF}{F1 41}您的“世界”…\n能让我看看吧？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:139:0",
+  "message_id": "cmm_please_flg_wait",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}请求…是啊，\n我有件事想问您…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:139:1",
+  "message_id": "cmm_please_flg_wait",
+  "translation": "{F2 05 FF FF}{F1 41}…现在还是算了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:139:2",
+  "message_id": "cmm_please_flg_wait",
+  "translation": "{F2 05 FF FF}{F1 41}如果和您确实存在某种“缘分”，\n总有一天会迎来那个时刻吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:139:3",
+  "message_id": "cmm_please_flg_wait",
+  "translation": "{F2 05 FF FF}{F1 41}呵呵，我很期待。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:140:0",
+  "message_id": "cmb_cmm_bonus_rank10",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}请求…是啊。\n那么，可以再拜托您一件事吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:140:1",
+  "message_id": "cmb_cmm_bonus_rank10",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 03 01 01 01 02 01}…能收下这个吗？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:140:2",
+  "message_id": "cmb_cmm_bonus_rank10",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}＞获得了{F4 45 04 01 00 00 01 01}。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:140:3",
+  "message_id": "cmb_cmm_bonus_rank10",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 03 01 01 01 02 01}呵呵…这是您让我心满意足的谢礼。\n您若喜欢，我也会很高兴。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:142:0",
+  "message_id": "msg_combine_MESSAGE001",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}吾乃{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:142:1",
+  "message_id": "msg_combine_MESSAGE001",
+  "translation": "{F2 05 FF FF}{F1 41}睁开双眼，\n汝此刻当启程…！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:143:0",
+  "message_id": "msg_combine_MESSAGE002",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}…\n虽形貌有异，我即是你…今后请多关照。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:144:0",
+  "message_id": "msg_combine_MESSAGE003",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}是你召唤了我…？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:144:1",
+  "message_id": "msg_combine_MESSAGE003",
+  "translation": "{F2 05 FF FF}{F1 41}你那坚定的眼神…不错。\n好吧，我就与你同行。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:144:2",
+  "message_id": "msg_combine_MESSAGE003",
+  "translation": "{F2 05 FF FF}{F1 41}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n今后请多关照…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:145:0",
+  "message_id": "msg_combine_MESSAGE004",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n愿为你尽一份绵薄之力。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:146:0",
+  "message_id": "msg_combine_MESSAGE005",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n自你心海中诞生之人…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:147:0",
+  "message_id": "msg_combine_MESSAGE006",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n我会竭尽全力守护你！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:148:0",
+  "message_id": "msg_combine_MESSAGE007",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}吾乃{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}…\n这个名字，将令汝永世难忘…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:149:0",
+  "message_id": "msg_combine_MESSAGE008",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}吾名{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}…\n让我们携手踏上漫长的旅途…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:150:0",
+  "message_id": "msg_combine_MESSAGE009",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n你的盾、你的剑、你的朋友…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:151:0",
+  "message_id": "msg_combine_MESSAGE010",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n正是你自己…请勿忘记。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:152:0",
+  "message_id": "msg_combine_MESSAGE011",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n是守护你、治愈伤痛的心灵之泉…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:153:0",
+  "message_id": "msg_combine_MESSAGE012",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}！\n睁大眼睛，看清我的力量吧！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:154:0",
+  "message_id": "msg_combine_MESSAGE013",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n我将为你挥动此剑！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:155:0",
+  "message_id": "msg_combine_MESSAGE014",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n我会努力，成为你的助力。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:156:0",
+  "message_id": "msg_combine_MESSAGE015",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n放心大胆地交给姐姐吧！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:157:0",
+  "message_id": "msg_combine_MESSAGE016",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n那个…我会努力，让我留在身边好吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:158:0",
+  "message_id": "msg_combine_MESSAGE017",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}…\n就让我看看你的觉悟吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:159:0",
+  "message_id": "msg_combine_MESSAGE018",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}妾身乃{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n让妾身见识一下你的力量吧…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:160:0",
+  "message_id": "msg_combine_MESSAGE019",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}吾正是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}！\n定为汝带来胜利！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:161:0",
+  "message_id": "msg_combine_MESSAGE020",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}妾身乃{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n妾身将始终伴你左右…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:162:0",
+  "message_id": "msg_combine_MESSAGE021",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}吾乃{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}…\n为开辟光辉之路，与汝同行…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:163:0",
+  "message_id": "msg_combine_MESSAGE022",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}吾乃{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}…\n也罢，暂且助汝一臂之力…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:164:0",
+  "message_id": "msg_combine_MESSAGE023",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}吾乃{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n来吧，共赴荣耀之路！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:165:0",
+  "message_id": "msg_combine_MESSAGE024",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}吾乃{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n守护汝即吾之使命！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:166:0",
+  "message_id": "msg_combine_MESSAGE025",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}吾乃{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}…\n应汝渴求力量的勇猛之心而来…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:167:0",
+  "message_id": "msg_combine_MESSAGE026",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}本大爷　{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n本大爷　把你　整个吞掉。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:168:0",
+  "message_id": "msg_combine_MESSAGE027",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}吾乃　{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}…\n生于汝　亦将归于汝…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:169:0",
+  "message_id": "msg_combine_MESSAGE028",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n押我就对了，我让你赢…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:170:0",
+  "message_id": "msg_combine_MESSAGE029",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我、我系　{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}！\n你也系　{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}！！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:171:0",
+  "message_id": "msg_combine_MESSAGE030",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我系　{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n今后多多　观照…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:172:0",
+  "message_id": "msg_combine_MESSAGE031",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}…\n上车吧，开往地狱的彼端…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:173:0",
+  "message_id": "msg_combine_MESSAGE032",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}在此者乃{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}…\n常胜之将，向你献上忠诚之人…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:174:0",
+  "message_id": "msg_combine_MESSAGE033",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}你好，我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n跟你一起走吧，一路相伴！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:175:0",
+  "message_id": "msg_combine_MESSAGE034",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}…\n嘛，暂时照顾你一阵好了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:176:0",
+  "message_id": "msg_combine_MESSAGE035",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}吼！\n今后请多关照！　嘻吼吼！！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:177:0",
+  "message_id": "msg_combine_MESSAGE036",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}…\n你会一直陪我玩吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:178:0",
+  "message_id": "msg_combine_MESSAGE037",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}吾乃{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}。\n愿为汝旗开得胜的勇猛先锋喵！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:179:0",
+  "message_id": "msg_combine_MESSAGE038",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}我是{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}吼！\n别小看我啊，嘻吼吼！！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:180:0",
+  "message_id": "msg_combine_MESSAGE039",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}是谁在召唤吾…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:180:1",
+  "message_id": "msg_combine_MESSAGE039",
+  "translation": "{F2 05 FF FF}{F1 41}直面自身黑暗的强大…\n吾甚是中意，小子…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:180:2",
+  "message_id": "msg_combine_MESSAGE039",
+  "translation": "{F2 05 FF FF}{F1 41}吾乃{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}…\n暂且借予你力量吧，小子…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:181:0",
+  "message_id": "msg_combine_MESSAGE040",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}是谁在召唤吾…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:181:1",
+  "message_id": "msg_combine_MESSAGE040",
+  "translation": "{F2 05 FF FF}{F1 41}心怀强光的高洁人子啊…\n吾将赐汝庇护…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:181:2",
+  "message_id": "msg_combine_MESSAGE040",
+  "translation": "{F2 05 FF FF}{F1 41}吾乃{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}…\n伴汝心灵之人…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:182:0",
+  "message_id": "msg_combine_MESSAGE041",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}吾即汝…汝即吾…\n吾自汝心海而来…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:182:1",
+  "message_id": "msg_combine_MESSAGE041",
+  "translation": "{F2 05 FF FF}{F1 41}作为万物初始的契机，\n吾将化作明灯，照亮汝之前路…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:182:2",
+  "message_id": "msg_combine_MESSAGE041",
+  "translation": "{F2 05 FF FF}{F1 41}吾乃始源之神…\n{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:183:0",
+  "message_id": "msg_combine_MESSAGE042",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}是谁在召唤吾…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:183:1",
+  "message_id": "msg_combine_MESSAGE042",
+  "translation": "{F2 05 FF FF}{F1 41}汝之心璀璨，犹如照亮暗夜…\n吾愿成为汝之力量…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:183:2",
+  "message_id": "msg_combine_MESSAGE042",
+  "translation": "{F2 05 01 FF}{F1 41}吾乃辉夜…\n愿此光永不熄灭…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:184:0",
+  "message_id": "msg_combine_MESSAGE043",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}是谁在召唤吾…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:184:1",
+  "message_id": "msg_combine_MESSAGE043",
+  "translation": "{F2 05 FF FF}{F1 41}照亮无数黑暗之人啊，\n连空虚之无也要化为己力吗…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:184:2",
+  "message_id": "msg_combine_MESSAGE043",
+  "translation": "{F2 05 FF FF}{F1 41}吾乃祸津伊邪那岐…\n将见证汝之前路…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:185:0",
+  "message_id": "msg_combine_NETWORK_STOC",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}哎呀…您似乎\n没有持有副人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:185:1",
+  "message_id": "msg_combine_NETWORK_STOC",
+  "translation": "{F2 05 FF FF}{F1 41}开始通信需要\n副人格面具，\n还请事先准备。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:186:0",
+  "message_id": "msg_combine_NETWORK_STOC",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}不行啦。\n你不是没有副人格面具吗。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:186:1",
+  "message_id": "msg_combine_NETWORK_STOC",
+  "translation": "{F2 05 FF FF}{F1 41}开始通信需要副人格面具，\n先准备好再来吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:188:0",
+  "message_id": "msg_combine_sacrifice_co",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 0F 01}要用祭品之力使其成长的，\n确定是这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:189:0",
+  "message_id": "msg_combine_sacrifice_bo",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞作为祭品的人格面具之力，\n　注入了{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:190:0",
+  "message_id": "msg_combine_sacrifice_it",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞作为祭品的人格面具\n　留下了一部分…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:191:0",
+  "message_id": "msg_combine_sacrifice_it",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F3 07 01 01 00 00}{F4 45 04 01 00 00 01 01}{F3 07 97 01 00 00}{F4 45 04 01 00 00 02 01}　\n{F3 07 01 01 00 00}{F4 45 04 01 00 00 03 01}{F3 07 97 01 00 00}{F4 45 04 01 00 00 04 01}　\n　　　　已获得！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:192:0",
+  "message_id": "msg_combine_sacrifice_it",
+  "translation": "{F2 05 FF FF}{F1 41}＞无法携带更多道具。\n　请选择要丢弃的道具。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:193:0",
+  "message_id": "msg_combine_skcard_sel",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}要将哪个技能\n抽出为技能卡呢？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:194:0",
+  "message_id": "msg_combine_skcard_check",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 13 01}{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}的抽出费用为\n{F2 44 02 01}日元。\n可以吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:195:0",
+  "message_id": "msg_combine_skcard_get",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞获得了{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}\n　的技能卡。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:196:0",
+  "message_id": "msg_combine_skcard_del",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}＞{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}\n　消失于心海之中…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:197:0",
+  "message_id": "msg_combine_skcard_money",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 15 01}想抽出这个技能，\n你的钱似乎还不够呢。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:198:0",
+  "message_id": "msg_combine_skcard_item",
+  "translation": "{F2 05 FF FF}{F1 41}＞无法携带更多道具。\n　请选择要丢弃的道具。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:199:0",
+  "message_id": "msg_combine_HELP011_M",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 23 01 0D 01 01 01 02 01}负责导航的小姐所持有的\n支援型人格面具比较特殊…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:199:1",
+  "message_id": "msg_combine_HELP011_M",
+  "translation": "{F2 05 FF FF}{F1 41}作为“副人格面具”的个体，\n自然也必须\n具有支援型的特性。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:199:2",
+  "message_id": "msg_combine_HELP011_M",
+  "translation": "{F2 05 FF FF}{F1 41}似乎在副人格面具中，\n只有阿尔卡那为“星”的个体，\n才具有支援型特性。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:199:3",
+  "message_id": "msg_combine_HELP011_M",
+  "translation": "{F2 05 FF FF}{F1 41}善用支援型技能，\n能为探索和战斗提供极大帮助…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:199:4",
+  "message_id": "msg_combine_HELP011_M",
+  "translation": "{F2 05 FF FF}{F1 41}虽然只能在“星”阿尔卡那\n之间进行合体，但强化所得，\n应当值得你付出的功夫。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:200:0",
+  "message_id": "msg_combine_HELP012_M",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 23 01 0D 01 01 01 02 01}“三角展开”是使用３个\n人格面具，创造出\n更高位人格面具的合体。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:200:1",
+  "message_id": "msg_combine_HELP012_M",
+  "translation": "{F2 05 FF FF}{F1 41}其中，似乎也有人格面具\n只能通过三角展开\n来创造。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:201:0",
+  "message_id": "msg_combine_HELP013_M",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 23 01 0D 01 01 01 02 01}“祭品展开”是以２个\n人格面具作为祭品，\n促进人格面具成长的秘术…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:201:1",
+  "message_id": "msg_combine_HELP013_M",
+  "translation": "{F2 05 FF FF}{F1 41}祭品人格面具的\n等级越高，\n成长的幅度也就越大。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:201:2",
+  "message_id": "msg_combine_HELP013_M",
+  "translation": "{F2 05 FF FF}{F1 41}当然，作为祭品的人格面具，\n会就此消失…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:201:3",
+  "message_id": "msg_combine_HELP013_M",
+  "translation": "{F2 05 FF FF}{F1 41}若持有许多不需要的人格面具，\n不妨用它们来让\n更有用的人格面具成长。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:201:4",
+  "message_id": "msg_combine_HELP013_M",
+  "translation": "{F2 05 FF FF}{F1 41}另外，将某些人格面具\n作为祭品时，会留下部分力量。\n就像“临别赠礼”一样。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:201:5",
+  "message_id": "msg_combine_HELP013_M",
+  "translation": "{F2 05 FF FF}{F1 41}那似乎能作为“素材”，\n制作成装备。\n拿去给迪奥看看吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:202:0",
+  "message_id": "msg_combine_HELP014_M",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 23 01 0D 01 01 01 02 01}将人格面具的技能\n抽出为技能卡的秘术…\n就是“技能卡抽出”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:202:1",
+  "message_id": "msg_combine_HELP014_M",
+  "translation": "{F2 05 FF FF}{F1 41}进行这项秘术时，\n会根据抽出技能的强度\n收取相应费用，而且…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:202:2",
+  "message_id": "msg_combine_HELP014_M",
+  "translation": "{F2 05 FF FF}{F1 41}被抽出技能卡的人格面具\n也会消失。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:202:3",
+  "message_id": "msg_combine_HELP014_M",
+  "translation": "{F2 05 FF FF}{F1 41}请理解，这是一项\n值得付出如此代价的强大秘术。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:203:0",
+  "message_id": "msg_combine_HELP000_E",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 22 01 0D 01 01 01 02 01}“合体”是以２个以上\n人格面具为素材，召唤出\n１个新人格面具的秘术。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:203:1",
+  "message_id": "msg_combine_HELP000_E",
+  "translation": "{F2 05 FF FF}{F1 41}通过合体，通常能创造出\n等级高于素材个体的\n人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:203:2",
+  "message_id": "msg_combine_HELP000_E",
+  "translation": "{F2 05 FF FF}{F1 41}但作为素材的人格面具\n会就此消失。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:203:3",
+  "message_id": "msg_combine_HELP000_E",
+  "translation": "{F2 05 FF FF}{F1 41}失去何种力量，获得何种力量…\n还请事先考虑清楚。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:204:0",
+  "message_id": "msg_combine_HELP002_E",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 22 01 0D 01 01 01 02 01}合体的素材与结果之间，\n大致存在着以阿尔卡那\n为基础的规律。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:204:1",
+  "message_id": "msg_combine_HELP002_E",
+  "translation": "{F2 05 FF FF}{F1 41}不过，也有许多组合\n并不符合这些规律…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:204:2",
+  "message_id": "msg_combine_HELP002_E",
+  "translation": "{F2 05 FF FF}{F1 41}例如，相同阿尔卡那之间\n的组合便是如此。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:204:3",
+  "message_id": "msg_combine_HELP002_E",
+  "translation": "{F2 05 FF FF}{F1 41}建议您多多尝试。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:205:0",
+  "message_id": "msg_combine_HELP004_E",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 22 01 0D 01 01 01 02 01}合体诞生的人格面具，\n有时会继承\n素材所持有的技能。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:205:1",
+  "message_id": "msg_combine_HELP004_E",
+  "translation": "{F2 05 FF FF}{F1 41}也就是说，善用合体，\n就能赋予人格面具\n原本无法习得的技能。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:205:2",
+  "message_id": "msg_combine_HELP004_E",
+  "translation": "{F2 05 FF FF}{F1 41}若想创造强大的人格面具，\n这可是绝对不能\n忽视的问题。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:205:3",
+  "message_id": "msg_combine_HELP004_E",
+  "translation": "{F2 05 FF FF}{F1 41}继承的原理\n尚未完全明晰，\n不过有３点可以告知您。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:205:4",
+  "message_id": "msg_combine_HELP004_E",
+  "translation": "{F2 05 FF FF}{F1 41}第１，“想要继承的技能，\n可以由您自由选择。”\n…就是如此。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:205:5",
+  "message_id": "msg_combine_HELP004_E",
+  "translation": "{F2 05 FF FF}{F1 41}第２，“新诞生的人格面具\n所能继承的技能有所限制。”\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:205:6",
+  "message_id": "msg_combine_HELP004_E",
+  "translation": "{F2 05 FF FF}{F1 41}…这一点容我另作说明。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:205:7",
+  "message_id": "msg_combine_HELP004_E",
+  "translation": "{F2 05 FF FF}{F1 41}最后，“素材持有的技能\n越多，能够继承的技能\n数量也会越多。”\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:205:8",
+  "message_id": "msg_combine_HELP004_E",
+  "translation": "{F2 05 FF FF}{F1 41}还请务必多多尝试。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:206:0",
+  "message_id": "msg_combine_HELP005_E",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 22 01 0D 01 01 01 02 01}关于技能继承，\n容我再详细解释一下。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:206:1",
+  "message_id": "msg_combine_HELP005_E",
+  "translation": "{F2 05 FF FF}{F1 41}每个人格面具都有\n“能够继承的技能”和\n“无法继承的技能”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:206:2",
+  "message_id": "msg_combine_HELP005_E",
+  "translation": "{F2 05 FF FF}{F1 41}这些大致由每个人格面具\n各自的特点决定…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:206:3",
+  "message_id": "msg_combine_HELP005_E",
+  "translation": "{F2 05 FF FF}{F1 41}…可以作如下归纳。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:206:4",
+  "message_id": "msg_combine_HELP005_E",
+  "translation": "{F2 05 FF FF}{F1 41}首先是擅长物理攻击的类型。\n它们无法继承恢复技能…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:206:5",
+  "message_id": "msg_combine_HELP005_E",
+  "translation": "{F2 05 FF FF}{F1 41}相反，擅长恢复的类型，\n无法继承物理攻击技能。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:206:6",
+  "message_id": "msg_combine_HELP005_E",
+  "translation": "{F2 05 FF FF}{F1 41}此外，火与冰、雷与风、光与暗\n这些相对属性中，偏向一方的类型，\n无法继承另一方的技能。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:206:7",
+  "message_id": "msg_combine_HELP005_E",
+  "translation": "{F2 05 FF FF}{F1 41}简单来说，无法继承与自身特性\n相反的技能，\n这样理解大致不会错。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:206:8",
+  "message_id": "msg_combine_HELP005_E",
+  "translation": "{F2 05 FF FF}{F1 41}似乎也存在能够继承\n所有技能的类型…\n不过这种性质极其罕见。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:206:9",
+  "message_id": "msg_combine_HELP005_E",
+  "translation": "{F2 05 FF FF}{F1 41}不妨多多\n尝试一下？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:207:0",
+  "message_id": "msg_combine_HELP006_E",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 22 01 0D 01 01 01 02 01}虽然难以启齿…\n我的力量仍未成熟。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:207:1",
+  "message_id": "msg_combine_HELP006_E",
+  "translation": "{F2 05 FF FF}{F1 41}极少数情况下，\n会因展开卡牌时出错…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:207:2",
+  "message_id": "msg_combine_HELP006_E",
+  "translation": "{F2 05 FF FF}{F1 41}而引发“事故”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:207:3",
+  "message_id": "msg_combine_HELP006_E",
+  "translation": "{F2 05 FF FF}{F1 41}发生事故时，可能会诞生\n与事先展示的不同的\n人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:207:4",
+  "message_id": "msg_combine_HELP006_E",
+  "translation": "{F2 05 FF FF}{F1 41}会诞生什么，连我也不清楚，\n还望您宽宏大量，多多包涵。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:208:0",
+  "message_id": "msg_combine_HELP010_E",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 22 01 0D 01 01 01 02 01}接下来，\n容我说明“搜索合体”。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:208:1",
+  "message_id": "msg_combine_HELP010_E",
+  "translation": "{F2 05 FF FF}{F1 41}搜索合体会列出用现有人格面具\n进行２身合体、３身合体时，\n能够创造的所有人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:208:2",
+  "message_id": "msg_combine_HELP010_E",
+  "translation": "{F2 05 FF FF}{F1 41}您可以从中寻找\n能够创造的最高等级个体…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:208:3",
+  "message_id": "msg_combine_HELP010_E",
+  "translation": "{F2 05 FF FF}{F1 41}也可以在寻找并创造\n尚未登记到全书的人格面具时，\n使用这项功能。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:209:0",
+  "message_id": "msg_combine_HELP011_E",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 22 01 0D 01 01 01 02 01}负责导航的小姐所持有的\n支援型人格面具，\n比较特殊。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:209:1",
+  "message_id": "msg_combine_HELP011_E",
+  "translation": "{F2 05 FF FF}{F1 41}作为“副人格面具”的个体，\n自然也必须\n具有支援型的特性。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:209:2",
+  "message_id": "msg_combine_HELP011_E",
+  "translation": "{F2 05 FF FF}{F1 41}似乎在副人格面具中，\n只有阿尔卡那为“星”的个体，\n才具有支援型特性。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:209:3",
+  "message_id": "msg_combine_HELP011_E",
+  "translation": "{F2 05 FF FF}{F1 41}善用支援型技能，\n能为探索和战斗提供极大帮助…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:209:4",
+  "message_id": "msg_combine_HELP011_E",
+  "translation": "{F2 05 FF FF}{F1 41}虽然只能在“星”阿尔卡那\n之间进行合体，但强化所得，\n应当值得您付出的功夫。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:210:0",
+  "message_id": "msg_combine_MHELP001_E",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 22 01 0D 01 01 01 02 01}登记到人格面具全书中的\n人格面具能力，\n当然随时都能查看。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:210:1",
+  "message_id": "msg_combine_MHELP001_E",
+  "translation": "{F2 05 FF FF}{F1 41}此外，已登记的人格面具，\n今后无论多少次，都能以\n同样的能力交付给您。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:210:2",
+  "message_id": "msg_combine_MHELP001_E",
+  "translation": "{F2 05 FF FF}{F1 41}届时，会根据交付人格面具\n的强度收取费用。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:210:3",
+  "message_id": "msg_combine_MHELP001_E",
+  "translation": "{F2 05 FF FF}{F1 41}不过，登记的人格面具\n种类超过一定数量后，\n我们会给予优惠。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:210:4",
+  "message_id": "msg_combine_MHELP001_E",
+  "translation": "{F2 05 FF FF}{F1 41}请当作对您惠顾的谢意。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:210:5",
+  "message_id": "msg_combine_MHELP001_E",
+  "translation": "{F2 05 FF FF}{F1 41}期待您能让我见识到\n更多的人格面具。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:211:0",
+  "message_id": "msg_combine_MHELP002_E",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 22 01 0D 01 01 01 02 01}您可以将持有的人格面具\n及其能力登记下来。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:211:1",
+  "message_id": "msg_combine_MHELP002_E",
+  "translation": "{F2 05 FF FF}{F1 41}仅登记的话，不收取费用。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:211:2",
+  "message_id": "msg_combine_MHELP002_E",
+  "translation": "{F2 05 FF FF}{F1 41}另外，若您来访时持有\n尚未登记到全书的人格面具，\n我会事先为您登记。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:211:3",
+  "message_id": "msg_combine_MHELP002_E",
+  "translation": "{F2 05 FF FF}{F1 41}如果持有的都已经登记过，\n是否覆盖记录，\n由您自行决定。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:211:4",
+  "message_id": "msg_combine_MHELP002_E",
+  "translation": "{F2 05 FF FF}{F1 41}有需要时，\n请选择“登记到人格面具全书”，\n向我提出即可。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:212:0",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 25 01 0D 01 01 01 02 01}“擦肩手册”是用来\n和“不在这里的世界”中的你\n进行通信的东西。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:212:1",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}手册里可以记录你们的信息，\n还能附上１个\n你持有的副人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:212:2",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}通过通信交换后，\n双方就都能召唤\n对方附上的副人格面具了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:212:3",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}用得好的话，\n应该能拿到很强的副人格面具吧？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:213:0",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 22 01 0D 01 01 01 02 01}“擦肩手册”是用来\n与“不在这里的世界”中的您\n进行通信的物品。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:213:1",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}手册中可以记录各位的信息，\n并附上１个\n您持有的副人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:213:2",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}通过通信交换后，\n双方就都能召唤\n对方附上的副人格面具了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:213:3",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}若能善加利用，\n也能成为获得强大\n副人格面具的机会。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:214:0",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 25 01 0D 01 01 01 02 01}交换来的擦肩手册\n都由我保管，想看的话，\n跟我说就会给你看。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:214:1",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}如果交换到了新的手册，\n我也会一起告诉你，\n记得好好收下哦。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:214:2",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}不过，收到的手册\n没办法全部保留，数量多了，\n就会从最旧的开始删掉。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:214:3",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}想留下来的，设为“保护”\n就能保留，记得告诉我。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:214:4",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}啊，还有，看过收到的\n擦肩手册后，要是有\n想召唤的人格面具，就说一声。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:214:5",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}要收钱，不过会帮你召唤。\n…由玛格丽特来。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:215:0",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 22 01 0D 01 01 01 02 01}交换来的擦肩手册\n都由我管理，\n想查看时请告诉我。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:215:1",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}若交换到了新的手册，\n我也会一起告知您，\n还请收下。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:215:2",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}不过，收到的手册\n无法全部保留。数量增加后，\n会从最旧的开始删除。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:215:3",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}想保留的手册可设为“保护”，\n请善加利用。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:215:4",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}另外，查看收到的手册后，\n若有想召唤的人格面具，\n还请告诉我。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:215:5",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}虽然要收取报酬，\n但我会为您召唤并交付。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:216:0",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 25 01 0D 01 01 01 02 01}擦肩手册的内容，\n你可以自由修改。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:216:1",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}比如更换附在手册中、\n用于分享的人格面具……\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:216:2",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}擦肩昵称和\n留言也能改。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:216:3",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}既然要交换，不如做成\n能让收到的人开心的\n擦肩手册？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:217:0",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 22 01 0D 01 01 01 02 01}擦肩手册的内容，\n您可以自由编辑。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:217:1",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}比如更换附在手册中、\n用于分享的人格面具……\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:217:2",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}擦肩昵称和\n留言也能修改。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:217:3",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}不妨试着做成\n能让交换对象高兴的\n擦肩手册。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:218:0",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 25 01 0D 01 01 01 02 01}擦肩手册还可以转成，\n那个…ＱＲ码？\n好像是叫这个。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:218:1",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}扫描做好的ＱＲ码，\n就能收到擦肩手册。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:218:2",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}要是不方便通信交换，\n就试试看吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:219:0",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 86 22 01 0D 01 01 01 02 01}擦肩手册还可以\n转换为一种名叫\nＱＲ码的东西。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:219:1",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}只要扫描制作好的ＱＲ码，\n就能够收到\n擦肩手册。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:219:2",
+  "message_id": "msg_combine_NETWORK_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}如果不方便通信交换，\n建议您使用\n这种方式。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:220:0",
+  "message_id": "book_bonus001_ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 02 01}哎呀…不知不觉间，\n原本空白的全书里，\n已登记了许多人格面具呢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:220:1",
+  "message_id": "book_bonus001_ex",
+  "translation": "{F2 05 FF FF}{F1 41}这都是您努力的成果…\n就让我送上一份\n小小的礼物吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:220:2",
+  "message_id": "book_bonus001_ex",
+  "translation": "{F2 05 FF FF}{F1 41}持有这个，\n从人格面具全书召唤时，\n就能享受费用优惠。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:220:3",
+  "message_id": "book_bonus001_ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 25}　\n＞{F4 45 04 01 00 00 01 01}已获得！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:220:4",
+  "message_id": "book_bonus001_ex",
+  "translation": "{F2 05 FF FF}{F1 41}＞从全书召唤的费用\n　可减免１０％了！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:220:5",
+  "message_id": "book_bonus001_ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 25}伊丽莎白\n今后，若您创造出\n更多的人格面具，我也会…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:220:6",
+  "message_id": "book_bonus001_ex",
+  "translation": "{F2 05 FF FF}{F1 41}像这次一样送上礼物，\n还请多多创造\n新的人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:220:7",
+  "message_id": "book_bonus001_ex",
+  "translation": "{F2 05 FF FF}{F1 41}那么…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:221:0",
+  "message_id": "book_bonus002_ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 02 01}至今由您创造的\n人格面具…\n似乎比之前更多了呢…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:221:1",
+  "message_id": "book_bonus002_ex",
+  "translation": "{F2 05 FF FF}{F1 41}那么，就按约定，\n向您赠送礼物吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:221:2",
+  "message_id": "book_bonus002_ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 25}　\n＞{F4 45 04 01 00 00 01 01}已获得！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:221:3",
+  "message_id": "book_bonus002_ex",
+  "translation": "{F2 05 FF FF}{F1 41}＞从全书召唤的费用\n　可减免１５％了！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:221:4",
+  "message_id": "book_bonus002_ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 25}伊丽莎白\n持有这个，\n从全书召唤的费用\n就能享受更多优惠。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:221:5",
+  "message_id": "book_bonus002_ex",
+  "translation": "{F2 05 FF FF}{F1 41}不过，\n似乎仍有许多\n您尚未认识的人格面具。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:221:6",
+  "message_id": "book_bonus002_ex",
+  "translation": "{F2 05 FF FF}{F1 41}各位还会创造出\n怎样的人格面具，\n我也十分感兴趣…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:221:7",
+  "message_id": "book_bonus002_ex",
+  "translation": "{F2 05 FF FF}{F1 41}期待各位今后\n创造出更多的人格面具，\n我会准备好礼物。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:221:8",
+  "message_id": "book_bonus002_ex",
+  "translation": "{F2 05 FF FF}{F1 41}那么…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:222:0",
+  "message_id": "book_bonus003_ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 02 01}不知不觉，已有相当多的\n人格面具从您心中诞生了…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:222:1",
+  "message_id": "book_bonus003_ex",
+  "translation": "{F2 05 FF FF}{F1 41}在这本全书中登记\n所有人格面具的日子，\n或许已经不远了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:222:2",
+  "message_id": "book_bonus003_ex",
+  "translation": "{F2 05 FF FF}{F1 41}那么，依照约定，\n请您收下这个。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:222:3",
+  "message_id": "book_bonus003_ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 25}　\n＞{F4 45 04 01 00 00 01 01}已获得！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:222:4",
+  "message_id": "book_bonus003_ex",
+  "translation": "{F2 05 FF FF}{F1 41}＞从全书召唤的费用\n　可减免２０％了！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:222:5",
+  "message_id": "book_bonus003_ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 25}伊丽莎白\n距离完成全书只差一点…\n还请务必\n善加利用。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:222:6",
+  "message_id": "book_bonus003_ex",
+  "translation": "{F2 05 FF FF}{F1 41}创造出世上\n所有的人格面具…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:222:7",
+  "message_id": "book_bonus003_ex",
+  "translation": "{F2 05 FF FF}{F1 41}您的话，或许真能做到。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:222:8",
+  "message_id": "book_bonus003_ex",
+  "translation": "{F2 05 FF FF}{F1 41}我期待着那一刻…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:223:0",
+  "message_id": "book_bonus004_ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 02 01 01 01 02 01}没想到您竟拥有\n如此强大的能力…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:223:1",
+  "message_id": "book_bonus004_ex",
+  "translation": "{F2 05 FF FF}{F1 41}就在此刻，所有人格面具\n都已登记到全书中了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:223:2",
+  "message_id": "book_bonus004_ex",
+  "translation": "{F2 05 FF FF}{F1 41}这一切想必都是\n您努力的成果吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:223:3",
+  "message_id": "book_bonus004_ex",
+  "translation": "{F2 05 FF FF}{F1 41}那么，请收下这个。\n这是我能送上的最好礼物。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:223:4",
+  "message_id": "book_bonus004_ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 25}　\n＞{F4 45 04 01 00 00 01 01}已获得！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:223:5",
+  "message_id": "book_bonus004_ex",
+  "translation": "{F2 05 FF FF}{F1 41}＞从全书召唤的费用\n　可减免２５％了！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:223:6",
+  "message_id": "book_bonus004_ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F1 25}伊丽莎白\n持有这个，\n人格面具全书\n就能用得更加方便了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:223:7",
+  "message_id": "book_bonus004_ex",
+  "translation": "{F2 05 FF FF}{F1 41}不过，这可不意味着\n召唤免费。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:223:8",
+  "message_id": "book_bonus004_ex",
+  "translation": "{F2 05 FF FF}{F1 41}世间之理，有来有往！\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:223:9",
+  "message_id": "book_bonus004_ex",
+  "translation": "{F2 05 FF FF}{F1 41}还请牢记…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:224:0",
+  "message_id": "zensyo_summons_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 0A 01}召唤这个人格面具，\n需要{F2 44 01 01}日元。\n可以吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:225:0",
+  "message_id": "zensyo_not_summons_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 0C 01}要召唤这个人格面具，\n您的钱似乎还不够…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:226:0",
+  "message_id": "zensyo_not2_summons_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}这个人格面具，\n您已经拥有了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:227:0",
+  "message_id": "zensyo_not4_summons_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}似乎无法再持有\n更多人格面具了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:228:0",
+  "message_id": "zensyo_regist_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}已覆盖人格面具全书的记录。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:229:0",
+  "message_id": "zensyo_add_check_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 0B 01}要将持有的{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}\n登记到全书中吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:230:0",
+  "message_id": "zensyo_all_add_check_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 0B 01}要将持有的所有人格面具\n登记到全书中吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:231:0",
+  "message_id": "zensyo_mark_add_check_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 0B 01}要将选中的人格面具\n登记到全书中吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:232:0",
+  "message_id": "zensyo_no_regist_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}您似乎没有持有\n可登记到全书的人格面具。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:233:0",
+  "message_id": "msg_combine_MESSAGE044",
+  "translation": "{F2 05 FF FF}{F1 41}是谁在召唤吾…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:233:1",
+  "message_id": "msg_combine_MESSAGE044",
+  "translation": "{F2 05 FF FF}{F1 41}吾名{F2 01 02 01}宙斯{F2 01 01 01}。\n应召自彼方而来…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:233:2",
+  "message_id": "msg_combine_MESSAGE044",
+  "translation": "{F2 05 FF FF}{F1 41}携羁绊踏足未知之人啊…\n且让吾看清汝之觉悟…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:234:0",
+  "message_id": "msg_combine_MESSAGE045",
+  "translation": "{F2 05 FF FF}{F1 41}吾即汝，汝即吾…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:234:1",
+  "message_id": "msg_combine_MESSAGE045",
+  "translation": "{F2 05 FF FF}{F1 41}真正将羁绊化作力量之人啊…\n汝是否渴求更进一步的自由…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:234:2",
+  "message_id": "msg_combine_MESSAGE045",
+  "translation": "{F2 05 01 FF}{F1 41}那么，吾便与汝同行。\n踏上这遥远的自由之地…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:235:0",
+  "message_id": "msg_combine_MESSAGE046",
+  "translation": "{F2 05 FF FF}{F1 41}吾即汝…汝即吾…\n吾自汝心海而来…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:235:1",
+  "message_id": "msg_combine_MESSAGE046",
+  "translation": "{F2 05 FF FF}{F1 41}乃幽玄的奏者{F2 01 02 01}俄耳甫斯{F2 01 01 01}…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:236:0",
+  "message_id": "msg_combine_MESSAGE047",
+  "translation": "{F2 05 FF FF}{F1 41}吾乃{F2 01 02 01}{F2 01 01 01}…\n自汝而生，与汝并肩同行者…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:237:0",
+  "message_id": "msg_combine_MESSAGE048",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}哎呀…要将相同阿尔卡那\n的人格面具作为祭品吗…？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:237:1",
+  "message_id": "msg_combine_MESSAGE048",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 0F 01}看来能期待不错的结果呢…\n要用祭品之力使其成长的，\n确定是这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:238:0",
+  "message_id": "msg_combine_MESSAGE049",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}哎呀…两个祭品都是\n相同阿尔卡那的人格面具吗…？\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:238:1",
+  "message_id": "msg_combine_MESSAGE049",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F5 61 08 01 01 01 01 01 0F 01}看来能期待不错的结果呢…\n要用祭品之力使其成长的，\n确定是这个人格面具吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:239:0",
+  "message_id": "combine_regist_NG",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}这个人格面具受到保护，\n无法由你亲自登记。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:240:0",
+  "message_id": "combine_regist_NG_Ex",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}这个人格面具受到保护，\n无法由您亲自登记。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:241:0",
+  "message_id": "msg_combine_scr_error",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}已经无法继续成长了。\n放弃吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:242:0",
+  "message_id": "msg_combine_skcard_yet",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}这个人格面具还没有学会\n能够抽出的技能。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:243:0",
+  "message_id": "msg_combine_skcard_lost",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}这个人格面具已经舍弃了\n能够抽出的技能。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:244:0",
+  "message_id": "msg_combine_NETWORK_STOC",
+  "translation": "{F2 05 FF FF}{F1 41}哎呀…你现在持有的副人格面具，\n似乎不能用于和\n“不在这里的世界”通信…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:244:1",
+  "message_id": "msg_combine_NETWORK_STOC",
+  "translation": "{F2 05 FF FF}{F1 41}不好意思，\n请准备其他人格面具。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:245:0",
+  "message_id": "msg_combine_NETWORK_STOC",
+  "translation": "{F2 05 FF FF}{F1 41}啊…你现在持有的副人格面具，\n好像不能用于和\n“不在这里的世界”通信。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:245:1",
+  "message_id": "msg_combine_NETWORK_STOC",
+  "translation": "{F2 05 FF FF}{F1 41}准备其他人格面具再来吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:246:0",
+  "message_id": "cmb_cmm_quest02",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}接下来…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:246:1",
+  "message_id": "cmb_cmm_quest02",
+  "translation": "{F2 05 FF FF}{F1 41}会“{F2 01 02 01}玛翰玛{F2 01 01 01}”的“{F2 01 02 01}斗牛士{F2 01 01 01}”…\n您一定能让我见识到吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:246:2",
+  "message_id": "cmb_cmm_quest02",
+  "translation": "{F2 05 FF FF}{F1 41}我会满怀期待地等候。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:247:0",
+  "message_id": "cmb_cmm_quest03",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}接下来…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:247:1",
+  "message_id": "cmb_cmm_quest03",
+  "translation": "{F2 05 FF FF}{F1 41}会“{F2 01 02 01}横冲直撞{F2 01 01 01}”的“{F2 01 02 01}敦{F2 01 01 01}”…\n您一定能让我见识到吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:247:2",
+  "message_id": "cmb_cmm_quest03",
+  "translation": "{F2 05 FF FF}{F1 41}我会满怀期待地等候。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:248:0",
+  "message_id": "cmb_cmm_quest04",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}接下来…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:248:1",
+  "message_id": "cmb_cmm_quest04",
+  "translation": "{F2 05 FF FF}{F1 41}会“{F2 01 02 01}布芙拉{F2 01 01 01}”的“{F2 01 02 01}猫将军{F2 01 01 01}”…\n您一定能让我见识到吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:248:2",
+  "message_id": "cmb_cmm_quest04",
+  "translation": "{F2 05 FF FF}{F1 41}我会满怀期待地等候。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:249:0",
+  "message_id": "cmb_cmm_quest05",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}接下来…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:249:1",
+  "message_id": "cmb_cmm_quest05",
+  "translation": "{F2 05 FF FF}{F1 41}会“{F2 01 02 01}敏捷的心得{F2 01 01 01}”的“{F2 01 02 01}邪恶霜精{F2 01 01 01}”…\n您一定能让我见识到吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:249:2",
+  "message_id": "cmb_cmm_quest05",
+  "translation": "{F2 05 FF FF}{F1 41}我会满怀期待地等候。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:250:0",
+  "message_id": "cmb_cmm_quest06",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}接下来…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:250:1",
+  "message_id": "cmb_cmm_quest06",
+  "translation": "{F2 05 FF FF}{F1 41}会“{F2 01 02 01}米吉多{F2 01 01 01}”的“{F2 01 02 01}八咫乌{F2 01 01 01}”…\n您一定能让我见识到吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:250:2",
+  "message_id": "cmb_cmm_quest06",
+  "translation": "{F2 05 FF FF}{F1 41}我会满怀期待地等候。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:251:0",
+  "message_id": "cmb_cmm_quest07",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}接下来…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:251:1",
+  "message_id": "cmb_cmm_quest07",
+  "translation": "{F2 05 FF FF}{F1 41}会“{F2 01 02 01}梅迪拉玛{F2 01 01 01}”的“{F2 01 02 01}八房{F2 01 01 01}”…\n您一定能让我见识到吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:251:2",
+  "message_id": "cmb_cmm_quest07",
+  "translation": "{F2 05 FF FF}{F1 41}我会满怀期待地等候。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:252:0",
+  "message_id": "cmb_cmm_quest08",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}接下来…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:252:1",
+  "message_id": "cmb_cmm_quest08",
+  "translation": "{F2 05 FF FF}{F1 41}会“{F2 01 02 01}提特拉康{F2 01 01 01}”的“{F2 01 02 01}象头神{F2 01 01 01}”…\n您一定能让我见识到吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:252:2",
+  "message_id": "cmb_cmm_quest08",
+  "translation": "{F2 05 FF FF}{F1 41}我会满怀期待地等候。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:253:0",
+  "message_id": "cmb_cmm_quest09",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}接下来…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:253:1",
+  "message_id": "cmb_cmm_quest09",
+  "translation": "{F2 05 FF FF}{F1 41}会“{F2 01 02 01}专心致志{F2 01 01 01}”的“{F2 01 02 01}吹号者{F2 01 01 01}”…\n您一定能让我见识到吧。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:253:2",
+  "message_id": "cmb_cmm_quest09",
+  "translation": "{F2 05 FF FF}{F1 41}我会满怀期待地等候。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:254:0",
+  "message_id": "cmb_cmm_quest10",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 23 01 02 01 01 01 02 01}不用再向我展现您的内心了。\n我已经充分了解了…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:254:1",
+  "message_id": "cmb_cmm_quest10",
+  "translation": "{F2 05 FF FF}{F1 41}…谢谢。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:254:2",
+  "message_id": "cmb_cmm_quest10",
+  "translation": "{F2 05 FF FF}{F1 41}您果然和我想的一样…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:254:3",
+  "message_id": "cmb_cmm_quest10",
+  "translation": "{F2 05 FF FF}{F1 41}时机来临时…您会给我答案…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine.bmd.json:254:4",
+  "message_id": "cmb_cmm_quest10",
+  "translation": "{F2 05 FF FF}{F1 41}呵呵…\n真期待那一刻。\n{F1 21}{00}"
+ }
+]

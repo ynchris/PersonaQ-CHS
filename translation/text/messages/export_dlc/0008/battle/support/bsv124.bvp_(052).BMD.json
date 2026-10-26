@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(052).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_053_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6D 02}埃癸斯变得好强……\n一直这样不就好了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(052).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_053_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6E 02}埃癸斯的力量涨得好厉害……\n话说……好像挺帅的……\n{F2 26 00 00}{00}"
+ }
+]

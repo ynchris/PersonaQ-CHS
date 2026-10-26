@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:0:0",
+  "message_id": "BTL_MES_H108_063_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 F0 01}副队长的视线被挡住了！\n这样打不中！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:1:0",
+  "message_id": "BTL_MES_H108_063_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E7 01}副队长的视线被挡住了！\n命中率大幅下降！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:2:0",
+  "message_id": "BTL_MES_H108_063_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 F1 01}花村的视线被挡住了！\n命中精度大幅下降！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:3:0",
+  "message_id": "BTL_MES_H108_063_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 F2 01}千枝看不见前面了！\n这样很难打中！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:4:0",
+  "message_id": "BTL_MES_H108_063_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 F3 01}雪子的视线被挡住了！\n命中精度大幅下降！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:6:0",
+  "message_id": "BTL_MES_H108_063_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 F4 01}巽看不见前面了！\n这样攻击打不中！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:7:0",
+  "message_id": "BTL_MES_H108_063_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 F6 01}直斗的视线被挡住了！\n命中精度大幅下降！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:8:0",
+  "message_id": "BTL_MES_H108_063_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 F5 01}小熊的视线被挡住了！\n命中精度大幅下降！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:9:0",
+  "message_id": "BTL_MES_H108_063_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E8 01}由加莉看不见前面了！\n命中率大幅下降！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:10:0",
+  "message_id": "BTL_MES_H108_063_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E9 01}顺平看不见前面了。\n这样攻击打不中！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:11:0",
+  "message_id": "BTL_MES_H108_063_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 EA 01}真田前辈看不见前面了！\n命中率大幅下降！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:12:0",
+  "message_id": "BTL_MES_H108_063_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 EB 01}桐条前辈失去视野了。\n命中率大幅下降！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:14:0",
+  "message_id": "BTL_MES_H108_063_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 EE 01}埃癸斯的视力出现异常。\n命中精度下降！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:15:0",
+  "message_id": "BTL_MES_H108_063_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 EC 01}天田看不见了！\n命中精度大幅下降！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:16:0",
+  "message_id": "BTL_MES_H108_063_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 ED 01}小虎看不见前面了！\n现在这样很难打中！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:17:0",
+  "message_id": "BTL_MES_H108_063_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 EF 01}荒垣前辈看不见前面了。\n命中精度大幅下降！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:18:0",
+  "message_id": "BTL_MES_H108_063_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 F7 01}善的视线被挡住了！\n命中精度大幅下降！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:19:0",
+  "message_id": "BTL_MES_H108_063_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 F7 01}善的视线被挡住了！\n命中精度大幅下降！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:20:0",
+  "message_id": "BTL_MES_H108_063_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E6 01}队长，能治疗眼睛吗？\n看不见会很不利！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(062).BMD.json:21:0",
+  "message_id": "BTL_MES_H108_063_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E5 01}队长！现在这样，\n攻击很难打中！\n{F2 26 00 00}{00}"
+ }
+]

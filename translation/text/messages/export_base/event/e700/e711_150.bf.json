@@ -1,0 +1,42 @@
+[
+ {
+  "key": "export_base/event/e700/e711_150.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这里有条近路……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_150.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 02 01 02 01 01 01 04 01}{F5 86 07 01 0D 01 65 01 02 01}{F5 61 02 01 01 01 01 01 2F 05}{F5 C1 03 01 01 01 01 01 07 01}学长，等等！\n前面有阴影在埋伏！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_150.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}我这边准备好了！\n随时都能上！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_150.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞前面似乎有阴影\n　在守株待兔……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_150.bf.json:4:0",
+  "message_id": "SEL_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}通过{F5 47 02 01 02 01 03 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_150.bf.json:4:1",
+  "message_id": "SEL_004",
+  "translation": "{F2 05 FF FF}{F1 41}不通过{F5 47 02 01 02 01 05 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_150.bf.json:5:0",
+  "message_id": "SEL_0042",
+  "translation": "{F2 05 FF FF}{F1 41}通过{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_150.bf.json:5:1",
+  "message_id": "SEL_0042",
+  "translation": "{F2 05 FF FF}{F1 41}不通过{00}{00}"
+ }
+]

@@ -1,0 +1,147 @@
+[
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 11 01 02 01 04 01}{F5 61 02 01 01 01 01 01 02 01}那……那个，{F1 81}。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 03 01}想问你一点事，\n其实只是随便聊聊……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 04 01}那个……嗯。\n结婚以后，你有没有什么\n希望妻子为你做的事……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:1:0",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 12 01 02 01 01 01}希望吃到她亲手做的饭{F5 47 02 01 33 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:1:1",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}陪在身边就好{F5 47 02 01 33 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:1:2",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}没什么特别的{F5 47 02 01 33 01 01 01 05 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 05 01}这、这样啊……\n果然，亲手做的饭会让人高兴呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 06 01}我一直觉得，料理就是“爱”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 07 01}想让重要的人开心，\n所以用心、认真地制作……\n将心意传达给对方。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:2:3",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 08 01}要是丈夫像你一样……\n妻子也一定会\n努力做好每一餐吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:2:4",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 33 01 12 01 02 01 01 01}{F5 61 02 01 01 01 01 01 09 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:2:5",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}{F5 C1 03 01 01 01 01 01 07 01}……啊，那个，不，\n没、没有奇怪的意思……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:3:0",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 0B 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}对、对不起。\n我都不知道自己在说什么了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞风花害羞地笑着……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}也、也是呢……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:5:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}能一直待在喜欢的人身边，\n彼此心意相通……\n一定会很幸福吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:5:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}就像这样，\n紧紧牵着手……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:5:3",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 33 01 0E 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:5:4",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 10 01}{F5 C1 03 01 01 01 01 01 07 01}……啊，那个，不，\n没、没有奇怪的意思……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:6:0",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 0B 01 03 01 01 01}{F5 61 02 01 01 01 01 01 11 01}对、对不起。\n我都不知道自己在说什么了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:7:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞风花的手微微发热……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:8:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 12 01}这、这样啊……\n不过，平凡或许才是最好的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:8:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 13 01}能和喜欢的人在一起，\n一直心意相通……\n光是这样，就很幸福了吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:8:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 14 01}就像这样，\n紧紧牵着手……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:8:3",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 33 01 0E 01 02 01 01 01}{F5 61 02 01 01 01 01 01 15 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:8:4",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 16 01}{F5 C1 03 01 01 01 01 01 07 01}……啊，那个，不，\n没、没有奇怪的意思……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:8:5",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 17 01}对、对不起。\n我都不知道自己在说什么了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:9:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞风花的手微微发热……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_807.bf.json:10:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 33 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 18 01}{F5 C1 03 01 01 01 01 01 0B 01}呃……\n那就……走吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

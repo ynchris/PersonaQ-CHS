@@ -1,0 +1,47 @@
+[
+ {
+  "key": "export_base/battle/event/boss724.bf.json:0:0",
+  "message_id": "MSG_BTL_BOSS_001_ENCOUNT",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 91 10}莫要闭眼……\n莫要掩耳……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss724.bf.json:1:0",
+  "message_id": "MSG_BTL_BOSS_001_ENCOUNT",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 92 10}去想，去思考，然后站起来。\n用自己的双脚，踏稳大地！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss724.bf.json:4:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_75_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 93 10}结群迷惘，\n只会狂吠的可悲之人啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss724.bf.json:5:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_75_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 94 10}你是至死仍迷途的羔羊？\n还是踏遍荒野的狼……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss724.bf.json:6:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_50_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 95 10}还不明白吗……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss724.bf.json:7:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_50_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 96 10}一味相互依赖，能生出什么！\n那只会以锁链缠住自己，\n令双腿失去力量！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss724.bf.json:8:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_25_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 97 10}原来如此……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss724.bf.json:9:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_25_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 98 10}你们力量的源泉，\n或许并非一味相互依赖……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss724.bf.json:10:0",
+  "message_id": "MSG_BTL_BOSS_001_HP_25_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 04 01 01 01 01 01 03 01}{F5 61 02 01 01 01 01 01 99 10}是否配得上羁绊之名……\n让吾仔细看看吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,132 @@
+[
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 36 01 11 01 02 01 04 01}{F5 61 02 01 01 01 01 01 02 01}总觉得很不可思议呢。\n竟然会和{F1 81}\n这样牵着手走路……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 36 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 03 01}我、我……其实还是第一次，\n像这样认真地和男孩子牵手。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}呵呵……\n不过，我一直很向往呢。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:0:3",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 36 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 05 01}和最喜欢的人牵着手，\n一直相亲相爱地生活，一定很幸福……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:1:0",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 36 01 0A 01 02 01 01 01}我也这么想{F5 47 02 01 36 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:1:1",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}难道是在告白？{F5 47 02 01 36 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:1:2",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}那就一直牵着吧{F5 47 02 01 36 01 01 01 05 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 36 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 06 01}啊，太好了……我们想的一样。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 07 01}虽然没想到会以这种方式实现，\n吓了一跳。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 36 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 08 01}{F5 C1 03 01 01 01 01 01 07 01}啊，不、不是哦？\n我说的重要的人，\n不是特指你！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:2:3",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 09 01}{F5 C1 03 01 01 01 01 01 0B 01}啊，不……你也是重要的人，\n那个……没有奇怪的意思……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:2:4",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 36 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}{F5 C1 03 01 01 01 01 01 04 01}对、对不起……\n我到底在说什么啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞雪子似乎很害羞……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 36 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}{F5 C1 03 01 01 01 01 01 07 01}咦……不、不是啦！！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:4:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0C 01}我说的重要的人，\n不是特指你！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:4:2",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 36 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}{F5 C1 03 01 01 01 01 01 0B 01}啊，不……你也是重要的人，\n那个……没有奇怪的意思……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:4:3",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0E 01}{F5 C1 03 01 01 01 01 01 04 01}对、对不起……\n我到底在说什么啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞雪子似乎很害羞……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 36 01 0A 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}一、一直……和我？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 36 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 10 01}{F5 C1 03 01 01 01 01 01 0B 01}讨、讨厌……\n说这种话，我可能真的\n不会放开你了哦……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:7:0",
+  "message_id": "MSG_006a",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 36 01 0A 01 02 01 01 01}{F5 61 02 01 01 01 01 01 11 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:7:1",
+  "message_id": "MSG_006a",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 36 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 12 01}就算能分开了，\n说不定也会装作分不开……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:7:2",
+  "message_id": "MSG_006a",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 36 01 0A 01 02 01 01 01}{F5 61 02 01 01 01 01 01 13 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:7:3",
+  "message_id": "MSG_006a",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 36 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 14 01}呵呵……开玩笑的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞雪子露出淘气的笑容……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e210_813.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 36 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 15 01}是不是一直牵着手的缘故呢。\n身上都热起来了……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

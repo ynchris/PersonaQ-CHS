@@ -1,0 +1,77 @@
+[
+ {
+  "key": "export_base/event/e700/e722_303.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞前方的道路被封锁了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_303.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 04 01 01 01 01 01 03 01}已经厌倦了一次又一次\n开场白的小羊们，\n你们好呀，你们好。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_303.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 04 01 01 01 01 01 03 01}命运，\n就像玻璃鞋一样。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_303.bf.json:1:2",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 04 01 01 01 01 01 03 01}此话怎讲？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_303.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}{F5 C1 03 01 01 01 01 01 05 01}……？\n{F2 23 3D 01}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_303.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}原来如此。\n大概是想说，\n看似美丽，却很容易破碎吧。\n{F2 23 B5 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_303.bf.json:3:0",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 09 01}但换作我，就会这样说……\n命运，就像铁鞋一样。\n{F2 23 79 01}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_303.bf.json:3:1",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}它虽然是阻碍脚步的枷锁，\n但无论何时，\n我们都可以脱下它，扔到一边！\n{F2 23 B5 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_303.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 04 01 01 01 01 01 03 01}那么，第七题。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_303.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 01 01 07 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}{F5 C1 03 01 01 01 01 01 07 01}什……别无视我！\n{F2 23 3D 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_303.bf.json:6:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0B 01}{F5 C1 03 01 01 01 01 01 0A 01}你也该长点记性了。\n那个声音根本就\n没在听我们说话吧。\n{F2 23 B5 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_303.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0C 01}嗯……\n命运是铁鞋，吗……\n明彦，说得不错啊。\n{F2 23 B5 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_303.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 05 01}……咦，这里该感动吗？\n{F2 23 3D 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_303.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 04 01 01 01 01 01 03 01}以玻璃鞋为题，\n用铁鞋来作答……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_303.bf.json:9:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 07 01}{F5 C1 04 01 01 01 01 01 03 01}谜底就是，第七题。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

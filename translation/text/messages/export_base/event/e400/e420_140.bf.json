@@ -1,0 +1,42 @@
+[
+ {
+  "key": "export_base/event/e400/e420_140.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞时钟塔前……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_140.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 13 01 02 01 02 01}{F5 61 02 01 01 01 01 01 02 01}玲一直沉默着。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_140.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}现在想来，她那时绝望了。\n绝望太深，\n连哭喊都做不到……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_140.bf.json:2:0",
+  "message_id": "MSG_0012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 05 01 05 01 01 01}{F5 61 02 01 01 01 01 01 04 01}可那时的我……不明白。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_140.bf.json:2:1",
+  "message_id": "MSG_0012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}我……对她产生了兴趣，\n想到了一个点子……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_140.bf.json:2:2",
+  "message_id": "MSG_0012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 06 01}能否让这个沉默不语的少女\n开口说话呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e400/e420_140.bf.json:3:0",
+  "message_id": "MSG_0013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 08 01 05 01 01 01}{F5 61 02 01 01 01 01 01 07 01}只是这样，\n微不足道的消遣……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e400/e420_140.bf.json:3:1",
+  "message_id": "MSG_0013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 08 01}我……稍微借给了她一点力量……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

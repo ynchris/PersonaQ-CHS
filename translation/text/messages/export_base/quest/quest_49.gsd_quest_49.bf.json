@@ -1,0 +1,27 @@
+[
+ {
+  "key": "export_base/quest/quest_49.gsd_quest_49.bf.json:0:0",
+  "message_id": "MSG_QUEST",
+  "translation": "{F2 05 FF FF}{F1 41}“委托４９”\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/quest/quest_49.gsd_quest_49.bf.json:1:0",
+  "message_id": "MSG_ACCEPT",
+  "translation": "{F2 05 FF FF}{F1 41}感谢您\n接受\n“委托４９”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/quest/quest_49.gsd_quest_49.bf.json:2:0",
+  "message_id": "MSG_REPORT",
+  "translation": "{F2 05 FF FF}{F1 41}感谢您\n报告\n“委托４９”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/quest/quest_49.gsd_quest_49.bf.json:3:0",
+  "message_id": "MSG_CANCEL",
+  "translation": "{F2 05 FF FF}{F1 41}将放弃\n“委托４９”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/quest/quest_49.gsd_quest_49.bf.json:4:1",
+  "message_id": "MSG_ITEM_MAX",
+  "translation": "{F2 05 FF FF}{F1 41}请整理道具后，\n再次前来报告。\n{F1 21}{00}"
+ }
+]

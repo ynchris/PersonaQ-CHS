@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:0:0",
+  "message_id": "BTL_MES_H122_059_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8C 01}副队长，睡着了吗？\n但愿不会受到攻击……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:1:0",
+  "message_id": "BTL_MES_H122_059_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 83 01}副队长睡着了。\n哪位有办法叫醒他吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:2:0",
+  "message_id": "BTL_MES_H122_059_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8D 01}花村阳介先生睡着了。\n但愿不会受到敌人的攻击……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:3:0",
+  "message_id": "BTL_MES_H122_059_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8E 01}里中千枝小姐睡着了。\n此时受到攻击恐怕很危险。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:4:0",
+  "message_id": "BTL_MES_H122_059_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8F 01}天城雪子小姐睡着了。\n但愿能平安无事……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:6:0",
+  "message_id": "BTL_MES_H122_059_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 90 01}巽完二先生睡着了。\n但愿不会被敌人盯上……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:7:0",
+  "message_id": "BTL_MES_H122_059_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 92 01}白钟直斗小姐睡着了。\n各位有治疗的手段吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:8:0",
+  "message_id": "BTL_MES_H122_059_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 91 01}小熊先生睡着了。\n若此时遭到攻击……恐怕会直击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:9:0",
+  "message_id": "BTL_MES_H122_059_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 84 01}岳羽由加莉小姐睡着了。\n这是不是太没有防备了？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:10:0",
+  "message_id": "BTL_MES_H122_059_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 85 01}伊织顺平先生睡着了。\n现在可不是睡觉的时候……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:11:0",
+  "message_id": "BTL_MES_H122_059_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 86 01}真田明彦先生睡着了。\n此时受到攻击……恐怕很危险……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:12:0",
+  "message_id": "BTL_MES_H122_059_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 87 01}桐条美鹤小姐睡着了。\n……竟然站着睡着了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:14:0",
+  "message_id": "BTL_MES_H122_059_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8A 01}埃癸斯小姐睡着了。\n……原来她也会睡觉呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:15:0",
+  "message_id": "BTL_MES_H122_059_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 88 01}天田乾先生睡着了。\n若有攻击袭来……恐怕会直接命中……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:16:0",
+  "message_id": "BTL_MES_H122_059_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 89 01}虎狼丸先生睡着了。\n是不是需要照应一下呢？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:17:0",
+  "message_id": "BTL_MES_H122_059_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 8B 01}荒垣真次郎先生睡着了。\n此时受到攻击恐怕很危险。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:18:0",
+  "message_id": "BTL_MES_H122_059_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 93 01}善先生和玲小姐睡着了。\n此时受到攻击恐怕很危险。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:19:0",
+  "message_id": "BTL_MES_H122_059_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 94 01}善先生睡着了。\n但愿不会被敌人盯上……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:20:0",
+  "message_id": "BTL_MES_H122_059_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 82 01}队长睡着了。\n不过，我觉得还是早点醒来为好……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(058).BMD.json:21:0",
+  "message_id": "BTL_MES_H122_059_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 81 01}队长睡着了。\n但愿不会受到攻击……\n{F2 26 00 00}{00}"
+ }
+]

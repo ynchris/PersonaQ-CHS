@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(000).BMD.json:0:0",
+  "message_id": "BTL_MES_H123_001_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4C 01}这个敌人……对现在的各位来说，\n太危险了。建议撤退。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(000).BMD.json:1:0",
+  "message_id": "BTL_MES_H123_001_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4D 01}现在挑战这个敌人还为时过早。\n建议立即撤退！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(000).BMD.json:2:0",
+  "message_id": "BTL_MES_H123_001_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4E 01}这还不是各位该面对的敌人。\n趁还活着，请赶快撤退！\n{F2 26 00 00}{00}"
+ }
+]

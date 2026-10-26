@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(174).BMD.json:0:0",
+  "message_id": "BTL_MES_H105_175_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2B 03}破坏了蜘蛛的脚！只剩１条！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(174).BMD.json:1:0",
+  "message_id": "BTL_MES_H105_175_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2C 03}太好了太好了！还剩１条！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(174).BMD.json:2:0",
+  "message_id": "BTL_MES_H105_175_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2D 03}上啊！还剩１条！\n{F2 26 00 00}{00}"
+ }
+]

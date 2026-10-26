@@ -1,0 +1,112 @@
+[
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 02 01 02 01}{F5 61 02 01 01 01 01 01 F4 10}{F5 C1 03 01 01 01 01 01 01 01}咦？那、那边\n有可怕的章鱼烧哦！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:1:0",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}抱歉，弄错了{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:1:1",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}那也过去{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 02 01 02 01}{F5 61 02 01 01 01 01 01 F6 10}{F5 C1 03 01 01 01 01 01 0A 01}吓、吓我一跳……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 05 01 02 01 02 01}{F5 61 02 01 01 01 01 01 CD 11}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 0B 01}所、所以说……\n那边有可怕的章鱼烧啊！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 15 01 01 01 08 01 04 01}{F5 61 02 01 01 01 01 01 A8 0D}{F5 C1 03 01 01 01 01 01 03 01}你这家伙……想让玲\n撞上Ｆ．Ｏ．Ｅ吗！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞被善训斥了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 02 01 02 01}{F5 61 02 01 01 01 01 01 F4 10}{F5 C1 03 01 01 01 01 01 0B 01}那、那边不行啦！\n有可怕的章鱼烧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:7:0",
+  "message_id": "SEL_007",
+  "translation": "{F2 05 FF FF}{F1 41}不小心弄错了{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:7:1",
+  "message_id": "SEL_007",
+  "translation": "{F2 05 FF FF}{F1 41}试着过去看看{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 02 01 02 01}{F5 61 02 01 01 01 01 01 F6 10}{F5 C1 03 01 01 01 01 01 04 01}呜、呜呜……\n别吓我嘛！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 0B 01 02 01}{F5 61 02 01 01 01 01 01 01 01}就、就算你这么说……\n也……也不行啊……呜……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 15 01 01 01 08 01 04 01}{F5 61 02 01 01 01 01 01 A8 0D}{F5 C1 03 01 01 01 01 01 03 01}你这家伙……把玲弄哭了？\n想成为Ｆ．Ｏ．Ｅ的饵食吗！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞被善训斥了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 02 01 02 01}{F5 61 02 01 01 01 01 01 F4 10}{F5 C1 03 01 01 01 01 01 0B 01}不、不要去那边！\n那里有可怕的章鱼烧！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:13:0",
+  "message_id": "SEL_013",
+  "translation": "{F2 05 FF FF}{F1 41}一不留神弄错了{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:13:1",
+  "message_id": "SEL_013",
+  "translation": "{F2 05 FF FF}{F1 41}应该没事{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 02 01 02 01}{F5 61 02 01 01 01 01 01 21 11}{F5 C1 03 01 01 01 01 01 04 01}真、真是的……\n别故意欺负我嘛……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 02 01 02 01}{F5 61 02 01 01 01 01 01 F2 10}真、真的没事吗……？\n那我就……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:15:1",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 05 01 02 01 02 01}{F5 61 02 01 01 01 01 01 CD 11}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 0B 01}不……果然还是不行！\n骗子！太过分了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 15 01 01 01 08 01 04 01}{F5 61 02 01 01 01 01 01 A8 0D}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 03 01}你这家伙……弄哭玲很好玩吗！？\n我宰了你！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e713_482.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞被善训斥了……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

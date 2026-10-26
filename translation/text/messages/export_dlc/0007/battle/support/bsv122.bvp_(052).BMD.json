@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(052).BMD.json:0:0",
+  "message_id": "BTL_MES_H122_053_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6D 02}埃癸斯小姐，狂欢模式仍在持续。\n能感受到强大的力量呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0007/battle/support/bsv122.bvp_(052).BMD.json:1:0",
+  "message_id": "BTL_MES_H122_053_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6E 02}埃癸斯小姐处于狂欢模式。\n期待您的表现。\n{F2 26 00 00}{00}"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(086).BMD.json:0:0",
+  "message_id": "BTL_MES_H108_087_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 9D 02}神谕！发动！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(086).BMD.json:1:0",
+  "message_id": "BTL_MES_H108_087_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 9E 02}神谕！开始！\n{F2 26 00 00}{00}"
+ }
+]

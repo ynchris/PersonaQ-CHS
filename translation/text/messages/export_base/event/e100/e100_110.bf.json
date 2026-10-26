@@ -1,0 +1,407 @@
+[
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞与伊丽莎白、迪奥会合后，\n　玲带大家来到的地方，\n　是“美术室”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞虽然写着“小玩具制作体验教室”，\n　可这里的气氛\n　怎么想都有些奇怪……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}“手～工～工坊”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 03 01}这里原来是这样的吗……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 02 01 04 01 01 01}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 03 01 01 01 01 01 08 01}善，善，是草莓呀！\n就是“草草一大堆、莓颗小又硬”\n的那个草莓呀！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 03 01 01 01 01 01 07 01}原来草莓还有这种含义……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 01 01 05 01}{F5 61 02 01 01 01 01 01 06 01}这词源听着也太难吃了吧！才不是呢！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 0F 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 07 01}快看，是剑！\n有这个的话，大家就……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}{F5 C1 03 01 01 01 01 01 05 01}……咦？\n好像是玩具呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 0B 01 01 01}{F5 61 02 01 01 01 01 01 09 01}不能用吗……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0A 01}啊，那个……没、没问题的。\n我们姐弟会助各位一臂之力。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 05 01}{F5 61 02 01 01 01 01 01 0B 01}没错，由迪奥来。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0B 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}{F5 C1 03 01 01 01 01 01 0A 01}姐姐……我明白了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:10:0",
+  "message_id": "MSG_0092",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 03 01 02 01 01 01 04 01}{F5 86 24 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0D 01}那么各位，就由我在这里\n为大家制作“装备”\n和“消耗品”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:11:0",
+  "message_id": "SEL_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}那是什么？{F5 47 02 01 03 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:11:1",
+  "message_id": "SEL_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}由迪奥来做？{F5 47 02 01 03 01 09 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}虽然还在研究中，\n不过我多少也有些心得。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}亲眼看看应该更快。\n我要开始了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0D 01 02 01 02 01}{F5 61 02 01 01 01 01 01 10 01}完成了！\n各位觉得如何！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:15:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞获得了{F4 84 04 01 01 01 DC 02}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:16:0",
+  "message_id": "MSG_0142",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞获得了{F4 84 04 01 01 01 36 06}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:17:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 11 01}就像这样，装备和消耗品\n都可以由我来制作。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:17:1",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 12 01}不过，制作时需要\n相应的“素材”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:18:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 13 01}{F5 C1 03 01 01 01 01 01 05 01}素材？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:19:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 14 01}是的。\n在迷宫里打倒阴影后，\n有时就能找到。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:19:1",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 15 01}只要把素材带到这里，\n我就能像刚才那样，将其制成\n武器、防具和消耗品。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:20:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 16 01}在迷宫里打倒阴影后，\n应该能找到\n各种各样的“素材”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:20:1",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 17 01}请把那些素材带到这里。\n我会将其制成\n武器、防具和消耗品。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:21:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 13 01}{F5 C1 03 01 01 01 01 01 05 01}素材？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:22:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 03 01 02 01 01 01 04 01}{F5 86 24 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0F 01}亲眼看看应该更快。\n我要开始了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:23:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞迪奥把\n　{F4 84 04 01 01 01 8F 0A}抢走了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:24:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0D 01 02 01 02 01}{F5 61 02 01 01 01 01 01 10 01}完成了！\n各位觉得如何！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:25:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞获得了{F4 84 04 01 01 01 DC 02}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:26:0",
+  "message_id": "MSG_0232",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞获得了{F4 84 04 01 01 01 36 06}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:27:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 11 01}就像这样，装备和消耗品\n都可以由我来制作。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:28:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 05 01}{F5 61 02 01 01 01 01 01 18 01}不过，我们会收取费用。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:29:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0B 01 02 01 01 01}{F5 61 02 01 01 01 01 01 19 01}是这样吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:30:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 1A 01}这样才称得上“契约”。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:30:1",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1B 01}为了不让你偷懒，也需要回报……\n也就是所谓的\n“有付出才有收获”制度！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:31:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 1C 01}{F5 C1 04 01 01 01 01 01 02 01}原来如此……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:32:0",
+  "message_id": "MSG_0282",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 02 01 01 01 05 01}{F5 86 24 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 1D 01}那么，虽然过意不去，\n还是请各位支付相应的费用吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:32:1",
+  "message_id": "MSG_0282",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1E 01}为了能助各位一臂之力，\n我会诚心诚意地努力。\n还请多多关照。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:33:0",
+  "message_id": "MSG_0283",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 24 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 1F 01}{F5 C1 03 01 01 01 01 01 07 01}啊……请等一下，{F1 82}大人。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:33:1",
+  "message_id": "MSG_0283",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 02 01 01 01}{F5 61 02 01 01 01 01 01 20 01}您手中拿着的，正是\n阴影的碎片……这可是稀有品！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:33:2",
+  "message_id": "MSG_0283",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 21 01}如此形状的碎片，\n无论从前还是今后……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:33:3",
+  "message_id": "MSG_0283",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 10 01 02 01 01 01}{F5 61 02 01 01 01 01 01 22 01}{F5 C1 03 01 01 01 01 01 04 01}……啊，原来是线头。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:34:0",
+  "message_id": "SEL_TALK029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 01 01}真不可靠啊{F5 47 02 01 03 01 0B 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:34:1",
+  "message_id": "SEL_TALK029",
+  "translation": "{F2 05 FF FF}{F1 41}你没事吧？{F5 47 02 01 03 01 09 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:35:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 11 01 02 01 01 01}{F5 61 02 01 01 01 01 01 23 01}{F5 C1 03 01 01 01 01 01 0B 01}才、才没有那种事！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:36:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 24 01}{F5 C1 03 01 01 01 01 01 05 01}您指什么？\n我并没有受伤啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:37:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 04 01}{F5 86 24 01 02 01 01 01 05 01}{F5 86 22 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 25 01}另外，还有一件事。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:37:1",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 26 01}把所有行李都带进迷宫也很麻烦，\n暂时用不着的东西，\n不如先放在这里如何？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:37:2",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 27 01}交给迪奥的话，\n他会帮各位收进空着的架子里。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:38:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 0B 01 02 01 01 01}{F5 61 02 01 01 01 01 01 28 01}真不愧是姐姐……真会为人着想！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:39:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 29 01}{F5 C1 03 01 01 01 01 01 0A 01}可干活的全是弟弟啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:40:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}＞现在可以在手工工坊\n　购买武器、防具和各种道具了！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:40:1",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞另外，现在也可以\n　在这里寄存行李了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:41:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 02 01 01 01 02 01}{F5 86 22 01 0D 01 01 01 04 01}{F5 61 02 01 01 01 01 01 2A 01}那么迪奥，从现在起你好歹也算店主了。\n为了不在各位面前丢脸，\n还请你认真工作。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:42:0",
+  "message_id": "MSG_0362",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 2B 01}还有，这是送给你的礼物。\n我料想可能会有这种事，\n便事先准备了这套“制服”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:43:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 2C 01}姐姐……谢谢您！\n为了不辱没主人和姐姐的名声，我会……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:44:0",
+  "message_id": "MSG_0372",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 2D 01}{F5 C1 03 01 01 01 01 01 0A 01}{F5 C1 04 01 01 01 01 01 02 01}咦，难道这就是……\n送给我的礼物……吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:45:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2E 01}不如穿上试试？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:46:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 02 01 01 01 01 01}{F5 61 02 01 01 01 01 01 2F 01}{F5 C1 03 01 01 01 01 01 07 01}咦……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:47:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 30 01}不如穿上试试？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:48:0",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 31 01}{F5 C1 03 01 01 01 01 01 02 01}咦咦……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:49:0",
+  "message_id": "MSG_0412",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 32 01}{F5 C1 03 01 01 01 01 01 04 01}{F5 C1 04 01 01 01 01 01 02 01}……是。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:50:0",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 01 01 04 01 02 01}{F5 61 02 01 01 01 01 01 33 01}{F5 C1 03 01 01 01 01 01 0A 01}……这样……真的对吗……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:51:0",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 34 01}哇啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:52:0",
+  "message_id": "MSG_044",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 02 01 07 01}{F5 61 02 01 01 01 01 01 35 01}比想象中还要……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:53:0",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 05 01 04 01 01 01}{F5 61 02 01 01 01 01 01 36 01}{F5 C1 03 01 01 01 01 01 0B 01}怎、怎么了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:54:0",
+  "message_id": "MSG_046",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 29 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 37 01}{F5 C1 03 01 01 01 01 01 08 01}是草莓！\n“草草一大堆、莓颗五脏六腑”！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:55:0",
+  "message_id": "MSG_047",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 38 01}原来还有这种含义呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:56:0",
+  "message_id": "MSG_048",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 39 01}埃癸斯小姐，你从刚才起\n就一直被玲牵着鼻子走呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:57:0",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 22 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3A 01}接下来，是能够\n恢复体力的地方……对吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:57:1",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 3B 01}请放心。\n我已经物色好了。\n请往这边走。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:58:0",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 3C 01}{F5 C1 03 01 01 01 01 01 0A 01}姐姐……您还没说完感想呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:59:0",
+  "message_id": "MSG_051",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 3D 01}总之，这样一来，各位应该就能\n做好战斗准备了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:59:1",
+  "message_id": "MSG_051",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 3E 01}如果与阴影交战时陷入苦战，\n请考虑调整装备。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:59:2",
+  "message_id": "MSG_051",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 3F 01}此外，选择哪些成员\n在前线作战也十分重要。\n请不要忘了调整“编队”……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:59:3",
+  "message_id": "MSG_051",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 40 01}那么，请各位\n一路小心。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_110.bf.json:60:0",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 41 01}{F5 C1 03 01 01 01 01 01 0A 01}姐姐……您还没说完感想呢……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

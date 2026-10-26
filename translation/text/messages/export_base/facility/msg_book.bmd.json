@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/facility/msg_book.bmd.json:0:0",
+  "message_id": "Y_FCL_DIALOG_MSG_EITHER",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}是{F2 03 01 FF}的{F2 03 01 FF}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_book.bmd.json:0:1",
+  "message_id": "Y_FCL_DIALOG_MSG_EITHER",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}不{F2 03 01 FF}需{F2 03 01 FF}要{F2 03 01 FF}{00}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_book.bmd.json:1:0",
+  "message_id": "Y_FCLSHOP_BUY_MSG2",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 03 01 FF}＞{F2 03 01 FF}{F4 45 04 01 00 00 01 01}{F2 03 01 FF}，{F2 03 01 FF}购{F2 03 01 FF}买{F2 03 01 FF}吗{F2 03 01 FF}？{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}{F2 03 01 FF}\n{F2 03 01 FF}{F1 21}{00}"
+ }
+]

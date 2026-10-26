@@ -1,0 +1,87 @@
+[
+ {
+  "key": "export_base/battle/message/result.bmd.json:0:0",
+  "message_id": "BTLMSGID_RESULT00",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/battle/message/result.bmd.json:0:1",
+  "message_id": "BTLMSGID_RESULT00",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/battle/message/result.bmd.json:1:0",
+  "message_id": "BTLMSGID_RESULT01",
+  "translation": "{F2 05 FF FF}{F1 41}＞{F2 44 01 01}的等级提升了！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/result.bmd.json:2:0",
+  "message_id": "BTLMSGID_RESULT02",
+  "translation": "{F2 05 FF FF}{F1 41}＞{F2 44 01 01}提升了{F2 44 02 01}！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/result.bmd.json:3:0",
+  "message_id": "BTLMSGID_RESULT03",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”\n　学会了“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/result.bmd.json:4:0",
+  "message_id": "BTLMSGID_RESULT04",
+  "translation": "{F2 05 FF FF}{F1 41}＞技能满了。\n　请选择要舍弃的技能。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/result.bmd.json:5:0",
+  "message_id": "BTLMSGID_RESULT05",
+  "translation": "{F2 05 FF FF}{F1 41}＞要舍弃“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/result.bmd.json:6:0",
+  "message_id": "BTLMSGID_RESULT06",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”\n　忘记了“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/result.bmd.json:7:0",
+  "message_id": "BTLMSGID_RESULT07",
+  "translation": "{F2 05 FF FF}{F1 41}＞将“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”\n　替换为了“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/result.bmd.json:8:0",
+  "message_id": "BTLMSGID_RESULT08",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”\n　进阶成了“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/result.bmd.json:9:0",
+  "message_id": "BTLMSGID_RESULT09",
+  "translation": "{F2 05 FF FF}{F1 41}＞{F2 44 02 01}身上好像要发生什么……\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/result.bmd.json:10:0",
+  "message_id": "BTLMSGID_RESULT10",
+  "translation": "{F2 05 FF FF}{F1 41}＞听见了{F2 44 01 01}的哭声……\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/result.bmd.json:21:0",
+  "message_id": "BTLMSGID_RESULT21",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”的\n　技能栏增加了！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/result.bmd.json:22:0",
+  "message_id": "BTLMSGID_RESULT22",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”\n　转生成了“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/result.bmd.json:23:0",
+  "message_id": "BTLMSGID_RESULT23",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”中隐藏的\n　可能性似乎萌芽了……！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/result.bmd.json:25:0",
+  "message_id": "BTLMSGID_RESULT25",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”以那副姿态，获得了\n　更强的力量！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/message/result.bmd.json:26:0",
+  "message_id": "BTLMSGID_RESULT26",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”因转生而觉醒了全新的力量！\n{F1 21}{00}"
+ }
+]

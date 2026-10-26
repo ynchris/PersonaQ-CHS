@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/event/e700/e723_480.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 CE 11}{F5 C1 04 01 01 01 01 01 03 01}除了你们，\n大家都在这间屋子里，\n可是这扇门怎么也打不开。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_480.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 02 01 02 01}{F5 61 02 01 01 01 01 01 4B 10}等、等一下哦！\n我们这就来救你们！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e723_480.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞为了救出同伴，\n　去寻找{F2 01 03 01}３张门卡{F2 01 01 01}吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

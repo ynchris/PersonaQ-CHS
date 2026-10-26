@@ -1,0 +1,2637 @@
+[
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 E7 02}嗯，也是。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 0B 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 39 03}{F5 C1 03 01 01 01 01 01 0A 01}若无其事地说了句惊人的话啊…？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 AD 02}就是嘛！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 01 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 01 01}是啊，性别也…\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0B 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 C7 02}{F5 C1 03 01 01 01 01 01 0B 01}等等，\n这人都在说什么啊！\n连性别都无所谓！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 11 01 0B 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 86 0C}真意外！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 13 01 01 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 4D 0D}哼，真意外。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0B 01 07 01 07 01 04 01}{F5 61 0A 01 01 01 01 01 3E 08}咦？真意外。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 B0 11}是这样吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}嗯、嗯…\n就是感觉。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0B 01 09 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 C2 07}咦，不觉得有点色吗？\n就算含蓄地追求也一样。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 01 01}啊，好像能理解。\n不过，太咄咄逼人也很困扰…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 0C 01 07 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 88 08}{F5 C1 03 01 01 01 01 01 0A 01}小姐们还真是任性啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 05 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 01 04}{F5 C1 03 01 01 01 01 01 08 01}哦哦，很合得来嘛！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 09 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 DD 06}{F5 C1 03 01 01 01 01 01 08 01}呵呵，和我一样呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0E 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 3A 0A}{F5 C1 03 01 01 01 01 01 08 01}哦，真合得来。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 65 11}{F5 C1 03 01 01 01 01 01 07 01}桐条学姐，你是户外派啊。\n真意外。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:16:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 06 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 3D 04}{F5 C1 03 01 01 01 01 01 08 01}呵呵…\n我也是。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 0D 01 65 01 01 01}{F5 61 0A 01 01 01 01 01 CA 0A}我也不太擅长运动…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:18:0",
+  "message_id": "MSG_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 09 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 81 07}{F5 C1 03 01 01 01 01 01 09 01}何等含蓄！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 0A 01}小熊，你也太不挑了。\n尤其是最近。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 06 01 07 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 23 04}我可没那种勇气…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:21:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 0D 01 65 01 02 01}{F5 61 0A 01 01 01 01 01 01 01}是啊。\n能做到这点，真的很厉害。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:22:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 07 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 27 03}{F5 C1 03 01 01 01 01 01 0A 01}热血运动番吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:23:0",
+  "message_id": "MSG_0222",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 11 01 03 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}谁会先跟喜欢的人打架啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:24:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 87 0B}不会在河边跟喜欢的人打架…\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:24:1",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}更新数据。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:25:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0C 01 01 01 04 01 04 01}{F5 61 0A 01 01 01 01 01 9B 08}{F5 C1 03 01 01 01 01 01 08 01}赞成！\n走吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:26:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 66 10}{F5 C1 03 01 01 01 01 01 08 01}哦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:27:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 11 01 02 01 01 01}{F5 61 0A 01 01 01 01 01 48 06}{F5 C1 03 01 01 01 01 01 0A 01}这样真的能知道\n命中注定的对象吗…？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:28:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0C 01 01 01 04 01 04 01}{F5 61 0A 01 01 01 01 01 10 09}没辙是也！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:29:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 A9 0C}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:30:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 11 01 0B 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 20 0C}{F5 C1 03 01 01 01 01 01 07 01}我也喜欢喝牛奶。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:31:0",
+  "message_id": "MSG_0292",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 05 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0B 01}…啊，我才没有在意呢！\n个子矮什么的，才没有！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:32:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 C0 11}小乾，我觉得你很高！\n至少比我高！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:33:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 01 01 04 01 01 01}{F5 61 0A 01 01 01 01 01 A1 11}{F5 C1 03 01 01 01 01 01 0A 01}啊，那个…\n高兴不起来…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:34:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 2D 10}{F5 C1 03 01 01 01 01 01 01 01}什么！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:35:1",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0B 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}好普通！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:36:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 C0 11}{F5 C1 03 01 01 01 01 01 08 01}茶和点心也很配呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:37:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0C 01 01 01 04 01 04 01}{F5 61 0A 01 01 01 01 01 9A 08}{F5 C1 03 01 01 01 01 01 08 01}活力爆发！\n摩洛纳敏Ｇ嘛！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:38:0",
+  "message_id": "MSG_0352",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}可那东西，\n不是吃饭时喝的吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:39:0",
+  "message_id": "MSG_036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 03 01 06 01 01 01}{F5 61 0A 01 01 01 01 01 C0 03}{F5 C1 03 01 01 01 01 01 05 01}那是什么可疑的营养饮料啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:40:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 01 01}反正乡下没得卖。\n去城里就有了吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:41:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 11 01 0B 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 20 0C}是啊…\n感觉那样最好。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:42:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 AC 0C}{F5 C1 03 01 01 01 01 01 08 01}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:43:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 02 01 0D 01 01 01 04 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 1B 01}啊，偶尔会有。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:44:0",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 05 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 4F 03}{F5 C1 03 01 01 01 01 01 01 01}会有这种事？\n而且还是一大堆！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:45:0",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0C 01 0F 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 9A 08}没错没错。\n喝下去才发现是面条蘸汁！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:50:0",
+  "message_id": "MSG_047",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0B 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 C3 07}{F5 C1 03 01 01 01 01 01 0A 01}为什么是草…？\n而且一大堆是什么意思…！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:51:0",
+  "message_id": "MSG_048",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0B 01 07 01 05 01 04 01}{F5 61 0A 01 01 01 01 01 C2 07}这话经常听到，\n光夸这一点也没什么…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:52:0",
+  "message_id": "MSG_049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 1D 04}有点懂。\n刚才完全没打动我。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:53:0",
+  "message_id": "MSG_050",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 04 01 07 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 0A 01}女生的真心话啊…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:54:0",
+  "message_id": "MSG_051",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 06 01 01 01 04 01 04 01}{F5 61 0A 01 01 01 01 01 23 04}平时倒是不戴。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:55:0",
+  "message_id": "MSG_052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 02 01}{F5 61 0A 01 01 01 01 01 9A 08}{F5 C1 03 01 01 01 01 01 08 01}嗯嗯…\n天城同学是眼镜女生。\n记下来记下来。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:56:0",
+  "message_id": "MSG_053",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 02 01}{F5 86 0A 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 94 07}{F5 C1 03 01 01 01 01 01 08 01}哦哦，不愧是老师！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:56:1",
+  "message_id": "MSG_053",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}终于发现\n小熊的可爱了熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:57:0",
+  "message_id": "MSG_054",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 02 01 01 01 02 01}{F5 86 0A 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 95 07}哦，不愧是队长！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:57:1",
+  "message_id": "MSG_054",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}终于发现\n小熊的可爱了熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:58:1",
+  "message_id": "MSG_055",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}＞时间静静地流逝…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:59:0",
+  "message_id": "MSG_056",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 21 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 BD 0E}要射穿你的心哦？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:60:0",
+  "message_id": "MSG_057",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0B 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 A6 02}{F5 C1 03 01 01 01 01 01 07 01}你、什么时候！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:61:0",
+  "message_id": "MSG_058",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0D 01 07 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 8F 11}{F5 C1 03 01 01 01 01 01 05 01}{F5 C1 0A 01 01 01 01 01 01 01}平时听的那种吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:62:0",
+  "message_id": "MSG_059",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 01 01}不，我没听\n疗愈音乐。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:63:0",
+  "message_id": "MSG_060",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 01 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 74 09}这样啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:64:0",
+  "message_id": "MSG_061",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 01 01}嗯。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:65:1",
+  "message_id": "MSG_062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 21 03}{F5 C1 03 01 01 01 01 01 0A 01}那、那个…\n你们就没有要\n把话题聊热闹一点的意思？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:66:0",
+  "message_id": "MSG_063",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}有什么问题吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:67:0",
+  "message_id": "MSG_064",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 04 01}没、没有…\n没什么。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:68:0",
+  "message_id": "MSG_065",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 0C 01 03 01 04 01}{F5 86 05 01 09 01 04 01 07 01}{F5 61 0A 01 01 01 01 01 C0 03}{F5 C1 03 01 01 01 01 01 05 01}花村，\n你平时听的那种？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:69:0",
+  "message_id": "MSG_066",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 A0 02}{F5 C1 03 01 01 01 01 01 0A 01}我才没累成那样！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:70:0",
+  "message_id": "MSG_067",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0D 01 05 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 64 09}{F5 C1 03 01 01 01 01 01 08 01}按摩不错。\n最适合放松\n训练后的肌肉。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:70:1",
+  "message_id": "MSG_067",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}最好在训练结束后\n立刻进行，效果更好。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:70:2",
+  "message_id": "MSG_067",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}隔太久再做，\n效果就会减弱。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:71:0",
+  "message_id": "MSG_068",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 02 01}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}好！\n真田学长的开关打开啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:72:0",
+  "message_id": "MSG_069",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 04 01}另外，说到训练刚结束…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:73:0",
+  "message_id": "MSG_070",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 AA 0C}汪汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:74:0",
+  "message_id": "MSG_071",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 05 01}{F5 61 0A 01 01 01 01 01 68 0B}它说散步之后，\n最好就是睡午觉。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:75:0",
+  "message_id": "MSG_072",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 60 09}{F5 C1 03 01 01 01 01 01 08 01}哈哈。\n是啊，虎狼丸。\n休息也很重要。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:76:0",
+  "message_id": "MSG_073",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 0C 01 07 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 88 08}呼…\n多亏虎狼丸，躲过肌肉课堂了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:77:0",
+  "message_id": "MSG_074",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 13 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 E7 0C}你、你这家伙，\n还挺懂嘛…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:78:0",
+  "message_id": "MSG_075",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 0B 01 08 01 07 01 02 01}{F5 86 12 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 AA 0C}{F5 C1 03 01 01 01 01 01 08 01}汪汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:79:0",
+  "message_id": "MSG_076",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 D8 07}荒垣学长虽然长那样，\n其实超喜欢小虎的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:80:0",
+  "message_id": "MSG_077",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 AC 11}啊？\n你说什么？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:81:0",
+  "message_id": "MSG_078",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 07 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}没有啊？\n我什么都没说。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:83:0",
+  "message_id": "MSG_080",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0C 01 01 01 04 01 04 01}{F5 61 0A 01 01 01 01 01 9B 08}{F5 C1 03 01 01 01 01 01 08 01}是吧！经典搭配嘛！\n辣味就是点睛之笔。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:84:0",
+  "message_id": "MSG_081",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 8E 11}{F5 C1 03 01 01 01 01 01 07 01}你在说什么！\n牛肉盖饭当然得加蛋白粉！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:85:0",
+  "message_id": "MSG_082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 D5 0C}{F5 C1 03 01 01 01 01 01 0A 01}只有你吧。\n把那玩意儿当调料使。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:86:0",
+  "message_id": "MSG_083",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0D 01 03 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 2B 09}嗯，那当然。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:86:1",
+  "message_id": "MSG_083",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}为什么不让每家牛肉盖饭店\n都提供蛋白粉？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:87:0",
+  "message_id": "MSG_084",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 D5 0C}{F5 C1 03 01 01 01 01 01 0A 01}因为只有你会用啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:88:0",
+  "message_id": "MSG_085",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 4E 09}居然不懂那种美味。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:89:0",
+  "message_id": "MSG_086",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}我也不想懂。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:90:0",
+  "message_id": "MSG_087",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 08 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 9E 05}{F5 C1 03 01 01 01 01 01 08 01}葱花…\n感觉很健康。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:91:0",
+  "message_id": "MSG_088",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 05 01 01 01}{F5 61 0A 01 01 01 01 01 D6 0C}放心了。\n还好你没被某个肌肉笨蛋带坏。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:92:0",
+  "message_id": "MSG_089",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0B 01 07 01 07 01 04 01}{F5 61 0A 01 01 01 01 01 F1 07}真意外…\n原来你还挺崇尚武力的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:93:0",
+  "message_id": "MSG_090",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 E7 02}{F5 C1 03 01 01 01 01 01 0A 01}跟崇尚武力不太一样吧…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:94:0",
+  "message_id": "MSG_091",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 03 01 05 01 04 01}{F5 61 0A 01 01 01 01 01 BA 02}嗯，很常见啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:95:0",
+  "message_id": "MSG_092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 05 01 02 01}{F5 61 0A 01 01 01 01 01 C2 07}就是太常见，感觉不怎么样。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:95:1",
+  "message_id": "MSG_092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}靠不幸催泪也太简单了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:96:0",
+  "message_id": "MSG_093",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}是、是吗…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:98:0",
+  "message_id": "MSG_0942",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 13 01 02 01 01 01}{F5 61 0A 01 01 01 01 01 E6 0C}很催泪啊…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:99:0",
+  "message_id": "MSG_095",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 C0 11}小真喜欢这种啊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:99:1",
+  "message_id": "MSG_095",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}喜欢动物的人都不是坏人。\n小真是好人！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:100:0",
+  "message_id": "MSG_096",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 B0 11}是这样吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:101:0",
+  "message_id": "MSG_097",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 32 10}{F5 C1 03 01 01 01 01 01 08 01}{F5 C1 04 01 01 01 01 01 02 01}嗯。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:103:0",
+  "message_id": "MSG_099",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0B 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 C2 07}这是什么问题啊。\n那只有善能做到吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:104:0",
+  "message_id": "MSG_100",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 8C 0D}由加莉也可以用弓去迎战。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:105:0",
+  "message_id": "MSG_101",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 84 08}{F5 C1 03 01 01 01 01 01 0A 01}还是算了吧。\n完全看不到光明的未来…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:106:0",
+  "message_id": "MSG_102",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 7C 11}{F5 C1 03 01 01 01 01 01 03 01}等等。\n你这话什么意思？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:107:0",
+  "message_id": "MSG_103",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 05 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 7D 03}{F5 C1 03 01 01 01 01 01 08 01}那还用说！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:108:0",
+  "message_id": "MSG_104",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 0B 01 01 01}{F5 61 0A 01 01 01 01 01 CA 11}会有人赶来吗…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:109:0",
+  "message_id": "MSG_105",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 8C 0D}我会赶来。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:110:0",
+  "message_id": "MSG_106",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 04 01 01 01}{F5 61 0A 01 01 01 01 01 9A 08}好好好，狗粮吃饱了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:111:0",
+  "message_id": "MSG_107",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0D 01 07 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 4B 09}{F5 C1 03 01 01 01 01 01 07 01}等等，你认真的吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:112:0",
+  "message_id": "MSG_108",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 C6 07}差劲。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:113:0",
+  "message_id": "MSG_109",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 08 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}嗯，真差劲。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:114:0",
+  "message_id": "MSG_110",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 0D 01 01 01 01 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 2E 01}再怎么说，\n也不能选那个吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:115:0",
+  "message_id": "MSG_111",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 E2 01}再怎么说，\n也不能选那个吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:116:0",
+  "message_id": "MSG_112",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 AA 0C}汪汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:117:0",
+  "message_id": "MSG_113",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 07 01}{F5 61 0A 01 01 01 01 01 01 01}它说，那个不行。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:118:0",
+  "message_id": "MSG_114",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0C 01 01 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 84 08}是吗？\n你还挺信玄学的？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:119:0",
+  "message_id": "MSG_115",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 05 01}什么啊？什么叫信玄学？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:120:0",
+  "message_id": "MSG_116",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}就是会相信命运、星象、气场，\n这些东西的那种人啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:121:0",
+  "message_id": "MSG_117",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 03 01 02 01}{F5 61 0A 01 01 01 01 01 01 01}你确实有些不可思议的地方，\n不过还是很意外…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:122:0",
+  "message_id": "MSG_118",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 06 01 0B 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 26 04}{F5 C1 03 01 01 01 01 01 01 01}咦！？\n你已经玩腻了吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:123:0",
+  "message_id": "MSG_119",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 05 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 BC 11}{F5 C1 03 01 01 01 01 01 04 01}过分！\n想知道命中注定的对象嘛！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:124:0",
+  "message_id": "MSG_120",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 7B 0D}认真点。\n玲生气了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:125:0",
+  "message_id": "MSG_121",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 6E 05}该、该不会…\n你在害羞吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:126:0",
+  "message_id": "MSG_122",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0B 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 66 11}{F5 C1 03 01 01 01 01 01 0A 01}你、你不会…\n还挺期待的吧…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:127:0",
+  "message_id": "MSG_123",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 05 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 B4 05}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 03 01}别、别胡说八道，\n找揍啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:128:0",
+  "message_id": "MSG_124",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 03 01 0F 01 04 01 04 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 F9 01}这话真帅。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:129:0",
+  "message_id": "MSG_125",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 88 08}{F5 C1 03 01 01 01 01 01 0A 01}你自己不也偶尔这么说嘛。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:129:1",
+  "message_id": "MSG_125",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}对各种事情，\n稍微多点兴趣啊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:129:2",
+  "message_id": "MSG_125",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}棒球啊、游戏啊、\n时尚之类的…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:130:0",
+  "message_id": "MSG_126",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0B 01 21 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 66 02}无所谓…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:131:0",
+  "message_id": "MSG_127",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 02 01 03 01 01 01 04 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 38 01}…这话不错。\n怎么说呢，很虚无。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:132:0",
+  "message_id": "MSG_128",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 8B 10}{F5 C1 03 01 01 01 01 01 07 01}虚无！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:132:1",
+  "message_id": "MSG_128",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 05 01}…是什么意思？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:133:0",
+  "message_id": "MSG_129",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 01 01 01 01 01 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 2E 01}嗯…\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:133:1",
+  "message_id": "MSG_129",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}…鸡肉的某个部位吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:134:0",
+  "message_id": "MSG_130",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 A8 10}{F5 C1 03 01 01 01 01 01 08 01}{F5 C1 04 01 01 01 01 01 02 01}哦！\n那我要酱汁味的虚无！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:135:0",
+  "message_id": "MSG_131",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 05 01 01 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 C0 03}我们当中会是谁呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:136:0",
+  "message_id": "MSG_132",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 01 01}应该是真田学长吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:137:0",
+  "message_id": "MSG_133",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 08 01 02 01 01 01 02 01}{F5 86 0D 01 07 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 4E 09}真次郎虽然看起来那样，\n本性还是很好的…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:138:0",
+  "message_id": "MSG_134",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 01 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}是这样啊？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:139:0",
+  "message_id": "MSG_135",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 13 01 13 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 E6 0C}{F5 C1 03 01 01 01 01 01 0B 01}困死了…\n赶紧走。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:140:0",
+  "message_id": "MSG_136",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 05 01 03 01 06 01 04 01}{F5 61 0A 01 01 01 01 01 C0 03}{F5 C1 03 01 01 01 01 01 0A 01}听着就很辛苦啊…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:141:0",
+  "message_id": "MSG_137",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 07 01 65 01 01 01}{F5 61 0A 01 01 01 01 01 11 0B}各位…\n迪奥先生现在\n就在里面…\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:141:1",
+  "message_id": "MSG_137",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}从刚才起一直在打喷嚏。\n好可怕…我不敢回头。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:143:0",
+  "message_id": "MSG_139",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0B 01 21 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 E6 01}{F5 C1 03 01 01 01 01 01 0A 01}啊…\n真不容易…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:144:0",
+  "message_id": "MSG_140",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0C 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 86 08}{F5 C1 03 01 01 01 01 01 05 01}咦？\n你想转世当长女？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:145:0",
+  "message_id": "MSG_141",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 2B 07}{F5 C1 03 01 01 01 01 01 08 01}次女就归小熊了熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:146:0",
+  "message_id": "MSG_142",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 01 01}{F5 61 0A 01 01 01 01 01 89 11}{F5 C1 03 01 01 01 01 01 01 01}姐妹！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:147:0",
+  "message_id": "MSG_143",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 09 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 5A 06}{F5 C1 03 01 01 01 01 01 08 01}我也这么想。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:148:0",
+  "message_id": "MSG_144",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 8F 11}是吗？\n热气腾腾的大浴场也不错啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:149:0",
+  "message_id": "MSG_145",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 08 01 08 01 01 01 04 01}{F5 86 04 01 01 01 02 01 02 01}{F5 61 0A 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 0A 01}我、我嘛…\n咖啡店或者游乐园吧…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:150:0",
+  "message_id": "MSG_146",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 75 11}{F5 C1 03 01 01 01 01 01 04 01}{F5 C1 04 01 01 01 01 01 04 01}我也是…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:151:0",
+  "message_id": "MSG_147",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 02 01}{F5 61 0A 01 01 01 01 01 86 08}{F5 C1 03 01 01 01 01 01 0B 01}喂喂，你们怎么了！？\n情绪也太低落了吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:152:0",
+  "message_id": "MSG_148",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 01 01 02 01 01 01 02 01}{F5 86 07 01 03 01 65 01 04 01}{F5 61 0A 01 01 01 01 01 F7 04}{F5 C1 03 01 01 01 01 01 08 01}不错嘛！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:153:0",
+  "message_id": "MSG_149",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 A1 11}我不太…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:154:0",
+  "message_id": "MSG_150",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 76 11}{F5 C1 03 01 01 01 01 01 05 01}啊？有什么不对吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:155:0",
+  "message_id": "MSG_151",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 07 01 02 01}{F5 61 0A 01 01 01 01 01 D8 07}希望你快点长高啊，\n天田同学。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:156:0",
+  "message_id": "MSG_152",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 07 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}啊，是个子不够高，\n好多设施都不能坐吧。\n对、对不起。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:158:0",
+  "message_id": "MSG_154",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 8B 10}{F5 C1 03 01 01 01 01 01 05 01}发生什么了？\n小完。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:159:0",
+  "message_id": "MSG_155",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 0A 01}啊…\n发生过很难受的事…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:160:0",
+  "message_id": "MSG_156",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 06 01 05 01 05 01 04 01}{F5 61 0A 01 01 01 01 01 3D 04}嗯，一般都选这个吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:161:0",
+  "message_id": "MSG_157",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 07 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 4F 09}肉口香糖也有趣…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:162:0",
+  "message_id": "MSG_158",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 43 10}{F5 C1 03 01 01 01 01 01 08 01}饭团！\n好吃！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:163:0",
+  "message_id": "MSG_159",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 05 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 7D 03}{F5 C1 03 01 01 01 01 01 08 01}那当然！\n只能是那个吧！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:164:0",
+  "message_id": "MSG_160",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0B 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 8E 11}{F5 C1 03 01 01 01 01 01 01 01}还有这种东西！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:165:0",
+  "message_id": "MSG_161",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 D5 0C}{F5 C1 03 01 01 01 01 01 04 01}净教些没用的东西…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:166:0",
+  "message_id": "MSG_162",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 07 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 2D 03}{F5 C1 03 01 01 01 01 01 0A 01}何止出人意料…\n你的喜好根本在异次元…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:167:0",
+  "message_id": "MSG_163",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 10 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 7B 0B}不愧是我最重要的人。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:168:0",
+  "message_id": "MSG_167",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 10 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 01 01}而且还附带武装，\n全身都是凶器。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:168:1",
+  "message_id": "MSG_167",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 7A 0B}相当有眼光。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:169:0",
+  "message_id": "MSG_168",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 E7 02}{F5 C1 03 01 01 01 01 01 0A 01}也是…\n想想你认识的那些人，\n有个机器人也不奇怪…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:170:0",
+  "message_id": "MSG_169",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 03 01 03 01 04 01}{F5 61 0A 01 01 01 01 01 A5 02}{F5 C1 03 01 01 01 01 01 01 01}真的！？\n居然有那样的家伙！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:171:0",
+  "message_id": "MSG_170",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0B 01 21 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 E7 01}{F5 C1 03 01 01 01 01 01 0A 01}想到了…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:172:0",
+  "message_id": "MSG_171",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 01 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 6E 05}{F5 C1 03 01 01 01 01 01 0A 01}城里还真是\n什么人都有啊…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:173:0",
+  "message_id": "MSG_172",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 01 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 01 01}就是熊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:174:0",
+  "message_id": "MSG_173",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0F 01 04 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 01 01}小熊也是很罕见的类型呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:175:0",
+  "message_id": "MSG_174",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 05 01 02 01}{F5 61 0A 01 01 01 01 01 01 01}真宽容啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:176:0",
+  "message_id": "MSG_175",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 03 01 03 01 04 01}{F5 61 0A 01 01 01 01 01 A5 02}{F5 C1 03 01 01 01 01 01 01 01}真的！？\n居然有那样的家伙！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:177:0",
+  "message_id": "MSG_176",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}＞倒是想到了一个人…\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:177:1",
+  "message_id": "MSG_176",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}＞还是别管了…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:178:0",
+  "message_id": "MSG_177",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 0B 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 A0 02}{F5 C1 03 01 01 01 01 01 0A 01}什么样啊！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:179:0",
+  "message_id": "MSG_178",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 AC 0C}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:180:0",
+  "message_id": "MSG_179",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 05 01}{F5 61 0A 01 01 01 01 01 87 0B}它说，有点破绽的人，\n反而更有魅力。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:181:0",
+  "message_id": "MSG_180",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0B 01 01 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 C2 07}原来你喜欢那种啊…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:182:0",
+  "message_id": "MSG_1802",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0F 01 04 01 01 01}{F5 61 0A 01 01 01 01 01 C3 07}{F5 C1 03 01 01 01 01 01 01 01}等等！\n那不是小偷吗！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:183:0",
+  "message_id": "MSG_1803",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0B 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 07 01}啊！\n真讨厌…\n不知不觉就吐槽了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:183:1",
+  "message_id": "MSG_1803",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 01 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}咦？\n从刚才开始，\n是不是只有我在说话？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:183:2",
+  "message_id": "MSG_1803",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 09 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 83 11}{F5 C1 03 01 01 01 01 01 0A 01}讨厌，好丢脸…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:184:0",
+  "message_id": "MSG_181",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 05 01 01 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 C0 03}肉吧…\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:184:1",
+  "message_id": "MSG_181",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}我是这样。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:185:0",
+  "message_id": "MSG_182",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 90 11}肉啊…\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:185:1",
+  "message_id": "MSG_182",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}我也是。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:186:0",
+  "message_id": "MSG_183",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 05 01 0B 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 4F 03}{F5 C1 03 01 01 01 01 01 01 01}咦，选那个！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:187:0",
+  "message_id": "MSG_184",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 A7 02}你肯定选肉吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:188:0",
+  "message_id": "MSG_185",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}咦，你怎么知道！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:189:0",
+  "message_id": "MSG_186",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 A0 02}{F5 C1 03 01 01 01 01 01 0A 01}你基本只会选那个吧！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:190:0",
+  "message_id": "MSG_187",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 29 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 52 10}{F5 C1 03 01 01 01 01 01 08 01}叮咚叮咚！\n答对啦，答对啦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:191:0",
+  "message_id": "MSG_1872",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 04 01 01 01}{F5 61 0A 01 01 01 01 01 C0 11}给你圆圈形状的甜甜圈！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:192:0",
+  "message_id": "MSG_188",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 07 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 0A 01}夜店什么的…\n你又不是理世。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:193:0",
+  "message_id": "MSG_189",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0B 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 26 04}{F5 C1 03 01 01 01 01 01 07 01}咦？小理世\n会在夜店玩国王游戏？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:194:0",
+  "message_id": "MSG_190",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 02 01 01 01}{F5 61 0A 01 01 01 01 01 A0 02}{F5 C1 03 01 01 01 01 01 0A 01}天城，你不也在场吗…\n那时候。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:195:0",
+  "message_id": "MSG_191",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 01 01 02 01 01 01 02 01}{F5 86 07 01 0D 01 65 01 04 01}{F5 61 0A 01 01 01 01 01 DE 04}我不会唱歌哦！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:196:0",
+  "message_id": "MSG_192",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 A0 02}{F5 C1 03 01 01 01 01 01 0A 01}我还什么都没说！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:197:0",
+  "message_id": "MSG_193",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0C 01 01 01 04 01 04 01}{F5 61 0A 01 01 01 01 01 07 09}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 08 01}赞——成！\n呀呼！\n耶！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:198:0",
+  "message_id": "MSG_1932",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 0A 01 01 01 01 01 9B 08}…以上就是\n“只有我一个人在嗨”\n环节！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:199:0",
+  "message_id": "MSG_194",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 3C 03}没错没错…\n才怪！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:199:1",
+  "message_id": "MSG_194",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}在图书室闹起来可不行吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:200:0",
+  "message_id": "MSG_195",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 23 04}下雨天的话，说不定…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:201:0",
+  "message_id": "MSG_196",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 11 01 07 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 04 01}啊，下雨天确实…\n不对，都说了不行！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:202:0",
+  "message_id": "MSG_197",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 09 01 02 01 03 01 04 01}{F5 61 0A 01 01 01 01 01 3E 06}是仙鹤报恩的故事吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:203:0",
+  "message_id": "MSG_198",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 07 01 02 01}{F5 61 0A 01 01 01 01 01 D8 07}真怀念啊。\n小时候读过。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:204:0",
+  "message_id": "MSG_199",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 03 01 01 01}{F5 61 0A 01 01 01 01 01 17 07}{F5 C1 03 01 01 01 01 01 08 01}绝对不可以\n偷看小熊的里面哦熊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:205:0",
+  "message_id": "MSG_200",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 08 01 02 01}{F5 61 0A 01 01 01 01 01 6B 03}{F5 C1 03 01 01 01 01 01 0A 01}行啊，反正早知道了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:206:0",
+  "message_id": "MSG_201",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 11 01 0B 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 20 0C}有那样的漫画吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:207:0",
+  "message_id": "MSG_202",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 07 01 02 01}{F5 61 0A 01 01 01 01 01 A2 02}啊、嗯，不光是漫画，\n说不定身边就有…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:208:0",
+  "message_id": "MSG_203",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 11 01 02 01 02 01}{F5 61 0A 01 01 01 01 01 48 06}…嗯。\n是啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:210:0",
+  "message_id": "MSG_205",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 01 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 A2 02}{F5 C1 03 01 01 01 01 01 0A 01}现在很少听到这种说法了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:211:0",
+  "message_id": "MSG_206",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 03 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 7D 03}{F5 C1 03 01 01 01 01 01 08 01}牛排！\n这个倒是经常听到。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:213:0",
+  "message_id": "MSG_208",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 11 01 0B 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 20 0C}我、我也！\n想变帅！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:214:0",
+  "message_id": "MSG_209",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 05 01 02 01 02 01}{F5 61 0A 01 01 01 01 01 64 09}那就变强！\n然后吃肉！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:215:0",
+  "message_id": "MSG_210",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 A0 02}{F5 C1 03 01 01 01 01 01 0A 01}…顺序反了吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:216:0",
+  "message_id": "MSG_211",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0E 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 8F 0A}Brilliant！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:216:1",
+  "message_id": "MSG_211",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 21 0A}{F5 C1 03 01 01 01 01 01 08 01}…哼。\n这可是最高的赞美吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:217:0",
+  "message_id": "MSG_212",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 27 07}{F5 C1 03 01 01 01 01 01 07 01}小美，也夸夸小熊嘛！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:218:0",
+  "message_id": "MSG_213",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 F0 09}你懂Brilliant的意思吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:219:0",
+  "message_id": "MSG_214",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}完全不懂熊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:220:0",
+  "message_id": "MSG_215",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 C0 11}{F5 C1 03 01 01 01 01 01 08 01}鰤炖萝卜！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:221:0",
+  "message_id": "MSG_216",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 0E 0A}{F5 C1 03 01 01 01 01 01 04 01}…算了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:222:0",
+  "message_id": "MSG_217",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0C 01 0F 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 E3 08}{F5 C1 03 01 01 01 01 01 07 01}哦？\n“我从没走过的道”系列啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:223:0",
+  "message_id": "MSG_218",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 09 01 02 01 02 01}{F5 61 0A 01 01 01 01 01 7F 11}{F5 C1 03 01 01 01 01 01 05 01}有你走得了的道吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:224:0",
+  "message_id": "MSG_219",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 03 01 01 01}{F5 61 0A 01 01 01 01 01 84 08}漫画的王道，美式漫画之类？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:225:0",
+  "message_id": "MSG_220",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 C6 07}{F5 C1 03 01 01 01 01 01 0A 01}…这样啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:226:0",
+  "message_id": "MSG_221",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0E 01 01 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 4E 0A}花道啊。\n在礼仪方面很值得学习。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:226:1",
+  "message_id": "MSG_221",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}…前提是能忍受跪坐。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:227:0",
+  "message_id": "MSG_222",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 03 01 06 01 02 01}{F5 61 0A 01 01 01 01 01 C0 03}我嘛…\n要说的话，不太擅长吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:228:0",
+  "message_id": "MSG_223",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 0A 01}不是“不擅长”，是“做不到”吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:229:0",
+  "message_id": "MSG_224",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0B 01 07 01 07 01 04 01}{F5 61 0A 01 01 01 01 01 D8 07}啊，那下次一起射箭吧。\n其实特别畅快哦？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:229:1",
+  "message_id": "MSG_224",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}别看我这样，我可是高手。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:230:0",
+  "message_id": "MSG_225",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 01 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 01 01}小熊要射穿你的心…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:231:0",
+  "message_id": "MSG_226",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 A9 0C}{F5 C1 03 01 01 01 01 01 07 01}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:232:0",
+  "message_id": "MSG_227",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 07 01}{F5 61 0A 01 01 01 01 01 01 01}它说，\n这句就别再说了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:233:0",
+  "message_id": "MSG_228",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0F 01 03 01 01 01}{F5 61 0A 01 01 01 01 01 1D 07}{F5 C1 03 01 01 01 01 01 04 01}唔唔唔…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:234:0",
+  "message_id": "MSG_229",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}＞事情变麻烦了…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:235:0",
+  "message_id": "MSG_231",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 06 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 3D 04}{F5 C1 03 01 01 01 01 01 08 01}哎呀。\n不嫌弃我家的旅馆的话，\n随时欢迎哦。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:236:0",
+  "message_id": "MSG_232",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0E 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 3A 0A}哦，真合得来。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:236:1",
+  "message_id": "MSG_232",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}我知道个好地方，\n下次介绍给你。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:237:0",
+  "message_id": "MSG_233",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 03 01 0F 01 04 01 04 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 5E 02}哦，真意外。\n原来你的性格还挺狂野。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:238:0",
+  "message_id": "MSG_234",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 02 01 0D 01 01 01 04 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 9D 01}真意外。\n原来你这么狂野。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:239:0",
+  "message_id": "MSG_235",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 01 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 D4 02}{F5 C1 03 01 01 01 01 01 07 01}那个，难道是那间蓝色的…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:240:0",
+  "message_id": "MSG_236",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 06 01}啊，那个人啊。\n你们那边的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:241:0",
+  "message_id": "MSG_237",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 05 01 01 01}{F5 61 0A 01 01 01 01 01 C2 07}哦，原来你喜欢那种类型。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:242:0",
+  "message_id": "MSG_238",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 02 01 07 01 21 01 04 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 38 01}哈哈，有意思的看法。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:243:0",
+  "message_id": "MSG_2382",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 0D 01 01 01 01 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 24 01}{F5 C1 03 01 01 01 01 01 07 01}…你不会是认真的吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:244:0",
+  "message_id": "MSG_239",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 05 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 50 03}{F5 C1 03 01 01 01 01 01 05 01}难道你是\n想向年长者撒娇的类型？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:245:0",
+  "message_id": "MSG_240",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 0E 0A}不过在战场上\n撒娇可不行。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:246:0",
+  "message_id": "MSG_241",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 09 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 18 07}{F5 C1 03 01 01 01 01 01 09 01}就是这股严厉劲儿让熊心动！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:247:0",
+  "message_id": "MSG_242",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 08 01 07 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 1A 06}{F5 C1 03 01 01 01 01 01 0A 01}你认真的吗…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:248:0",
+  "message_id": "MSG_243",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 02 01 02 01}{F5 61 0A 01 01 01 01 01 A7 02}你又不是完二。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:249:0",
+  "message_id": "MSG_244",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 A2 05}{F5 C1 03 01 01 01 01 01 03 01}喂，等一下！\n我也喜欢姐姐啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:250:0",
+  "message_id": "MSG_245",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 01 01}哦。\n原来你有这种喜好。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:251:0",
+  "message_id": "MSG_246",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 05 01 02 01 01 01}{F5 61 0A 01 01 01 01 01 AA 05}{F5 C1 03 01 01 01 01 01 01 01}啊，那个！？\n这、这是…！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:252:0",
+  "message_id": "MSG_247",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 05 01 0B 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 4F 03}{F5 C1 03 01 01 01 01 01 01 01}真的！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:253:0",
+  "message_id": "MSG_248",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 3A 0A}说实话，真意外。\n没想到你有这种素养。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:254:0",
+  "message_id": "MSG_249",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0B 01 07 01 07 01 04 01}{F5 61 0A 01 01 01 01 01 3E 08}咦？真意外。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:254:1",
+  "message_id": "MSG_249",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}不过有点羡慕。\n这样的爱好。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:255:0",
+  "message_id": "MSG_250",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 06 01 05 01 05 01 04 01}{F5 61 0A 01 01 01 01 01 3D 04}真意外。\n原来是室内派啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:256:0",
+  "message_id": "MSG_251",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 0D 01 65 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}我也喜欢电脑。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:256:1",
+  "message_id": "MSG_251",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 03 01 65 01 01 01}{F5 61 0A 01 01 01 01 01 48 0B}{F5 C1 03 01 01 01 01 01 08 01}可以查各种东西，\n很有趣呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:257:0",
+  "message_id": "MSG_252",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 10 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 01 01}捡到手帕的人跑完１圈，\n坐到“鬼”的位置，\n就赢了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:258:0",
+  "message_id": "MSG_253",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0F 01 02 01 02 01}{F5 61 0A 01 01 01 01 01 B0 11}赢？鬼？\n到底在说什么？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:259:0",
+  "message_id": "MSG_254",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}小孩玩的游戏。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:260:0",
+  "message_id": "MSG_255",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 01 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 86 0D}这样啊。\n还真够凶险的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:261:0",
+  "message_id": "MSG_256",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0C 01 0B 01 03 01 04 01}{F5 61 0A 01 01 01 01 01 84 08}{F5 C1 03 01 01 01 01 01 0A 01}哇，你这家伙…\n原来喜欢那种啊。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:261:1",
+  "message_id": "MSG_256",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}真意外。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:262:0",
+  "message_id": "MSG_257",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0B 01 07 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 C6 07}{F5 C1 03 01 01 01 01 01 0A 01}那种东西被人捡到，\n我会想死的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:263:0",
+  "message_id": "MSG_258",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 6C 11}{F5 C1 03 01 01 01 01 01 05 01}咦？\n你有在写？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:264:0",
+  "message_id": "MSG_259",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 82 11}{F5 C1 03 01 01 01 01 01 0B 01}没、没有没有！\n只是假设！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:264:1",
+  "message_id": "MSG_259",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}因、因为很羞耻吧？\n写诗什么的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:265:0",
+  "message_id": "MSG_260",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 02 01 02 01}{F5 61 0A 01 01 01 01 01 E7 02}{F5 C1 03 01 01 01 01 01 0A 01}一般不会随身带吧。\n那种东西。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:266:0",
+  "message_id": "MSG_261",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 1D 04}是啊。\n不会有人那样吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:267:0",
+  "message_id": "MSG_262",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 01 01 01 01 02 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 BE 02}{F5 C1 03 01 01 01 01 01 0A 01}…是、是啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:268:0",
+  "message_id": "MSG_263",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0C 01 0F 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 9A 08}那可太羞耻了。\n写诗什么的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:269:0",
+  "message_id": "MSG_264",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 04 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 3E 02}{F5 C1 03 01 01 01 01 01 05 01}画画不也差不多吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:270:0",
+  "message_id": "MSG_265",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 05 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 89 11}{F5 C1 03 01 01 01 01 01 0B 01}你说什么呢！\n画画可是艺术！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:271:0",
+  "message_id": "MSG_2652",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 04 01 01 01}{F5 61 0A 01 01 01 01 01 15 09}千鸟亲！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:272:0",
+  "message_id": "MSG_266",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0A 01 02 01 02 01}{F5 61 0A 01 01 01 01 01 C6 07}{F5 C1 03 01 01 01 01 01 0A 01}你是笨蛋吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:273:0",
+  "message_id": "MSG_267",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 E7 02}就是嘛。\n女生感觉就很麻烦。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:274:0",
+  "message_id": "MSG_268",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 11 01 02 01 02 01}{F5 61 0A 01 01 01 01 01 3C 06}嗯…\n可以理解。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:275:1",
+  "message_id": "MSG_269",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0B 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 87 05}{F5 C1 03 01 01 01 01 01 0A 01}为、为什么看我…？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:276:0",
+  "message_id": "MSG_270",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0C 01 07 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 85 11}{F5 C1 03 01 01 01 01 01 0A 01}哇，选那边啊。\n不过，等等…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:277:0",
+  "message_id": "MSG_271",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 03 01 65 01 01 01}{F5 61 0A 01 01 01 01 01 F7 04}我我我！\n两边我都可以！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:278:0",
+  "message_id": "MSG_272",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 0B 01 65 01 02 01}{F5 61 0A 01 01 01 01 01 CE 0A}{F5 C1 03 01 01 01 01 01 0B 01}不是在问那个啊！\n小理世！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:279:0",
+  "message_id": "MSG_273",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 01 01 02 01 01 01 02 01}{F5 86 07 01 01 01 65 01 04 01}{F5 61 0A 01 01 01 01 01 DE 04}唔…\n我哪边都行吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:279:1",
+  "message_id": "MSG_273",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 03 01 65 01 01 01}{F5 61 0A 01 01 01 01 01 F7 04}{F5 C1 03 01 01 01 01 01 08 01}感觉像惩罚游戏，很有趣！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:280:0",
+  "message_id": "MSG_274",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 0C 01 65 01 02 01}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}好、好厉害…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:281:0",
+  "message_id": "MSG_275",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0E 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 4E 0A}我也一样。\n一定要选的话，就是衣吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:282:0",
+  "message_id": "MSG_276",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}我会自己做…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:283:0",
+  "message_id": "MSG_2762",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 76 11}{F5 C1 03 01 01 01 01 01 05 01}等等啊。\n衣…就是衣服吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:284:0",
+  "message_id": "MSG_277",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 03 01 02 01}{F5 61 0A 01 01 01 01 01 86 08}{F5 C1 03 01 01 01 01 01 0A 01}还用问？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:285:0",
+  "message_id": "MSG_278",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 29 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 CA 10}{F5 C1 03 01 01 01 01 01 08 01}我也一样！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:286:0",
+  "message_id": "MSG_279",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 7D 03}{F5 C1 03 01 01 01 01 01 08 01}肉就赞成！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:287:0",
+  "message_id": "MSG_280",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 90 11}我选衣。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:287:1",
+  "message_id": "MSG_280",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}因为吃肉，\n就等于把肌肉穿在身上。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:288:0",
+  "message_id": "MSG_281",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 AC 0C}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:289:0",
+  "message_id": "MSG_282",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0B 01 07 01 05 01 04 01}{F5 61 0A 01 01 01 01 01 C2 07}住啊…\n我们离开宿舍后会去哪儿呢…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:290:0",
+  "message_id": "MSG_283",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 A9 0C}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:291:0",
+  "message_id": "MSG_284",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 02 01 01 01 04 01}{F5 86 10 01 0D 01 01 01 05 01}{F5 61 0A 01 01 01 01 01 01 01}虎狼丸先生说，\n不需要什么房子，\n地球就是家。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:292:0",
+  "message_id": "MSG_285",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 0C 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}好、深奥…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:293:0",
+  "message_id": "MSG_286",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 10 01 01 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 01 01}道歉倒下…\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:293:1",
+  "message_id": "MSG_286",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 6E 0B}{F5 C1 03 01 01 01 01 01 05 01}是先道歉，\n然后把对方打倒吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:294:0",
+  "message_id": "MSG_287",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0B 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 65 11}{F5 C1 03 01 01 01 01 01 0A 01}…那跟反过来发火有什么区别？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:295:0",
+  "message_id": "MSG_288",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 05 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 7D 03}{F5 C1 03 01 01 01 01 01 08 01}给肉就原谅！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:296:0",
+  "message_id": "MSG_289",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 43 10}{F5 C1 03 01 01 01 01 01 08 01}给吃的就原谅！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:297:0",
+  "message_id": "MSG_290",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 0A 01}真好懂啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:298:0",
+  "message_id": "MSG_291",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0C 01 03 01 03 01 04 01}{F5 61 0A 01 01 01 01 01 89 11}{F5 C1 03 01 01 01 01 01 0B 01}喂，你！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:299:0",
+  "message_id": "MSG_292",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0D 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 64 09}{F5 C1 03 01 01 01 01 01 08 01}哼，不错。\n看来能好好锻炼一番。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:300:0",
+  "message_id": "MSG_293",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 03 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 21 0C}不愧是真田学长！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:301:0",
+  "message_id": "MSG_2932",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 A1 11}{F5 C1 03 01 01 01 01 01 0A 01}不过是不是有点孩子气…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:302:0",
+  "message_id": "MSG_294",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 11 01 0B 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 20 0C}哼…\n你意外地孩子气呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:303:0",
+  "message_id": "MSG_295",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 02 01}{F5 61 0A 01 01 01 01 01 01 01}天田少年还没\n经历过那种发展，\n可能不懂吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:304:0",
+  "message_id": "MSG_296",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 07 01 02 01 01 01}{F5 61 0A 01 01 01 01 01 A2 11}{F5 C1 03 01 01 01 01 01 0B 01}什、什么发展？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:305:0",
+  "message_id": "MSG_297",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 9D 08}{F5 C1 03 01 01 01 01 01 08 01}爱情之类？风暴之类？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:306:0",
+  "message_id": "MSG_298",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 0F 0C}{F5 C1 03 01 01 01 01 01 0A 01}…白问了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:307:0",
+  "message_id": "MSG_299",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 0B 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 A5 02}{F5 C1 03 01 01 01 01 01 07 01}你选那个！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:308:0",
+  "message_id": "MSG_300",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 64 09}{F5 C1 03 01 01 01 01 01 08 01}看来能锻炼\n半规管！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:309:0",
+  "message_id": "MSG_301",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 CC 02}{F5 C1 03 01 01 01 01 01 0B 01}是、是啊。\n你来做的话更放心。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:310:0",
+  "message_id": "MSG_302",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 01 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 41 04}你这话什么意思？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:311:0",
+  "message_id": "MSG_303",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 E1 03}只是花村身体太弱吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:312:0",
+  "message_id": "MSG_304",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 04 01}你们啊…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:313:0",
+  "message_id": "MSG_305",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 06 01 05 01 05 01 04 01}{F5 61 0A 01 01 01 01 01 54 04}真意外！\n不过咖喱这种程度，\n我们也会做吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:314:0",
+  "message_id": "MSG_306",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 02 01 02 01 01 01 02 01}{F5 86 04 01 07 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 0A 01}…她们是这么说的哦？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:315:0",
+  "message_id": "MSG_307",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 07 01 01 01 01 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 2E 01}还是别管了…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:316:0",
+  "message_id": "MSG_308",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0F 01 0D 01 65 01 04 01}{F5 61 0A 01 01 01 01 01 FC 0A}下次我也想做做看。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:317:0",
+  "message_id": "MSG_309",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 13 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 00 0C}居然会做醋腌的菜，真意外。\n那东西很费工夫吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:318:0",
+  "message_id": "MSG_310",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0B 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 A0 02}{F5 C1 03 01 01 01 01 01 0A 01}荒垣学长会谈论做菜，\n才更让人意外吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:319:0",
+  "message_id": "MSG_311",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0D 01 07 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 4F 09}再怎么说，这也不行吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:320:0",
+  "message_id": "MSG_312",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 07 01}{F5 61 0A 01 01 01 01 01 C6 07}感觉真差劲。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:321:0",
+  "message_id": "MSG_313",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 7F 08}你不懂啦。\n又不是每个人\n都像真田学长那么受欢迎。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:322:0",
+  "message_id": "MSG_314",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0B 01 09 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 C2 07}听着挺好…\n其实已经在拒绝了吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:323:0",
+  "message_id": "MSG_315",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 01 01}不一定哦？\n说不定慢慢\n就开始在意了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:324:0",
+  "message_id": "MSG_316",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 07 01 65 01 01 01}{F5 61 0A 01 01 01 01 01 DE 04}不觉得太磨叽了吗？\n直接一点多好。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:325:0",
+  "message_id": "MSG_317",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 02 01 02 01}{F5 61 0A 01 01 01 01 01 A0 02}{F5 C1 03 01 01 01 01 01 0A 01}没那张偶像笑脸，\n哪有胜算啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:326:0",
+  "message_id": "MSG_318",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 05 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 C0 03}虽然感觉有点狡猾，\n也许那样最好。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:327:0",
+  "message_id": "MSG_319",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 07 01 01 01}{F5 61 0A 01 01 01 01 01 D8 07}对对，我也赞成。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:328:0",
+  "message_id": "MSG_320",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 06 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 23 04}真干脆…\n不过这也需要勇气。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:328:1",
+  "message_id": "MSG_320",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}因为拒绝别人的一方，也会受伤…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:329:0",
+  "message_id": "MSG_321",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 BA 02}{F5 C1 03 01 01 01 01 01 08 01}嗯，肯定选那个。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:330:0",
+  "message_id": "MSG_322",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 02 01 02 01}{F5 61 0A 01 01 01 01 01 84 08}可只有一次哦？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:331:0",
+  "message_id": "MSG_323",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}一次就够了吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:332:0",
+  "message_id": "MSG_324",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 05 01 02 01}{F5 61 0A 01 01 01 01 01 D5 0C}{F5 C1 03 01 01 01 01 01 0A 01}你们…\n感觉都不像会中奖的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:333:0",
+  "message_id": "MSG_325",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0B 01 07 01 05 01 04 01}{F5 61 0A 01 01 01 01 01 C2 07}我可能也会选这个。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:334:0",
+  "message_id": "MSG_326",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 01 01}咦？选那个？\n不想一次中大奖吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:335:0",
+  "message_id": "MSG_327",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 33 04}可是只中一次的话，\n好像一下就会花光…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:336:0",
+  "message_id": "MSG_328",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 03 01 0B 01 21 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 66 02}无所谓…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:337:0",
+  "message_id": "MSG_329",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 02 01 08 01 01 01 02 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 AB 01}还是别管了…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:338:0",
+  "message_id": "MSG_330",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0D 01 03 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 8A 11}在水里确实不利…\n但敌人越强，越热血沸腾。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:339:0",
+  "message_id": "MSG_331",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 0A 01}不，一点也不热血…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:340:0",
+  "message_id": "MSG_332",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0D 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 8A 11}我也赞成。\n敌人越强，越让人热血沸腾！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:341:0",
+  "message_id": "MSG_333",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 07 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 0E 0A}{F5 C1 03 01 01 01 01 01 0A 01}赤手空拳可没胜算。\n你还想再受重伤吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:342:0",
+  "message_id": "MSG_334",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 64 09}{F5 C1 03 01 01 01 01 01 08 01}没问题！\n我已经比那时更强了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:343:0",
+  "message_id": "MSG_335",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 0B 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 E0 02}{F5 C1 03 01 01 01 01 01 0A 01}能自己说出来，真厉害。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:344:0",
+  "message_id": "MSG_336",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 0D 01 65 01 01 01}{F5 61 0A 01 01 01 01 01 DE 04}我没什么自信…只有一点点。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:345:0",
+  "message_id": "MSG_337",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0A 01 0B 01 06 01 04 01}{F5 61 0A 01 01 01 01 01 2E 07}{F5 C1 03 01 01 01 01 01 02 01}小熊也不会输熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:346:0",
+  "message_id": "MSG_338",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 DC 10}哈、哈、哈…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:347:0",
+  "message_id": "MSG_339",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}＞虎狼丸正用\n　闪闪发亮的眼睛注视着…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:348:0",
+  "message_id": "MSG_340",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0C 01 0F 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 E3 08}{F5 C1 03 01 01 01 01 01 07 01}说到口才，我可有自信不输。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:350:0",
+  "message_id": "MSG_3412",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}我也不会认输。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:351:0",
+  "message_id": "MSG_342",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}＞埃癸斯似乎\n　正在表演腹语…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:352:0",
+  "message_id": "MSG_343",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0B 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 0B 0A}{F5 C1 03 01 01 01 01 01 07 01}什么时候学会这种技能的！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:353:0",
+  "message_id": "MSG_344",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 03 01 02 01}{F5 61 0A 01 01 01 01 01 84 08}{F5 C1 03 01 01 01 01 01 0A 01}之前我才教过她…\n居然已经用得这么熟练了…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:354:0",
+  "message_id": "MSG_345",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0A 01 09 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 23 07}{F5 C1 03 01 01 01 01 01 08 01}在说小熊吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:355:1",
+  "message_id": "MSG_3452",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 4E 07}{F5 C1 03 01 01 01 01 01 0B 01}哎哎！\n是在说小熊吗！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:356:0",
+  "message_id": "MSG_346",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0C 01 0F 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 E3 08}{F5 C1 03 01 01 01 01 01 08 01}哦，很合得来嘛！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:356:1",
+  "message_id": "MSG_346",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}你很懂嘛！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:357:0",
+  "message_id": "MSG_347",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0B 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 C3 07}{F5 C1 03 01 01 01 01 01 05 01}咦？吓我一跳。\n顺平，你还觉得自己很幽默啊？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:358:0",
+  "message_id": "MSG_348",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 11 09}{F5 C1 03 01 01 01 01 01 07 01}唔唔！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:359:0",
+  "message_id": "MSG_349",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0D 01 03 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 64 09}{F5 C1 03 01 01 01 01 01 08 01}嗯，没错。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:359:1",
+  "message_id": "MSG_349",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}没有力量就什么…\n谁也保护不了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:360:0",
+  "message_id": "MSG_350",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 02 01 0D 01 01 01 04 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 2E 01}不过看起来，\n你也具备这一点…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:361:0",
+  "message_id": "MSG_351",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 09 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 1B 07}{F5 C1 03 01 01 01 01 01 09 01}没有那回事熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:362:0",
+  "message_id": "MSG_352",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 11 01 03 01 01 01}{F5 61 0A 01 01 01 01 01 27 03}{F5 C1 03 01 01 01 01 01 0A 01}又没说你。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:363:0",
+  "message_id": "MSG_353",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0C 01 0B 01 03 01 04 01}{F5 61 0A 01 01 01 01 01 84 08}就是说不在这些选项里啊。\n我倒觉得，\n幽默感很重要。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:364:0",
+  "message_id": "MSG_354",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 5E 09}除了锻炼过的身体，\n还能对男人要求什么！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:365:0",
+  "message_id": "MSG_355",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 D5 0C}{F5 C1 03 01 01 01 01 01 04 01}笨蛋…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:366:0",
+  "message_id": "MSG_356",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 11 01 01 01 04 01 04 01}{F5 61 0A 01 01 01 01 01 87 0C}{F5 C1 03 01 01 01 01 01 0B 01}咦！？那个…这…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:367:0",
+  "message_id": "MSG_357",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0A 01 0D 01 03 01 04 01}{F5 61 0A 01 01 01 01 01 9F 07}真懂行啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:368:0",
+  "message_id": "MSG_358",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 12 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 AC 0C}{F5 C1 03 01 01 01 01 01 08 01}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:369:0",
+  "message_id": "MSG_359",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 13 01 03 01 05 01 04 01}{F5 61 0A 01 01 01 01 01 AB 11}{F5 C1 03 01 01 01 01 01 04 01}啧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:369:1",
+  "message_id": "MSG_359",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}这些问题，\n还没完吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:370:0",
+  "message_id": "MSG_360",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 03 01 0D 01 01 01 04 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 DA 01}那样的人可不多。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:371:0",
+  "message_id": "MSG_361",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 01 01 04 01 02 01}{F5 61 0A 01 01 01 01 01 9B 08}{F5 C1 03 01 01 01 01 01 08 01}偶尔也有吧。\n比如我。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:372:0",
+  "message_id": "MSG_362",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0B 01 21 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 66 02}无所谓…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:373:0",
+  "message_id": "MSG_363",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 08 01 0B 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 8A 05}{F5 C1 03 01 01 01 01 01 07 01}咦，原来是这样啊！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:374:0",
+  "message_id": "MSG_3632",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 01 01 06 01 01 01}{F5 61 0A 01 01 01 01 01 6E 05}想要什么就说，我来做。\n比、比如钩织玩偶。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:375:0",
+  "message_id": "MSG_364",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 13 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 D5 0C}干吗。\n你还想对男人要求什么？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:376:0",
+  "message_id": "MSG_365",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 11 01 03 01 04 01}{F5 61 0A 01 01 01 01 01 3C 03}{F5 C1 03 01 01 01 01 01 0B 01}对对…才怪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:378:0",
+  "message_id": "MSG_367",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 02 01 01 01 01 01 04 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 C1 01}选这个啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:379:0",
+  "message_id": "MSG_368",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 03 01 0D 01 04 01 04 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 81 02}哦…真意外。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:380:0",
+  "message_id": "MSG_369",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0E 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 21 0A}{F5 C1 03 01 01 01 01 01 08 01}哼…我也赞同。\n战斗就该赢得漂亮。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:381:0",
+  "message_id": "MSG_370",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 01 01 02 01 01 01 02 01}{F5 86 07 01 0D 01 65 01 04 01}{F5 61 0A 01 01 01 01 01 71 11}{F5 C1 03 01 01 01 01 01 05 01}什么？\n学长，你叫我？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:382:0",
+  "message_id": "MSG_371",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 12 07}{F5 C1 03 01 01 01 01 01 07 01}老师！\n你在叫大家的偶像，\n小熊吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:383:0",
+  "message_id": "MSG_372",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 0A 01}这些家伙…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:384:0",
+  "message_id": "MSG_373",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 01 01 02 01 01 01 02 01}{F5 86 07 01 01 01 65 01 04 01}{F5 61 0A 01 01 01 01 01 DE 04}哦…\n原来你喜欢那种啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:385:0",
+  "message_id": "MSG_374",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 12 07}{F5 C1 03 01 01 01 01 01 07 01}队长！\n你在叫大家的偶像，\n小熊吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:386:0",
+  "message_id": "MSG_375",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 0A 01}这家伙…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:387:0",
+  "message_id": "MSG_376",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 29 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 8B 10}{F5 C1 03 01 01 01 01 01 05 01}是说那位护士吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:388:0",
+  "message_id": "MSG_377",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 03 01 02 01}{F5 61 0A 01 01 01 01 01 83 08}啊，保健室那位？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:388:1",
+  "message_id": "MSG_377",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}她说话虽然有礼貌，\n但总觉得哪里不太对劲。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:389:0",
+  "message_id": "MSG_378",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 0D 01 65 01 01 01}{F5 61 0A 01 01 01 01 01 73 11}{F5 C1 03 01 01 01 01 01 0B 01}嘘！会被听到的！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:390:0",
+  "message_id": "MSG_379",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0C 01 01 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 88 08}你还真挑啊。\n要留到下一题吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:391:0",
+  "message_id": "MSG_380",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0B 01 07 01 05 01 04 01}{F5 61 0A 01 01 01 01 01 5F 08}哦…这样啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:392:0",
+  "message_id": "MSG_381",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 05 01 11 01 05 01 04 01}{F5 61 0A 01 01 01 01 01 E9 03}那个，该怎么说…呜…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:393:0",
+  "message_id": "MSG_382",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 10 01 01 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 D5 0B}原来如此。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:394:0",
+  "message_id": "MSG_383",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 06 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 23 04}是在说小由加莉吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:395:0",
+  "message_id": "MSG_384",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 E5 02}不，要说的话，\n应该是在说天城吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:396:0",
+  "message_id": "MSG_385",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 06 01 01 01 04 01 04 01}{F5 61 0A 01 01 01 01 01 23 04}我们当中好像没有那种类型…？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:397:0",
+  "message_id": "MSG_386",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 01 01 02 01}{F5 61 0A 01 01 01 01 01 3C 06}看来是呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:398:1",
+  "message_id": "MSG_387",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 0A 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}是在说那个人吗…？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:399:0",
+  "message_id": "MSG_388",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 05 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 AA 03}哦，原来你喜欢那种啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:400:0",
+  "message_id": "MSG_389",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 04 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 0A 01 01 01 01 01 11 02}有点意外。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:401:0",
+  "message_id": "MSG_390",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0A 01 01 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 7B 07}要求很高嘛熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:402:0",
+  "message_id": "MSG_391",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0F 01 03 01 65 01 04 01}{F5 61 0A 01 01 01 01 01 48 0B}呵呵。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:403:0",
+  "message_id": "MSG_392",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 09 01 11 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 BF 06}怎么说呢，那个…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:404:0",
+  "message_id": "MSG_393",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 29 01 0B 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 AA 10}{F5 C1 03 01 01 01 01 01 01 01}唔欸！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:405:0",
+  "message_id": "MSG_1001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}选那边啊…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:406:0",
+  "message_id": "MSG_1002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 04 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 46 03}就是嘛！\n果然还是那个！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:407:0",
+  "message_id": "MSG_1003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 09 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}你竟然…嘿嘿。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:408:0",
+  "message_id": "MSG_1004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}挺懂嘛。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:409:0",
+  "message_id": "MSG_1005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}我也一样！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:410:0",
+  "message_id": "MSG_1006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}挺懂嘛！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:411:0",
+  "message_id": "MSG_1007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 05 01 03 01 06 01 04 01}{F5 61 0A 01 01 01 01 01 03 04}啊，选那个啊…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:412:0",
+  "message_id": "MSG_1008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}果然还是那个，嗯嗯。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:413:0",
+  "message_id": "MSG_1009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}哦，很合得来嘛！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:414:0",
+  "message_id": "MSG_1010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}我也一样！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:415:0",
+  "message_id": "MSG_1011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}那个…到底是什么意思？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:416:0",
+  "message_id": "MSG_1012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0B 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}吓了一跳…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:417:0",
+  "message_id": "MSG_1013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}一样呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:418:0",
+  "message_id": "MSG_1014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 06 01 05 01 05 01 04 01}{F5 61 0A 01 01 01 01 01 BD 04}果然是这样。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:419:0",
+  "message_id": "MSG_1015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}呵呵，真开心…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:420:0",
+  "message_id": "MSG_1016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 09 01 01 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 72 06}原来如此…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:421:0",
+  "message_id": "MSG_1017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}呵呵，和我一样呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:422:0",
+  "message_id": "MSG_1018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}很有道理的答案。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:423:0",
+  "message_id": "MSG_1019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0B 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}有点意外。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:424:0",
+  "message_id": "MSG_1020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}我明白。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:425:0",
+  "message_id": "MSG_1021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 29 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 C8 10}哦哦。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:426:0",
+  "message_id": "MSG_1022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 01 01 01 01}一样呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:427:0",
+  "message_id": "MSG_1023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 01 01 01 01}我也一样！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:428:0",
+  "message_id": "MSG_1024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 09 01 01 01 01 01}嘿嘿，真高兴。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:429:0",
+  "message_id": "MSG_1025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 01 01 01 01}太好了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:430:0",
+  "message_id": "MSG_1026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 01 01}原来如此。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:431:0",
+  "message_id": "MSG_1027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 01 01}我也赞同。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:432:0",
+  "message_id": "MSG_1028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 03 01 01 01 01 01}好主意。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:433:0",
+  "message_id": "MSG_1029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 07 01 01 01 01 01}无法理解…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:434:0",
+  "message_id": "MSG_1030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 05 01 01 01 01 01}你是什么意思？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:435:0",
+  "message_id": "MSG_1031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 03 01 01 01 01 01}不愧是你熊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:436:0",
+  "message_id": "MSG_1032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0A 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 9E 07}小熊也是！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:437:0",
+  "message_id": "MSG_1033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 03 01 01 01 01 01}真懂行啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:438:0",
+  "message_id": "MSG_1034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0B 01 01 01 01 01}不行不行。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:439:0",
+  "message_id": "MSG_1035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0B 01 01 01 01 01}哇，真大胆。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:440:0",
+  "message_id": "MSG_1036",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 08 01 0B 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 1E 06}{F5 C1 03 01 01 01 01 01 0A 01}真的假的…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:441:0",
+  "message_id": "MSG_1037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 08 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 1F 06}真汉子！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:442:0",
+  "message_id": "MSG_1038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 09 01 01 01 01 01}我、我也是…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:443:0",
+  "message_id": "MSG_1039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 03 01 01 01 01 01}就是啊！\n只能选那个！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:444:0",
+  "message_id": "MSG_1040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 08 01 03 01 01 01 01 01}你很懂嘛！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:445:0",
+  "message_id": "MSG_1041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 0D 01 01 01 01 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n冷静点。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:446:0",
+  "message_id": "MSG_1042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 07 01 01 01 01 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n那个不行…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:447:0",
+  "message_id": "MSG_1043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 0D 01 01 01 01 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n我也会选那个。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:448:0",
+  "message_id": "MSG_1044",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 0D 01 01 01 01 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n一样啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:449:0",
+  "message_id": "MSG_1045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 02 01 0D 01 01 01 04 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n选这个啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:450:0",
+  "message_id": "MSG_1041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 0D 01 01 01 01 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n冷静点。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:451:0",
+  "message_id": "MSG_1042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 07 01 01 01 01 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n那个不行…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:452:0",
+  "message_id": "MSG_1043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 0D 01 01 01 01 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n我也会选那个。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:453:0",
+  "message_id": "MSG_1044",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 0D 01 01 01 01 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n一样啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:454:0",
+  "message_id": "MSG_1045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 02 01 0D 01 01 01 04 01}{F1 25}{F5 C1 0F 01 01 01 01 01 01 01}　\n选这个啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:455:0",
+  "message_id": "MSG_1046",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 07 01 01 01 01 01}呜…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:456:0",
+  "message_id": "MSG_1047",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 03 01 01 01 01 01}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:457:0",
+  "message_id": "MSG_1048",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 05 01 01 01 01 01}呜噜噜…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:458:0",
+  "message_id": "MSG_1049",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 03 01 01 01 01 01}汪呜——！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:459:0",
+  "message_id": "MSG_1050",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 07 01 01 01 01 01}汪？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:460:0",
+  "message_id": "MSG_1051",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}不愧是你。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:461:0",
+  "message_id": "MSG_1052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 0B 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}出乎意料。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:462:0",
+  "message_id": "MSG_1053",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 10 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 E6 0B}更新数据。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:463:0",
+  "message_id": "MSG_1054",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}我也赞同。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:464:0",
+  "message_id": "MSG_1055",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}这是个难题。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:465:0",
+  "message_id": "MSG_1056",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0B 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}那个…你认真的吗？\n是在开玩笑吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:466:0",
+  "message_id": "MSG_1057",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}真不敢相信…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:467:0",
+  "message_id": "MSG_1058",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}和我一样呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:468:0",
+  "message_id": "MSG_1059",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 11 01 0B 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 A6 0C}{F5 C1 03 01 01 01 01 01 0A 01}真大胆…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:469:0",
+  "message_id": "MSG_1060",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}我也是！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:470:0",
+  "message_id": "MSG_1061",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0D 01 07 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 E2 09}再怎么说，这也不行吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:471:0",
+  "message_id": "MSG_1062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0D 01 03 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 E5 09}你很懂嘛。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:472:0",
+  "message_id": "MSG_1063",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0D 01 03 01 02 01 04 01}{F5 61 0A 01 01 01 01 01 E6 09}哼…选得好。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:473:0",
+  "message_id": "MSG_1064",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0D 01 0D 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 E7 09}我也赞成。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:474:0",
+  "message_id": "MSG_1065",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0D 01 0B 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 E9 09}{F5 C1 03 01 01 01 01 01 0A 01}你…认真的？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:475:0",
+  "message_id": "MSG_1066",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 09 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}不、不知羞耻！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:476:0",
+  "message_id": "MSG_1067",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0E 01 03 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 A9 0A}哦，真合得来。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:477:0",
+  "message_id": "MSG_1068",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0B 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}喂…你不会是认真的吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:478:0",
+  "message_id": "MSG_1069",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0E 01 0B 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 A8 0A}{F5 C1 03 01 01 01 01 01 0A 01}原来你有这种喜好…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:479:0",
+  "message_id": "MSG_1070",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}太出色了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:480:0",
+  "message_id": "MSG_1071",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}不行不行，那个可不行。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:481:0",
+  "message_id": "MSG_1072",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0B 01 07 01 07 01 04 01}{F5 61 0A 01 01 01 01 01 60 08}啊，我也赞成。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:482:0",
+  "message_id": "MSG_1073",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0B 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}哇，有点接受不了…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:483:0",
+  "message_id": "MSG_1074",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0B 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}咦咦，不是吧！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:484:0",
+  "message_id": "MSG_1075",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0B 01 07 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 63 08}{F5 C1 03 01 01 01 01 01 0A 01}哇，原来选这个。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:485:0",
+  "message_id": "MSG_1076",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}没辙是也！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:486:0",
+  "message_id": "MSG_1077",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}不懂气氛，无名氏！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:487:0",
+  "message_id": "MSG_1078",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}不不，那个可不行吧！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:488:0",
+  "message_id": "MSG_1079",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}就是嘛，是男人就选那个。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:489:0",
+  "message_id": "MSG_1080",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}你、你这是什么喜好！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:490:0",
+  "message_id": "MSG_1081",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0B 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n咦？\n是这样！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:491:0",
+  "message_id": "MSG_1082",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n我大概也会这么答。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:492:0",
+  "message_id": "MSG_1083",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n有点意外。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:493:0",
+  "message_id": "MSG_1084",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 03 01 0D 01 04 01 04 01}{F5 61 0A 01 01 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n没想到你会选那个…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:494:0",
+  "message_id": "MSG_1085",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n哦…真意外。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:495:0",
+  "message_id": "MSG_1086",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 13 01 03 01 05 01 04 01}{F5 61 0A 01 01 01 01 01 68 0D}你认真的吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:496:0",
+  "message_id": "MSG_1087",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 0D 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}我也赞成。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:497:0",
+  "message_id": "MSG_1088",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}你很懂嘛。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:498:0",
+  "message_id": "MSG_1089",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}再怎么说也不行吧…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:499:0",
+  "message_id": "MSG_1090",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 07 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}难以置信…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:500:0",
+  "message_id": "MSG_1091",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 09 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}怎么说呢，那个…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:501:0",
+  "message_id": "MSG_1092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 10 01 09 01 01 01 01 01}{F5 61 0A 01 01 01 01 01 01 01}这一定就是，害羞的感觉…\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/gcs.bin_gconSelectQuestion.bf.json:502:0",
+  "message_id": "MSG_0472",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0B 01 0B 01 01 01 04 01}{F5 61 0A 01 01 01 01 01 C3 07}{F5 C1 03 01 01 01 01 01 0A 01}为什么是草…？\n而且一大堆是什么意思…！？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

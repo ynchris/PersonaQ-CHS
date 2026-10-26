@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(106).BMD.json:0:0",
+  "message_id": "BTL_MES_H125_107_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DE 02}啊！副队长！\n怎么会……大家，回答我啊！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(106).BMD.json:1:0",
+  "message_id": "BTL_MES_H125_107_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DF 02}副队长！！怎么会……\n大家也？为什么……为什么！\n{F2 26 00 00}{00}"
+ }
+]

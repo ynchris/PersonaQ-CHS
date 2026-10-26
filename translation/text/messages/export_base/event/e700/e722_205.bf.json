@@ -1,0 +1,37 @@
+[
+ {
+  "key": "export_base/event/e700/e722_205.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 03 01 01 01 01 01 0A 01}呼……\n东奔西跑，真累啊……\n{F2 23 79 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_205.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 09 01 02 01 01 01}{F5 61 02 01 01 01 01 01 01 01}差不多想休息一下了……\n{F2 23 3D 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_205.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 04 01 01 01 01 01 03 01}为这样的迷途小羊们，带来一个好消息。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_205.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 04 01 01 01 01 01 03 01}距离下一个命运问题房间……\n竟然只剩５步。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_205.bf.json:2:2",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 04 01 01 01 01 01 03 01}你们可以来，也可以不来，\n可以前进，也可以不前进。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_205.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 13 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 03 01 01 01 01 01 0A 01}喂，这话也太含糊了。\n{F2 23 3D 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_205.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}但我们不能停下脚步。\n继续前进。\n{F2 23 79 01}{F1 21}{00}"
+ }
+]

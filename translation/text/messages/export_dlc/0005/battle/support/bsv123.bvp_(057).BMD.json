@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:0:0",
+  "message_id": "BTL_MES_H123_058_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 78 01}副队长大人，您中毒了！\n必须赶快解毒！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:1:0",
+  "message_id": "BTL_MES_H123_058_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6F 01}副队长大人似乎中毒了。\n请问哪位能够解毒？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:2:0",
+  "message_id": "BTL_MES_H123_058_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 79 01}花村大人中毒了。\n不尽快解毒，之后可有苦头吃……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:3:0",
+  "message_id": "BTL_MES_H123_058_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7A 01}里中大人中毒了！\n尽快解毒才是上策！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:4:0",
+  "message_id": "BTL_MES_H123_058_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7B 01}天城大人中毒了。\n应当尽早解毒，刻不容缓！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:6:0",
+  "message_id": "BTL_MES_H123_058_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7C 01}巽大人中毒了。\n看那脸色便一目了然！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:7:0",
+  "message_id": "BTL_MES_H123_058_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7E 01}白钟大人中毒了。\n来，快点解毒！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:8:0",
+  "message_id": "BTL_MES_H123_058_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7D 01}小熊大人中毒了！\n各位有解毒的手段吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:9:0",
+  "message_id": "BTL_MES_H123_058_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 70 01}岳羽大人，您中毒了吗？\n脸色都变紫了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:10:0",
+  "message_id": "BTL_MES_H123_058_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 71 01}伊织大人中毒了。\n不赶快解毒，之后可有苦头吃……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:11:0",
+  "message_id": "BTL_MES_H123_058_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 72 01}真田大人似乎中毒了。\n必须赶快解毒！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:12:0",
+  "message_id": "BTL_MES_H123_058_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 73 01}啊……桐条大人的脸色发紫……\n这也是毒的缘故吗……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:14:0",
+  "message_id": "BTL_MES_H123_058_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 76 01}埃癸斯大人中毒了。\n可以替她解毒吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:15:0",
+  "message_id": "BTL_MES_H123_058_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 74 01}天田大人中毒了。\n请立即安排解毒！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:16:0",
+  "message_id": "BTL_MES_H123_058_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 75 01}怎么会这样……\n虎狼丸大人中毒了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:17:0",
+  "message_id": "BTL_MES_H123_058_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 77 01}荒垣大人中毒了！\n请问哪位能够解毒？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:18:0",
+  "message_id": "BTL_MES_H123_058_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 7F 01}善大人和玲大人中毒了！\n两位的脸色都变紫了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:19:0",
+  "message_id": "BTL_MES_H123_058_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 80 01}善大人中毒了！\n迅速解毒才是团队和睦的秘诀！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:20:0",
+  "message_id": "BTL_MES_H123_058_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6E 01}啊……队长大人的脸色发紫……\n请赶快解毒！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(057).BMD.json:21:0",
+  "message_id": "BTL_MES_H123_058_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6D 01}啊，队长大人中毒了……\n请立即解毒！\n{F2 26 00 00}{00}"
+ }
+]

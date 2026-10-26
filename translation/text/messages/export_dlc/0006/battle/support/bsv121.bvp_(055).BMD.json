@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:0:0",
+  "message_id": "BTL_MES_H121_056_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 64 01}副队长大人快倒下了。\n但愿还能及时恢复……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:1:0",
+  "message_id": "BTL_MES_H121_056_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5B 01}副队长大人的体力\n少得令人吃惊。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:2:0",
+  "message_id": "BTL_MES_H121_056_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 65 01}花村阳介先生的体力\n真是令人失望……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:3:0",
+  "message_id": "BTL_MES_H121_056_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 66 01}里中千枝小姐的体力如何？\n在下觉得并不充足……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:4:0",
+  "message_id": "BTL_MES_H121_056_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 67 01}天城雪子小姐的体力很危险。\n是的，令人心惊呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:6:0",
+  "message_id": "BTL_MES_H121_056_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 68 01}巽完二先生的体力减少了。\n不如趁倒下前恢复一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:7:0",
+  "message_id": "BTL_MES_H121_056_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6A 01}请看白钟直斗小姐的体力。\n她似乎随时会倒下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:8:0",
+  "message_id": "BTL_MES_H121_056_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 69 01}小熊大人奄奄一息……\n医疗兵！？医疗兵——！！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:9:0",
+  "message_id": "BTL_MES_H121_056_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5C 01}岳羽由加莉小姐还好吗？\n体力似乎所剩不多……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:10:0",
+  "message_id": "BTL_MES_H121_056_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5D 01}伊织顺平先生奄奄一息……\n建议尽快恢复。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:11:0",
+  "message_id": "BTL_MES_H121_056_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5E 01}真田明彦先生快倒下了……\n放着不管，也是一种修行吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:12:0",
+  "message_id": "BTL_MES_H121_056_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5F 01}桐条美鹤小姐体力所剩无几……\n还请小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:14:0",
+  "message_id": "BTL_MES_H121_056_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 62 01}埃癸斯小姐还好吗？\n已接近极限……是也。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:15:0",
+  "message_id": "BTL_MES_H121_056_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 60 01}天田乾先生的体力极少……\n放着不管未免太残酷。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:16:0",
+  "message_id": "BTL_MES_H121_056_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 61 01}虎狼丸大人体力很少……小心\n变成虎“亡”丸……开个玩笑。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:17:0",
+  "message_id": "BTL_MES_H121_056_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 63 01}荒垣真次郎先生的体力，\n少得令人不忍直视。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:18:0",
+  "message_id": "BTL_MES_H121_056_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6B 01}请留意善大人和玲小姐的体力。\n等倒下了可就麻烦了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:19:0",
+  "message_id": "BTL_MES_H121_056_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6C 01}善大人受了不少伤……\n放着不管，也太残酷了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:20:0",
+  "message_id": "BTL_MES_H121_056_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5A 01}队长大人的体力\n已进入危险范围……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(055).BMD.json:21:0",
+  "message_id": "BTL_MES_H121_056_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 59 01}哎呀……队长大人\n已经奄奄一息……\n{F2 26 00 00}{00}"
+ }
+]

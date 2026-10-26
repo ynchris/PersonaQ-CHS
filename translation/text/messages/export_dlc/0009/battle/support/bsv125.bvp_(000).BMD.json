@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(000).BMD.json:0:0",
+  "message_id": "BTL_MES_H125_001_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4C 01}啊，是Ｆ……什么来着！\n得快点逃！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(000).BMD.json:1:0",
+  "message_id": "BTL_MES_H125_001_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4D 01}啊，Ｆ……什么来着，来了！\n得快点逃！很危险哦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(000).BMD.json:2:0",
+  "message_id": "BTL_MES_H125_001_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4E 01}菜、菜菜子怕这个敌人！\n快点逃吧！\n{F2 26 00 00}{00}"
+ }
+]

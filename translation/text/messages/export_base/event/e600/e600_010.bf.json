@@ -1,0 +1,137 @@
+[
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 03 01 05 01 02 01}{F5 61 02 01 01 01 01 01 02 01}各位，辛苦了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}出口的门已经打开。\n准备好后，随时可以进入。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 01 01 04 01 01 01}{F5 61 02 01 01 01 01 01 04 01}准备……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 15 01 02 01 01 01 05 01}{F5 86 29 01 10 01 10 01 02 01}{F5 86 07 01 05 01 02 01 04 01}{F5 61 02 01 01 01 01 01 05 01}……还没好吧！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 06 01}我们还没玩个够呢！\n留下的回忆还不够多嘛。\n对吧，玲、善？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0F 01 10 01 01 01}{F5 61 02 01 01 01 01 01 07 01}咦……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 24 01 03 01 04 01 01 01}{F5 61 02 01 01 01 01 01 08 01}那么，就让出口\n再维持一会儿吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 13 01 01 01}{F5 61 02 01 01 01 01 01 09 01}……嗯，谢谢！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:6:0",
+  "message_id": "MSG_0052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 10 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}那个，我想，嗯……\n和大家一起走走。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:6:1",
+  "message_id": "MSG_0052",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 11 01 10 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}想和大家一起逛逛学校。\n……不行吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:7:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}当然可以啊！\n其实我也有想进去玩的项目！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:8:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 05 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0D 01}啊，理世还没进去过啊。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:9:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}对呀。\n和风花聊天是很开心，\n但要是大家都在就更好了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:10:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 09 01 02 01 07 01}{F5 61 02 01 01 01 01 01 0F 01}呵呵，是啊。\n在鬼屋的时候，\n大家好像都玩得特别开心呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 10 01}{F5 C1 03 01 01 01 01 01 04 01}那只是吓得一直在叫……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 02 01 01 01 02 01}{F5 86 0F 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 11 01}好像已经没有阴影了，\n我们也想去看看。\n……可以吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:13:0",
+  "message_id": "SEL_TALK012",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 03 01 02 01 01 01 02 01}大家一起逛吧{F5 47 02 01 03 01 07 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:13:1",
+  "message_id": "SEL_TALK012",
+  "translation": "{F2 05 FF FF}{F1 41}我们两个去吧{F5 47 02 01 03 01 07 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:13:2",
+  "message_id": "SEL_TALK012",
+  "translation": "{F2 05 FF FF}{F1 41}风花负责看家{F5 47 02 01 03 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 12 01}呵呵，真开心。\n要给我多讲讲哦。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:15:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 09 01 01 01 01 01}{F5 61 02 01 01 01 01 01 13 01}{F5 C1 03 01 01 01 01 01 01 01}咦！？\n可是，大家都在这里……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:16:0",
+  "message_id": "MSG_0142",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0B 01 02 01 01 01}{F5 61 02 01 01 01 01 01 14 01}{F5 C1 03 01 01 01 01 01 0B 01}……队长！\n你怎么在笑啊！\n原来在捉弄我……真是的！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:17:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 15 01}{F5 C1 03 01 01 01 01 01 05 01}咦……？\n难道说，你觉得\n可能还有阴影……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:18:0",
+  "message_id": "MSG_0152",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 16 01}那我就\n继续为大家提供支援……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:18:1",
+  "message_id": "MSG_0152",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 0F 01 0E 01 02 01 01 01}{F5 61 02 01 01 01 01 01 17 01}……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:18:2",
+  "message_id": "MSG_0152",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0B 01 02 01 01 01}{F5 61 02 01 01 01 01 01 18 01}{F5 C1 03 01 01 01 01 01 07 01}啊……你是在欺负我吧？\n还在那里偷笑……真是的！\n不理你了！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e600/e600_010.bf.json:19:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 03 01 01 01 01 01}{F5 61 02 01 01 01 01 01 19 01}{F5 C1 03 01 01 01 01 01 08 01}那就这么定了！\n麻烦大家带我们参观迷宫啦！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

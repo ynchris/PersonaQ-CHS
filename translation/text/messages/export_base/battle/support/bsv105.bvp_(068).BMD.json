@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:0:0",
+  "message_id": "BTL_MES_H105_069_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 64 02}前辈的速度被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:1:0",
+  "message_id": "BTL_MES_H105_069_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5B 02}副队长的\n速度被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:2:0",
+  "message_id": "BTL_MES_H105_069_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 65 02}花村前辈的速度被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:3:0",
+  "message_id": "BTL_MES_H105_069_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 66 02}千枝前辈的速度被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:4:0",
+  "message_id": "BTL_MES_H105_069_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 67 02}雪子前辈的速度被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:6:0",
+  "message_id": "BTL_MES_H105_069_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 68 02}完二的速度被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:7:0",
+  "message_id": "BTL_MES_H105_069_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6A 02}直斗的速度被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:8:0",
+  "message_id": "BTL_MES_H105_069_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 69 02}小熊的速度被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:9:0",
+  "message_id": "BTL_MES_H105_069_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5C 02}由加莉的速度\n被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:10:0",
+  "message_id": "BTL_MES_H105_069_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5D 02}顺平先生的速度\n被降低了，要小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:11:0",
+  "message_id": "BTL_MES_H105_069_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5E 02}真田先生，速度下降了。\n要小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:12:0",
+  "message_id": "BTL_MES_H105_069_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5F 02}美鹤女士的速度被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:14:0",
+  "message_id": "BTL_MES_H105_069_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 62 02}埃癸斯的速度被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:15:0",
+  "message_id": "BTL_MES_H105_069_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 60 02}乾的速度被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:16:0",
+  "message_id": "BTL_MES_H105_069_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 61 02}小虎的速度被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:17:0",
+  "message_id": "BTL_MES_H105_069_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 63 02}荒垣先生的速度被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:18:0",
+  "message_id": "BTL_MES_H105_069_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6B 02}善和玲的\n速度被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:19:0",
+  "message_id": "BTL_MES_H105_069_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6C 02}善的速度被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:20:0",
+  "message_id": "BTL_MES_H105_069_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5A 02}前辈，速度被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(068).BMD.json:21:0",
+  "message_id": "BTL_MES_H105_069_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 59 02}队长，速度被降低了。\n{F2 26 00 00}{00}"
+ }
+]

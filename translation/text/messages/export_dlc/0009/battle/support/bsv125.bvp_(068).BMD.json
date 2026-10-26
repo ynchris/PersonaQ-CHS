@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:0:0",
+  "message_id": "BTL_MES_H125_069_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 64 02}哥哥，\n动作变慢了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:1:0",
+  "message_id": "BTL_MES_H125_069_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5B 02}副队长，\n动作变慢了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:2:0",
+  "message_id": "BTL_MES_H125_069_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 65 02}阳介哥哥变慢了。\n变慢了哦——。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:3:0",
+  "message_id": "BTL_MES_H125_069_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 66 02}千枝姐姐，\n好像没法动得很快了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:4:0",
+  "message_id": "BTL_MES_H125_069_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 67 02}雪子姐姐，\n好像没法动得很快了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:6:0",
+  "message_id": "BTL_MES_H125_069_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 68 02}完二哥哥，\n动作变慢了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:7:0",
+  "message_id": "BTL_MES_H125_069_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6A 02}直斗姐姐，\n好像没法动得很快了！要小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:8:0",
+  "message_id": "BTL_MES_H125_069_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 69 02}小熊先生慢慢地动着……\n和平时不一样了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:9:0",
+  "message_id": "BTL_MES_H125_069_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5C 02}由加莉姐姐，\n好像没法动得很快了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:10:0",
+  "message_id": "BTL_MES_H125_069_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5D 02}顺平哥哥，\n动作变慢了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:11:0",
+  "message_id": "BTL_MES_H125_069_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5E 02}真田哥哥变慢了！\n这也是敌人害的吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:12:0",
+  "message_id": "BTL_MES_H125_069_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5F 02}美鹤姐姐，\n好像没法动得很快了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:14:0",
+  "message_id": "BTL_MES_H125_069_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 62 02}埃癸斯姐姐，\n动作变慢了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:15:0",
+  "message_id": "BTL_MES_H125_069_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 60 02}乾，\n动作变慢了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:16:0",
+  "message_id": "BTL_MES_H125_069_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 61 02}小虎变慢了！\n连菜菜子都能追上了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:17:0",
+  "message_id": "BTL_MES_H125_069_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 63 02}怎么办……荒垣哥哥，\n动作变慢了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:18:0",
+  "message_id": "BTL_MES_H125_069_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6B 02}善哥哥和玲姐姐，\n没法动得很快了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:19:0",
+  "message_id": "BTL_MES_H125_069_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 6C 02}善哥哥，\n动作变慢了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:20:0",
+  "message_id": "BTL_MES_H125_069_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 5A 02}哥哥现在没法动得很快，\n要小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(068).BMD.json:21:0",
+  "message_id": "BTL_MES_H125_069_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 59 02}队长，\n动作变慢了！\n{F2 26 00 00}{00}"
+ }
+]

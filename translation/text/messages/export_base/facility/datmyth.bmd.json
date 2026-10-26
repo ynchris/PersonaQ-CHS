@@ -1,0 +1,962 @@
+[
+ {
+  "key": "export_base/facility/datmyth.bmd.json:1:0",
+  "message_id": "myth_001",
+  "translation": "{F2 05 FF FF}{F1 41}日本神话中在国土诞生之\n前就已留名的原始神之一\n。于混沌中创造出了大八\n岛国，在那里诞下许多子\n女，被视为大地与自然的\n基石。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:2:0",
+  "message_id": "myth_002",
+  "translation": "{F2 05 FF FF}{F1 41}拥有粘液状身体的原始型\n怪物。其起源众说纷纭，\n目前尚无定论。一般认为\n有收集发光物品的习性。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:3:0",
+  "message_id": "myth_003",
+  "translation": "{F2 05 FF FF}{F1 41}日本神话中的艺能女神。\n掌管镇魂、神谕等多种神\n乐舞。为唤回躲在岩户中\n的天照大神而宽衣献舞的\n故事广为人知。后来成为\n猿田彦之妻。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:4:0",
+  "message_id": "myth_004",
+  "translation": "{F2 05 FF FF}{F1 41}圣经《马可福音》中自称“\n我乃众多”的恶灵群体。据\n说其名源于当时罗马军队的\n用语，意为规模达5000\n人的军团。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:5:0",
+  "message_id": "myth_005",
+  "translation": "{F2 05 FF FF}{F1 41}所罗门王的72柱魔神\n之一。半兽半人的恶魔\n。能够将召唤者变成其\n希望的模样，但这份力\n量只能持续非常短暂的\n时间。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:6:0",
+  "message_id": "myth_006",
+  "translation": "{F2 05 FF FF}{F1 41}追求强大邪恶力量的杰\n克霜精。虽然是可怕之\n中带有一点可爱的杰克\n霜精，但只要没有忘记\n身为恶魔该有的锻炼，\n就能化为此种拥有魔王\n级力量的个体。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:7:0",
+  "message_id": "myth_007",
+  "translation": "{F2 05 FF FF}{F1 41}所罗门王的72柱魔神之\n一。以五芒星图的奇妙形\n象示人的恶魔。熟知鸟类\n与宝石相关的知识，据说\n其使魔也呈现鸟的外型。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:8:0",
+  "message_id": "myth_008",
+  "translation": "{F2 05 FF FF}{F1 41}在一些阴阳道部分流派中\n使役的强力式神。虽然能\n为害一方也能驱除病魔，\n但据说其本性为鬼神，凶\n猛异常。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:9:0",
+  "message_id": "myth_009",
+  "translation": "{F2 05 FF FF}{F1 41}北欧神话的恶神。他并非\n是十恶不赦，但个性反复\n无常，且精于阴谋算计。\n虽然曾一度与主神奥丁缔\n结义兄弟之约，却因为被\n发现犯下了杀害其子巴德\n尔等恶行，最后受到了惩\n罚。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:10:0",
+  "message_id": "myth_010",
+  "translation": "{F2 05 FF FF}{F1 41}由犹太系魔术师使役\n的，没有实体的使魔\n总称。一般被封在壶\n或瓶子里。据说会听\n从魔术师的指令，折\n磨目标。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:11:0",
+  "message_id": "myth_011",
+  "translation": "{F2 05 FF FF}{F1 41}所罗门王的72柱魔神之\n一。以马的姿态现身，据\n说能回答召唤者关于过去\n、现在、未来的任何问题\n。也被称为魔术师的协助\n者。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:12:0",
+  "message_id": "myth_012",
+  "translation": "{F2 05 FF FF}{F1 41}英格兰的传说中寒冬与\n冰霜的妖精。基本上是\n个没有恶意的存在，但\n也有可怕的一面。要是\n惹怒了它，就会被它冻\n成冰块、惨遭杀害。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:13:0",
+  "message_id": "myth_013",
+  "translation": "{F2 05 FF FF}{F1 41}中国传说中寄宿在多人上\n吊之树上的树精。外形是\n身穿白衣的美少女，身体\n却比人小得多。据说不会\n说话，但声音如小鸟般清\n澈。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:14:0",
+  "message_id": "myth_014",
+  "translation": "{F2 05 FF FF}{F1 41}在英格兰的传说中类似鬼\n火的存在。相传是生前过\n着堕落生涯的人的灵魂，\n被冥界所拒之门外，因此\n只能以此种姿态四处彷徨\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:15:0",
+  "message_id": "myth_015",
+  "translation": "{F2 05 FF FF}{F1 41}北欧神话中伴随人类的\n灵体。既是农耕畜牧的\n守护者，也被认为掌管\n战运。有时被视作女武\n神的随从，或承担相同\n职责的存在，也有低阶\n女神的说法。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:16:0",
+  "message_id": "myth_016",
+  "translation": "{F2 05 FF FF}{F1 41}在印度尼西亚·巴厘岛\n的神话中流传的邪恶魔\n女。象征巴厘岛·印度\n教的恶之侧面，与象征\n善的神兽巴隆对立而生\n。即使被打倒也必定会\n转生，持续着永无止尽\n的战斗。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:17:0",
+  "message_id": "myth_017",
+  "translation": "{F2 05 FF FF}{F1 41}阿拉伯传说中的风与火之\n精灵，以“神灯精灵”的\n形象广为人知。能自由创\n造宫殿与财宝，自身也变\n化自如。常被过去的召唤\n者封印在瓶或壶中。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:18:0",
+  "message_id": "myth_018",
+  "translation": "{F2 05 FF FF}{F1 41}北欧神话中的巨人之王。\n是火之国穆斯贝尔海姆的\n支配者，手持火焰缠绕的\n魔剑“雷瓦汀”。在诸神\n黄昏之际，他率领大军攻\n入阿斯加德，一举歼灭了\n阿萨神族。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:19:0",
+  "message_id": "myth_019",
+  "translation": "{F2 05 FF FF}{F1 41}在印度神话中登场的强\n大怪物。名字意为“沉\n醉”，据说其身形巨大\n到能够一口吞下整个宇\n宙与所有的神祇。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:20:0",
+  "message_id": "myth_020",
+  "translation": "{F2 05 FF FF}{F1 41}阿伊努传说中小人形的妖\n怪，被称为“住在蜂斗菜\n下的人”，性情善良温和\n。据说曾与阿伊努人共存\n，后来因某次不和而消失\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:21:0",
+  "message_id": "myth_021",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话中的女神，梵\n天之妻。被视为河流的\n化身，名字意为“拥有\n水者”。也以技艺之神\n闻名，据说能自如运用\n６４种音乐与艺术。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:22:0",
+  "message_id": "myth_022",
+  "translation": "{F2 05 FF FF}{F1 41}皮克希群体中的首领。\n拥有出众魔力与统率力\n的皮克希，会被冠以这\n个称呼。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:23:0",
+  "message_id": "myth_023",
+  "translation": "{F2 05 FF FF}{F1 41}被喻为永远的生命之源的\n恒河女神。原本是环绕在\n诸神居住的梅尔山顶的布\n拉赫曼城周围的河川，但\n因为贤者跋吉罗陀的苦行\n而落至凡间。从那之后，\n便持续为诸神与人们带来\n恩惠。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:24:0",
+  "message_id": "myth_024",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话中湿婆的妃子之\n一。其姿态非常美丽，被\n视作一切美好事物的象征\n。总是随侍在湿婆身旁，\n曾经协助湿婆开启第三只\n眼。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:25:0",
+  "message_id": "myth_025",
+  "translation": "{F2 05 FF FF}{F1 41}日本神话中的女神。北陆\n白山的丰饶神。当伊邪那\n岐和伊邪那美在黄泉比良\n坂争执时，是她从中调停\n。她也因此被认为是和死\n亡与复活有关的女神。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:26:0",
+  "message_id": "myth_026",
+  "translation": "{F2 05 FF FF}{F1 41}以鬼子母神之姿为人所知\n的女神。原本是会吃人类\n小孩的邪恶鬼怪，但受到\n释迦的教诲而改过向善。\n取而代之，开始吃石榴果\n实，转变为守护孩子成长\n的神。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:27:0",
+  "message_id": "myth_027",
+  "translation": "{F2 05 FF FF}{F1 41}在阿兹特克神话中司掌夜\n晚与恐怖的女神。持续与\n身为神的太阳争斗，是引\n发灾厄日食的死亡与邪恶\n的象征。每隔52年就会\n寻求活祭品，妒心深重且\n邪恶的神。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:28:0",
+  "message_id": "myth_028",
+  "translation": "{F2 05 FF FF}{F1 41}凯尔特神话的女神。也\n是统治“影之国”的女\n王。虽然是咒术师，但\n武艺高强，后来成为库\n夫林的师父，将魔枪盖\n伯尔格传授给了他。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:29:0",
+  "message_id": "myth_029",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话的鬼女。原本是\n达罗毗荼人信奉的丰饶女\n神，但随着与其思想对立\n的印度教普及，她被解释\n为恶鬼。常被世人描绘成\n拥有丰满肉体的全裸女性\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:30:0",
+  "message_id": "myth_030",
+  "translation": "{F2 05 FF FF}{F1 41}月夜森林的支配者，也是\n妖精王奥伯龙的王妃。据\n说起源是罗马神话的月亮\n女神黛安娜。后来在英国\n被解释为妖精，在莎士比\n亚的“仲夏夜之梦”中被\n认定为女王。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:31:0",
+  "message_id": "myth_031",
+  "translation": "{F2 05 FF FF}{F1 41}生有毒牙，头上并非是\n头发而是长着蛇的丑陋\n女魔物。在希腊语中意\n为“恐惧之物”。其首\n级被珀修斯斩下，并被\n献给了曾帮助过他的众\n神。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:32:0",
+  "message_id": "myth_032",
+  "translation": "{F2 05 FF FF}{F1 41}立于天使阶级制度顶点的\n四大天使之一。据说是告\n知圣母受胎的圣告天使。\n名字意为“统率者”。其\n容貌有如少女，有人认为\n在天使之中，只有加百列\n并非性别中立，而是女性\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:33:0",
+  "message_id": "myth_033",
+  "translation": "{F2 05 FF FF}{F1 41}凯尔特神话中的黑暗女\n神。其名意为“影子”\n，据说是在最后审判之\n日众神堕落之处的“影\n子”。有时被视为与女\n神斯卡哈为同一人物。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:34:0",
+  "message_id": "myth_034",
+  "translation": "{F2 05 FF FF}{F1 41}《约翰启示录》中记载\n的“大淫妇”魔人。据\n说她骑着违抗神明的赤\n色巨兽，巨兽长着７个\n头和１０只角，她手中\n则捧着盛满污秽的金杯\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:35:0",
+  "message_id": "myth_035",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话中记载的美与幸\n福之神。是毗湿奴的妃子\n，也是爱神迦摩的母亲。\n拥有将女性的理想形象具\n象化的容貌，以惊人的美\n貌为傲。也以妖艳的舞者\n闻名，许多神明都为之倾\n倒。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:36:0",
+  "message_id": "myth_036",
+  "translation": "{F2 05 FF FF}{F1 41}妖精们的王。娶了女王\n缇坦妮娅为妻，掌管妖\n精间所有的祭祀。虽然\n年长，但因年幼时受到\n的诅咒，身体永远维持\n在少年的大小。一旦与\n人类的女性坠入情网，\n就会受到妻子的责备。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:37:0",
+  "message_id": "myth_037",
+  "translation": "{F2 05 FF FF}{F1 41}拥有巨大的雪人身躯，\n是杰克霜精的王者。统\n领着无数的杰克霜精，\n拥有以白雪与冰霜冻结\n整个世界的力量，但个\n性极为天真无邪。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:38:0",
+  "message_id": "myth_038",
+  "translation": "{F2 05 FF FF}{F1 41}在爱尔兰神话中登场的\n勇敢青年。赤手空拳打\n倒了凶猛的看门犬，之\n后自愿担任护卫，因此\n得到了“猛犬”的别名\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:39:0",
+  "message_id": "myth_039",
+  "translation": "{F2 05 FF FF}{F1 41}佛教中流传的马头鬼。作\n为地狱的狱卒，拷问生前\n犯下罪行的人类们。对即\n使被杀也会复活的地狱罪\n人们，毫不留情地给予痛\n苦的折磨。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:40:0",
+  "message_id": "myth_040",
+  "translation": "{F2 05 FF FF}{F1 41}在日本神话中的国津神。\n 传说在克服须佐之男提\n出的难题后，和其女儿须\n世理姬一道于出云建国，\n因此被视为出云建命的祖\n先，是出云神话中地位最\n重要的神明。也掌管着农\n耕和医疗之力。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:41:0",
+  "message_id": "myth_041",
+  "translation": "{F2 05 FF FF}{F1 41}呈狒狒之姿的埃及神话\n月神。也被称作时间计\n量者。同时也作为伟大\n的魔法神被熟知，将复\n活被恶神赛特杀害的奥\n西里斯神的咒文，传授\n给女神伊西斯的，正是\n这位神。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:42:0",
+  "message_id": "myth_042",
+  "translation": "{F2 05 FF FF}{F1 41}在日本神话中登场的国津\n神之一。是须佐之男的妻\n子·栉名田姬的祖父。以\n山神的身份为人所知，但\n因为也支配水源和田地的\n收成，所以也被视为水之\n神、田之神。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:43:0",
+  "message_id": "myth_043",
+  "translation": "{F2 05 FF FF}{F1 41}在美索不达米亚的神话中\n流传的，拥有蝎子的身体\n与人类头颅的兽人。他是\n通往乐园之门的圣山守卫\n者。相传只要越过那道门\n，越过乐园和死海，就能\n抵达“遥远之地”。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:44:0",
+  "message_id": "myth_044",
+  "translation": "{F2 05 FF FF}{F1 41}巴比伦尼亚的反叛神。\n创造之女龙提亚马特的\n儿子兼第２任丈夫。与\n提亚马特等向诸神发起\n战争，却被马尔杜克神\n打倒。人类由他的血创\n造而成。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:45:0",
+  "message_id": "myth_045",
+  "translation": "{F2 05 FF FF}{F1 41}在印度尼西亚·巴厘岛\n的神话中流传的形似狮\n子的神兽。象征巴厘印\n度教的善，与象征恶的\n魔女兰达相对。即使被\n打倒也必定会复活，与\n兰达永无休止地争斗着\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:46:0",
+  "message_id": "myth_046",
+  "translation": "{F2 05 FF FF}{F1 41}北欧神话的主神。身为武\n人，同时也是魔术师，以\n及知识的探求者。为了喝\n下世界树之泉的水获得智\n慧，甚至不惜失去了一只\n眼睛。为了获得知识，无\n论什么样的牺牲都在所不\n惜。同时，也是迎接战士\n的灵魂的神。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:47:0",
+  "message_id": "myth_047",
+  "translation": "{F2 05 FF FF}{F1 41}在巴比伦尼亚的传说中出\n现的邪恶巨鸟。据说它有\n着鹫的身躯与狮的头颅。\n它因为想成为诸神之王的\n邪念，趁着主神恩利尔用\n水清洁身体时偷走了天命\n的石板。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:48:0",
+  "message_id": "myth_048",
+  "translation": "{F2 05 FF FF}{F1 41}据说会从各种魔物手中\n保护家宅，带来福气的\n圣兽。外表看似狛犬，\n但实际上是狮子的象征\n。在琉球神话中被广为\n流传。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:49:0",
+  "message_id": "myth_049",
+  "translation": "{F2 05 FF FF}{F1 41}在苏格兰的传说中留名\n，额头上长着螺旋状角\n的白马。据说它只会对\n守护纯洁的少女敞开心\n扉，也只让这样的少女\n触碰身体。另一方面，\n那根角被视为能治疗所\n有疾病的万能药材料。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:50:0",
+  "message_id": "myth_050",
+  "translation": "{F2 05 FF FF}{F1 41}佛教中流传的牛头鬼。是\n阎魔王的部下，与马头鬼\n一同在地狱担任狱卒。以\n棍棒或刀刃杀死堕入地狱\n的罪人，执行残酷的刑罚\n，就是他们的任务。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:51:0",
+  "message_id": "myth_051",
+  "translation": "{F2 05 FF FF}{F1 41}所罗门王的72柱魔神之\n一。以豹面战士的形象示\n人，拥有透视过去与未来\n的力量。此外，他能自由\n操纵火焰，将想烧毁的事\n物焚烧殆尽。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:52:0",
+  "message_id": "myth_052",
+  "translation": "{F2 05 FF FF}{F1 41}为了拯救他人而绝食与冥\n想，最后断送自己性命的\n僧侣。由于其灵验，身体\n始终不会腐败。据说他也\n是在未来的救赎之日，会\n再度出现在人们面前的存\n在。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:53:0",
+  "message_id": "myth_053",
+  "translation": "{F2 05 FF FF}{F1 41}从新罗渡海来到九州之后\n，向世人降下无数神谕的\n神。之后，被各地的武家\n奉为守护神而广受信仰。\n也被称为八幡，意为“神\n灵的凭依之物”。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:54:0",
+  "message_id": "myth_054",
+  "translation": "{F2 05 FF FF}{F1 41}黄龙，日语亦读作ＯＵＲ\nＹＵＵ。被认为是最尊贵\n的中国龙。统领着朱雀·\n青龙等四神，而配置于东\n西南北的四神中央就是黄\n龙，日语亦读作ＯＵＲＹ\nＵＵ。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:55:0",
+  "message_id": "myth_055",
+  "translation": "{F2 05 FF FF}{F1 41}在英格兰传言中的森林妖\n精。据说是由未受洗礼便\n死去的孩童的灵魂所化身\n而成。虽然不会出现在人\n类的视线范围内，但与人\n类在各种方面有共生关系\n。会回报对自己有恩之人\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:56:0",
+  "message_id": "myth_056",
+  "translation": "{F2 05 FF FF}{F1 41}在德国和瑞士的传说中登\n场的梦魔。原本是栖息于\n山中地下用魔法加工金属\n的一族，后来被传为妨碍\n睡眠、带来疾病的存在。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:57:0",
+  "message_id": "myth_057",
+  "translation": "{F2 05 FF FF}{F1 41}在蒙古系的布里亚特民族\n传说中登场的恶鸟魔物。\n有着美丽少女的外表，会\n诱惑旅人，乘人不备时用\n鸟喙在对方头上开洞，吸\n取脑浆。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:58:0",
+  "message_id": "myth_058",
+  "translation": "{F2 05 FF FF}{F1 41}凯尔特神话的妖精女王。\n原本是接近梦魔的存在，\n但经常被与缇坦妮娅混淆\n，以女王之名广为人知。\n拥有众多丈夫，将用自己\n经血调和的红色蜂蜜酒分\n给他们，分享支配权。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:59:0",
+  "message_id": "myth_059",
+  "translation": "{F2 05 FF FF}{F1 41}爱尔兰的妖精。据说会\n以类似人类女性的姿态\n现身。名字意为“妖精\n的恋人”。她会附身在\n接受爱情的男性身上，\n给予灵感，相对地吸取\n其生命。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:60:0",
+  "message_id": "myth_060",
+  "translation": "{F2 05 FF FF}{F1 41}立于天使阶层制度顶点的\n四大天使之一。名字意为\n“治愈者”。相传是在伊\n甸园守护与智慧之树成对\n的生命之树的存在。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:61:0",
+  "message_id": "myth_061",
+  "translation": "{F2 05 FF FF}{F1 41}小亚细亚的芙蕾姬亚地母\n神。是大地的化身，支配\n野兽，率领狮子。爱慕美\n少年亚堤斯，但因对方花\n心而愤怒，将其逼至发狂\n而死。人们崇拜她，举行\n狂乱仪式，其信仰也扩展\n到希腊。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:62:0",
+  "message_id": "myth_062",
+  "translation": "{F2 05 FF FF}{F1 41}在古代美索不达米亚广\n受尊崇的战争与爱之女\n神。诱惑众多男性，使\n他们身败名裂，但被英\n雄吉尔伽美什拒绝，心\n生愤怒，导致他的好友\n死亡。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:63:0",
+  "message_id": "myth_063",
+  "translation": "{F2 05 FF FF}{F1 41}道教的武神，中坛元帅的\n乳名。一般认为是军神·\n大罗仙在玉皇大帝的力量\n下脱胎换骨而成。拥有足\n以杀死地上魔王和龙王的\n力量，但因为引发骚动而\n一度自尽。之后在释迦的\n慈悲下复活，成为天军之\n长。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:64:0",
+  "message_id": "myth_064",
+  "translation": "{F2 05 FF FF}{F1 41}拥有狮子和牡山羊的头，\n以及蛇尾的怪物。原本是\n代表季节的圣兽，但在被\n希腊神话吸收后，被视为\n凶暴的魔物。风之巨人提\n丰为其父，蛇神厄喀德那\n为其母。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:65:0",
+  "message_id": "myth_065",
+  "translation": "{F2 05 FF FF}{F1 41}所罗门王的72柱魔神之\n一，以骑士的样貌现身。\n拥有看穿未来事态的能力\n，对战争也博学多闻。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:67:0",
+  "message_id": "myth_067",
+  "translation": "{F2 05 FF FF}{F1 41}源自色雷斯的希腊神话\n军神。个性粗暴又残忍\n，因此受到其他神祇的\n疏远。据说经常与知性\n的军神雅典娜对立，因\n而受创。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:68:0",
+  "message_id": "myth_068",
+  "translation": "{F2 05 FF FF}{F1 41}出云国风土记中记载的\n巨人。八束水臣津野命\n想扩大自己居住的出云\n国，于是用绳子绑住对\n岸新罗国的多余土地，\n将其拉了过来。这称为\n“国引”。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:69:0",
+  "message_id": "myth_069",
+  "translation": "{F2 05 FF FF}{F1 41}西斯拉夫的军神。同时\n也拥有主神的立场。其\n名意为“３个头”。驱\n策着圣兽黑马奔驰于战\n场。与以白马为圣兽的\n军神斯温特维特是对比\n的存在。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:70:0",
+  "message_id": "myth_070",
+  "translation": "{F2 05 FF FF}{F1 41}北欧神话中的雷神。与\n主神奥丁同样，拥有着\n众多信徒。他有着让臂\n力加倍的魔法手套，以\n及无论丢到何处都必定\n能粉碎敌人并回到主人\n手中的神锤妙尔尼尔。\n拥有着阿萨神族首屈一\n指的怪力。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:71:0",
+  "message_id": "myth_071",
+  "translation": "{F2 05 FF FF}{F1 41}在预言者以西结面前现\n身的犹太传说的天使。\n其身姿如燃烧的炭火般\n闪耀，据说拥有狮子、\n公牛、鹫、青年等４张\n脸。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:72:0",
+  "message_id": "myth_072",
+  "translation": "{F2 05 FF FF}{F1 41}毘沙门天的同族，八大夜\n叉王之一。他在佛陀圆寂\n之时，召集了夜叉王、四\n天王、阿修罗等诸方势力\n，并促使他们皈依了佛门\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:73:0",
+  "message_id": "myth_073",
+  "translation": "{F2 05 FF FF}{F1 41}日本书纪中记载的刀剑\n之神。据说就是他在天\n孙降临之前，平定了苇\n原中国。经津主这个名\n字被认为是由表示切断\n事物的清脆声响与表示\n神明的“主”组成。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:74:0",
+  "message_id": "myth_074",
+  "translation": "{F2 05 FF FF}{F1 41}在基督教、犹太教、伊斯\n兰教等宗教中登场的神之\n意志的代行者。背上长有\n翅膀，一般被描绘为同时\n具有双性特征的模样。神\n学中将天使分为９个天阶\n等级，而这种天使属于其\n中最低阶的一等。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:75:0",
+  "message_id": "myth_075",
+  "translation": "{F2 05 FF FF}{F1 41}在神学的天阶等级中，\n“能天使”位于第６等\n的中级天使。名字意为\n“神之力”。为了防止\n恶魔侵入天界，他们随\n时身处于最前线巡视着\n天空回廊。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:76:0",
+  "message_id": "myth_076",
+  "translation": "{F2 05 FF FF}{F1 41}在神学的天阶等级中“\n力天使”是位于第５等\n的中级天使。名字意为\n“高洁”。被认为掌管\n着作为现象实际发生的\n奇迹，并借此赋予人类\n勇气。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:77:0",
+  "message_id": "myth_077",
+  "translation": "{F2 05 FF FF}{F1 41}在神学的天使位阶中，位\n于第３位的上级天使“座\n天使”。在拥有物质之躯\n的天使当中属于最高阶级\n。名字意为“车轮”，被\n视为神之宝座的搬运者。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:78:0",
+  "message_id": "myth_078",
+  "translation": "{F2 05 FF FF}{F1 41}在天使位阶中位于顶点\n的四大天使之一。名字\n的含义为“上帝之焰”\n。据说这位天使负责在\n最后的审判日执行复活\n与裁决。此外，它还负\n责掌管天空星辰的运转\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:79:0",
+  "message_id": "myth_079",
+  "translation": "{F2 05 FF FF}{F1 41}基督教诺斯底主义中被称\n为“天使们的救世主”的\n天使。据说是由女神苏菲\n亚所生下。在圣经中被记\n载为正义之王麦基洗德。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:80:0",
+  "message_id": "myth_080",
+  "translation": "{F2 05 FF FF}{F1 41}在琐罗亚斯德教中，负责\n扮演聆听人类呼喊的阿胡\n拉·马兹达之耳。为了讨\n伐邪恶，在太阳西沉后降\n临人间的大天使。其名意\n为“倾听”。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:81:0",
+  "message_id": "myth_081",
+  "translation": "{F2 05 FF FF}{F1 41}渡来日本的南方海洋民\n族安昙族的水神，拥有\n操纵水的能力。据说其\n祖先是伊邪那岐从黄泉\n归来、净身时诞生的绵\n津见三神。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:82:0",
+  "message_id": "myth_082",
+  "translation": "{F2 05 FF FF}{F1 41}据传住在熊野深山中，\n有着一颗眼、一只脚的\n妖怪。也被认为是锻冶\n神天目一箇神落魄后的\n模样。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:83:0",
+  "message_id": "myth_083",
+  "translation": "{F2 05 FF FF}{F1 41}据说在６０～８０年代于\n美国被目击的未知动物。\n身体两侧长着类似蛾翼的\n鳍状突起，因而得名。据\n说能敏锐辨别血腥味，并\n吸食气味来源者的鲜血。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:84:0",
+  "message_id": "myth_084",
+  "translation": "{F2 05 FF FF}{F1 41}日本《古事记》《日本书\n纪》中记载的语言之神，\n是山间回声的神格化。无\n论善恶之事，皆能一言道\n明；据说其说出的话语会\n成为现实，支配人们。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:85:0",
+  "message_id": "myth_085",
+  "translation": "{F2 05 FF FF}{F1 41}据传栖息于京都鞍马山的\n天狗。在日本的传说中天\n狗之中，力量与知名度最\n高的其中１位，据说拥有\n除厄与招福的绝大能力。\n也有人说它是毗沙门天的\n夜之姿态。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:86:0",
+  "message_id": "myth_086",
+  "translation": "{F2 05 FF FF}{F1 41}据说栖息于世界树伊格\n德拉修之根的北欧神话\n恶龙。据说它统治与它\n一起居住的许多邪恶蛇\n类。据说在诸神的最终\n战争·诸神的黄昏之后\n，它吃下漂流到岸边的\n尸体，得以存活下来。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:87:0",
+  "message_id": "myth_087",
+  "translation": "{F2 05 FF FF}{F1 41}来自非洲的地狱元帅兼检\n察官的魔神。经常观察魔\n神们的状况。擅长操纵死\n灵与尸体，在魔神之中被\n视为最优秀的死灵法师之\n一。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:88:0",
+  "message_id": "myth_088",
+  "translation": "{F2 05 FF FF}{F1 41}古代日本神话的主神。\n他的形象常常通过遮光\n器土偶来呈现。被神武\n天皇东征军打败的长髓\n彦曾经信奉他，因此他\n也被视为忤逆天皇的象\n征，对他的信仰在很长\n一段时期内遭到了打压\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:89:0",
+  "message_id": "myth_089",
+  "translation": "{F2 05 FF FF}{F1 41}平安时代，统治伊贺、伊\n势的豪族藤原千方使役的\n四鬼之一。能够消除自己\n的姿态与气息，发动奇袭\n的使役神。“风土记”中\n提到，鬼被视为人与神之\n间的中介，这个地区有许\n多与鬼有关的活动。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:90:0",
+  "message_id": "myth_090",
+  "translation": "{F2 05 FF FF}{F1 41}在希腊神话中的吸血鬼。\n一般认为是侍奉魔术女神\n赫卡特。虽然以美丽的女\n性姿态现身，但其真面目\n是会吸取诱惑的男性的精\n气，或是贪食其肉体的可\n怕恶灵。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:91:0",
+  "message_id": "myth_091",
+  "translation": "{F2 05 FF FF}{F1 41}在日本的民间故事中留下\n纪录，会随着雷电一起降\n临到地上的怪异动物。平\n常会在雷云中四处奔驰，\n乘着落雷降临到地上。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:92:0",
+  "message_id": "myth_092",
+  "translation": "{F2 05 FF FF}{F1 41}罗马的幸运女神。一般认\n为她掌管命运之车轮。据\n说原本是带来家畜与谷物\n的多产·增殖之神。与希\n腊神话的女神提克视为同\n一神祇。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:93:0",
+  "message_id": "myth_093",
+  "translation": "{F2 05 FF FF}{F1 41}在希腊神话中被主神赋予\n掌管命运之职的３姐妹之\n一，“摩伊赖”的其中一\n柱。命运以线来象征，克\n洛托是其纺织者。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:94:0",
+  "message_id": "myth_094",
+  "translation": "{F2 05 FF FF}{F1 41}在希腊神话中被主神赋予\n掌管命运之职的３姐妹之\n一，“摩伊赖”的其中一\n柱。拉刻西斯负责测量克\n洛托纺织的线，决定其长\n度。据说其长度就是赋予\n生命的寿命长度。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:95:0",
+  "message_id": "myth_095",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话的世界蛇。那伽\n之王，会在世界的起始与\n终结之际现身。据说它盘\n于无尽广阔的乳海之上，\n毗湿奴则在它的身躯上面\n睡觉。当毗湿奴醒来后，\n就是世界开始创造之时。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:96:0",
+  "message_id": "myth_096",
+  "translation": "{F2 05 FF FF}{F1 41}在希腊神话中被主神任命\n掌管命运的３姐妹之一，\n“摩伊赖”。拉刻西斯决\n定命运的丝线长度，阿特\n罗波斯负责切断。右手握\n着剪刀。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:97:0",
+  "message_id": "myth_097",
+  "translation": "{F2 05 FF FF}{F1 41}北欧神话的命运女神们。\n据说她们是巨人族。以世\n界树伊格德拉齐尔树根下\n的涌泉为家。众神也必须\n遵从她们决定的命运。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:98:0",
+  "message_id": "myth_098",
+  "translation": "{F2 05 FF FF}{F1 41}巴比伦神话中的风与热砂\n魔王。拥有狮子头与手臂\n、鹫的钩爪、鸟翼与蝎子\n的毒，更隐藏着巨大的蛇\n男根。帕祖祖蔓延的疾病\n，据说只有以魔术之力才\n能治愈。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:99:0",
+  "message_id": "myth_099",
+  "translation": "{F2 05 FF FF}{F1 41}德国民间传说的妖精。会\n将袋子里的魔法砂子洒在\n人类的眼睛上，让对方睡\n着。据说如果有人硬撑着\n不睡，妖精会坐在眼皮上\n让人睡着。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:100:0",
+  "message_id": "myth_100",
+  "translation": "{F2 05 FF FF}{F1 41}北欧神话主神奥丁的女儿\n们。据说她们身穿盔甲，\n骑着骏马，自己也在空中\n战斗。为了因应终将到来\n的诸神黄昏，她们负责将\n人类勇士的魂魄引导至瓦\n尔哈拉宫。其名意为“搬\n运死者之人”。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:101:0",
+  "message_id": "myth_101",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话的恶鬼。他们\n和诸神敌对，会袭击并\n吞食人类，极其残忍。\n他们相貌丑陋，甚至足\n以使目睹之人感到恐惧\n。据说它们还拥有变身\n的能力，会借此欺骗敌\n人。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:102:0",
+  "message_id": "myth_102",
+  "translation": "{F2 05 FF FF}{F1 41}据说住在葛城山，外表\n为巨大蜘蛛的凶暴神明\n。据说原本是原本穴居\n、后来被朝廷消灭的土\n著之民。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:103:0",
+  "message_id": "myth_103",
+  "translation": "{F2 05 FF FF}{F1 41}在各种日本传说中登场，\n丑恶且拥有怪力的邪恶妖\n怪。会袭击人类村落，施\n行暴虐。头上长有角，肌\n肤泛红，拥有长爪和刀刃\n般锐利的牙齿。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:104:0",
+  "message_id": "myth_104",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话的英雄。变化自\n如的神通和飞天的能力，\n在叙事诗《罗摩衍那》中\n记载了他的诸多事迹。其\n名意为“拥有颚骨者”，\n常被描绘为一个长着猴头\n猴尾的半人形象。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:105:0",
+  "message_id": "myth_105",
+  "translation": "{F2 05 FF FF}{F1 41}德国叙事诗《尼伯龙根之\n歌》中的北欧勇士。沐浴\n自己杀死的恶龙法弗尼尔\n之血后，身体刀枪不入。\n唯独背上被树叶遮住的一\n处留下要害，最终被敌将\n哈根刺中而死。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:106:0",
+  "message_id": "myth_106",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话中湿婆的妃子之\n一。掌管大地之神恐怖的\n一面，好战且嗜血。总是\n手握头骨及鲜血淋漓的宝\n剑，但她的手也被认为拥\n有赐予信徒祝福的力量，\n有着强烈的两面性。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:107:0",
+  "message_id": "myth_107",
+  "translation": "{F2 05 FF FF}{F1 41}役小角在金峰山感得的\n、具有降魔之力的护法\n神。被视为释迦、观音\n、弥勒的三尊合体，是\n佛典中没有记载的日本\n独有的佛。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:108:0",
+  "message_id": "myth_108",
+  "translation": "{F2 05 FF FF}{F1 41}日本的妖怪，有着鸟的外\n型。长着人脸，发出诡异\n的叫声，有时会从口中吐\n出火焰。其真面目是未受\n供养的尸体，据说会出现\n在怠慢修行的僧侣面前。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:109:0",
+  "message_id": "myth_109",
+  "translation": "{F2 05 FF FF}{F1 41}所罗门王72柱魔神中的\n一柱。骑乘着大马的恐怖\n之王。在72柱魔神中也\n是特别高位的王，据说对\n它失礼的人会立刻被烧死\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:110:0",
+  "message_id": "myth_110",
+  "translation": "{F2 05 FF FF}{F1 41}日本神话中居住在黄泉的\n鬼。在黄泉比良坂，是伊\n邪那美派去追赶伊邪那岐\n的追兵。组成军势，由黄\n泉丑女统领。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:111:0",
+  "message_id": "myth_111",
+  "translation": "{F2 05 FF FF}{F1 41}栖息于希腊神话世界尽头\n之岛的怪物革律翁的牧场\n的双头巨犬。虽然非常优\n秀，却被完成１２项艰难\n任务的英雄海克力斯一击\n杀死。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:112:0",
+  "message_id": "myth_112",
+  "translation": "{F2 05 FF FF}{F1 41}出生第７天母犬被狼杀\n死，改由狸养育的灵犬\n。长禄元年，实现主人\n里见义实“讨伐敌将就\n将女儿许配给你”的诺\n言，却遭义实的臣下枪\n杀。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:113:0",
+  "message_id": "myth_113",
+  "translation": "{F2 05 FF FF}{F1 41}据说栖息于非洲北部的邪\n龙。有翼，头上有王冠状\n的鸡冠，其名意为“蛇之\n王”。据说其吐息和视线\n具有猛烈的毒性，能立刻\n杀害人类和动物。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:114:0",
+  "message_id": "myth_114",
+  "translation": "{F2 05 FF FF}{F1 41}自称“地狱的天使”，\n以恶魔之姿显现的愤怒\n骑手。憎恨自己，憎恨\n世界，其愤怒使自己变\n成只以暴力表达意志的\n可憎存在。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:115:0",
+  "message_id": "myth_115",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话中的古老巨龙\n。在诸神使用的曼陀罗\n山搅拌混沌的乳海时，\n曾用它的身体作为工具\n。它向诸神吐出毒液以\n示抵抗，但毒液却被湿\n婆神一饮而尽。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:116:0",
+  "message_id": "myth_116",
+  "translation": "{F2 05 FF FF}{F1 41}小亚细亚弗里几亚的复\n活之神。背负着被献给\n地母神·库柏蕾的命运\n，亚堤斯为了救济人们\n而成为活祭品，被杀后\n复活，被当成救世主般\n的神明崇拜。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:117:0",
+  "message_id": "myth_117",
+  "translation": "{F2 05 FF FF}{F1 41}澳大利亚原住民传说中外\n形酷似人类的妖怪。据说\n栖息在丛林中，夜晚活动\n。据传是人类的“影子灵\n魂”转生而成，会掳走孩\n童吃掉，有时还会与人类\n开战。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:118:0",
+  "message_id": "myth_118",
+  "translation": "{F2 05 FF FF}{F1 41}侍奉死神阎魔的印度鬼\n神。对被制裁的灵魂行\n刑的执行者。当地狱的\n统治者以及死者的审判\n者阎魔宣判有罪时图尔\n达克会将其灵魂带往该\n去的地狱。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:119:0",
+  "message_id": "myth_119",
+  "translation": "{F2 05 FF FF}{F1 41}以自己的性命为代价成\n为令观众热血沸腾的支\n配者。在只要稍有失误\n就会招致死亡的严酷表\n演中，实际丧命的男人\n们渴望喝采与狂热的遗\n憾据说还留在这个世上\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:120:0",
+  "message_id": "myth_120",
+  "translation": "{F2 05 FF FF}{F1 41}约翰启示录中记载，于\n世界末日现身的四骑士\n之一。骑乘白马，手持\n弓箭。身为神之战的象\n征，头戴冠冕，注定获\n得胜利再胜利。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:121:0",
+  "message_id": "myth_121",
+  "translation": "{F2 05 FF FF}{F1 41}名字意为“带毒的光辉者\n”、含义相互矛盾的神秘\n天使。其身形为有翼的大\n蛇，虽为天使，却也通称\n恶魔的首领。虽然也有解\n释为堕天使，但圣经等书\n籍中留下许多无法用这种\n说法解释的记述。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:122:0",
+  "message_id": "myth_122",
+  "translation": "{F2 05 FF FF}{F1 41}威胁迦南之地的，美索不\n达米亚的死与不毛之神。\n住在意为“忌讳”之名的\n冥界。陷害与自己成对的\n丰饶神，将其杀害，但遭\n到其妹亚拿突报复，遭到\n讨伐。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:123:0",
+  "message_id": "myth_123",
+  "translation": "{F2 05 FF FF}{F1 41}约翰启示录中记载，于\n世界末日现身的四骑士\n之一。骑乘苍白之马，\n身后跟随着冥界哈迪斯\n。拥有以死病夺走人类\n性命、毁灭的力量。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:124:0",
+  "message_id": "myth_124",
+  "translation": "{F2 05 FF FF}{F1 41}身份不明的金发少女外\n貌的灵体。容貌幼小，\n却拥有深不可测的咒力\n。据说是某人印象中生\n出的恶灵，也有人认为\n是死于不幸的英国少女\n之灵。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:125:0",
+  "message_id": "myth_125",
+  "translation": "{F2 05 FF FF}{F1 41}印度呈愤怒相的退魔魔神\n，据说他加入佛教后成为\n大黑天。虽然手持多把剑\n的可怕模样，但只要诚心\n供奉，就能为信徒带来莫\n大的福气与财富。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:126:0",
+  "message_id": "myth_126",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话中的水精灵。\n有着“水中的灵动之物\n”的含义。她们长着妖\n艳年轻女性的外貌，常\n常被用来比喻阻碍苦行\n成就的烦恼。另外，她\n们也负责将战死者的灵\n魂带往因陀罗所在的天\n界。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:127:0",
+  "message_id": "myth_127",
+  "translation": "{F2 05 FF FF}{F1 41}中国传说中长得像羊的\n灵兽。它的眼睛有着能\n够立即看穿所有谎言之\n力。它常常出现在人间\n，用寄宿于其尖角上的\n力量惩罚恶人。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:128:0",
+  "message_id": "myth_128",
+  "translation": "{F2 05 FF FF}{F1 41}古代波斯的契约神，同时\n也拥有战神和太阳神的身\n份。掌管世界的调和与真\n理，制裁扰乱秩序的一切\n恶意。此外，治愈疾病也\n是他维护调和的力量之１\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:129:0",
+  "message_id": "myth_129",
+  "translation": "{F2 05 FF FF}{F1 41}在中国众多的神话和思想\n中所传颂的“四圣兽”之\n一。掌管北方、冬季和五\n行中的水。能够预见未来\n，传授智慧，据说有时候\n也会化身成人对抗妖魔鬼\n怪。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:130:0",
+  "message_id": "myth_130",
+  "translation": "{F2 05 FF FF}{F1 41}中国许多神话与思想中所\n传颂的“四圣兽”之一。\n掌管东方、春季、五行中\n的木。在四圣兽中最尊贵\n的，据说住在海底的宫殿\n中。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:131:0",
+  "message_id": "myth_131",
+  "translation": "{F2 05 FF FF}{F1 41}在中国的众多神话和思想\n中所传颂的“四圣兽”之\n一。掌管南方、夏季和五\n行中的火。是只形似鹌鹑\n的巨鸟，其音色多姿多彩\n美妙动人。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:132:0",
+  "message_id": "myth_132",
+  "translation": "{F2 05 FF FF}{F1 41}中国许多神话与思想中所\n传颂的“四圣兽”之一。\n掌管西方、秋季和五行思\n想中的金。在古代的中国\n老虎被视为百兽之王，而\n白虎更是老虎中顶点的存\n在。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:133:0",
+  "message_id": "myth_133",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话中，最高神明\n之一。维持宇宙的神。\n太阳光神格化后的存在\n。化身为１０种姿态，\n为了树立正义，现身于\n各种各样的时间与场所\n，讨伐邪恶。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:134:0",
+  "message_id": "myth_134",
+  "translation": "{F2 05 FF FF}{F1 41}地狱的下级恶魔之一。奉\n别西卜的命令，在地狱的\n油锅里倒油添火。为了折\n磨落入地狱的人类，据说\n会添入熊熊燃烧的煤炭。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:135:0",
+  "message_id": "myth_135",
+  "translation": "{F2 05 FF FF}{F1 41}欧洲各地的传说中留下\n的男性型梦魔。与女性\n型的魅魔成对。据说会\n潜入女性的梦中，让女\n性怀上孩子。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:136:0",
+  "message_id": "myth_136",
+  "translation": "{F2 05 FF FF}{F1 41}在欧洲各地的传说中留下\n的女性型梦魔。与男性型\n梦魔成对。会潜入睡着的\n男性梦中，与之发生性关\n系吸取精气。虽然素颜是\n丑陋的老婆婆，但在梦中\n出现的梦魔却拥有绝世美\n貌。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:137:0",
+  "message_id": "myth_137",
+  "translation": "{F2 05 FF FF}{F1 41}旧约圣经中亚当第一位\n妻子的女性。后来离开\n了伊甸园并化为夜魔。\n关于她的堕落和流放，\n有很多种说法，但基本\n上都被描述为不忠贞的\n象征。据说原来是巴比\n伦的一位地母神。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:138:0",
+  "message_id": "myth_138",
+  "translation": "{F2 05 FF FF}{F1 41}司掌７大罪中的“怠惰\n”的邪恶魔神。据说会\n授予发现和发明的能力\n。原本是叙利亚的丰穰\n神巴力·佩乌尔神，被\n贬为恶魔的姿态。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:139:0",
+  "message_id": "myth_139",
+  "translation": "{F2 05 FF FF}{F1 41}所罗门王的72柱魔神\n之一。让人类堕落，将\n索多玛和蛾摩拉导向毁\n灭的命运，告发耶稣。\n会赋予召唤者高位的社\n会地位。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:140:0",
+  "message_id": "myth_140",
+  "translation": "{F2 05 FF FF}{F1 41}被称为地狱公爵的美丽\n堕天使。拥有看穿过去\n和未来的能力，会率领\n龙现身。原本是腓尼基\n，现今叙利亚附近的女\n神亚斯她录，被希伯来\n的神贬低后成为这副姿\n态。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:141:0",
+  "message_id": "myth_141",
+  "translation": "{F2 05 FF FF}{F1 41}其名意为苍蝇王，是君\n临地狱的魔王。他派遣\n手下的苍蝇搬运魂魄，\n加以支配。由于圣经记\n载他是恶灵之首，因此\n在基督教世界确立了有\n力恶魔的地位。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:142:0",
+  "message_id": "myth_142",
+  "translation": "{F2 05 FF FF}{F1 41}在爱尔兰神话中登场的\n英雄。此名意为“克兰\n的猛犬”，原来之名是\n瑟坦特。身材高挑的快\n活美青年。手持师父作\n为传授之证而让给他的\n魔枪，立下许多功勋。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:143:0",
+  "message_id": "myth_143",
+  "translation": "{F2 05 FF FF}{F1 41}《启示录》中记载的深\n渊之主。据说他是率领\n大群害虫与瘟疫的魔王\n。据说原本是蝗虫大举\n出现，将人家的田地啃\n食殆尽的天灾神格化而\n成。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:144:0",
+  "message_id": "myth_144",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话中统领恶灵的魔\n王。带来死亡之人。擅长\n煽动恐惧，还曾试图诱惑\n正在修行的佛陀。据说这\n名魔王的强大力量影响了\n世界各地，催生出了如梦\n魇和魔拉这样的恶魔。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:145:0",
+  "message_id": "myth_145",
+  "translation": "{F2 05 FF FF}{F1 41}齐天大圣孙悟空行者，\n也就是“孙悟空”。由\n花果山山顶的仙石吸收\n天地之气而诞生。曾大\n闹天、地、冥三界，并\n因此受到释迦如来的惩\n戒，之后被三藏法师所\n救，踏上悟道之旅。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:146:0",
+  "message_id": "myth_146",
+  "translation": "{F2 05 FF FF}{F1 41}活跃于平安末期到镰仓初\n期的源平合战英雄，以大\n胆的智谋与奔放的剑术迷\n惑众多敌人，至今仍抓住\n人们的心不放的英灵。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:147:0",
+  "message_id": "myth_147",
+  "translation": "{F2 05 FF FF}{F1 41}平将门，平安中期的东\n国英雄。以“新皇”之\n名对朝廷发动叛乱，但\n被藤原秀乡等人讨伐。\n在京都示众的首级飞到\n江户，据说在那里成了\n御灵神。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:148:0",
+  "message_id": "myth_148",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话的三大神之一，\n与毗湿奴并列，至今仍受\n到热烈信仰的神。身为破\n坏神，拥有无比的力量，\n同时也是医药与再生的神\n，据说万物都随着祂的舞\n蹈节奏流转。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:149:0",
+  "message_id": "myth_149",
+  "translation": "{F2 05 FF FF}{F1 41}在中国古代神话中登场的\n魔王，也被认为是发明众\n多武器的人。率领强大军\n队威胁世界，但被得到太\n母神西王母帮助的英雄黄\n帝打败，身体被肢解，埋\n在２处。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:150:0",
+  "message_id": "myth_150",
+  "translation": "{F2 05 FF FF}{F1 41}旧约圣经的阿摩司书中，\n记载以色列民在接受主神\n之前信奉的偶像神，象征\n星辰。经常与名为朔谛的\n另一尊偶像神成对被提起\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:151:0",
+  "message_id": "myth_151",
+  "translation": "{F2 05 FF FF}{F1 41}在日本的传说中出现的\n怪物。有着猴子的头和\n老虎的手脚，尾巴则是\n蛇。根据平家物语，每\n晚丑时三刻，它会隐藏\n在黑云之中袭击天皇的\n御所。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:152:0",
+  "message_id": "myth_152",
+  "translation": "{F2 05 FF FF}{F1 41}道教中拥有强大预言能\n力的神。原本是一位名\n叫毛尚书的武将，但因\n为“毛”和“猫”发音\n相同，转变成了叫做猫\n将军的另一个神。有一\n位叫做铁猫将军的另一\n个航海神，也是和它有\n着相似的由来。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:153:0",
+  "message_id": "myth_153",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话中的象头神。\n帕尔瓦蒂为防止丈夫湿\n婆看见自己沐浴，用身\n上的污垢创造出他充当\n护卫。随后他被湿婆斩\n首，后来换上最先发现\n的大象遗骸的头，成为\n如今的模样。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:154:0",
+  "message_id": "myth_154",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话中的圣鸟。曾为\n了拯救被那伽族用诡计掳\n走的母亲，袭击天界以取\n得不死甘露。在这次的战\n斗中，它击退了众多神明\n的力量受到毗湿奴的赏识\n，毗湿奴以不死之身作为\n交换，让它成为了自己的\n坐骑。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:155:0",
+  "message_id": "myth_155",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话的战争之神。也\n被称为室建陀、鸠摩罗。\n携带着弓箭，乘坐在名为\n帕拉瓦尼的孔雀上。他是\n率领诸神军队的将军，曾\n打倒过和诸神敌对的阿修\n罗大军。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:156:0",
+  "message_id": "myth_156",
+  "translation": "{F2 05 FF FF}{F1 41}意大利的古老邪恶神，\n别名黑太阳。据说会要\n求以祭品换取大地的丰\n收。之后被罗马人视为\n与克洛诺斯神为同一神\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:157:0",
+  "message_id": "myth_157",
+  "translation": "{F2 05 FF FF}{F1 41}在犹太教、基督教的传\n承中，被视为从天界堕\n落的大天使。其名意为\n‘启明之星’。虽然以\n反抗神明闻名，但也是\n以赐予人类光明者之姿\n受到崇拜的存在。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:158:0",
+  "message_id": "myth_158",
+  "translation": "{F2 05 FF FF}{F1 41}所罗门72柱魔神。排名\n63的大侯爵。必定现身\n于争斗之处，煽动憎恨引\n发更激烈的斗争，不和的\n恶魔。据说若是喜欢召唤\n者，就会授予消灭其敌人\n的方法。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:159:0",
+  "message_id": "myth_159",
+  "translation": "{F2 05 FF FF}{F1 41}语源为“野神”的日本神\n话大地之灵。潜伏于树荫\n或草丛。虽然不邪恶，但\n性情暴躁，据说会危害人\n类。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:160:0",
+  "message_id": "myth_160",
+  "translation": "{F2 05 FF FF}{F1 41}古事记中登场，有8颗\n头与8条尾巴的巨龙。\n每年都会吞食作为祭品\n献上的少女，但被设下\n的陷阱酒醉倒后，被素\n盏鸣尊的剑砍死。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:161:0",
+  "message_id": "myth_161",
+  "translation": "{F2 05 FF FF}{F1 41}拥有美丽女性外表的诅咒\n树灵。从被处以绞刑的男\n人的血中诞生的美丽花朵\n。是出现在日耳曼神话中\n的邪恶女性灵体，其名字\n有“通晓秘密”的意思。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:162:0",
+  "message_id": "myth_162",
+  "translation": "{F2 05 FF FF}{F1 41}斯里兰卡神话中传承的巨\n象怪物。据说，是魔王玛\n拉为阻止释迦牟尼的解脱\n而骑乘的怪物。据说它拥\n有邪眼，被它注视的人会\n遭到疾病与灾祸。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:163:0",
+  "message_id": "myth_163",
+  "translation": "{F2 05 FF FF}{F1 41}据说在大和政权的势力\n进入之前，就已经在信\n浓地方受到信仰的土著\n神。据说它是从石头或\n岩石中寄宿着神灵的古\n代信仰形态中诞生的神\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:164:0",
+  "message_id": "myth_164",
+  "translation": "{F2 05 FF FF}{F1 41}斯拉夫神话的死神。名字\n的意思是“黑色的神”。\n据说它住在地下，司掌着\n黑夜、邪恶与死。司掌光\n与善的“白色之神”别尔\n勃格是与它对立的存在。\n在人们之中，也有人因为\n它的咒力而崇拜它。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:165:0",
+  "message_id": "myth_165",
+  "translation": "{F2 05 FF FF}{F1 41}原本是上埃及地区崇拜的\n神，据说也是象征凶暴风\n暴的恶神。它用计谋杀害\n了兄长奥西里斯神，成为\n众神的支配者，但最后被\n奥西里斯神的儿子荷鲁斯\n神所讨伐。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:166:0",
+  "message_id": "myth_166",
+  "translation": "{F2 05 FF FF}{F1 41}高馆之主之名的魔王。\n据说是由掌管丰收的叙\n利亚主神巴力改变外貌\n而成。掌管死亡，拥有\n引导灵魂的能力。据说\n有许多人崇拜他的力量\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:167:0",
+  "message_id": "myth_167",
+  "translation": "{F2 05 FF FF}{F1 41}犹太传说中的有力天使\n，被视为梅丹佐的双胞\n胎兄弟。他是天界的书\n记官，负责将人们的祈\n祷传达给神。将希伯来\n语的祈祷放在神的头上\n作为花饰也是他的职责\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:168:0",
+  "message_id": "myth_168",
+  "translation": "{F2 05 FF FF}{F1 41}苏格兰流传的犬妖精。\n被当成妖精的交通工具\n或监视者。在追逐猎物\n时，会发出三次惊人的\n吼叫声，让目标吓到停\n下动作。有时也会发现\n它们在岩石的裂缝中睡\n觉。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:169:0",
+  "message_id": "myth_169",
+  "translation": "{F2 05 FF FF}{F1 41}古代中国的传说之鸟。据\n说只会在世界和平盛世时\n才会现身。百鸟之王或说\n是首领的凤凰停止呼吸时\n，无数鸟类都会为此悲叹\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:170:0",
+  "message_id": "myth_170",
+  "translation": "{F2 05 FF FF}{F1 41}日本神话中流传的灵鸟。\n据说是天照大神派遣给人\n类的３脚圣乌鸦。在战争\n中引导迷路的神武天皇东\n征军，为其带来胜利。由\n于神格崇高，据说无资格\n者直视会发疯。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:171:0",
+  "message_id": "myth_171",
+  "translation": "{F2 05 FF FF}{F1 41}毗湿奴化身的半人半狮\n之神。魔王希拉尼亚卡\n西普受恩赐，不会被人\n类、动物或神杀死。为\n击败他，毗湿奴以此形\n态降临，并在黄昏杀死\n了白天与夜晚都不会死\n的魔王。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:172:0",
+  "message_id": "myth_172",
+  "translation": "{F2 05 FF FF}{F1 41}苏格兰的妖精骑士，隶\n属于妖精宫廷的卡塔霍\n夫森林守护者。原本是\n住在那块地区的人类，\n９岁时被妖精绑架，从\n此以妖精的身份生活。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:173:0",
+  "message_id": "myth_173",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话的秃鹫之王。\n被视为灵鸟迦楼罗的化\n身。叙事诗《罗摩衍那\n》中，记载了他帮助毗\n湿奴的化身罗摩王从魔\n王罗波那手中救回悉多\n公主而奋勇作战的英姿\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:174:0",
+  "message_id": "myth_174",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话中传说之鸟，名\n字的意思是“拥有美丽翅\n膀者”。据说能够通过振\n翅随意操控风，还可以自\n由自在地变化身体大小。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:175:0",
+  "message_id": "myth_175",
+  "translation": "{F2 05 FF FF}{F1 41}印度神话阿修罗族之王\n。其名为摩诃毗卢遮那\n，意为“伟大的普照者\n”。传入佛教后，转化\n为大日如来，成为密教\n的至高神。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:176:0",
+  "message_id": "myth_176",
+  "translation": "{F2 05 FF FF}{F1 41}《约翰启示录》中记载的\n、世界终末时现身的四骑\n士之一。骑着红马，手持\n巨剑。被赋予夺走地上和\n平、使人们相互残杀的力\n量。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:177:0",
+  "message_id": "myth_177",
+  "translation": "{F2 05 FF FF}{F1 41}拥有胡狼头颅，引导埃及\n神话死者之神。在审判亡\n魂的“奥西里斯法庭”称\n量死者心脏的重量，判断\n能否前往天国。也掌管木\n乃伊化的技术。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:178:0",
+  "message_id": "myth_178",
+  "translation": "{F2 05 FF FF}{F1 41}约翰启示录中记载，于\n世界末日显现的四骑士\n之一。骑乘黑马，手持\n天平。拥有在地上引发\n饥荒的力量，被允许使\n人们在痛苦中死去。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:179:0",
+  "message_id": "myth_179",
+  "translation": "{F2 05 FF FF}{F1 41}在圣约翰启示录中被预言\n会降临，手持号角的上帝\n使者，被视为是一种天使\n。据说他们吹响的号角会\n引发各种灾难，如火灾以\n及星辰坠落，使大地暂时\n化为死亡的世界。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:180:0",
+  "message_id": "myth_180",
+  "translation": "{F2 05 FF FF}{F1 41}在天阶等级中位于顶点的\n四大天使之一，也是有着\n“如上帝者”之名的至高\n天使。是连上帝也倚为右\n臂的最杰出天使。据说他\n手中握有能够战胜任何利\n刃的神秘武器。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:181:0",
+  "message_id": "myth_181",
+  "translation": "{F2 05 FF FF}{F1 41}犹太教、基督教中的黑\n暗天使。名字的含义为\n“敌对者”。以在伊甸\n园中诱惑了亚当和夏娃\n的邪恶毒蛇形象广为人\n知。据说他也是天界为\n审判人类而派遣到人间\n的控告天使。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:182:0",
+  "message_id": "myth_182",
+  "translation": "{F2 05 FF FF}{F1 41}在天使之中最为伟大且充\n满谜团的存在，拥有神之\n脸、契约天使等许多别名\n。据说他肩负维持世界运\n作的职责，但同时也兼具\n对人类做出残虐行为的一\n面。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:183:0",
+  "message_id": "myth_183",
+  "translation": "{F2 05 FF FF}{F1 41}兼具男性与女性特质的\n双性神。是破坏神湿婆\n与其妻帕尔瓦蒂融合后\n的姿态，也是夏克蒂主\n义的理想，达成完全合\n一的完美神祇。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:184:0",
+  "message_id": "myth_184",
+  "translation": "{F2 05 FF FF}{F1 41}据传成为恶魔之王的犹\n太教、基督教的堕天使\n。虽然地位仅次于神，\n却因为骄傲而率领三分\n之一的天使发动反叛，\n最后被神的军队讨伐。\n据说他正在魔界等待再\n次挑战神并打败祂的时\n机。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:185:0",
+  "message_id": "myth_185",
+  "translation": "{F2 05 FF FF}{F1 41}希腊神话的主神，全知\n全能的存在。在撼动全\n宇宙的死斗之后，击败\n凶暴的风暴恶神，成为\n名副其实的奥林帕斯诸\n神之王。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:186:0",
+  "message_id": "myth_186",
+  "translation": "{F2 05 FF FF}{F1 41}希腊神话的主神，全知全\n能的存在。打倒了父亲克\n洛诺斯，坐上诸神之王的\n宝座。与众多女神和人类\n的女性交合，生下了许多\n子孙。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:187:0",
+  "message_id": "myth_187",
+  "translation": "{F2 05 FF FF}{F1 41}在基于神学的天使位阶\n中，属于第8位的下级\n天使。司掌国家与文明\n的盛衰，被视为与人类\n生活最直接相关的天使\n。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:188:0",
+  "message_id": "myth_188",
+  "translation": "{F2 05 FF FF}{F1 41}阿拉伯的古老大母神。据\n说在卡巴之地以４面的黑\n色石柱为本体受到祭祀。\n与儿子山与星之神杜斯拉\n一同受到沙漠的游牧民族\n崇拜。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:189:0",
+  "message_id": "myth_189",
+  "translation": "{F2 05 FF FF}{F1 41}在神学的天阶等级中位\n于第４等的中级天使。\n亦被称为“主天使”。\n名字的意思是“统治”\n。被认为负担着传播上\n帝威望的职责。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:208:0",
+  "message_id": "myth_208",
+  "translation": "{F2 05 FF FF}{F1 41}希腊神话中司掌死亡的\n神，夜之女神倪克斯之\n子，侍奉冥王哈帝斯。\n他身着黑衣，手持招来\n死亡的剑。据说会剪下\n寿命将尽者的头发，将\n其送往冥界，引领那人\n步入死亡。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:209:0",
+  "message_id": "myth_209",
+  "translation": "{F2 05 FF FF}{F1 41}在被认为是日本最古老的\n物语“竹取物语”中记载\n的天人。据传是从光辉闪\n耀的竹子中出现。虽然受\n到众多男性求婚，但都以\n无理难题为由拒绝，最后\n回到故乡月都。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:210:0",
+  "message_id": "myth_210",
+  "translation": "{F2 05 FF FF}{F1 41}与伊邪那岐相对的神，外\n形也与其极为相似。名字\n中的“祸津”意指灾厄。\n伊邪那岐从混沌中奠定大\n地与自然的基础，而他与\n之相反，会将万物再度引\n向混沌。\n{00}"
+ },
+ {
+  "key": "export_base/facility/datmyth.bmd.json:211:0",
+  "message_id": "myth_211",
+  "translation": "{F2 05 FF FF}{F1 41}与许多人缔结羁绊，从\n深化的心之海中再度诞\n生的俄耳甫斯。以隐藏\n所有可能性的“无”觉\n醒。\n{00}"
+ }
+]

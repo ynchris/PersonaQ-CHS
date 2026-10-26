@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/event/e100/e110_080.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F2 01 08 01}＞八十神高中，校园……\n{F2 22 56 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_080.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F2 01 08 01}＞校园正中，\n　耸立着一座塔状的建筑……\n{F2 22 60 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e110_080.bf.json:2:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 02 01}{F3 06 00 01 00 01}真的……\n真的有时钟塔啊……\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ }
+]

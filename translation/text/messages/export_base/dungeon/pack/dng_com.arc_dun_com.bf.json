@@ -1,0 +1,352 @@
+[
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:0:0",
+  "message_id": "YESNO_SEL",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:0:1",
+  "message_id": "YESNO_SEL",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:1:0",
+  "message_id": "GET_ITEM_MES",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了{F4 45 04 01 00 00 01 01}。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:2:0",
+  "message_id": "GET_MONEY_MES",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了{F2 44 01 01}日元。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:3:0",
+  "message_id": "TBOX_ENEMY_APPEAR",
+  "translation": "{F2 05 FF FF}{F1 41}＞！！糟了！！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:4:0",
+  "message_id": "GET_FOUNTAIN_HPUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞受到能量点的影响，\n　体力恢复了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:5:0",
+  "message_id": "GET_FOUNTAIN_SPUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞受到能量点的影响，\n　心灵得到了治愈。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:6:0",
+  "message_id": "GET_FOUNTAIN_STATUSUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞受到能量点的影响，\n　下一个能量点的效果翻倍了\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:7:0",
+  "message_id": "GET_FOUNTAIN_EXPUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞受到能量点的影响，\n　战斗获得的经验值翻倍了\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:8:0",
+  "message_id": "GET_FOUNTAIN_RAREUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞受到能量点的影响，\n　遭遇金手的概率提高了\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:9:0",
+  "message_id": "GET_FOUNTAIN_BOXUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞受到能量点的影响，\n　下个宝箱中物品的品质提高了\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:10:0",
+  "message_id": "GET_FOUNTAIN_FOUNTAINUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞受到能量点的影响，\n　下一个能量点的效果提高了\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:11:0",
+  "message_id": "GET_FOUNTAIN_END",
+  "translation": "{F2 05 FF FF}{F1 41}＞能量点的效果消失了\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:12:0",
+  "message_id": "NOT_OPEN_SHORTCUT",
+  "translation": "{F2 05 FF FF}{F1 41}＞似乎无法从这边通过…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:13:0",
+  "message_id": "OPENED_BOX",
+  "translation": "{F2 05 FF FF}{F1 41}＞里面似乎已经空了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:14:0",
+  "message_id": "ROSE_WHITENING",
+  "translation": "{F2 05 FF FF}{F1 41}＞要用洒水壶\n　洗掉玫瑰上的颜料吗…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:15:0",
+  "message_id": "SEL_ROSE_WHITENING",
+  "translation": "{F2 05 FF FF}{F1 41}洗掉{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:15:1",
+  "message_id": "SEL_ROSE_WHITENING",
+  "translation": "{F2 05 FF FF}{F1 41}算了{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:16:0",
+  "message_id": "TIME_DOOR_SWITCH",
+  "translation": "{F2 05 FF FF}{F1 41}＞传来栅栏开启声…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:17:0",
+  "message_id": "TIME_DOOR_SWITCH_CLOSE",
+  "translation": "{F2 05 FF FF}{F1 41}＞传来栅栏关闭声…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:18:0",
+  "message_id": "UPDOWN_WALL_SWITCH",
+  "translation": "{F2 05 FF FF}{F1 41}＞要操作开关吗…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:19:0",
+  "message_id": "EXIT_DUNGEON_SEL",
+  "translation": "{F2 05 FF FF}{F1 41}＞要离开迷宫吗…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:20:0",
+  "message_id": "TORII_SUCCESS",
+  "translation": "{F2 05 FF FF}{F1 41}＞所有灯笼似乎都点亮了！\n　去被封住的门那里看看吧…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:21:0",
+  "message_id": "TORII_FAILED",
+  "translation": "{F2 05 FF FF}{F1 41}＞灯笼的火熄灭了…\n　其他灯笼似乎也熄灭了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:22:0",
+  "message_id": "TORII_FAILED2",
+  "translation": "{F2 05 FF FF}{F1 41}＞灯笼的火熄灭了…\n　看来巡礼必须一路穿行而过。\n　其他灯笼似乎也熄灭了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:23:0",
+  "message_id": "SHORTCUT_ASK",
+  "translation": "{F2 05 FF FF}{F1 41}＞有一条近路…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:24:0",
+  "message_id": "SEL_SHORTCUT_ASK",
+  "translation": "{F2 05 FF FF}{F1 41}通过{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:24:1",
+  "message_id": "SEL_SHORTCUT_ASK",
+  "translation": "{F2 05 FF FF}{F1 41}不通过{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:25:0",
+  "message_id": "ONEWAY_ASK",
+  "translation": "{F2 05 FF FF}{F1 41}＞有一条近路。\n　{F2 01 03 01}似乎无法从对面返回…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:26:0",
+  "message_id": "SEL_ONEWAY_ASK",
+  "translation": "{F2 05 FF FF}{F1 41}通过{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:26:1",
+  "message_id": "SEL_ONEWAY_ASK",
+  "translation": "{F2 05 FF FF}{F1 41}不通过{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:27:0",
+  "message_id": "MAPPING_BOX_FAILED1",
+  "translation": "{F2 05 FF FF}{F1 41}＞这个宝箱似乎打不开…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:27:1",
+  "message_id": "MAPPING_BOX_FAILED1",
+  "translation": "{F2 05 FF FF}{F1 41}＞宝箱地图上的脚印标记，\n　总觉得看起来有些暗淡…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:27:2",
+  "message_id": "MAPPING_BOX_FAILED1",
+  "translation": "{F2 05 FF FF}{F1 41}＞也许和这一层有什么关系。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:28:0",
+  "message_id": "MAPPING_BOX_FAILED2",
+  "translation": "{F2 05 FF FF}{F1 41}＞宝箱盖的缝隙中，\n　透出微弱的光…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:28:1",
+  "message_id": "MAPPING_BOX_FAILED2",
+  "translation": "{F2 05 FF FF}{F1 41}＞宝箱地图上的脚印标记，\n　似乎在隐隐发光…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:28:2",
+  "message_id": "MAPPING_BOX_FAILED2",
+  "translation": "{F2 05 FF FF}{F1 41}＞也许和这一层有什么关系。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:29:0",
+  "message_id": "MAPPING_BOX_FAILED3",
+  "translation": "{F2 05 FF FF}{F1 41}＞这个宝箱似乎打不开…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:29:1",
+  "message_id": "MAPPING_BOX_FAILED3",
+  "translation": "{F2 05 FF FF}{F1 41}＞宝箱地图上的脚印标记，\n　总觉得看起来有些暗淡…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:29:2",
+  "message_id": "MAPPING_BOX_FAILED3",
+  "translation": "{F2 05 FF FF}{F1 41}＞也许和这一层有什么关系。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:30:0",
+  "message_id": "SHORTCUT_PRAISE",
+  "translation": "{F2 05 FF FF}{F1 41}＞打通了近路！\n　这样往返就方便多了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:31:0",
+  "message_id": "SPIDER_WEB_HIT",
+  "translation": "{F2 05 FF FF}{F1 41}＞被蜘蛛网缠住了！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:32:0",
+  "message_id": "SPIDER_WEB_TURN1",
+  "translation": "{F2 05 FF FF}{F1 41}＞被蜘蛛网缠住，动不了了！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:33:0",
+  "message_id": "SPIDER_WEB_TURN2",
+  "translation": "{F2 05 FF FF}{F1 41}＞蜘蛛网稍微松开了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:34:0",
+  "message_id": "SPIDER_WEB_TURN3",
+  "translation": "{F2 05 FF FF}{F1 41}＞再过一会儿，\n　就能挣脱蜘蛛网了！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:35:0",
+  "message_id": "BAG_FULL",
+  "translation": "{F2 05 FF FF}{F1 41}＞携带的物品似乎已满…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:36:0",
+  "message_id": "UNEASY_GATHER",
+  "translation": "{F2 05 FF FF}{F1 41}＞感觉能量点的力量\n　变得更浓郁了…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:36:1",
+  "message_id": "UNEASY_GATHER",
+  "translation": "{F2 05 FF FF}{F1 41}＞现在似乎能采到好东西，\n　但同时也感觉到了阴影的气息…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:36:2",
+  "message_id": "UNEASY_GATHER",
+  "translation": "{F2 05 FF FF}{F1 41}＞要调查能量点吗…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:37:0",
+  "message_id": "SEL_UNEASY_GATHER",
+  "translation": "{F2 05 FF FF}{F1 41}调查{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:37:1",
+  "message_id": "SEL_UNEASY_GATHER",
+  "translation": "{F2 05 FF FF}{F1 41}算了{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:38:0",
+  "message_id": "GATHER_GET_FAILED",
+  "translation": "{F2 05 FF FF}{F1 41}＞什么也没采到…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:39:0",
+  "message_id": "GATHER_SUSPENSE",
+  "translation": "{F2 05 FF FF}{F1 41}＞调查了能量点…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:39:1",
+  "message_id": "GATHER_SUSPENSE",
+  "translation": "{F2 05 FF FF}{F1 41}＞…？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:40:0",
+  "message_id": "JIJIKU_SEL",
+  "translation": "{F2 05 FF FF}{F1 41}存档{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:40:1",
+  "message_id": "JIJIKU_SEL",
+  "translation": "{F2 05 FF FF}{F1 41}逃离迷宫{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:40:2",
+  "message_id": "JIJIKU_SEL",
+  "translation": "{F2 05 FF FF}{F1 41}取消{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:41:0",
+  "message_id": "JIJIKU_ASK",
+  "translation": "{F2 05 FF FF}{F1 41}＞该怎么办呢…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:42:0",
+  "message_id": "TIME_DOOR_SWITCH_NUM6",
+  "translation": "{F2 05 FF FF}{F1 41}＞踩上了写着“６”的地板…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:43:0",
+  "message_id": "TIME_DOOR_SWITCH_NUM9",
+  "translation": "{F2 05 FF FF}{F1 41}＞踩上了写着“９”的地板…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:44:0",
+  "message_id": "TIME_DOOR_SWITCH_NUM12",
+  "translation": "{F2 05 FF FF}{F1 41}＞踩上了写着“１２”的地板…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:45:0",
+  "message_id": "MAPPING_BOX_SUCCESS",
+  "translation": "{F2 05 FF FF}{F1 41}＞宝箱中透出了光…！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:46:0",
+  "message_id": "GET_ITEM_MES2",
+  "translation": "{F2 05 FF FF}{F1 41}＞竟然获得了{F4 45 04 01 00 00 01 01}！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:47:0",
+  "message_id": "TIME_DOOR_FANCE",
+  "translation": "{F2 05 FF FF}{F1 41}＞栅栏放下来了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:48:0",
+  "message_id": "MAPPING_BOX_COIN",
+  "translation": "{F2 05 FF FF}{F1 41}现在可以使用游戏金币，\n打开带有地图的\n宝箱了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:49:0",
+  "message_id": "MENACE_TO_ARROW",
+  "translation": "{F2 05 FF FF}{F1 41}＞！！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:50:0",
+  "message_id": "BOX_SKILL_CARD_1ST",
+  "translation": "{F2 05 FF FF}{F1 41}　\n{F2 01 03 01}“技能卡”{F2 01 01 01}是一种使用后，\n能让“主”人格面具\n学会技能的道具。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:51:0",
+  "message_id": "MAPPING_BOX_SUCCESS_1ST",
+  "translation": "{F2 05 FF FF}{F1 41}＞看似坚固的宝箱…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:51:1",
+  "message_id": "MAPPING_BOX_SUCCESS_1ST",
+  "translation": "{F2 05 FF FF}{F1 41}＞锁的位置似乎有块\n　像地图一样的浮雕…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/dng_com.arc_dun_com.bf.json:51:2",
+  "message_id": "MAPPING_BOX_SUCCESS_1ST",
+  "translation": "{F2 05 FF FF}{F1 41}＞…！？\n{F1 21}{00}"
+ }
+]

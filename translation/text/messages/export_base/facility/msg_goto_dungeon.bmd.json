@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/facility/msg_goto_dungeon.bmd.json:0:0",
+  "message_id": "GOTO_DUNGEON_YESNO",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/facility/msg_goto_dungeon.bmd.json:0:1",
+  "message_id": "GOTO_DUNGEON_YESNO",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_goto_dungeon.bmd.json:1:0",
+  "message_id": "GOTO_DUNGEON_IN",
+  "translation": "{F2 05 FF FF}{F1 41}＞要进入迷宫吗？\n{F1 21}{00}"
+ }
+]

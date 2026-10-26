@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(000).BMD.json:0:0",
+  "message_id": "BTL_MES_H108_001_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4C 01}危、危险！\n请设法撤退！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(000).BMD.json:1:0",
+  "message_id": "BTL_MES_H108_001_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4D 01}是ＦＯＥ！请立即撤退！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(000).BMD.json:2:0",
+  "message_id": "BTL_MES_H108_001_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4E 01}啊！是ＦＯＥ！快逃！\n{F2 26 00 00}{00}"
+ }
+]

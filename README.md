@@ -1,0 +1,38 @@
+# 《女神异闻录Q 暗影迷宫》简体中文汉化
+
+作者：ynChris（汉化老兵）
+
+《女神异闻录Q 暗影迷宫》（ペルソナQ シャドウ オブ ザ ラビリンス，3DS 日版）的简体中文汉化，包含本体、2.3.0 更新和全部 DLC。
+
+**当前为测试版 589**：文本已基本译完，尚未完整通关验证。欢迎在 Issues 反馈排版、漏译和错字。
+
+**注意：本补丁仅用作技术交流，请用于正版游戏。本仓库不含任何游戏 ROM 或原始游戏资源。**
+
+## 使用补丁
+1. 在 [Releases](../../releases) 下载 `PQ1_CHS_PATCH_589.zip` 并解压。
+2. 准备自己的日版游戏文件：
+   - 本体 `.3ds`（已解密），SHA256 `568eb1dda845432557ce290abf5e5082fa13d3a21954794235f8e92344e5327a`
+   - 更新 2.3.0 `.cia`（Title ID `0004000E000C3600`，加密或已解密都可以）
+   - DLC `.cia`（Title ID `0004008C000C3600`，可选）
+3. 把游戏文件放进解压后的文件夹，双击 `一键打补丁.bat`，在 `输出` 文件夹得到三个中文 CIA。
+
+详见补丁包内的 `说明.txt`。需要 Windows 和至少 6 GB 硬盘空间。
+
+## 仓库内容
+- `scripts/`：提取、编译、字库、贴图、封包和补丁制作脚本（Python）。
+- `translation/text/`：译文（仅中文）。`messages/` 按原始资源文件分开，`tables.json` 为菜单表格。
+- `translation/docs/`：工作记录、术语表、复用约定等文档。
+- `patch_kit/`：玩家补丁包的一键脚本和说明。
+
+脚本依赖本地的游戏解包数据和工具，路径按作者本机编写，仓库本身不能直接构建。
+
+## 字体
+游戏内中文字形使用 [方正FW轻吟体B](https://www.foundertype.com/index.php/FontInfo/index/id/4985) 生成。字体文件不包含在本仓库中，请自行获取授权。
+
+## 致谢
+- [女神异闻录Q2 汉化](https://github.com/Qi-Busiyi-Hanhuazu/PersonaQ2ChsLocalization)（奇-不思议汉化组）：部分译名与译文参考、复用二代汉化，并参考其字库和工具方案
+- [3dstool](https://github.com/dnasdw/3dstool)，作者：Sun Daowen
+- [Project_CTR](https://github.com/3DSGuy/Project_CTR)（ctrtool / makerom），作者：3DSGuy
+- [xdelta](https://github.com/jmacd/xdelta)，作者：Joshua MacDonald
+- [Atlus-Script-Tools](https://github.com/tge-was-taken/Atlus-Script-Tools)，作者：tge-was-taken
+- CRI File System Tools

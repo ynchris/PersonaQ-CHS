@@ -1,0 +1,2537 @@
+[
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:2:0",
+  "message_id": "skill_card_002",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得火焰技能\n“亚基”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:3:0",
+  "message_id": "skill_card_003",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得火焰技能\n“亚基拉欧”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:4:0",
+  "message_id": "skill_card_004",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得火焰技能\n“亚基达因”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:5:0",
+  "message_id": "skill_card_005",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得火焰技能\n“玛哈拉基”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:6:0",
+  "message_id": "skill_card_006",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得火焰技能\n“玛哈拉基翁”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:7:0",
+  "message_id": "skill_card_007",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得火焰技能\n“玛哈拉基达因”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:8:0",
+  "message_id": "skill_card_008",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得火焰技能\n“焰弹”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:9:0",
+  "message_id": "skill_card_009",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得火焰技能\n“诸神黄昏”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:14:0",
+  "message_id": "skill_card_00E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得疾风技能\n“加尔”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:15:0",
+  "message_id": "skill_card_00F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得疾风技能\n“加尔拉”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:16:0",
+  "message_id": "skill_card_010",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得疾风技能\n“加尔达因”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:17:0",
+  "message_id": "skill_card_011",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得疾风技能\n“玛哈加尔”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:18:0",
+  "message_id": "skill_card_012",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得疾风技能\n“玛哈加尔拉”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:19:0",
+  "message_id": "skill_card_013",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得疾风技能\n“玛哈加尔达因”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:20:0",
+  "message_id": "skill_card_014",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得疾风技能\n“旋风”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:21:0",
+  "message_id": "skill_card_015",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得疾风技能\n“万物流转”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:26:0",
+  "message_id": "skill_card_01A",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得冰冻技能\n“布芙”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:27:0",
+  "message_id": "skill_card_01B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得冰冻技能\n“布芙拉”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:28:0",
+  "message_id": "skill_card_01C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得冰冻技能\n“布芙达因”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:29:0",
+  "message_id": "skill_card_01D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得冰冻技能\n“玛哈布芙”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:30:0",
+  "message_id": "skill_card_01E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得冰冻技能\n“玛哈布芙拉”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:31:0",
+  "message_id": "skill_card_01F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得冰冻技能\n“玛哈布芙达因”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:32:0",
+  "message_id": "skill_card_020",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得冰冻技能\n“极寒乐园”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:33:0",
+  "message_id": "skill_card_021",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得冰冻技能\n“死者国度”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:34:0",
+  "message_id": "skill_card_022",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得冰冻技能\n“冰枪”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:39:0",
+  "message_id": "skill_card_027",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得电击技能\n“吉欧”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:40:0",
+  "message_id": "skill_card_028",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得电击技能\n“吉欧加”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:41:0",
+  "message_id": "skill_card_029",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得电击技能\n“吉欧达因”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:42:0",
+  "message_id": "skill_card_02A",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得电击技能\n“玛哈吉欧”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:43:0",
+  "message_id": "skill_card_02B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得电击技能\n“玛哈吉欧加”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:44:0",
+  "message_id": "skill_card_02C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得电击技能\n“玛哈吉欧达因”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:46:0",
+  "message_id": "skill_card_02E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得电击技能\n“真理之雷”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:47:0",
+  "message_id": "skill_card_02F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得电击技能\n“雷霆”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:48:0",
+  "message_id": "skill_card_030",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得电击技能\n“闪雷”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:49:0",
+  "message_id": "skill_card_031",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得异常技能\n“座天使之眼”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:50:0",
+  "message_id": "skill_card_032",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得异常技能\n“玛卡加玛”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:51:0",
+  "message_id": "skill_card_033",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得万能技能\n“米吉多”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:52:0",
+  "message_id": "skill_card_034",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得万能技能\n“米吉多拉”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:53:0",
+  "message_id": "skill_card_035",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得万能技能\n“米吉多拉翁”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:55:0",
+  "message_id": "skill_card_037",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得万能技能\n“漆黑之蛇”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:56:0",
+  "message_id": "skill_card_038",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得万能技能\n“拂晓明星”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:61:0",
+  "message_id": "skill_card_03D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得祝福技能\n“哈玛”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:62:0",
+  "message_id": "skill_card_03E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得祝福技能\n“哈玛翁”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:63:0",
+  "message_id": "skill_card_03F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得祝福技能\n“玛翰玛”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:64:0",
+  "message_id": "skill_card_040",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得祝福技能\n“玛翰玛翁”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:67:0",
+  "message_id": "skill_card_043",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得祝福技能\n“回转讲道”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:72:0",
+  "message_id": "skill_card_048",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得咒怨技能\n“姆多”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:73:0",
+  "message_id": "skill_card_049",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得咒怨技能\n“姆多翁”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:74:0",
+  "message_id": "skill_card_04A",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得咒怨技能\n“玛哈姆多”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:75:0",
+  "message_id": "skill_card_04B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得咒怨技能\n“玛哈姆多翁”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:78:0",
+  "message_id": "skill_card_04E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得暗属性技能\n“可以为我而死吗？”的技能卡\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:83:0",
+  "message_id": "skill_card_053",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得状态异常技能\n“普林帕”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:84:0",
+  "message_id": "skill_card_054",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得状态异常技能\n“颠塔拉弗”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:85:0",
+  "message_id": "skill_card_055",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得状态异常技能\n“施毒术”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:86:0",
+  "message_id": "skill_card_056",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得状态异常技能\n“剧毒之息”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:87:0",
+  "message_id": "skill_card_057",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得状态异常技能\n“盲目单体”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:88:0",
+  "message_id": "skill_card_058",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得状态异常技能\n“盲目全体”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:89:0",
+  "message_id": "skill_card_059",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得状态异常技能\n“永眠”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:90:0",
+  "message_id": "skill_card_05A",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得状态异常技能\n“摇篮曲”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:91:0",
+  "message_id": "skill_card_05B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得状态异常技能\n“恶魔之触”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:92:0",
+  "message_id": "skill_card_05C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得状态异常技能\n“恶魔微笑”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:95:0",
+  "message_id": "skill_card_05F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“沉重的道服”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:96:0",
+  "message_id": "skill_card_060",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“气势道服”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:97:0",
+  "message_id": "skill_card_061",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“神之祭品”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:98:0",
+  "message_id": "skill_card_062",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“楼陀罗戒指”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:99:0",
+  "message_id": "skill_card_063",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“脉轮戒指”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:100:0",
+  "message_id": "skill_card_064",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“风柳之翼”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:101:0",
+  "message_id": "skill_card_065",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“耐雪之翼”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:102:0",
+  "message_id": "skill_card_066",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“齿亡舌存之翼”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:103:0",
+  "message_id": "skill_card_067",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“极炎块”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:104:0",
+  "message_id": "skill_card_068",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“绝冷石”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:105:0",
+  "message_id": "skill_card_069",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“暴风戒指”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:106:0",
+  "message_id": "skill_card_06A",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“雷神手镯”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:107:0",
+  "message_id": "skill_card_06B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“白光之轮”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:108:0",
+  "message_id": "skill_card_06C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“黑暗之轮”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:109:0",
+  "message_id": "skill_card_06D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“白刃鸟的羽毛”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:110:0",
+  "message_id": "skill_card_06E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“铁制坠饰”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:111:0",
+  "message_id": "skill_card_06F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“头盔”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:112:0",
+  "message_id": "skill_card_070",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“全能真球”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:113:0",
+  "message_id": "skill_card_071",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“完全神柱 切割”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:114:0",
+  "message_id": "skill_card_072",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“锗之戒指”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:115:0",
+  "message_id": "skill_card_073",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“赎罪羔羊”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:116:0",
+  "message_id": "skill_card_074",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“体魂反转戒指”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:117:0",
+  "message_id": "skill_card_075",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“力魔反转戒指”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:118:0",
+  "message_id": "skill_card_076",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“力耐反转戒指”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:119:0",
+  "message_id": "skill_card_077",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“力速反转戒指”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:120:0",
+  "message_id": "skill_card_078",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“力运翻转戒指”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:121:0",
+  "message_id": "skill_card_079",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“魔耐反转戒指”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:122:0",
+  "message_id": "skill_card_07A",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“魔速反转戒指”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:123:0",
+  "message_id": "skill_card_07B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“魔运反转戒指”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:124:0",
+  "message_id": "skill_card_07C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“耐速反转戒指”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:125:0",
+  "message_id": "skill_card_07D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“耐运反转戒指”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:126:0",
+  "message_id": "skill_card_07E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得饰品技能\n“速运反转戒指”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:127:0",
+  "message_id": "skill_card_07F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“最后”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:128:0",
+  "message_id": "skill_card_080",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“开始”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:129:0",
+  "message_id": "skill_card_081",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“碎牙”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:130:0",
+  "message_id": "skill_card_082",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“碎胆”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:131:0",
+  "message_id": "skill_card_083",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“斩击”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:132:0",
+  "message_id": "skill_card_084",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“双剑连斩”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:133:0",
+  "message_id": "skill_card_085",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“最终镜头”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:134:0",
+  "message_id": "skill_card_086",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“双重射击”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:135:0",
+  "message_id": "skill_card_087",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“刚杀斩”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:136:0",
+  "message_id": "skill_card_088",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“死亡终结”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:137:0",
+  "message_id": "skill_card_089",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“冷静突刺”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:138:0",
+  "message_id": "skill_card_08A",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“电光石火”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:139:0",
+  "message_id": "skill_card_08B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“雾冰刃”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:140:0",
+  "message_id": "skill_card_08C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“残心剑”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:141:0",
+  "message_id": "skill_card_08D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“（残心的一击）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:142:0",
+  "message_id": "skill_card_08E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“死亡刺针”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:143:0",
+  "message_id": "skill_card_08F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“断头斩”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:144:0",
+  "message_id": "skill_card_090",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“五月雨斩”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:145:0",
+  "message_id": "skill_card_091",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“闪电击碎”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:146:0",
+  "message_id": "skill_card_092",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“神圣之触”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:147:0",
+  "message_id": "skill_card_093",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“忍耐的铁锤”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:148:0",
+  "message_id": "skill_card_094",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“（忍耐的一击）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:149:0",
+  "message_id": "skill_card_095",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“巨人铁拳”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:150:0",
+  "message_id": "skill_card_096",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“单次射击”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:151:0",
+  "message_id": "skill_card_097",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得封印技能\n“稻草人”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:152:0",
+  "message_id": "skill_card_098",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得封印技能\n“解除武装”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:153:0",
+  "message_id": "skill_card_099",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得封印技能\n“玛卡加玛”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:154:0",
+  "message_id": "skill_card_09A",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“突击射击”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:155:0",
+  "message_id": "skill_card_09B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“纯真突刺”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:156:0",
+  "message_id": "skill_card_09C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“猛烈射击”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:157:0",
+  "message_id": "skill_card_09D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“全景”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:158:0",
+  "message_id": "skill_card_09E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“刹那五月雨击”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:159:0",
+  "message_id": "skill_card_09F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“惩罚”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:160:0",
+  "message_id": "skill_card_0A0",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“俯冲突击”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:161:0",
+  "message_id": "skill_card_0A1",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“瞌睡拳”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:162:0",
+  "message_id": "skill_card_0A2",
+  "translation": "{F2 05 FF FF}{F1 41}物理技能“堕天之环”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:163:0",
+  "message_id": "skill_card_0A3",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“舍身相撞”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:164:0",
+  "message_id": "skill_card_0A4",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“死亡界限”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:165:0",
+  "message_id": "skill_card_0A5",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“利剑乱舞”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:166:0",
+  "message_id": "skill_card_0A6",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“冰杀刃”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:167:0",
+  "message_id": "skill_card_0A7",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“空间杀法”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:168:0",
+  "message_id": "skill_card_0A8",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“黑色舞蹈”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:169:0",
+  "message_id": "skill_card_0A9",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“倒栽痛击”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:170:0",
+  "message_id": "skill_card_0AA",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“熔热爆破”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:171:0",
+  "message_id": "skill_card_0AB",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“灼热波浪”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:172:0",
+  "message_id": "skill_card_0AC",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“光明波”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:173:0",
+  "message_id": "skill_card_0AD",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“（光明波）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:174:0",
+  "message_id": "skill_card_0AE",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“绝妙剑”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:175:0",
+  "message_id": "skill_card_0AF",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“光刃”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:176:0",
+  "message_id": "skill_card_0B0",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“生命力量”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:177:0",
+  "message_id": "skill_card_0B1",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“天军之剑”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:178:0",
+  "message_id": "skill_card_0B2",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“神之手”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:179:0",
+  "message_id": "skill_card_0B3",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“天使的喇叭”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:180:0",
+  "message_id": "skill_card_0B4",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“八艘跳跃”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:181:0",
+  "message_id": "skill_card_0B5",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“暴雨”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:182:0",
+  "message_id": "skill_card_0B6",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“箭浴”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:183:0",
+  "message_id": "skill_card_0B7",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“永恒之雨”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:184:0",
+  "message_id": "skill_card_0B8",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“盲目斩击”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:185:0",
+  "message_id": "skill_card_0B9",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“毒液斩击”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:186:0",
+  "message_id": "skill_card_0BA",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“睡梦斩击”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:187:0",
+  "message_id": "skill_card_0BB",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“捆缚斩击”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:188:0",
+  "message_id": "skill_card_0BC",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“道德跃进”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:189:0",
+  "message_id": "skill_card_0BD",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“红莲刀”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:190:0",
+  "message_id": "skill_card_0BE",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“冻杀刃”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:191:0",
+  "message_id": "skill_card_0BF",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“雷光斩”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:192:0",
+  "message_id": "skill_card_0C0",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“阵风击”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:193:0",
+  "message_id": "skill_card_0C1",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“真空波”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:194:0",
+  "message_id": "skill_card_0C2",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“烈星波”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:195:0",
+  "message_id": "skill_card_0C3",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“大劫”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:196:0",
+  "message_id": "skill_card_0C4",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“暗影步”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:197:0",
+  "message_id": "skill_card_0C5",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“末日世界”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:198:0",
+  "message_id": "skill_card_0C6",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“雷鸣斩”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:199:0",
+  "message_id": "skill_card_0C7",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“雷神斩”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:200:0",
+  "message_id": "skill_card_0C8",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“狱炎刀”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:201:0",
+  "message_id": "skill_card_0C9",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“绯炎刀”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:202:0",
+  "message_id": "skill_card_0CA",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“烈风击”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:203:0",
+  "message_id": "skill_card_0CB",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“神风击”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:204:0",
+  "message_id": "skill_card_0CC",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“思想跃进”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:205:0",
+  "message_id": "skill_card_0CD",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“灵魂跃进”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:207:0",
+  "message_id": "skill_card_0CF",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“最后”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:208:0",
+  "message_id": "skill_card_0D0",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复辅助技能\n“开始”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:209:0",
+  "message_id": "skill_card_0D1",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“迪亚”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:210:0",
+  "message_id": "skill_card_0D2",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“迪亚拉玛”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:211:0",
+  "message_id": "skill_card_0D3",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“迪亚拉翰”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:212:0",
+  "message_id": "skill_card_0D4",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“恢复之杯”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:213:0",
+  "message_id": "skill_card_0D5",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“生命之杯”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:214:0",
+  "message_id": "skill_card_0D6",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“梅迪亚”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:215:0",
+  "message_id": "skill_card_0D7",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“梅迪拉玛”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:216:0",
+  "message_id": "skill_card_0D8",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“梅迪亚拉翰”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:217:0",
+  "message_id": "skill_card_0D9",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“利卡姆”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:218:0",
+  "message_id": "skill_card_0DA",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“萨玛利卡姆”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:219:0",
+  "message_id": "skill_card_0DB",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“招待”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:220:0",
+  "message_id": "skill_card_0DC",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“焕然一新”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:221:0",
+  "message_id": "skill_card_0DD",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“帕特拉”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:222:0",
+  "message_id": "skill_card_0DE",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“刷新”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:223:0",
+  "message_id": "skill_card_0DF",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“梅帕特拉”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:224:0",
+  "message_id": "skill_card_0E0",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“克洛兹迪”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:225:0",
+  "message_id": "skill_card_0E1",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“放松”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:226:0",
+  "message_id": "skill_card_0E2",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“玛哈克洛兹迪”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:227:0",
+  "message_id": "skill_card_0E3",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得恢复技能\n“不死甘露”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:229:0",
+  "message_id": "skill_card_0E5",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“修复”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:230:0",
+  "message_id": "skill_card_0E6",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“野兽咆哮”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:231:0",
+  "message_id": "skill_card_0E7",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“龙之咆哮”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:232:0",
+  "message_id": "skill_card_0E8",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“连接增强”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:233:0",
+  "message_id": "skill_card_0E9",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“真·连接增强”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:234:0",
+  "message_id": "skill_card_0EA",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“隐身斗篷”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:235:0",
+  "message_id": "skill_card_0EB",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“壁垒”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:236:0",
+  "message_id": "skill_card_0EC",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“憎恨吞噬”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:237:0",
+  "message_id": "skill_card_0ED",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“保镖”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:238:0",
+  "message_id": "skill_card_0EE",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“身体护盾”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:239:0",
+  "message_id": "skill_card_0EF",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“身体屏障”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:240:0",
+  "message_id": "skill_card_0F0",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“分裂模式”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:241:0",
+  "message_id": "skill_card_0F1",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“神圣加护”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:242:0",
+  "message_id": "skill_card_0F2",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“进击之剑”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:243:0",
+  "message_id": "skill_card_0F3",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“守护之杖”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:244:0",
+  "message_id": "skill_card_0F4",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“观测”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:245:0",
+  "message_id": "skill_card_0F5",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“会心眼”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:246:0",
+  "message_id": "skill_card_0F6",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“马卡拉增益”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:247:0",
+  "message_id": "skill_card_0F7",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“玛哈塔尔卡加”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:248:0",
+  "message_id": "skill_card_0F8",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“玛哈拉库卡加”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:249:0",
+  "message_id": "skill_card_0F9",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“玛哈斯库卡加”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:250:0",
+  "message_id": "skill_card_0FA",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“蓄力”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:251:0",
+  "message_id": "skill_card_0FB",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“专心致志”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:257:0",
+  "message_id": "skill_card_101",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“威压眼神”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:258:0",
+  "message_id": "skill_card_102",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“贯穿眼神”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:259:0",
+  "message_id": "skill_card_103",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“四重降低”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:260:0",
+  "message_id": "skill_card_104",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“马卡拉下降”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:261:0",
+  "message_id": "skill_card_105",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“玛哈塔伦达”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:262:0",
+  "message_id": "skill_card_106",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“玛哈拉坤达”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:263:0",
+  "message_id": "skill_card_107",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“玛哈斯坤达”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:264:0",
+  "message_id": "skill_card_108",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“后卫”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:268:0",
+  "message_id": "skill_card_10C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“污秽空气”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:269:0",
+  "message_id": "skill_card_10D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得封印技能\n“莎乐美之吻”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:273:0",
+  "message_id": "skill_card_111",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“迪卡加”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:274:0",
+  "message_id": "skill_card_112",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“迪坤达”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:275:0",
+  "message_id": "skill_card_113",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“强制散热”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:276:0",
+  "message_id": "skill_card_114",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“马卡托拉”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:277:0",
+  "message_id": "skill_card_115",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“诱敌信号”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:278:0",
+  "message_id": "skill_card_116",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“火墙”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:279:0",
+  "message_id": "skill_card_117",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“风墙”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:280:0",
+  "message_id": "skill_card_118",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“冰墙”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:281:0",
+  "message_id": "skill_card_119",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“雷墙”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:282:0",
+  "message_id": "skill_card_11A",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“光墙”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:283:0",
+  "message_id": "skill_card_11B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“暗墙”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:284:0",
+  "message_id": "skill_card_11C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“塔尔卡加”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:285:0",
+  "message_id": "skill_card_11D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“拉库卡加”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:286:0",
+  "message_id": "skill_card_11E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“斯库卡加”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:287:0",
+  "message_id": "skill_card_11F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“塔伦达”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:288:0",
+  "message_id": "skill_card_120",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“拉坤达”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:289:0",
+  "message_id": "skill_card_121",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“斯坤达”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:290:0",
+  "message_id": "skill_card_122",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“女巫诅咒”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:291:0",
+  "message_id": "skill_card_123",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“灼热奋起”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:292:0",
+  "message_id": "skill_card_124",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“心眼觉醒”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:293:0",
+  "message_id": "skill_card_125",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“冥府之门”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:294:0",
+  "message_id": "skill_card_126",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“（冥府的邀约）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:295:0",
+  "message_id": "skill_card_127",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“灾厄之种”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:296:0",
+  "message_id": "skill_card_128",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“（灾厄到来）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:297:0",
+  "message_id": "skill_card_129",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“月之加护”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:299:0",
+  "message_id": "skill_card_12B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“再生竖琴”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:300:0",
+  "message_id": "skill_card_12C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“（再生竖琴）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:301:0",
+  "message_id": "skill_card_12D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“紫电碎”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:302:0",
+  "message_id": "skill_card_12E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“震电碎”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:303:0",
+  "message_id": "skill_card_12F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“灼热发破”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:304:0",
+  "message_id": "skill_card_130",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“核热发破”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:305:0",
+  "message_id": "skill_card_131",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“音速拳”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:306:0",
+  "message_id": "skill_card_132",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“头脑震撼”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:307:0",
+  "message_id": "skill_card_133",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“后抛摔”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:308:0",
+  "message_id": "skill_card_134",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“巨星坠落”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:319:0",
+  "message_id": "skill_card_13F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“最后”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:320:0",
+  "message_id": "skill_card_140",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“开始”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:321:0",
+  "message_id": "skill_card_141",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“总攻击”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:322:0",
+  "message_id": "skill_card_142",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“慌忙逃窜”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:323:0",
+  "message_id": "skill_card_143",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“分析”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:324:0",
+  "message_id": "skill_card_144",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“高阶分析”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:325:0",
+  "message_id": "skill_card_145",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“大蛇瞪眼”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:326:0",
+  "message_id": "skill_card_146",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“英气之泉”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:331:0",
+  "message_id": "skill_card_14B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“祈求丰收”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:332:0",
+  "message_id": "skill_card_14C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“大丰收”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:333:0",
+  "message_id": "skill_card_14D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“治愈神风”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:334:0",
+  "message_id": "skill_card_14E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“治愈神风”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:335:0",
+  "message_id": "skill_card_14F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“治愈法力”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:336:0",
+  "message_id": "skill_card_150",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“治愈神通力”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:337:0",
+  "message_id": "skill_card_151",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“治愈之风”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:338:0",
+  "message_id": "skill_card_152",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“聚光灯”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:339:0",
+  "message_id": "skill_card_153",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“黄泉归来”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:340:0",
+  "message_id": "skill_card_154",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“第三只眼”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:341:0",
+  "message_id": "skill_card_155",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“强硬法力”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:342:0",
+  "message_id": "skill_card_156",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“刚力法力”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:343:0",
+  "message_id": "skill_card_157",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“敏速法力”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:344:0",
+  "message_id": "skill_card_158",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“胜利气息”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:345:0",
+  "message_id": "skill_card_159",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“胜利咆哮”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:346:0",
+  "message_id": "skill_card_15A",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“祈求安全”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:347:0",
+  "message_id": "skill_card_15B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“大安心”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:348:0",
+  "message_id": "skill_card_15C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“护身符”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:349:0",
+  "message_id": "skill_card_15D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“万宝槌”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:350:0",
+  "message_id": "skill_card_15E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“威风堂堂”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:351:0",
+  "message_id": "skill_card_15F",
+  "translation": "{F2 05 FF FF}{F1 41}情报支援技能“色即是空”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:352:0",
+  "message_id": "skill_card_160",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“大波浪”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:353:0",
+  "message_id": "skill_card_161",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“神谕”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:354:0",
+  "message_id": "skill_card_162",
+  "translation": "{F2 05 FF FF}{F1 41}情报支援技能“神谕1”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:355:0",
+  "message_id": "skill_card_163",
+  "translation": "{F2 05 FF FF}{F1 41}情报支援技能“神谕2”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:356:0",
+  "message_id": "skill_card_164",
+  "translation": "{F2 05 FF FF}{F1 41}情报支援技能“神谕3”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:357:0",
+  "message_id": "skill_card_165",
+  "translation": "{F2 05 FF FF}{F1 41}情报支援技能“神谕4”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:358:0",
+  "message_id": "skill_card_166",
+  "translation": "{F2 05 FF FF}{F1 41}情报支援技能“神谕5”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:359:0",
+  "message_id": "skill_card_167",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“治愈之风”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:360:0",
+  "message_id": "skill_card_168",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“总攻击（镜头用）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:361:0",
+  "message_id": "skill_card_169",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“永世的祈祷”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:363:0",
+  "message_id": "skill_card_16B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“财宝猎人”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:364:0",
+  "message_id": "skill_card_16C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“秘宝猎人”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:365:0",
+  "message_id": "skill_card_16D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“妖精秘道”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:366:0",
+  "message_id": "skill_card_16E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“天狗秘道”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:367:0",
+  "message_id": "skill_card_16F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“千里眼”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:368:0",
+  "message_id": "skill_card_170",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“万里眼”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:369:0",
+  "message_id": "skill_card_171",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“净化之雨”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:370:0",
+  "message_id": "skill_card_172",
+  "translation": "{F2 05 FF FF}{F1 41}情报支援技能“物质枪”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:371:0",
+  "message_id": "skill_card_173",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“零之集束”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:372:0",
+  "message_id": "skill_card_174",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“久远的旋律”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:373:0",
+  "message_id": "skill_card_175",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“丰厚礼物（控制用）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:374:0",
+  "message_id": "skill_card_176",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“神圣礼物（控制用）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:377:0",
+  "message_id": "skill_card_179",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“祈求丰收”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:378:0",
+  "message_id": "skill_card_17A",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“大丰收”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:380:0",
+  "message_id": "skill_card_17C",
+  "translation": "{F2 05 FF FF}{F1 41}情报支援技能“光之小径”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:381:0",
+  "message_id": "skill_card_17D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“光之路”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:382:0",
+  "message_id": "skill_card_17E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得情报支援技能\n“光之天路”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:384:0",
+  "message_id": "skill_card_180",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得持续技能\n“开始”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:385:0",
+  "message_id": "skill_card_181",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得持续技能\n“磨损魔法阵”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:386:0",
+  "message_id": "skill_card_182",
+  "translation": "{F2 05 FF FF}{F1 41}持续技能“持续性麻痹”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:387:0",
+  "message_id": "skill_card_183",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得持续技能\n“催眠魔法阵”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:388:0",
+  "message_id": "skill_card_184",
+  "translation": "{F2 05 FF FF}{F1 41}持续技能“持续性睡眠”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:389:0",
+  "message_id": "skill_card_185",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得持续技能\n“有毒魔法阵”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:390:0",
+  "message_id": "skill_card_186",
+  "translation": "{F2 05 FF FF}{F1 41}持续技能“持续性中毒”\n可习得技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:391:0",
+  "message_id": "skill_card_187",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得持续技能\n“混乱魔法阵”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:392:0",
+  "message_id": "skill_card_188",
+  "translation": "{F2 05 FF FF}{F1 41}持续技能“持续性混乱”\n可习得技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:393:0",
+  "message_id": "skill_card_189",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得持续技能\n“沉默魔法阵”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:394:0",
+  "message_id": "skill_card_18A",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得持续技能\n“持续魔封”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:395:0",
+  "message_id": "skill_card_18B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得持续技能\n“无力魔法阵”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:396:0",
+  "message_id": "skill_card_18C",
+  "translation": "{F2 05 FF FF}{F1 41}持续技能“持续性封臂”\n可习得技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:397:0",
+  "message_id": "skill_card_18D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得持续技能\n“钝重魔法阵”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:398:0",
+  "message_id": "skill_card_18E",
+  "translation": "{F2 05 FF FF}{F1 41}持续技能“持续性封脚”\n可习得技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:399:0",
+  "message_id": "skill_card_18F",
+  "translation": "{F2 05 FF FF}{F1 41}特殊技能“恶灵召唤”\n可习得技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:400:0",
+  "message_id": "skill_card_190",
+  "translation": "{F2 05 FF FF}{F1 41}特殊技能“恶魔召唤”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:401:0",
+  "message_id": "skill_card_191",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得特殊技能\n“修罗转生”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:402:0",
+  "message_id": "skill_card_192",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得特殊技能\n“修罗场归来”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:403:0",
+  "message_id": "skill_card_193",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“修罗本能”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:404:0",
+  "message_id": "skill_card_194",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得埃癸斯技能\n“狂欢模式（发动）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:405:0",
+  "message_id": "skill_card_195",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得埃癸斯技能\n“模式解除”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:406:0",
+  "message_id": "skill_card_196",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“回复纪念品”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:407:0",
+  "message_id": "skill_card_197",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“（回复纪念品）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:408:0",
+  "message_id": "skill_card_198",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“解放纪念品”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:409:0",
+  "message_id": "skill_card_199",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“（解放纪念品）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:410:0",
+  "message_id": "skill_card_19A",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“自净纪念品”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:411:0",
+  "message_id": "skill_card_19B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“（自净纪念品）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:412:0",
+  "message_id": "skill_card_19C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“减轻之护”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:413:0",
+  "message_id": "skill_card_19D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“绝命反击”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:414:0",
+  "message_id": "skill_card_19E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“（绝命反击）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:415:0",
+  "message_id": "skill_card_19F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“死亡追逐者”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:416:0",
+  "message_id": "skill_card_1A0",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“（死亡追逐者）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:417:0",
+  "message_id": "skill_card_1A1",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“猛攻态势”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:418:0",
+  "message_id": "skill_card_1A2",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“（猛攻架势）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:419:0",
+  "message_id": "skill_card_1A3",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“猛攻态势”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:420:0",
+  "message_id": "skill_card_1A4",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“防御态势”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:421:0",
+  "message_id": "skill_card_1A5",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“治愈之舞”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:422:0",
+  "message_id": "skill_card_1A6",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“广域之舞”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:423:0",
+  "message_id": "skill_card_1A7",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得辅助技能\n“猛袭之舞”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:425:0",
+  "message_id": "skill_card_1A9",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“连锁炎刃”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:426:0",
+  "message_id": "skill_card_1AA",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“（连锁炎刃）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:427:0",
+  "message_id": "skill_card_1AB",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“连锁冰刃”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:428:0",
+  "message_id": "skill_card_1AC",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“（连锁冰刃）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:429:0",
+  "message_id": "skill_card_1AD",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“连锁雷刃”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:430:0",
+  "message_id": "skill_card_1AE",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“（连锁雷刃）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:431:0",
+  "message_id": "skill_card_1AF",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“连锁风刃”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:432:0",
+  "message_id": "skill_card_1B0",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得物理技能\n“（连锁风刃）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:433:0",
+  "message_id": "skill_card_1B1",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“仇恨搜索”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:434:0",
+  "message_id": "skill_card_1B2",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“先制斗篷”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:435:0",
+  "message_id": "skill_card_1B3",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得姿态技能\n“猛袭之舞（持续）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:436:0",
+  "message_id": "skill_card_1B4",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得庇护技能\n“扩大庇护”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:464:0",
+  "message_id": "skill_card_1D0",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“开始”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:466:0",
+  "message_id": "skill_card_1D2",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“侦探心得”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:467:0",
+  "message_id": "skill_card_1D3",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“侦探奥义”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:468:0",
+  "message_id": "skill_card_1D4",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“招牌姿势”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:469:0",
+  "message_id": "skill_card_1D5",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“必杀招牌姿势”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:472:0",
+  "message_id": "skill_card_1D8",
+  "translation": "{F2 05 FF FF}{F1 41}自动效果技能“鲜血的先行者”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:473:0",
+  "message_id": "skill_card_1D9",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“地狱的向导”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:474:0",
+  "message_id": "skill_card_1DA",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“女帝的智慧”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:475:0",
+  "message_id": "skill_card_1DB",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“女帝的顿悟”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:476:0",
+  "message_id": "skill_card_1DC",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“侍从卡”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:477:0",
+  "message_id": "skill_card_1DD",
+  "translation": "{F2 05 FF FF}{F1 41}自动效果技能“骑士卡”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:478:0",
+  "message_id": "skill_card_1DE",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“拳斗士的智慧”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:479:0",
+  "message_id": "skill_card_1DF",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“拳斗士的顿悟”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:480:0",
+  "message_id": "skill_card_1E0",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“功夫的智慧”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:481:0",
+  "message_id": "skill_card_1E1",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“功夫的顿悟”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:482:0",
+  "message_id": "skill_card_1E2",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“野生的智慧”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:483:0",
+  "message_id": "skill_card_1E3",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“野生的智慧2”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:484:0",
+  "message_id": "skill_card_1E4",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“无畏之心”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:485:0",
+  "message_id": "skill_card_1E5",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“勇敢的心2”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:486:0",
+  "message_id": "skill_card_1E6",
+  "translation": "{F2 05 FF FF}{F1 41}自动效果技能“反骨之心”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:487:0",
+  "message_id": "skill_card_1E7",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“下克上”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:488:0",
+  "message_id": "skill_card_1E8",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“精通方阵”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:489:0",
+  "message_id": "skill_card_1E9",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“真·精通方阵”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:490:0",
+  "message_id": "skill_card_1EA",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“打架的诀窍”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:491:0",
+  "message_id": "skill_card_1EB",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“打架的诀窍2”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:494:0",
+  "message_id": "skill_card_1EE",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“精通态势”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:495:0",
+  "message_id": "skill_card_1EF",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“精通态势2”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:496:0",
+  "message_id": "skill_card_1F0",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“狮子奋迅”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:497:0",
+  "message_id": "skill_card_1F1",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“狮子奋迅2”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:498:0",
+  "message_id": "skill_card_1F2",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“豪杰双臂”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:499:0",
+  "message_id": "skill_card_1F3",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“黄金双翼”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:500:0",
+  "message_id": "skill_card_1F4",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“符文之盾”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:501:0",
+  "message_id": "skill_card_1F5",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“神盾”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:502:0",
+  "message_id": "skill_card_1F6",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“断剑者”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:505:0",
+  "message_id": "skill_card_1F9",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“第一星”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:506:0",
+  "message_id": "skill_card_1FA",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“束缚之手”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:507:0",
+  "message_id": "skill_card_1FB",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“再生能力”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:508:0",
+  "message_id": "skill_card_1FC",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“猛者称号”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:509:0",
+  "message_id": "skill_card_1FD",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“霸者称号”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:511:0",
+  "message_id": "skill_card_1FF",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“救赎之手”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:512:0",
+  "message_id": "skill_card_200",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“迪亚加德”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:513:0",
+  "message_id": "skill_card_201",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“迪亚拉玛加德”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:514:0",
+  "message_id": "skill_card_202",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“巨腕挥击”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:516:0",
+  "message_id": "skill_card_204",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“黄金连锁”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:518:0",
+  "message_id": "skill_card_206",
+  "translation": "{F2 05 FF FF}{F1 41}自动效果技能“二叉矛”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:519:0",
+  "message_id": "skill_card_207",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“诡诈步法”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:520:0",
+  "message_id": "skill_card_208",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“强忍”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:522:0",
+  "message_id": "skill_card_20A",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“抵消身体”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:523:0",
+  "message_id": "skill_card_20B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“所罗门的小钥匙”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:524:0",
+  "message_id": "skill_card_20C",
+  "translation": "{F2 05 FF FF}{F1 41}自动效果技能“白银硬币”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:525:0",
+  "message_id": "skill_card_20D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“火焰吸收”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:526:0",
+  "message_id": "skill_card_20E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“疾风吸收”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:527:0",
+  "message_id": "skill_card_20F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“冰冻吸收”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:528:0",
+  "message_id": "skill_card_210",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“电击吸收”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:530:0",
+  "message_id": "skill_card_212",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“火焰强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:531:0",
+  "message_id": "skill_card_213",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“冰冻强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:532:0",
+  "message_id": "skill_card_214",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“电击强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:533:0",
+  "message_id": "skill_card_215",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“疾风强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:534:0",
+  "message_id": "skill_card_216",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“高级火焰强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:535:0",
+  "message_id": "skill_card_217",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“高级冰冻强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:536:0",
+  "message_id": "skill_card_218",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“高级电击强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:537:0",
+  "message_id": "skill_card_219",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“高级疾风强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:539:0",
+  "message_id": "skill_card_21B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“慈爱的智慧”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:540:0",
+  "message_id": "skill_card_21C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“慈爱的顿悟”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:542:0",
+  "message_id": "skill_card_21E",
+  "translation": "{F2 05 FF FF}{F1 41}自动效果技能“死亡尺寸”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:543:0",
+  "message_id": "skill_card_21F",
+  "translation": "{F2 05 FF FF}{F1 41}自动效果技能“不净之手”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:545:0",
+  "message_id": "skill_card_221",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“魔法阵”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:546:0",
+  "message_id": "skill_card_222",
+  "translation": "{F2 05 FF FF}{F1 41}自动效果技能“王之卡片”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:547:0",
+  "message_id": "skill_card_223",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“超级火焰强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:548:0",
+  "message_id": "skill_card_224",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“超级疾风强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:549:0",
+  "message_id": "skill_card_225",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“击倒之术”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:551:0",
+  "message_id": "skill_card_227",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“SP减少”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:553:0",
+  "message_id": "skill_card_229",
+  "translation": "{F2 05 FF FF}{F1 41}自动效果技能“弱化增强”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:554:0",
+  "message_id": "skill_card_22A",
+  "translation": "{F2 05 FF FF}{F1 41}自动效果技能“物理攻击·小”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:555:0",
+  "message_id": "skill_card_22B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“物理攻击·中”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:556:0",
+  "message_id": "skill_card_22C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“物理攻击·大”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:557:0",
+  "message_id": "skill_card_22D",
+  "translation": "{F2 05 FF FF}{F1 41}自动效果技能“物理防御·小”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:558:0",
+  "message_id": "skill_card_22E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“物理防御·中”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:559:0",
+  "message_id": "skill_card_22F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“物理防御·大”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:560:0",
+  "message_id": "skill_card_230",
+  "translation": "{F2 05 FF FF}{F1 41}自动效果技能“属性防御·小”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:561:0",
+  "message_id": "skill_card_231",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“属性防御·中”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:562:0",
+  "message_id": "skill_card_232",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“属性防御·大”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:563:0",
+  "message_id": "skill_card_233",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“安息之旅”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:564:0",
+  "message_id": "skill_card_234",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“HPSP恢复步行2”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:565:0",
+  "message_id": "skill_card_235",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“HPSP恢复步行3”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:566:0",
+  "message_id": "skill_card_236",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“二连锁链”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:568:0",
+  "message_id": "skill_card_238",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“属性攻击·小”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:569:0",
+  "message_id": "skill_card_239",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“属性攻击·中”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:570:0",
+  "message_id": "skill_card_23A",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“属性攻击·大”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:571:0",
+  "message_id": "skill_card_23B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“HP强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:572:0",
+  "message_id": "skill_card_23C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“高级HP强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:573:0",
+  "message_id": "skill_card_23D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“SP强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:574:0",
+  "message_id": "skill_card_23E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“高级SP强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:575:0",
+  "message_id": "skill_card_23F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“速度强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:576:0",
+  "message_id": "skill_card_240",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“高级速度强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:577:0",
+  "message_id": "skill_card_241",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“火焰耐性”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:578:0",
+  "message_id": "skill_card_242",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“冰冻耐性”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:579:0",
+  "message_id": "skill_card_243",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“电击耐性”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:580:0",
+  "message_id": "skill_card_244",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“疾风耐性”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:581:0",
+  "message_id": "skill_card_245",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“光耐性”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:582:0",
+  "message_id": "skill_card_246",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“暗耐性”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:583:0",
+  "message_id": "skill_card_247",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“斩击耐性”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:584:0",
+  "message_id": "skill_card_248",
+  "translation": "{F2 05 FF FF}{F1 41}自动效果技能“破击抗性”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:585:0",
+  "message_id": "skill_card_249",
+  "translation": "{F2 05 FF FF}{F1 41}自动效果技能“穿刺抗性”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:586:0",
+  "message_id": "skill_card_24A",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“石化无效”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:587:0",
+  "message_id": "skill_card_24B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“睡眠无效”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:588:0",
+  "message_id": "skill_card_24C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“混乱无效”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:589:0",
+  "message_id": "skill_card_24D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“中毒无效”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:590:0",
+  "message_id": "skill_card_24E",
+  "translation": "{F2 05 FF FF}{F1 41}自动效果技能“盲目无效”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:591:0",
+  "message_id": "skill_card_24F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“诅咒无效”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:592:0",
+  "message_id": "skill_card_250",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“麻痹无效”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:594:0",
+  "message_id": "skill_card_252",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“烟雾之后”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:595:0",
+  "message_id": "skill_card_253",
+  "translation": "{F2 05 FF FF}{F1 41}自动效果技能“审判之剑”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:596:0",
+  "message_id": "skill_card_254",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“（审判之剑）”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:597:0",
+  "message_id": "skill_card_255",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“魔封无效”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:598:0",
+  "message_id": "skill_card_256",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“力封无效”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:599:0",
+  "message_id": "skill_card_257",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“速封无效”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:600:0",
+  "message_id": "skill_card_258",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“斩击之鬼”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:601:0",
+  "message_id": "skill_card_259",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“破坏之鬼”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:602:0",
+  "message_id": "skill_card_25A",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“突击之鬼”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:603:0",
+  "message_id": "skill_card_25B",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“斩击之神”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:604:0",
+  "message_id": "skill_card_25C",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“破坏之神”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:605:0",
+  "message_id": "skill_card_25D",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“突击之神”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:606:0",
+  "message_id": "skill_card_25E",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“SP回复”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:607:0",
+  "message_id": "skill_card_25F",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“SP回复2”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:704:0",
+  "message_id": "skill_card_2C0",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“抑制强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:705:0",
+  "message_id": "skill_card_2C1",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“高级抑制强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:706:0",
+  "message_id": "skill_card_2C2",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“愤怒之拳”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:707:0",
+  "message_id": "skill_card_2C3",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“愤怒的铁拳”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:708:0",
+  "message_id": "skill_card_2C4",
+  "translation": "{F2 05 FF FF}{F1 41}自动效果技能“制裁者”\n可习得的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:715:0",
+  "message_id": "skill_card_2CB",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“黄泉路生还”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:716:0",
+  "message_id": "skill_card_2CC",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“三连锁”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:717:0",
+  "message_id": "skill_card_2CD",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“四连锁”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:718:0",
+  "message_id": "skill_card_2CE",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“无限锁”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:719:0",
+  "message_id": "skill_card_2CF",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“魔力循环”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:720:0",
+  "message_id": "skill_card_2D0",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“物理技能强化”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:722:0",
+  "message_id": "skill_card_2D2",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“方阵循环”的技能卡。\n{00}"
+ },
+ {
+  "key": "export_base/init/datskillcardhelp.bmd.json:723:0",
+  "message_id": "skill_card_2D3",
+  "translation": "{F2 05 FF FF}{F1 41}可以习得自动效果技能\n“恢复量增加”的技能卡。\n{00}"
+ }
+]

@@ -1,0 +1,72 @@
+[
+ {
+  "key": "export_base/dungeon/script/dungeon33f.gsd_dungeon33f.bf.json:0:0",
+  "message_id": "MSG_BONFIRE_DISAPPEARS_0",
+  "translation": "{F2 05 FF FF}{F1 41}＞这里有个篝火台。\n　还未点燃“圣火”…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon33f.gsd_dungeon33f.bf.json:1:0",
+  "message_id": "MSG_TORTH_MOVE",
+  "translation": "{F2 05 FF FF}{F1 41}＞从手中的“火把”上，\n　将火焰传到了篝火台…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon33f.gsd_dungeon33f.bf.json:2:0",
+  "message_id": "MSG_TORTH",
+  "translation": "{F2 05 FF FF}{F1 41}＞篝火正在燃烧。\n　使用“火把”的话，\n　似乎就能搬运“圣火”…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon33f.gsd_dungeon33f.bf.json:3:0",
+  "message_id": "SEL_TORTH",
+  "translation": "{F2 05 FF FF}{F1 41}点燃“火把”{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon33f.gsd_dungeon33f.bf.json:3:1",
+  "message_id": "SEL_TORTH",
+  "translation": "{F2 05 FF FF}{F1 41}暂时算了{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon33f.gsd_dungeon33f.bf.json:4:0",
+  "message_id": "MSG_TORTH_ON",
+  "translation": "{F2 05 FF FF}{F1 41}＞“火把”的顶端，\n　燃起了“圣火”…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon33f.gsd_dungeon33f.bf.json:5:0",
+  "message_id": "MSG_BONFIRE_ON_02",
+  "translation": "{F2 05 FF FF}{F1 41}＞“火把”上的火焰，\n　似乎也重新旺盛起来了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon33f.gsd_dungeon33f.bf.json:6:0",
+  "message_id": "MSG_TORTH_LOST_0",
+  "translation": "{F2 05 FF FF}{F1 41}＞“火把”的火焰渐渐变小，\n　最终熄灭了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon33f.gsd_dungeon33f.bf.json:7:0",
+  "message_id": "MSG_TORTH_LOST_1",
+  "translation": "{F2 05 FF FF}{F1 41}＞看来得仔细规划\n　通往篝火台的路线…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon33f.gsd_dungeon33f.bf.json:8:0",
+  "message_id": "MSG_BONFIRE_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}＞门上刻着{F2 01 03 01}“将圣火奉于神前。\n　无资格者，禁开此门”{F2 01 01 01}，\n　门无法打开…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon33f.gsd_dungeon33f.bf.json:9:0",
+  "message_id": "MSG_KAHANSIN",
+  "translation": "{F2 05 FF FF}{F1 41}＞门无法打开。\n　上面刻着：\n　{F2 01 03 01}“玄武、白虎、青龙、朱雀”{F2 01 01 01}\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon33f.gsd_dungeon33f.bf.json:10:0",
+  "message_id": "MSG_KAHANSIN_A",
+  "translation": "{F2 05 FF FF}{F1 41}＞门无法打开。\n　上面刻着：\n　{F2 01 03 01}“玄武、青龙、朱雀、白虎”{F2 01 01 01}\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon33f.gsd_dungeon33f.bf.json:11:0",
+  "message_id": "MSG_KAHANSIN_B",
+  "translation": "{F2 05 FF FF}{F1 41}＞门无法打开。\n　上面刻着：\n　{F2 01 03 01}“玄武、朱雀、青龙、白虎”{F2 01 01 01}\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon33f.gsd_dungeon33f.bf.json:12:0",
+  "message_id": "MSG_KAHANSIN_FINAL",
+  "translation": "{F2 05 FF FF}{F1 41}＞门无法打开。\n　上面刻着：\n　{F2 01 03 01}“朱雀、玄武、青龙、白虎”{F2 01 01 01}\n{F1 21}{00}"
+ }
+]

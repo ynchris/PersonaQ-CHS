@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_062_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DC 01}咦……副队长好像怪怪的……\n抱着头，摇摇晃晃的……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_062_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D3 01}副队长的样子有点怪。\n还东张西望的……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_062_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DD 01}阳介是不是有点怪？\n东张西望，还大喊大叫……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:3:0",
+  "message_id": "BTL_MES_H124_062_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DE 01}咦……千枝怎么了？\n一直东张西望的……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:4:0",
+  "message_id": "BTL_MES_H124_062_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DF 01}雪子没事吧？\n怎么摇摇晃晃的。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:6:0",
+  "message_id": "BTL_MES_H124_062_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E0 01}完二有点怪。\n抬着头，不知在说什么……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:7:0",
+  "message_id": "BTL_MES_H124_062_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E2 01}直斗有点怪啊。\n到处指来指去的……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:8:0",
+  "message_id": "BTL_MES_H124_062_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E1 01}小熊……怎么了？\n好像……在跳舞？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:9:0",
+  "message_id": "BTL_MES_H124_062_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D4 01}由加莉的样子有点怪。\n混乱了？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:10:0",
+  "message_id": "BTL_MES_H124_062_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D5 01}顺平怎么了？\n抱着头大喊大叫的……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:11:0",
+  "message_id": "BTL_MES_H124_062_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D6 01}真田怎么了？\n一直东张西望的……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:12:0",
+  "message_id": "BTL_MES_H124_062_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D7 01}咦……美鹤没事吧？\n她是不是把剑朝向这边了？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:14:0",
+  "message_id": "BTL_MES_H124_062_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DA 01}埃癸斯有点怪啊。\n一直抱着头……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:15:0",
+  "message_id": "BTL_MES_H124_062_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D8 01}乾有点怪。\n抱着头，还东张西望的……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:16:0",
+  "message_id": "BTL_MES_H124_062_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D9 01}咦……狗狗怎么了？\n一直在低吼……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:17:0",
+  "message_id": "BTL_MES_H124_062_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 DB 01}荒垣好像有点怪。\n一直东张西望的。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:18:0",
+  "message_id": "BTL_MES_H124_062_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E3 01}善和玲怎么了？\n玲怎么……一直东张西望的……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:19:0",
+  "message_id": "BTL_MES_H124_062_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E4 01}善有点怪。\n把武器朝向各个方向……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:20:0",
+  "message_id": "BTL_MES_H124_062_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D2 01}咦……你怎么了？\n混乱了？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(061).BMD.json:21:0",
+  "message_id": "BTL_MES_H124_062_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 D1 01}队长，混乱了？\n喂——？\n{F2 26 00 00}{00}"
+ }
+]

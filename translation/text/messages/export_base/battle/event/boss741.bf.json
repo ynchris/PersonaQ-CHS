@@ -1,0 +1,62 @@
+[
+ {
+  "key": "export_base/battle/event/boss741.bf.json:4:0",
+  "message_id": "MSG_BTL_TUTORIAL_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0B 01 01 01 02 01}哇！阴影出现了！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss741.bf.json:5:0",
+  "message_id": "MSG_BTL_TUTORIAL_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 01 01 01 01 02 01}出现了熊！\n不过，对手既然是阴影，\n小熊就知道怎么对付熊！\n{F1 21}"
+ },
+ {
+  "key": "export_base/battle/event/boss741.bf.json:5:1",
+  "message_id": "MSG_BTL_TUTORIAL_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 03 01 01 01 01 01}用它怕的属性攻击熊！\n只要击中弱点，\n阴影什么的，一下就能搞定熊！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss741.bf.json:6:0",
+  "message_id": "MSG_BTL_TUTORIAL_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 07 01 01 01 04 01}可是，我们还不知道\n哪种属性是弱点……\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss741.bf.json:7:0",
+  "message_id": "MSG_BTL_TUTORIAL_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 01 01 01 01 02 01}好！光想也想不出来，\n总之先试试吧！\n{F1 21}"
+ },
+ {
+  "key": "export_base/battle/event/boss741.bf.json:7:1",
+  "message_id": "MSG_BTL_TUTORIAL_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 0D 01 01 01 02 01}没问题的！\n只要能打中弱点就行了吧？\n多试几种，总有一种能行！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss741.bf.json:8:0",
+  "message_id": "MSG_BTL_TUTORIAL_005",
+  "translation": "{F2 05 FF FF}{F1 41}与阴影战斗时，\n用敌人弱点对应的属性攻击\n十分重要。\n{F1 21}"
+ },
+ {
+  "key": "export_base/battle/event/boss741.bf.json:8:1",
+  "message_id": "MSG_BTL_TUTORIAL_005",
+  "translation": "{F2 05 FF FF}{F1 41}击中敌人的属性弱点，\n即可让发动攻击的角色\n进入{F2 01 03 01}“ＢＯＯＳＴ状态”{F2 01 01 01}。\n{F1 21}"
+ },
+ {
+  "key": "export_base/battle/event/boss741.bf.json:8:2",
+  "message_id": "MSG_BTL_TUTORIAL_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F2 01 03 01}进入“ＢＯＯＳＴ状态”{F2 01 01 01}后，\n下次行动回合可以获得２项优势：\n　・以最快速度行动\n　・使用技能时消耗为零\n{F1 21}"
+ },
+ {
+  "key": "export_base/battle/event/boss741.bf.json:8:3",
+  "message_id": "MSG_BTL_TUTORIAL_005",
+  "translation": "{F2 05 FF FF}{F1 41}不同种类的敌人，弱点也不同。\n请尝试各种攻击。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss741.bf.json:9:0",
+  "message_id": "MSG_BTL_TUTORIAL_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 07 01 0D 01 65 01 02 01}支援就交给我！\n想确认敌人信息时，\n随时告诉我哦。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss741.bf.json:10:0",
+  "message_id": "MSG_BTL_TUTORIAL_012",
+  "translation": "{F2 05 FF FF}{F1 41}按Ｌ键选择“ＡＮＡＬＹＺＥ”，\n即可查看敌方阴影的信息。\n{F1 21}{00}"
+ }
+]

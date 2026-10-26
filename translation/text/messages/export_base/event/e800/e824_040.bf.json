@@ -1,0 +1,87 @@
+[
+ {
+  "key": "export_base/event/e800/e824_040.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 22 01 02 01 0A 01 02 01}{F5 61 02 01 01 01 01 01 18 01}精彩……\n汝等的力量与觉悟，吾已亲眼见证。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e824_040.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 05 01 0A 01 01 01}{F5 61 02 01 01 01 01 01 19 01}原来汝等也怀抱信念，缔结真正的羁绊，\n以自己的双脚站立于此……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e824_040.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 86 22 01 0B 01 0A 01 01 01}{F5 61 02 01 01 01 01 01 1A 01}汝等所依循之道，与吾不同，\n然而源头却是同一……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e824_040.bf.json:0:3",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 1B 01}那么，终有一日，\n到吾之世界来吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e824_040.bf.json:0:4",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 86 22 01 0D 01 0A 01 01 01}{F5 61 02 01 01 01 01 01 1C 01}那里，是冒险者以生命驰骋之地……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e824_040.bf.json:0:5",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 61 02 01 01 01 01 01 1D 01}在世界树的庇佑下，各循己道，\n以双脚探索，以双手开拓，\n受伤、倒下的战斗之地……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e824_040.bf.json:0:6",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 01 FF}{F1 41}{F5 86 22 01 0F 01 0A 01 01 01}{F5 61 02 01 01 01 01 01 1E 01}用汝等的双手，夺取无尽荣光吧。\n因为汝等也是获得了自由的存在……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e824_040.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 02 01 0A 01 01 01}{F5 61 02 01 01 01 01 01 1F 01}吾将恭候……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e824_040.bf.json:2:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 12 01 09 01 01 01}{F5 61 02 01 01 01 01 01 20 01}我……刚才在做什么？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e824_040.bf.json:2:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 21 01}仿佛有一股强大的力量，\n贯穿了我的身体……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e824_040.bf.json:3:0",
+  "message_id": "MSG_0012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 02 01 01 01}{F5 61 02 01 01 01 01 01 22 01}还有，难以言喻的充实感……\n那是我所没有的，生命的光辉……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e824_040.bf.json:3:1",
+  "message_id": "MSG_0012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 23 01}真是一段幸福的时光……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e824_040.bf.json:4:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 24 01}哎呀，这是……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e824_040.bf.json:4:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 25 01}关于这份力量，\n容我稍后再向您详细说明。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e824_040.bf.json:5:0",
+  "message_id": "MSG_0022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 22 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 26 01}我先回保健室了。\n请别忘了过来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e824_040.bf.json:6:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞伊丽莎白似乎回保健室了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e824_040.bf.json:6:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞之后去保健室报告吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

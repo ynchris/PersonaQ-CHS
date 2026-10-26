@@ -1,0 +1,142 @@
+[
+ {
+  "key": "export_base/facility/party_edit.bmd.json:0:0",
+  "message_id": "PARTY_EDIT_RISE_BTL",
+  "translation": "{F2 05 FF FF}{F1 41}将战斗导航\n交给理世。\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:1:0",
+  "message_id": "PARTY_EDIT_HUKA_BTL",
+  "translation": "{F2 05 FF FF}{F1 41}将战斗导航\n交给风花。\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:2:0",
+  "message_id": "PARTY_EDIT_RISE_FLD",
+  "translation": "{F2 05 FF FF}{F1 41}将迷宫探索导航\n交给理世。\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:3:0",
+  "message_id": "PARTY_EDIT_HUKA_FLD",
+  "translation": "{F2 05 FF FF}{F1 41}将迷宫探索导航\n交给风花。\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:5:0",
+  "message_id": "PARTY_EDIT_DD",
+  "translation": "{F2 05 FF FF}{F1 41}熟练运用伤害技能。\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:6:0",
+  "message_id": "PARTY_EDIT_SPE",
+  "translation": "{F2 05 FF FF}{F1 41}熟练运用特殊技能。\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:7:0",
+  "message_id": "PARTY_EDIT_TANK",
+  "translation": "{F2 05 FF FF}{F1 41}保护同伴免受敌人攻击。\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:8:0",
+  "message_id": "PARTY_EDIT_HEAL",
+  "translation": "{F2 05 FF FF}{F1 41}学会回复技能。\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:9:0",
+  "message_id": "PARTY_EDIT_P4HERO__",
+  "translation": "{F2 05 FF FF}{F1 41}适合前排　武器：双手剑（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:10:0",
+  "message_id": "PARTY_EDIT_P3HERO__",
+  "translation": "{F2 05 FF FF}{F1 41}适合前排　武器：单手剑（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:11:0",
+  "message_id": "PARTY_EDIT_YOUSUKE_",
+  "translation": "{F2 05 FF FF}{F1 41}适合前排　武器：短剑（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:12:0",
+  "message_id": "PARTY_EDIT_CHIE____",
+  "translation": "{F2 05 FF FF}{F1 41}适合前排　武器：腿（破坏属性）\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:13:0",
+  "message_id": "PARTY_EDIT_YUKIKO__",
+  "translation": "{F2 05 FF FF}{F1 41}适合后排　武器：扇子（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:14:0",
+  "message_id": "PARTY_EDIT_RISE____",
+  "translation": "{F2 05 FF FF}{F1 41}后方支援\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:15:0",
+  "message_id": "PARTY_EDIT_KANJI___",
+  "translation": "{F2 05 FF FF}{F1 41}适合前排　武器：厚板（破坏属性）\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:16:0",
+  "message_id": "PARTY_EDIT_NAOTO___",
+  "translation": "{F2 05 FF FF}{F1 41}适合后排　武器：手枪（突刺）\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:17:0",
+  "message_id": "PARTY_EDIT_KUMA____",
+  "translation": "{F2 05 FF FF}{F1 41}适合前排　武器：爪（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:18:0",
+  "message_id": "PARTY_EDIT_YUKARI__",
+  "translation": "{F2 05 FF FF}{F1 41}适合后排　武器：弓（突刺）\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:19:0",
+  "message_id": "PARTY_EDIT_JUNPEI__",
+  "translation": "{F2 05 FF FF}{F1 41}适合前排　武器：双手剑（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:20:0",
+  "message_id": "PARTY_EDIT_SANADA__",
+  "translation": "{F2 05 FF FF}{F1 41}适合前排　武器：拳（破坏属性）\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:21:0",
+  "message_id": "PARTY_EDIT_MITURU__",
+  "translation": "{F2 05 FF FF}{F1 41}适合前排　武器：刺剑（突刺）\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:22:0",
+  "message_id": "PARTY_EDIT_FUKA____",
+  "translation": "{F2 05 FF FF}{F1 41}后方支援\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:23:0",
+  "message_id": "PARTY_EDIT_AEGIS___",
+  "translation": "{F2 05 FF FF}{F1 41}适合后排　武器：重炮（破坏属性）\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:24:0",
+  "message_id": "PARTY_EDIT_AMADA___",
+  "translation": "{F2 05 FF FF}{F1 41}适合后排　武器：枪（突刺）\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:25:0",
+  "message_id": "PARTY_EDIT_KOROMARU",
+  "translation": "{F2 05 FF FF}{F1 41}适合前排　武器：短剑（斩击）\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:26:0",
+  "message_id": "PARTY_EDIT_ARAGAKI_",
+  "translation": "{F2 05 FF FF}{F1 41}适合前排　武器：钝器（破坏属性）\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:27:0",
+  "message_id": "PARTY_EDIT_ZENLEI__",
+  "translation": "{F2 05 FF FF}{F1 41}适合后排　武器：机械弓（突刺）\n{00}"
+ },
+ {
+  "key": "export_base/facility/party_edit.bmd.json:28:0",
+  "message_id": "PARTY_EDIT_ZEN_____",
+  "translation": "{F2 05 FF FF}{F1 41}适合后排　武器：机械弓（突刺）\n{00}"
+ }
+]

@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/event/e800/e823_650.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞宝箱已经打开了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e823_650.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞宝箱旁贴着的纸条上写着：\n　“里面的东西已经回收了。”\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

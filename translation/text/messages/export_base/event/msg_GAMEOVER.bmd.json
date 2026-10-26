@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/event/msg_GAMEOVER.bmd.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}人生如一幕戏剧\n人人皆是不知剧本的生涩演员\n　\n终幕尚未上演\n舞台的帷幕便已落下……\n　\n再无灯光照亮演员\n那过于沉重的面具　就此摘下吧\n　\n留下的　唯有一夜之梦……\n短暂而消逝的一夜之梦……\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/msg_GAMEOVER.bmd.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}人生如一幕戏剧\n人人皆是不知剧本的生涩演员\n　\n演员们倾力演出\n舞台的帷幕终于落下……\n　\n再无人记得演员\n唯有如泡沫般消散……\n　\n永远地……\n　\n{F1 21}{00}"
+ }
+]

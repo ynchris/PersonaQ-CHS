@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/event/e700/e701_111.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 4E 0A}现在不该在这里浪费时间。\n之后也许就明白了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e701_111.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}先放着不管，继续前进。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

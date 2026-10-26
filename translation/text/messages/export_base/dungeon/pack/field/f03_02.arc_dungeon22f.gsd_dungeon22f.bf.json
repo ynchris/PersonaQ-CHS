@@ -1,0 +1,42 @@
+[
+ {
+  "key": "export_base/dungeon/pack/field/f03_02.arc_dungeon22f.gsd_dungeon22f.bf.json:0:0",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}不看楼层开场事件{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_02.arc_dungeon22f.gsd_dungeon22f.bf.json:0:1",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}观看楼层开场事件{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_02.arc_dungeon22f.gsd_dungeon22f.bf.json:1:0",
+  "message_id": "MSG_D22_SWITCH_ON",
+  "translation": "{F2 05 FF FF}{F1 41}＞打开了开关。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_02.arc_dungeon22f.gsd_dungeon22f.bf.json:2:0",
+  "message_id": "MSG_D22_SWITCH_OFF",
+  "translation": "{F2 05 FF FF}{F1 41}＞关闭了开关。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_02.arc_dungeon22f.gsd_dungeon22f.bf.json:3:0",
+  "message_id": "MSG_D22_SWITCHBOARD",
+  "translation": "{F2 05 FF FF}{F1 41}＞电源处于关闭状态…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_02.arc_dungeon22f.gsd_dungeon22f.bf.json:3:1",
+  "message_id": "MSG_D22_SWITCHBOARD",
+  "translation": "{F2 05 FF FF}{F1 41}＞操作开关，接通了电源。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_02.arc_dungeon22f.gsd_dungeon22f.bf.json:4:0",
+  "message_id": "MSG_D22_SWITCHBOARD_ON",
+  "translation": "{F2 05 FF FF}{F1 41}＞电源已接通…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_02.arc_dungeon22f.gsd_dungeon22f.bf.json:4:1",
+  "message_id": "MSG_D22_SWITCHBOARD_ON",
+  "translation": "{F2 05 FF FF}{F1 41}＞似乎没有操作的必要。\n{F1 21}{00}"
+ }
+]

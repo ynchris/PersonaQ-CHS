@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/event/e700/e721_520.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}迷宫内有些宝箱，\n{F2 01 03 01}需要将探索率提升至１００％才能打开{F2 01 01 01}。\n{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e721_520.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}里面装着{F2 01 03 01}有助于探索的道具{F2 01 01 01}，\n请善加利用。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e721_520.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}探索率显示在{F2 01 03 01}下屏右上方{F2 01 01 01}。\n{F1 21}{00}"
+ }
+]

@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_base/event/e100/e100_290.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F2 01 08 01}＞“不可思议之国的你”前……\n{F2 22 47 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_290.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F2 01 08 01}＞原本留在天鹅绒房间的风花，\n　以及伊丽莎白、迪奥也在这里……\n{F2 22 83 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_290.bf.json:2:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 02 01}{F3 06 00 01 00 01}辛苦啦～！\n学长，刚才好帅哦！\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_290.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}{F2 01 08 01}＞是一张陌生的面孔……\n{F2 22 51 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_290.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F3 06 00 01 00 01}哇，太厉害了，简直跟偶像一样……！\n{F5 C1 14 01 01 01 01 01 44 01}{00}"
+ },
+ {
+  "key": "export_base/event/e100/e100_290.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 13 01 01 01 01 01 04 01}{F3 06 00 01 00 01}各位能够平安会合，\n实在是再好不过了。\n{F5 C1 14 01 01 01 01 01 00 00}{00}"
+ }
+]

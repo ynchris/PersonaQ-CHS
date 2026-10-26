@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/battle/event/boss744.bf.json:0:0",
+  "message_id": "MSG_BTL_TUTORIAL_101",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 07 01 01 01 01 01 F5 02}{F5 86 0F 01 0D 01 65 01 02 01}又出现新的阴影了……\n请小心它的攻击！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss744.bf.json:1:0",
+  "message_id": "MSG_BTL_TUTORIAL_102",
+  "translation": "{F2 05 FF FF}{F1 41}装备的副人格面具所提供的ＨＰ与ＳＰ，\n会在战斗中发挥作用。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/battle/event/boss744.bf.json:2:0",
+  "message_id": "MSG_BTL_TUTORIAL_103",
+  "translation": "{F2 05 FF FF}{F1 41}不过，副人格面具的ＨＰ与ＳＰ加成\n只在战斗中生效。\n\n在迷宫内移动时不会生效，\n请多加注意。\n{F1 21}{00}"
+ }
+]

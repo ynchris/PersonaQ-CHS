@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_065_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 16 02}啊……副队长被封印了。\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_065_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0D 02}副队长被封印了。\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_065_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 17 02}阳介被封印了。\n只能用物理攻击，真叫人失望。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:3:0",
+  "message_id": "BTL_MES_H124_065_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 18 02}千枝被封印了。\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:4:0",
+  "message_id": "BTL_MES_H124_065_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 19 02}雪子被封印了。\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:6:0",
+  "message_id": "BTL_MES_H124_065_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1A 02}完二被封印了。\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:7:0",
+  "message_id": "BTL_MES_H124_065_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1C 02}直斗好像被封印了。\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:8:0",
+  "message_id": "BTL_MES_H124_065_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1B 02}小熊被封印了。\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:9:0",
+  "message_id": "BTL_MES_H124_065_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0E 02}由加莉被封印了。\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:10:0",
+  "message_id": "BTL_MES_H124_065_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0F 02}啊……顺平被封印了……\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:11:0",
+  "message_id": "BTL_MES_H124_065_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 10 02}真田被封印了。\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:12:0",
+  "message_id": "BTL_MES_H124_065_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 11 02}美鹤被封印了。\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:14:0",
+  "message_id": "BTL_MES_H124_065_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 14 02}埃癸斯被封印了。\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:15:0",
+  "message_id": "BTL_MES_H124_065_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 12 02}啊……乾被封印了。\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:16:0",
+  "message_id": "BTL_MES_H124_065_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 13 02}狗狗被封印了。\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:17:0",
+  "message_id": "BTL_MES_H124_065_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 15 02}荒垣被封印了。\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:18:0",
+  "message_id": "BTL_MES_H124_065_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1D 02}啊……善被封印了。\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:19:0",
+  "message_id": "BTL_MES_H124_065_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1D 02}啊……善被封印了。\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:20:0",
+  "message_id": "BTL_MES_H124_065_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0C 02}你被封印了。\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(064).BMD.json:21:0",
+  "message_id": "BTL_MES_H124_065_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 0B 02}队长被封印了。\n现在只能用物理攻击。\n{F2 26 00 00}{00}"
+ }
+]

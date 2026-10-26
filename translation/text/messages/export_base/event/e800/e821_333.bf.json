@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_base/event/e800/e821_333.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 33 08}{F5 C1 02 01 01 01 01 01 02 01}{F5 C1 03 01 01 01 01 01 02 01}呀啊！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_333.bf.json:1:0",
+  "message_id": "MSG_999",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞灯突然熄灭了！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e821_333.bf.json:1:1",
+  "message_id": "MSG_999",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞而且还被什么东西包围了……！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_333.bf.json:2:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 03 01 01 01}{F5 61 02 01 01 01 01 01 9E 10}{F5 C1 02 01 01 01 01 01 02 01}不、不要啊啊啊啊啊！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_333.bf.json:3:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 05 01 11 01 04 01 02 01}{F5 61 02 01 01 01 01 01 69 11}{F5 C1 02 01 01 01 01 01 02 01}别笑了啊啊啊啊！！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e821_333.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 06 01 0B 01 03 01 01 01}{F5 61 02 01 01 01 01 01 3C 04}啊哈……啊哈哈哈哈！！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

@@ -1,0 +1,16 @@
+# 游戏数据、ROM、安装包和中间文件一律不入库
+*.3ds
+*.cci
+*.cia
+*.cxi
+*.cfa
+*.cpk
+*.bcfnt
+*.ttf
+*.otf
+*.xdelta
+*.zip
+__pycache__/
+_work/
+输出/
+补丁日志.txt

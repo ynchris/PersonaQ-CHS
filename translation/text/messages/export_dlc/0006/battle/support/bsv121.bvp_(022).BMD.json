@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(022).BMD.json:0:0",
+  "message_id": "BTL_MES_H121_023_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 16 01}强敌４名，真有压迫感……\n似乎也有资料中没有的敌人。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(022).BMD.json:1:0",
+  "message_id": "BTL_MES_H121_023_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 17 01}强敌４名。\n那么……究竟能否获胜呢……\n{F2 26 00 00}{00}"
+ }
+]

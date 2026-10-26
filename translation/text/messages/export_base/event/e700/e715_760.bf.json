@@ -1,0 +1,432 @@
+[
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这里似乎只是条死路……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 0C 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 88 08}{F5 C1 03 01 01 01 01 01 04 01}啧……\n怎么又是死路啊。\n拜托了，队长大人！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 0B 01 07 01 05 01}{F5 61 02 01 01 01 01 01 82 11}{F5 C1 03 01 01 01 01 01 02 01}喂，等一下……你这什么意思？\n说得好像是{F1 81}的错一样。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}换你就能不迷路了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0A 01}啊，不是……\n我也不是那个意思……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0E 0A}你们两个。\n这样会影响队伍的士气。\n冷静一点。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 0B 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 04 01 01 01 01 01 02 01}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 0B 01 08 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞气氛变得紧张起来……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 04 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 A7 02}可恶。\n明明就快找到玲了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}偏偏在关键时刻，\n队伍却散了心。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 09 01 04 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 06 01}……啊，原来如此。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:10:0",
+  "message_id": "MSG_0092",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 03 01 0D 01 01 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 01 01}{F1 82}。\n这种时候……不正该喊队名吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:11:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 65 11}队名……是说……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:11:1",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 05 01}……叫什么来着？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:12:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 07 01 02 01 01 01}{F5 61 02 01 01 01 01 01 21 0C}{F5 C1 03 01 01 01 01 01 07 01}没、没错！\n就是我们在联谊咖啡厅\n定下的队名！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:13:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 03 01 0D 01 01 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 01 01}这样也许能鼓舞士气。\n你觉得呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:14:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 04 01}{F5 86 03 01 0D 01 01 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 01 01}这次一定要\n把队名定下来。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:15:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 07 01 02 01 02 01}{F5 61 02 01 01 01 01 01 20 0C}拜托了！\n{F1 81}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:16:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞充满期待的目光直直地投来。\n　看来只能说了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:16:1",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞第一个词是……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:17:0",
+  "message_id": "SEL_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}超级{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:17:1",
+  "message_id": "SEL_016",
+  "translation": "{F2 05 FF FF}{F1 41}新生{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:17:2",
+  "message_id": "SEL_016",
+  "translation": "{F2 05 FF FF}{F1 41}英雄{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:17:3",
+  "message_id": "SEL_016",
+  "translation": "{F2 05 FF FF}{F1 41}究极{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:17:4",
+  "message_id": "SEL_016",
+  "translation": "{F2 05 FF FF}{F1 41}先生{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:18:0",
+  "message_id": "MSG_017_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞中间的词是……\n{F5 C1 17 01 01 01 01 01 01 01}{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:19:0",
+  "message_id": "MSG_017_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞中间的词是……\n{F5 C1 17 01 01 01 01 01 02 01}{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:20:0",
+  "message_id": "MSG_017_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞中间的词是……\n{F5 C1 17 01 01 01 01 01 03 01}{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:21:0",
+  "message_id": "MSG_017_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞中间的词是……\n{F5 C1 17 01 01 01 01 01 04 01}{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:22:0",
+  "message_id": "MSG_017_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞中间的词是……\n{F5 C1 17 01 01 01 01 01 05 01}{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:23:0",
+  "message_id": "SEL_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}人格面具{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:23:1",
+  "message_id": "SEL_018",
+  "translation": "{F2 05 FF FF}{F1 41}宇宙{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:23:2",
+  "message_id": "SEL_018",
+  "translation": "{F2 05 FF FF}{F1 41}忍者{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:23:3",
+  "message_id": "SEL_018",
+  "translation": "{F2 05 FF FF}{F1 41}跳跃{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:23:4",
+  "message_id": "SEL_018",
+  "translation": "{F2 05 FF FF}{F1 41}巨龙{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:24:0",
+  "message_id": "MSG_019_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞最后一个词是……\n{F5 C1 17 01 01 01 02 01 01 01}{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:25:0",
+  "message_id": "MSG_019_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞最后一个词是……\n{F5 C1 17 01 01 01 02 01 02 01}{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:26:0",
+  "message_id": "MSG_019_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞最后一个词是……\n{F5 C1 17 01 01 01 02 01 03 01}{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:27:0",
+  "message_id": "MSG_019_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞最后一个词是……\n{F5 C1 17 01 01 01 02 01 04 01}{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:28:0",
+  "message_id": "MSG_019_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞最后一个词是……\n{F5 C1 17 01 01 01 02 01 05 01}{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:29:0",
+  "message_id": "SEL_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 01 01}游侠{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:29:1",
+  "message_id": "SEL_020",
+  "translation": "{F2 05 FF FF}{F1 41}超人{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:29:2",
+  "message_id": "SEL_020",
+  "translation": "{F2 05 FF FF}{F1 41}战队{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:29:3",
+  "message_id": "SEL_020",
+  "translation": "{F2 05 FF FF}{F1 41}五人组{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:29:4",
+  "message_id": "SEL_020",
+  "translation": "{F2 05 FF FF}{F1 41}公司{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:30:0",
+  "message_id": "MSG_021_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 05 01 02 01}{F5 C1 17 01 01 01 03 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 51 02}我们是！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:31:0",
+  "message_id": "MSG_021_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 05 01 02 01}{F5 C1 17 01 01 01 03 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 51 02}我们是！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:32:0",
+  "message_id": "MSG_021_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 05 01 02 01}{F5 C1 17 01 01 01 03 01 03 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 51 02}我们是！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:33:0",
+  "message_id": "MSG_021_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 05 01 02 01}{F5 C1 17 01 01 01 03 01 04 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 51 02}我们是！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:34:0",
+  "message_id": "MSG_021_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 05 01 02 01}{F5 C1 17 01 01 01 03 01 05 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 51 02}我们是！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:35:0",
+  "message_id": "MSG_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 16 01 01 01 01 01 01 01}{F5 C1 16 01 01 01 01 01 02 01}{F5 C1 16 01 01 01 01 01 03 01}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:36:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 05 01 02 01 02 01}{F5 61 02 01 01 01 01 01 01 01}在此登场！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:37:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0C 01 03 01 04 01}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 0B 01 02 01 01 01 07 01}{F5 61 02 01 01 01 01 01 01 01}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:38:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 03 01}{F5 86 0C 01 0C 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:39:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……气氛变得相当微妙。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:40:0",
+  "message_id": "MSG_027",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 02 01 01 01 02 01}{F5 86 0B 01 07 01 07 01 07 01}{F5 61 02 01 01 01 01 01 D8 07}……呵呵。\n这个无论听几次都受不了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:41:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 9A 08}……是啊。\n比我想象的还要土上好几倍。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:42:0",
+  "message_id": "MSG_0282",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 02 01 02 01 01 01 02 01}{F5 86 0C 01 07 01 01 01 04 01}{F5 61 02 01 01 01 01 01 01 01}抱歉啊，由加莉、{F1 81}。\n是我不够体谅人。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:43:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 05 01 04 01 01 01}{F5 61 02 01 01 01 01 01 01 01}我也是。\n对不起，刚才说话太冲了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:44:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞多亏还记得队名，\n　大家似乎重新团结起来了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:45:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 01 01 01 01 01 01}{F5 86 12 01 03 01 01 01 04 01}{F5 61 02 01 01 01 01 01 AA 0C}汪汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:46:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 05 01}嗯？\n它嘴里叼着什么……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:47:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 01 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 41 02}{F5 C1 03 01 01 01 01 01 07 01}这是……“胡椒博士”啊。\n虎狼丸，真能干。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:48:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 AC 0C}{F5 C1 03 01 01 01 01 01 08 01}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:49:0",
+  "message_id": "MSG_035",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞大家一起享用了胡椒博士……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:50:0",
+  "message_id": "MSG_0352",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞心中的疲惫一扫而空！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:50:1",
+  "message_id": "MSG_0352",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞大家干劲十足，\n　决定继续探索……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:51:0",
+  "message_id": "MSG_036_0",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 05 01 02 01}{F5 C1 17 01 01 01 03 01 01 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 51 02}我们是！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:52:0",
+  "message_id": "MSG_036_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 05 01 02 01}{F5 C1 17 01 01 01 03 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 51 02}我们是！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:53:0",
+  "message_id": "MSG_036_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 05 01 02 01}{F5 C1 17 01 01 01 03 01 03 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 51 02}我们是！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:54:0",
+  "message_id": "MSG_036_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 05 01 02 01}{F5 C1 17 01 01 01 03 01 04 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 51 02}我们是！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:55:0",
+  "message_id": "MSG_036_4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 01 01 05 01 02 01}{F5 C1 17 01 01 01 03 01 05 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 51 02}我们是！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:56:0",
+  "message_id": "MSG_037",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 03 01 01 01 02 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 16 01 01 01 01 01 01 01}{F5 C1 16 01 01 01 01 01 02 01}{F5 C1 16 01 01 01 01 01 03 01}！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:57:0",
+  "message_id": "MSG_038",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 05 01 02 01 02 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 0B 01}在、在此登场！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:58:0",
+  "message_id": "MSG_039",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 08 01 01 01 04 01}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 0B 01 0A 01 02 01 07 01}{F5 61 02 01 01 01 01 01 01 01}……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:59:0",
+  "message_id": "MSG_040",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 03 01}{F5 86 0C 01 08 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}……？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:60:0",
+  "message_id": "MSG_041",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……大家疑惑地歪着头。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:61:0",
+  "message_id": "MSG_042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 08 01 01 01 02 01}{F5 86 0B 01 09 01 02 01 07 01}{F5 61 02 01 01 01 01 01 01 01}{F5 C1 03 01 01 01 01 01 05 01}……是这个名字来着？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:62:0",
+  "message_id": "MSG_043",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0B 01 03 01 01 01}{F5 61 02 01 01 01 01 01 84 08}{F5 C1 03 01 01 01 01 01 0A 01}不是吧……\n总觉得不太对……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:63:0",
+  "message_id": "MSG_044",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 03 01 0D 01 04 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 E6 01}果然不行啊。\n不说出正确的队名，\n就没办法让大家团结起来呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:64:0",
+  "message_id": "MSG_0442",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0E 01 01 01 01 01}{F5 86 02 01 02 01 01 01 04 01}{F5 86 03 01 0D 01 01 01 02 01}{F1 25}{F5 C1 12 01 01 01 01 01 01 01}　\n{F5 61 02 01 01 01 01 01 01 01}再努力一次吧。\n{F1 82}。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:65:0",
+  "message_id": "MSG_045",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 08 01 01 01 02 01}{F5 61 02 01 01 01 01 01 A7 02}{F5 C1 03 01 01 01 01 01 04 01}还要再丢一次这种脸啊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:66:0",
+  "message_id": "MSG_046",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞来到这里，似乎就能\n　再次宣布队名……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:66:1",
+  "message_id": "MSG_046",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞要试试看吗……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e715_760.bf.json:67:0",
+  "message_id": "MSG_047",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞继续探索吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

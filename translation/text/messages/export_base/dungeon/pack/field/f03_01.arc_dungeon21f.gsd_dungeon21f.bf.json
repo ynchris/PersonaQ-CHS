@@ -1,0 +1,52 @@
+[
+ {
+  "key": "export_base/dungeon/pack/field/f03_01.arc_dungeon21f.gsd_dungeon21f.bf.json:0:0",
+  "message_id": "MSG_TEST_00",
+  "translation": "{F2 05 FF FF}{F1 41}感觉人格面具“皮克希”和“克鲁波克鲁”\n在心中萌芽了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_01.arc_dungeon21f.gsd_dungeon21f.bf.json:2:0",
+  "message_id": "MSG_D21_BLOCKADE",
+  "translation": "{F2 05 FF FF}{F1 41}＞似乎被另一边抵住了，\n　门打不开…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_01.arc_dungeon21f.gsd_dungeon21f.bf.json:3:0",
+  "message_id": "MSG_D21_BROKEDOWN_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}＞这扇门纹丝不动。\n　好像坏了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_01.arc_dungeon21f.gsd_dungeon21f.bf.json:3:1",
+  "message_id": "MSG_D21_BROKEDOWN_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}＞钢琴声似乎是\n　从门缝里传出来的…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_01.arc_dungeon21f.gsd_dungeon21f.bf.json:4:0",
+  "message_id": "MSG_D21_PIANO",
+  "translation": "{F2 05 FF FF}{F1 41}＞有一架钢琴…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_01.arc_dungeon21f.gsd_dungeon21f.bf.json:4:1",
+  "message_id": "MSG_D21_PIANO",
+  "translation": "{F2 05 FF FF}{F1 41}＞钢琴似乎坏了，\n　却不知从哪里传来诡异的琴声。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_01.arc_dungeon21f.gsd_dungeon21f.bf.json:6:0",
+  "message_id": "MSG_D21_GRAFFITI1",
+  "translation": "{F2 05 FF FF}{F1 41}＞…？\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_01.arc_dungeon21f.gsd_dungeon21f.bf.json:6:1",
+  "message_id": "MSG_D21_GRAFFITI1",
+  "translation": "{F2 05 FF FF}{F1 41}＞感觉墙上好像有涂鸦，\n　却什么都没写。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_01.arc_dungeon21f.gsd_dungeon21f.bf.json:7:0",
+  "message_id": "MSG_D21_GRAFFITI2",
+  "translation": "{F2 05 FF FF}{F1 41}＞…？\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_01.arc_dungeon21f.gsd_dungeon21f.bf.json:7:1",
+  "message_id": "MSG_D21_GRAFFITI2",
+  "translation": "{F2 05 FF FF}{F1 41}＞感觉墙上好像有涂鸦，\n　却什么都没写。\n{F1 21}{00}"
+ }
+]

@@ -1,0 +1,57 @@
+[
+ {
+  "key": "export_base/title/heroselect.bin_heroselect.bmd.json:0:0",
+  "message_id": "MSG_ROOT_SELECT_01",
+  "translation": "{F2 05 FF FF}{F1 41}＞欢迎来到《女神异闻录Ｑ》的世界。\n{F1 21}"
+ },
+ {
+  "key": "export_base/title/heroselect.bin_heroselect.bmd.json:0:1",
+  "message_id": "MSG_ROOT_SELECT_01",
+  "translation": "{F2 05 FF FF}{F1 41}＞在本作中，你可以选择\n　故事的主人公。\n{F1 21}"
+ },
+ {
+  "key": "export_base/title/heroselect.bin_heroselect.bmd.json:0:2",
+  "message_id": "MSG_ROOT_SELECT_01",
+  "translation": "{F2 05 FF FF}{F1 41}＞选择不同的主人公，剧情发展也会不同。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/title/heroselect.bin_heroselect.bmd.json:1:0",
+  "message_id": "MSG_P3_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}《女神异闻录３》的主人公。\n月光馆学园高中部二年级学生，\n也是“特别课外活动部”的队长。\n为阻止人类变成影人，他日夜奋战，\n探索影时间中出现的神秘巨塔“塔尔塔罗斯”。\n{00}"
+ },
+ {
+  "key": "export_base/title/heroselect.bin_heroselect.bmd.json:2:0",
+  "message_id": "MSG_P4_HELP",
+  "translation": "{F2 05 FF FF}{F1 41}《女神异闻录４》的主人公。\n八十神高中二年级学生，\n也是“特别搜查队”的队长。\n转学到乡间小镇“八十稻羽”后，\n为查明当地离奇的连环杀人事件而奔走。\n{00}"
+ },
+ {
+  "key": "export_base/title/heroselect.bin_heroselect.bmd.json:3:0",
+  "message_id": "MSG_P3_HELP2",
+  "translation": "{F2 05 FF FF}{F1 41}你将体验以《女神异闻录３》的\n伙伴们为中心展开的故事。\n{00}"
+ },
+ {
+  "key": "export_base/title/heroselect.bin_heroselect.bmd.json:4:0",
+  "message_id": "MSG_P4_HELP2",
+  "translation": "{F2 05 FF FF}{F1 41}你将体验以《女神异闻录４》的\n伙伴们为中心展开的故事。\n{00}"
+ },
+ {
+  "key": "export_base/title/heroselect.bin_heroselect.bmd.json:5:0",
+  "message_id": "MSG_GAME_START",
+  "translation": "{F2 05 FF FF}{F1 41}＞那么，请尽情享受\n　接下来的故事。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/title/heroselect.bin_heroselect.bmd.json:6:0",
+  "message_id": "MSG_RETURN_TITLE",
+  "translation": "{F2 05 FF FF}{F1 41}＞是否返回标题画面？\n{00}"
+ },
+ {
+  "key": "export_base/title/heroselect.bin_heroselect.bmd.json:7:0",
+  "message_id": "SEL_RETURN_TITLE",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/title/heroselect.bin_heroselect.bmd.json:7:1",
+  "message_id": "SEL_RETURN_TITLE",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ }
+]

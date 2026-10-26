@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/event/e200/e210_619.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}＞照片上只有自己和玛格丽特……\n{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e210_619.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}＞看来，这似乎是合成照片……\n{F1 21}{00}"
+ }
+]

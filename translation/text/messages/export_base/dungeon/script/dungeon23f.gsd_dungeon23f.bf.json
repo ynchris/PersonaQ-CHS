@@ -1,0 +1,62 @@
+[
+ {
+  "key": "export_base/dungeon/script/dungeon23f.gsd_dungeon23f.bf.json:0:0",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}不看楼层开场事件{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon23f.gsd_dungeon23f.bf.json:0:1",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}观看楼层开场事件{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon23f.gsd_dungeon23f.bf.json:1:0",
+  "message_id": "MSG_D23_KEYLOST",
+  "translation": "{F2 05 FF FF}{F1 41}＞手里的黑色钥匙，\n　仿佛被阴影吸入一般消失了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon23f.gsd_dungeon23f.bf.json:2:0",
+  "message_id": "MSG_D23_PIT_FALL",
+  "translation": "{F2 05 FF FF}{F1 41}＞掉进陷阱了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon23f.gsd_dungeon23f.bf.json:3:0",
+  "message_id": "MSG_D23_NO_ENTRY",
+  "translation": "{F2 05 FF FF}{F1 41}＞有间厕所…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon23f.gsd_dungeon23f.bf.json:4:0",
+  "message_id": "MSG_D23_BLOCKADE",
+  "translation": "{F2 05 FF FF}{F1 41}＞似乎被另一边抵住了，\n　门打不开…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon23f.gsd_dungeon23f.bf.json:5:0",
+  "message_id": "MSG_D23_ELIZABES_WARP",
+  "translation": "{F2 05 FF FF}{F1 41}＞天花板上有通风口。\n　隐约有股霉味…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon23f.gsd_dungeon23f.bf.json:5:1",
+  "message_id": "MSG_D23_ELIZABES_WARP",
+  "translation": "{F2 05 FF FF}{F1 41}＞爬上去似乎能通过…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon23f.gsd_dungeon23f.bf.json:6:0",
+  "message_id": "SEL_D23_ELIZABES_WARP",
+  "translation": "{F2 05 FF FF}{F1 41}爬上去看看{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon23f.gsd_dungeon23f.bf.json:6:1",
+  "message_id": "SEL_D23_ELIZABES_WARP",
+  "translation": "{F2 05 FF FF}{F1 41}暂时算了{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon23f.gsd_dungeon23f.bf.json:7:0",
+  "message_id": "MSG_D23_ELIZABES_WARP_TO",
+  "translation": "{F2 05 FF FF}{F1 41}＞…！\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon23f.gsd_dungeon23f.bf.json:7:1",
+  "message_id": "MSG_D23_ELIZABES_WARP_TO",
+  "translation": "{F2 05 FF FF}{F1 41}＞通风口似乎\n　通往厕所的入口…！\n{F1 21}{00}"
+ }
+]

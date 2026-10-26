@@ -1,0 +1,32 @@
+[
+ {
+  "key": "export_base/event/e700/e721_116.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}点触并拖动图标，\n即可将其{F2 01 03 01}放置在地图上{F2 01 01 01}。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e721_116.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}遇到刚才那样的近路时，\n请放置专用的{F2 01 03 01}近路图标{F2 01 01 01}。\n{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e721_116.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}图标形状会{F2 01 03 01}自动变化{F2 01 01 01}，\n表示可以通行的方向。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e721_116.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}误放的图标，可以\n{F2 01 03 01}拖入垃圾桶{F2 01 01 01}删除。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e721_116.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}地图画错时，可按下{F2 01 03 01}“ＵＮＤＯ”按钮{F2 01 01 01}，\n撤销操作。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e721_116.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}地图还有各种其他功能。\n点触下屏右下方的{F2 01 03 01}“Ｈｅｌｐ”按钮{F2 01 01 01}，\n即可查看详细说明。\n\n把各种信息记录在地图上，\n为迷宫探索提供帮助吧。\n{F1 21}{00}"
+ }
+]

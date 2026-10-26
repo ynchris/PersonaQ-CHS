@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(021).BMD.json:0:0",
+  "message_id": "BTL_MES_H121_022_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 14 01}强敌３名。很有挑战性。\n似乎也有资料中没有的敌人。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(021).BMD.json:1:0",
+  "message_id": "BTL_MES_H121_022_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 15 01}强敌３名！唯有战胜强敌，\n才能获得更大的成长……\n{F2 26 00 00}{00}"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:0:0",
+  "message_id": "BTL_MES_H124_060_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A0 01}副队长还在麻痹。\n也许动不了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:1:0",
+  "message_id": "BTL_MES_H124_060_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 97 01}副队长还在麻痹。\n不知道能不能动。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:2:0",
+  "message_id": "BTL_MES_H124_060_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A1 01}阳介麻痹了。\n也许动不了哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:3:0",
+  "message_id": "BTL_MES_H124_060_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A2 01}千枝的麻痹还没好。\n也许动不了哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:4:0",
+  "message_id": "BTL_MES_H124_060_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A3 01}雪子还能动吗……\n麻痹还没好呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:6:0",
+  "message_id": "BTL_MES_H124_060_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A4 01}完二还在麻痹。\n也许动不了哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:7:0",
+  "message_id": "BTL_MES_H124_060_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A6 01}直斗麻痹了。\n还能动吗……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:8:0",
+  "message_id": "BTL_MES_H124_060_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A5 01}小熊的麻痹还没好。\n还能动吗……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:9:0",
+  "message_id": "BTL_MES_H124_060_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 98 01}由加莉的麻痹还没好。\n也许动不了哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:10:0",
+  "message_id": "BTL_MES_H124_060_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 99 01}顺平的麻痹还没好。\n也许动不了哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:11:0",
+  "message_id": "BTL_MES_H124_060_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 9A 01}真田还在麻痹。\n也许动不了呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:12:0",
+  "message_id": "BTL_MES_H124_060_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 9B 01}美鹤也许动不了哦。\n麻痹还没好呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:14:0",
+  "message_id": "BTL_MES_H124_060_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 9E 01}原来埃癸斯也会麻痹……\n那也许就动不了了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:15:0",
+  "message_id": "BTL_MES_H124_060_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 9C 01}乾的麻痹还没好。\n也许动不了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:16:0",
+  "message_id": "BTL_MES_H124_060_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 9D 01}狗狗还在麻痹。\n也许动不了哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:17:0",
+  "message_id": "BTL_MES_H124_060_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 9F 01}荒垣的麻痹还没好。\n也许动不了哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:18:0",
+  "message_id": "BTL_MES_H124_060_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A7 01}善和玲麻痹了。\n不知道能不能动。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:19:0",
+  "message_id": "BTL_MES_H124_060_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 A8 01}善的麻痹还没好。\n不知道能不能动哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:20:0",
+  "message_id": "BTL_MES_H124_060_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 96 01}你的麻痹还没好吧？\n能动吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0008/battle/support/bsv124.bvp_(059).BMD.json:21:0",
+  "message_id": "BTL_MES_H124_060_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 95 01}队长还在麻痹？\n也许动不了哦。\n{F2 26 00 00}{00}"
+ }
+]

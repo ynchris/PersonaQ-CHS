@@ -1,0 +1,257 @@
+[
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:0:0",
+  "message_id": "P3_HERO_FOE_FOLLOW_START",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2F 01}好像被Ｆ．Ｏ．Ｅ发现了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:1:0",
+  "message_id": "P3_HERO_FOE_FOLLOW_START",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 30 01}小心，\n被Ｆ．Ｏ．Ｅ发现了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:2:0",
+  "message_id": "P3_HERO_FOE_FOLLOW_START",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 31 01}Ｆ．Ｏ．Ｅ追过来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:3:0",
+  "message_id": "P3_HERO_FOE_SENSOR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 32 01}有Ｆ．Ｏ．Ｅ啊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:4:0",
+  "message_id": "P3_HERO_FOE_SENSOR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 33 01}这里有Ｆ．Ｏ．Ｅ，小心点。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:5:0",
+  "message_id": "P3_HERO_FOE_SENSOR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 34 01}发现Ｆ．Ｏ．Ｅ了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:6:0",
+  "message_id": "P3_HERO_FOE_FOLLOW_END1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 35 01}那只Ｆ．Ｏ．Ｅ好像放弃了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:7:0",
+  "message_id": "P3_HERO_FOE_FOLLOW_END2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 36 01}总算甩掉Ｆ．Ｏ．Ｅ了吗……？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:8:0",
+  "message_id": "P3_HERO_FOE_FOLLOW_END3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 37 01}好像没再追过来了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:9:0",
+  "message_id": "P3_HERO_PARTY_HPTP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 38 01}唔……\n有点吃力啊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:10:0",
+  "message_id": "P3_HERO_PARTY_HPTP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 39 01}抱歉，可能快到极限了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:11:0",
+  "message_id": "P3_HERO_PARTY_HPTP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3A 01}哈……哈……可能不行了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:12:0",
+  "message_id": "P3_HERO_PARTY_HP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3B 01}抱歉，\n谁能帮我恢复一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:13:0",
+  "message_id": "P3_HERO_PARTY_HP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3C 01}体力差不多撑不住了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:14:0",
+  "message_id": "P3_HERO_PARTY_HP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3D 01}哈……哈……\n要…要倒下了…\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:15:0",
+  "message_id": "P3_HERO_PARTY_TP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3E 01}呼……精力快耗尽了吧……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:16:0",
+  "message_id": "P3_HERO_PARTY_TP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3F 01}好像已经没耐力了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:17:0",
+  "message_id": "P3_HERO_PARTY_TP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 40 01}抱歉，耐力已经耗尽了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:18:0",
+  "message_id": "P3_HERO_STAIR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 41 01}有楼梯呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:19:0",
+  "message_id": "P3_HERO_STAIR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 42 01}找到楼梯了，要走吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:20:0",
+  "message_id": "P3_HERO_STAIR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 43 01}那个……好像是楼梯。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:21:0",
+  "message_id": "P3_HERO_TREASURE1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 44 01}有宝箱哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:22:0",
+  "message_id": "P3_HERO_TREASURE2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 45 01}有宝箱呢。\n有点在意……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:23:0",
+  "message_id": "P3_HERO_TREASURE3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 46 01}宝箱啊……里面会是什么呢。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:24:0",
+  "message_id": "P3_HERO_FOUNTAIN1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 47 01}那个……是能量点吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:25:0",
+  "message_id": "P3_HERO_FOUNTAIN2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 48 01}有能量点……\n要过去看看吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:26:0",
+  "message_id": "P3_HERO_FOUNTAIN3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 49 01}又是能量点，\n过去看看吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:27:0",
+  "message_id": "P3_HERO_SEARCH_OBJ1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4A 01}这附近好像有东西……\n要调查一下吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:28:0",
+  "message_id": "P3_HERO_SEARCH_OBJ2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4B 01}好像有东西……\n要在这附近仔细找找吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:29:0",
+  "message_id": "P3_HERO_SEARCH_OBJ3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4C 01}前面有东西……\n要看看吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:30:0",
+  "message_id": "P3_HERO_SWITCH1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4D 01}找到开关了……\n怎么办呢？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:31:0",
+  "message_id": "P3_HERO_SWITCH2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4E 01}咦……前面那个，\n是开关吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:32:0",
+  "message_id": "P3_HERO_SWITCH3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4F 01}那里有开关，\n调查一下吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:33:0",
+  "message_id": "P3_HERO_SHORTCUT1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 50 01}那面墙好像藏着什么……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:34:0",
+  "message_id": "P3_HERO_SHORTCUT2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 51 01}那面墙，\n感觉有点怪……错觉吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:35:0",
+  "message_id": "P3_HERO_SHORTCUT3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 52 01}那面墙藏着什么吗……？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:36:0",
+  "message_id": "P3_HERO_PARTY_HPTP15_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 38 01}唔……\n有点吃力啊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:37:0",
+  "message_id": "P3_HERO_PARTY_HPTP15_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 39 01}抱歉，可能快到极限了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:38:0",
+  "message_id": "P3_HERO_PARTY_HPTP15_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3A 01}哈……哈……可能不行了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:39:0",
+  "message_id": "P3_HERO_PARTY_TP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3E 01}呼……精力快耗尽了吧……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:40:0",
+  "message_id": "P3_HERO_PARTY_TP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3F 01}好像已经没耐力了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:41:0",
+  "message_id": "P3_HERO_PARTY_TP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 40 01}抱歉，耐力已经耗尽了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:42:0",
+  "message_id": "P3_HERO_PARTY_HP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3B 01}抱歉，\n谁能帮我恢复一下？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:43:0",
+  "message_id": "P3_HERO_PARTY_HP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3C 01}体力差不多撑不住了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:44:0",
+  "message_id": "P3_HERO_PARTY_HP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3D 01}哈……哈……\n要…要倒下了…\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:45:0",
+  "message_id": "P3_HERO_FOE_NEAR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2F 01}好像被Ｆ．Ｏ．Ｅ发现了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:46:0",
+  "message_id": "P3_HERO_FOE_NEAR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 30 01}小心，\n被Ｆ．Ｏ．Ｅ发现了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:47:0",
+  "message_id": "P3_HERO_FOE_NEAR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 31 01}Ｆ．Ｏ．Ｅ追过来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:48:0",
+  "message_id": "P3_HERO_ME_LEVEL_UP1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 53 01}再过一会儿，\n我的等级好像就要提升了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:49:0",
+  "message_id": "P3_HERO_ME_LEVEL_UP2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 54 01}看来快升级了。\n真期待啊。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/p3hero_support.bf.json:50:0",
+  "message_id": "P3_HERO_ME_LEVEL_UP3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 55 01}我的等级……\n可能快要提升了。\n{F2 26 00 00}{00}"
+ }
+]

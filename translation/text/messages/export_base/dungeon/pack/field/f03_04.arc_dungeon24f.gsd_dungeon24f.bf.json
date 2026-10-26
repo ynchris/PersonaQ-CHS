@@ -1,0 +1,597 @@
+[
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:0:0",
+  "message_id": "MSG_TEST_00",
+  "translation": "{F2 05 FF FF}{F1 41}感觉人格面具“皮克希”和“克鲁波克鲁”\n在心中萌芽了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:1:0",
+  "message_id": "MSG_D24_Q22_SC_LOCK",
+  "translation": "{F2 05 FF FF}{F1 41}＞墙上有张写着\n“施工预定地”的告示…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:1:1",
+  "message_id": "MSG_D24_Q22_SC_LOCK",
+  "translation": "{F2 05 FF FF}{F1 41}＞以后会变成近路吗…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:2:0",
+  "message_id": "MSG_D24_Q22_SC_LOCK_QUES",
+  "translation": "{F2 05 FF FF}{F1 41}＞墙上有张写着\n“施工预定地”的告示…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:2:1",
+  "message_id": "MSG_D24_Q22_SC_LOCK_QUES",
+  "translation": "{F2 05 FF FF}{F1 41}＞上面画着一个大大的“×”，\n　究竟代表着什么呢…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:3:0",
+  "message_id": "MSG_D24_GATE_PASS",
+  "translation": "{F2 05 FF FF}{F1 41}＞使用门禁卡打开了门。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:4:0",
+  "message_id": "MSG_D24_REI_START",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}我试着直走哦。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:5:0",
+  "message_id": "MSG_D24_REI_HIT_WALL",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}撞到墙了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:6:0",
+  "message_id": "MSG_D24_REI_HIT_FOE",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}眼前出现了可、可怕的章、章鱼烧，\n没法继续走了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:7:0",
+  "message_id": "MSG_D24_REI_MOVE_R_OK_L_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}可以继续往前走，\n也能往右或往左走。\n该怎么办…？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:8:0",
+  "message_id": "MSG_D24_REI_MOVE_R_OK_L_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}往右和往左都能走。\n该怎么办…？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:9:0",
+  "message_id": "MSG_D24_REI_MOVE_R_OK_L_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}右边可以走，\n但左边有墙，过不去。\n该怎么办…？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:10:0",
+  "message_id": "MSG_D24_REI_MOVE_R_WALL_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}右边有墙，过不去，\n但左边可以走。\n该怎么办…？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:11:0",
+  "message_id": "MSG_D24_REI_MOVE_R_WALL_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}左右都有墙，走不过去。\n该怎么办…？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:12:0",
+  "message_id": "MSG_D24_REI_MOVE_R_FOE_L",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}左右都有可、可怕的…\n章、章鱼烧，走不过去。\n该怎么办…？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:13:0",
+  "message_id": "MSG_D24_REI_MOVE_R_FOE_L",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}右边有可、可怕的章鱼烧，过不去，\n左边也有墙，走不了。\n该怎么办…？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:14:0",
+  "message_id": "MSG_D24_REI_MOVE_R_FOE_L",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}右边有可、可怕的章、章鱼烧，\n走不过去，但左边可以走。\n该怎么办…？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:15:0",
+  "message_id": "MSG_D24_REI_MOVE_R_OK_L_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}右边可以走，但左边有\n可、可怕的章、章鱼烧，走不过去。\n该怎么办…？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:16:0",
+  "message_id": "MSG_D24_REI_MOVE_R_WALL_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}右边有墙，走不过去，\n左边也有可、可怕的章、章鱼烧，过不去。\n该怎么办…？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:17:0",
+  "message_id": "SEL_MOVE",
+  "translation": "{F2 05 FF FF}{F1 41}往左走{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:17:1",
+  "message_id": "SEL_MOVE",
+  "translation": "{F2 05 FF FF}{F1 41}往右走{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:17:2",
+  "message_id": "SEL_MOVE",
+  "translation": "{F2 05 FF FF}{F1 41}往后走{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:17:3",
+  "message_id": "SEL_MOVE",
+  "translation": "{F2 05 FF FF}{F1 41}继续往前走{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:17:4",
+  "message_id": "SEL_MOVE",
+  "translation": "{F2 05 FF FF}{F1 41}带上门禁卡回来{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:17:5",
+  "message_id": "SEL_MOVE",
+  "translation": "{F2 05 FF FF}{F1 41}从入口重新开始{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:18:0",
+  "message_id": "MSG_D24_REI_MOVE_FRONT_S",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}嗯，我试着往前走。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:19:0",
+  "message_id": "MSG_D24_REI_MOVE_LEFT_ST",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}嗯，我试着往左走。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:20:0",
+  "message_id": "MSG_D24_REI_MOVE_RIGHT_S",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}嗯，我试着往右走。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:21:0",
+  "message_id": "MSG_D24_REI_MOVE_BACK_ST",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}嗯，我试着往后走。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:22:0",
+  "message_id": "MSG_D24_REI_COME_BACK",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}嗯…我回入口去。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:23:0",
+  "message_id": "MSG_D24_REI_COME_BACK_EN",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}那个，我回来了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:24:0",
+  "message_id": "MSG_D24_REI_FOE_01_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 01 01 02 01}咦？那、那边\n有可怕的章鱼烧啊！？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:25:0",
+  "message_id": "SEL_FOE_01_P4",
+  "translation": "{F2 05 FF FF}{F1 41}对不起，搞错了{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:25:1",
+  "message_id": "SEL_FOE_01_P4",
+  "translation": "{F2 05 FF FF}{F1 41}那也得去{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:26:0",
+  "message_id": "SEL_FOE_01_P3",
+  "translation": "{F2 05 FF FF}{F1 41}开个玩笑{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:26:1",
+  "message_id": "SEL_FOE_01_P3",
+  "translation": "{F2 05 FF FF}{F1 41}少啰嗦，快去{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:27:0",
+  "message_id": "MSG_D24_REI_FOE_01_02",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 01 01 02 01}吓、吓死我了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:28:0",
+  "message_id": "MSG_D24_REI_FOE_01_03",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 05 01 01 01 02 01}所、所以说…\n那边有可怕的章鱼烧，\n不是说过了吗！！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:29:0",
+  "message_id": "MSG_D24_REI_FOE_01_04",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 05 01 01 01 04 01}{F5 86 01 01 01 01 01 01 02 01}你这家伙…想让玲\n撞上Ｆ．Ｏ．Ｅ吗！？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:30:0",
+  "message_id": "MSG_D24_REI_FOE_01_05",
+  "translation": "{F2 05 FF FF}{F1 41}＞被善训斥了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:31:0",
+  "message_id": "MSG_D24_REI_FOE_02_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 01 01 02 01}那、那边走不了！\n有可怕的章鱼烧啊！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:32:0",
+  "message_id": "SEL_FOE_02_P4",
+  "translation": "{F2 05 FF FF}{F1 41}不小心搞错了{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:32:1",
+  "message_id": "SEL_FOE_02_P4",
+  "translation": "{F2 05 FF FF}{F1 41}试着走走看{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:33:0",
+  "message_id": "SEL_FOE_02_P3",
+  "translation": "{F2 05 FF FF}{F1 41}只是玩笑{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:33:1",
+  "message_id": "SEL_FOE_02_P3",
+  "translation": "{F2 05 FF FF}{F1 41}总之快去{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:34:0",
+  "message_id": "MSG_D24_REI_FOE_02_02",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 01 01 02 01}呜、呜呜…\n都说了别吓我嘛！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:35:0",
+  "message_id": "MSG_D24_REI_FOE_02_03",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 05 01 01 01 02 01}就、就算你这么说…\n也…也不行啊…呜…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:36:0",
+  "message_id": "MSG_D24_REI_FOE_02_04",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 05 01 01 01 04 01}{F5 86 01 01 01 01 01 01 02 01}你这家伙…竟敢弄哭玲？\n想当Ｆ．Ｏ．Ｅ的饵食吗！？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:37:0",
+  "message_id": "MSG_D24_REI_FOE_02_05",
+  "translation": "{F2 05 FF FF}{F1 41}＞被善训斥了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:38:0",
+  "message_id": "MSG_D24_REI_FOE_03_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 01 01 02 01}我、我不要去那边！\n有可怕的章鱼烧！！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:39:0",
+  "message_id": "SEL_FOE_03_P4",
+  "translation": "{F2 05 FF FF}{F1 41}一不留神搞错了{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:39:1",
+  "message_id": "SEL_FOE_03_P4",
+  "translation": "{F2 05 FF FF}{F1 41}大概没事{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:40:0",
+  "message_id": "SEL_FOE_03_P3",
+  "translation": "{F2 05 FF FF}{F1 41}小玩笑{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:40:1",
+  "message_id": "SEL_FOE_03_P3",
+  "translation": "{F2 05 FF FF}{F1 41}不会有事，快去{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:41:0",
+  "message_id": "MSG_D24_REI_FOE_03_02",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 01 01 02 01}真、真是的…\n别欺负我了嘛…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:42:0",
+  "message_id": "MSG_D24_REI_FOE_03_03",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 05 01 01 01 02 01}真、真的没问题吗…？\n那好吧…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:42:1",
+  "message_id": "MSG_D24_REI_FOE_03_03",
+  "translation": "{F2 05 FF FF}{F1 41}不…果然有问题嘛！\n骗子！太过分了！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:43:0",
+  "message_id": "MSG_D24_REI_FOE_03_04",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 05 01 01 01 04 01}{F5 86 01 01 01 01 01 01 02 01}你这家伙…弄哭玲很开心吗！？\n我要处决你！！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:44:0",
+  "message_id": "MSG_D24_REI_FOE_03_05",
+  "translation": "{F2 05 FF FF}{F1 41}＞被善训斥了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:45:0",
+  "message_id": "MSG_D24_REI_TRESURE1_GET",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}啊，有东西。\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:45:1",
+  "message_id": "MSG_D24_REI_TRESURE1_GET",
+  "translation": "{F2 05 FF FF}{F1 41}唔…好像不是门禁卡。\n不过应该有用，我带回去哦。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:46:0",
+  "message_id": "MSG_D24_REI_TRESURE1_GET",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了奖励道具１。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:47:0",
+  "message_id": "MSG_D24_REI_TRESURE2_GET",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}啊，有东西。\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:47:1",
+  "message_id": "MSG_D24_REI_TRESURE2_GET",
+  "translation": "{F2 05 FF FF}{F1 41}唔…好像不是门禁卡。\n不过应该有用，我带回去哦。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:48:0",
+  "message_id": "MSG_D24_REI_TRESURE2_GET",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了奖励道具２。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:49:0",
+  "message_id": "MSG_D24_REI_TRESURE3_GET",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0D 01 01 01 02 01}啊，有东西。\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:49:1",
+  "message_id": "MSG_D24_REI_TRESURE3_GET",
+  "translation": "{F2 05 FF FF}{F1 41}唔…好像不是门禁卡。\n不过应该有用，我带回去哦。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:50:0",
+  "message_id": "MSG_D24_REI_TRESURE3_GET",
+  "translation": "{F2 05 FF FF}{F1 41}＞获得了奖励道具３。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:51:0",
+  "message_id": "MSG_D24_REI_KEY_GET_COME",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 03 01 01 01 02 01}嗯！"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:51:1",
+  "message_id": "MSG_D24_REI_KEY_GET_COME",
+  "translation": "　我回那边去！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:52:0",
+  "message_id": "MSG_D24_LOCKED_DOOR_P4_2",
+  "translation": "{F2 05 FF FF}{F1 41}除了你们，大家都在这间房里，\n但没钥匙好像打不开这扇门。\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:52:1",
+  "message_id": "MSG_D24_LOCKED_DOOR_P4_2",
+  "translation": "{F2 05 FF FF}{F1 41}能帮忙找找钥匙吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:53:0",
+  "message_id": "MSG_D24_LOCKED_DOOR_P4_2",
+  "translation": "{F2 05 FF FF}{F1 41}＞要救出同伴，需要这扇门的钥匙。\n　去找钥匙吧…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:54:0",
+  "message_id": "MSG_D24_REI_RETURN_ZEN_A",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 04 01}喂…没问题吗？\n如果难以指挥玲，就让我来。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:55:0",
+  "message_id": "SEL_REI_RETURN_ZEN_AUTO",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}自己继续指挥{F5 47 02 01 01 01 0D 01 01 01}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:55:1",
+  "message_id": "SEL_REI_RETURN_ZEN_AUTO",
+  "translation": "{F2 05 FF FF}{F1 41}交给善{F5 47 02 01 01 01 0D 01 01 01}{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:56:0",
+  "message_id": "MSG_D24_REI_RETURN_ZEN_A",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 04 01}那就交给你了…\n别让玲勉强自己。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:57:0",
+  "message_id": "MSG_D24_REI_RETURN_ZEN_A",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 04 01}明白了。\n那么，由我来指挥玲。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:58:0",
+  "message_id": "MSG_D24_REI_RETURN_ZEN_A",
+  "translation": "{F2 05 FF FF}{F1 41}＞在善的指挥下，\n　玲一步步地前进…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:59:0",
+  "message_id": "MSG_D24_REI_RETURN_ZEN_A",
+  "translation": "{F2 05 FF FF}{F1 41}＞在善冷静的指挥下，\n　顺利找到了钥匙…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:60:0",
+  "message_id": "MSG_D24_REI_RETURN_ZEN_A",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 04 01}喂，这样下去没完没了。\n如果难以指挥，就换我来。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:61:0",
+  "message_id": "SEL_REI_RETURN_ZEN_AUTO_",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}自己继续指挥{F5 47 02 01 01 01 0D 01 01 01}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:61:1",
+  "message_id": "SEL_REI_RETURN_ZEN_AUTO_",
+  "translation": "{F2 05 FF FF}{F1 41}交给善{F5 47 02 01 01 01 0D 01 01 01}{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:62:0",
+  "message_id": "MSG_D24_REI_RETURN_ZEN_A",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 04 01}…明白了。\n好好引导玲吧。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:63:0",
+  "message_id": "MSG_D24_REI_RETURN_ZEN_A",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 04 01}明白了。\n那么，由我来指挥玲。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:64:0",
+  "message_id": "MSG_D24_REI_RETURN_ZEN_A",
+  "translation": "{F2 05 FF FF}{F1 41}＞在善准确的指挥下，\n　玲一步步地前进…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:65:0",
+  "message_id": "MSG_D24_REI_RETURN_ZEN_A",
+  "translation": "{F2 05 FF FF}{F1 41}＞在善冷静的指挥下，\n　顺利找到了钥匙…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:66:0",
+  "message_id": "MSG_D24_PITFALL_01_P4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0D 01 01 01 02 01}总觉得这个房间有点奇怪…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:66:1",
+  "message_id": "MSG_D24_PITFALL_01_P4",
+  "translation": "{F2 05 FF FF}{F1 41}说不定有什么机关。\n进去时小心点。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:67:0",
+  "message_id": "MSG_D24_PITFALL_01_P3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0D 01 01 01 02 01}这个房间有种奇怪的气息…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:67:1",
+  "message_id": "MSG_D24_PITFALL_01_P3",
+  "translation": "{F2 05 FF FF}{F1 41}说不定有什么…\n请小心调查。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:68:0",
+  "message_id": "MSG_D24_PITFALL_02_01",
+  "translation": "{F2 05 FF FF}{F1 41}＞…！？\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:68:1",
+  "message_id": "MSG_D24_PITFALL_02_01",
+  "translation": "{F2 05 FF FF}{F1 41}＞感觉地面晃了一下…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:69:0",
+  "message_id": "MSG_D24_PITFALL_02_02",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 0B 01 01 01 02 01}呀啊！？\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:69:1",
+  "message_id": "MSG_D24_PITFALL_02_02",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 01 01 02 01}大、大家…都在吧…？\n没没没没事…对吧？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:70:0",
+  "message_id": "MSG_D24_PITFALL_02_03",
+  "translation": "{F2 05 FF FF}{F1 41}＞玲紧紧抓住了你…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:71:0",
+  "message_id": "MSG_D24_PITFALL_02_04",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 15 01 0D 01 01 01 04 01}没事的，玲。\n别离开我身边。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:72:0",
+  "message_id": "MSG_D24_PITFALL_03_P4",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 07 01 0B 01 01 01 02 01}危、危险！地板…！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:73:0",
+  "message_id": "MSG_D24_PITFALL_03_P3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0F 01 0B 01 01 01 02 01}队长，危险！地板…！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:74:0",
+  "message_id": "MSG_D24_WALK_START_00",
+  "translation": "{F2 05 FF FF}{F1 41}只要一直走，只要一直走…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:75:0",
+  "message_id": "MSG_D24_WALK_START_01",
+  "translation": "{F2 05 FF FF}{F1 41}一直走…呜…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:76:0",
+  "message_id": "MSG_D24_WALK_ILLUSION_00",
+  "translation": "{F2 05 FF FF}{F1 41}阿门，素面，冰凉素面，\n盐味拉面，豚骨拉面，担担面…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:77:0",
+  "message_id": "MSG_D24_WALK_ILLUSION_01",
+  "translation": "{F2 05 FF FF}{F1 41}只想开心的事…呜…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:78:0",
+  "message_id": "MSG_D24_WALK_ILLUSION_02",
+  "translation": "{F2 05 FF FF}{F1 41}咦…？\n闻到香味了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:79:0",
+  "message_id": "MSG_D24_WALK_ILLUSION_02",
+  "translation": "{F2 05 FF FF}{F1 41}…香味？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:80:0",
+  "message_id": "MSG_D24_WALK_ILLUSION_03",
+  "translation": "{F2 05 FF FF}{F1 41}哇，带骨牛小排在跳舞…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:81:0",
+  "message_id": "MSG_D24_WALK_ILLUSION_03",
+  "translation": "{F2 05 FF FF}{F1 41}哇…有鲷鱼烧天堂…！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:82:0",
+  "message_id": "MSG_D24_WALK_ILLUSION_03",
+  "translation": "{F2 05 FF FF}{F1 41}怎么了，没事吧？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:83:0",
+  "message_id": "MSG_D24_WALK_BRAVE_00",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 07 01 01 01 02 01}我、我得…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:84:0",
+  "message_id": "MSG_D24_WALK_BRAVE_01",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 01 01 02 01}我得去做…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:85:0",
+  "message_id": "MSG_D24_WALK_BRAVE_02",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 29 01 01 01 01 01 02 01}得救大家才行…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:86:0",
+  "message_id": "MSG_D24_WALK_KEY_GET_00",
+  "translation": "{F2 05 FF FF}{F1 41}万、万一迷路了怎么办…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:87:0",
+  "message_id": "MSG_D24_WALK_KEY_GET_01",
+  "translation": "{F2 05 FF FF}{F1 41}呜，看不见前面…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:88:0",
+  "message_id": "MSG_D24_WALK_KEY_GET_02",
+  "translation": "{F2 05 FF FF}{F1 41}有没有掉落的东西…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:89:0",
+  "message_id": "MSG_D24_WALK_COMMON_00",
+  "translation": "{F2 05 FF FF}{F1 41}好可怕…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:90:0",
+  "message_id": "MSG_D24_WALK_COMMON_01",
+  "translation": "{F2 05 FF FF}{F1 41}呜…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:91:0",
+  "message_id": "MSG_D24_WALK_COMMON_02",
+  "translation": "{F2 05 FF FF}{F1 41}有、有什么在！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:93:0",
+  "message_id": "MSG_D24_BLOCKADE",
+  "translation": "{F2 05 FF FF}{F1 41}＞门从另一边被抵住了，\n　打不开…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/pack/field/f03_04.arc_dungeon24f.gsd_dungeon24f.bf.json:94:0",
+  "message_id": "MSG_D24_BREAK_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}＞这扇门似乎坏了，\n　打不开…\n{F1 21}{00}"
+ }
+]

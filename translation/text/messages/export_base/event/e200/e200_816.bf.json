@@ -1,0 +1,127 @@
+[
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 48 01 01 01 03 01 04 01}{F5 61 02 01 01 01 01 01 02 01}说起来，刚才那张照片……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 03 01}会不会有流传出去的风险，\n让我有点担心……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:0:2",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 48 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 04 01}那、那种伪造照片，\n要是被别人看见……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:0:3",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}……我可受不了！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:0:4",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 48 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 06 01}其实现在，我甚至想\n消除{F1 81}先生的记忆……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:1:0",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 48 01 10 01 02 01 01 01}已经忘了{F5 47 02 01 48 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:1:1",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}要不找个地方撞一下头？{F5 47 02 01 48 01 01 01 05 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:1:2",
+  "message_id": "SEL_TALK001",
+  "translation": "{F2 05 FF FF}{F1 41}那就真的结婚吧{F5 47 02 01 48 01 01 01 05 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 48 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 07 01}咦，真的吗……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:2:1",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 08 01}太、太好了。\n总算松了口气……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:3:0",
+  "message_id": "MSG_002a",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 C1 1A 01 01 01 01 01 01 01}{F5 86 48 01 0E 01 02 01 01 01}{F5 61 02 01 01 01 01 01 09 01}……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:3:1",
+  "message_id": "MSG_002a",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 48 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}{F5 C1 03 01 01 01 01 01 07 01}等等，你刚才……笑了吧？\n你笑了对吧！？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:3:2",
+  "message_id": "MSG_002a",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 48 01 07 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}{F5 C1 03 01 01 01 01 01 04 01}真、真是的！\n居然有一点相信了，我真是笨蛋！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:4:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞直斗微微鼓起了脸颊……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:5:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 48 01 05 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}{F5 C1 03 01 01 01 01 01 07 01}咦？\n不、不行，请别这样！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:5:1",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 48 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}{F5 C1 03 01 01 01 01 01 04 01}真、真是的……\n这种小孩子一样的想法……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:6:0",
+  "message_id": "MSG_0042",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 48 01 09 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}呵呵……不过，真意外呢。\n你居然也有这样的一面。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:7:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞直斗开心地笑着……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:8:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 48 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}{F5 C1 03 01 01 01 01 01 01 01}啊，咦……\n突然说什么啊！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:9:0",
+  "message_id": "MSG_0062",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 48 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 10 01}确、确实，那样的话，\n照片的一部分\n也许就会成为事实……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:10:0",
+  "message_id": "MSG_0063",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 48 01 13 01 02 01 01 01}{F5 61 02 01 01 01 01 01 11 01}{F5 C1 03 01 01 01 01 01 07 01}不，不是这个问题！\n你把重点搞错了！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:10:1",
+  "message_id": "MSG_0063",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 48 01 0F 01 02 01 01 01}{F5 61 02 01 01 01 01 01 12 01}{F5 C1 03 01 01 01 01 01 04 01}真、真是的……\n都怪你说些奇怪的话，\n现在更害羞了……！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:11:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞直斗的脸红透了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:12:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 48 01 0D 01 02 01 01 01}{F5 61 02 01 01 01 01 01 13 01}那、那个……在这里说的话，\n请不要告诉其他人哦？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e200_816.bf.json:12:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 14 01}绝……绝对不可以哦？\n这是我们两人的约定！？\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

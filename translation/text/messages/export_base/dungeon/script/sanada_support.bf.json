@@ -1,0 +1,257 @@
+[
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:0:0",
+  "message_id": "SANADA_FOE_FOLLOW_START1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 29 03}喂，Ｆ．Ｏ．Ｅ追过来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:1:0",
+  "message_id": "SANADA_FOE_FOLLOW_START2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2A 03}那只Ｆ．Ｏ．Ｅ，\n似乎把我们当成目标了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:2:0",
+  "message_id": "SANADA_FOE_FOLLOW_START3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2B 03}被Ｆ．Ｏ．Ｅ盯上了，\n小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:3:0",
+  "message_id": "SANADA_FOE_SENSOR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2C 03}哼……Ｆ．Ｏ．Ｅ登场了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:4:0",
+  "message_id": "SANADA_FOE_SENSOR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2D 03}喂，确认有Ｆ．Ｏ．Ｅ。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:5:0",
+  "message_id": "SANADA_FOE_SENSOR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2E 03}这气息…是Ｆ．Ｏ．Ｅ？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:6:0",
+  "message_id": "SANADA_FOE_FOLLOW_END1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2F 03}……嗯？Ｆ．Ｏ．Ｅ\n似乎不再追过来了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:7:0",
+  "message_id": "SANADA_FOE_FOLLOW_END2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 30 03}顺利甩掉Ｆ．Ｏ．Ｅ了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:8:0",
+  "message_id": "SANADA_FOE_FOLLOW_END3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 31 03}那只Ｆ．Ｏ．Ｅ放弃了吗……\n真是个没毅力的家伙。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:9:0",
+  "message_id": "SANADA_PARTY_HPTP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 32 03}身体发沉啊……\n差不多该回去了吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:10:0",
+  "message_id": "SANADA_PARTY_HPTP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 33 03}唔……我的极限\n不该止步于此……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:11:0",
+  "message_id": "SANADA_PARTY_HPTP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 34 03}哈、哈……乳酸堆积了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:12:0",
+  "message_id": "SANADA_PARTY_HP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 35 03}可恶……体力……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:13:0",
+  "message_id": "SANADA_PARTY_HP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 36 03}体力吃紧了……\n帮我恢复一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:14:0",
+  "message_id": "SANADA_PARTY_HP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 37 03}唔……这样下去体力撑不住。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:15:0",
+  "message_id": "SANADA_PARTY_TP10_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 38 03}我竟然会耗尽耐力……？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:16:0",
+  "message_id": "SANADA_PARTY_TP10_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 39 03}……抱歉，要不要先回去？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:17:0",
+  "message_id": "SANADA_PARTY_TP10_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3A 03}精力差不多到极限了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:18:0",
+  "message_id": "SANADA_STAIR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3B 03}发现楼梯了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:19:0",
+  "message_id": "SANADA_STAIR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3C 03}前方有楼梯，\n快走吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:20:0",
+  "message_id": "SANADA_STAIR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3D 03}哦，那是楼梯。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:21:0",
+  "message_id": "SANADA_TREASURE1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3E 03}宝箱啊……\n里面会不会有蛋白粉？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:22:0",
+  "message_id": "SANADA_TREASURE2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3F 03}什么啊，宝箱…\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:23:0",
+  "message_id": "SANADA_TREASURE3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 40 03}有宝箱……怎么办？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:24:0",
+  "message_id": "SANADA_FOUNTAIN1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 41 03}有能量点，\n要过去看看吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:25:0",
+  "message_id": "SANADA_FOUNTAIN2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 42 03}前方有\n之前那种能量点……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:26:0",
+  "message_id": "SANADA_FOUNTAIN3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 43 03}又是那个能量点啊……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:27:0",
+  "message_id": "SANADA_SEARCH_OBJ1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 44 03}那里有东西。\n要调查一下吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:28:0",
+  "message_id": "SANADA_SEARCH_OBJ2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 45 03}有个可疑的地方……\n最好调查一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:29:0",
+  "message_id": "SANADA_SEARCH_OBJ3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 46 03}前面有东西……\n调查一下吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:30:0",
+  "message_id": "SANADA_SWITCH1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 47 03}这是开关……要按吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:31:0",
+  "message_id": "SANADA_SWITCH2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 48 03}确认前方有开关。\n要过去按吗？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:32:0",
+  "message_id": "SANADA_SWITCH3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 49 03}附近可能有个开关……\n调查一下吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:33:0",
+  "message_id": "SANADA_SHORTCUT1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4A 03}那面墙很怪……喂，调查一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:34:0",
+  "message_id": "SANADA_SHORTCUT2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4B 03}那边的墙……\n总觉得不对劲。调查一下吧。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:35:0",
+  "message_id": "SANADA_SHORTCUT3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4C 03}前面的墙好像能打穿……\n要不要给它来一拳？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:36:0",
+  "message_id": "SANADA_PARTY_HPTP15_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 32 03}身体发沉啊……\n差不多该回去了吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:37:0",
+  "message_id": "SANADA_PARTY_HPTP15_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 33 03}唔……我的极限\n不该止步于此……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:38:0",
+  "message_id": "SANADA_PARTY_HPTP15_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 34 03}哈、哈……乳酸堆积了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:39:0",
+  "message_id": "SANADA_PARTY_TP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 38 03}我竟然会耗尽耐力……？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:40:0",
+  "message_id": "SANADA_PARTY_TP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 39 03}……抱歉，要不要先回去？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:41:0",
+  "message_id": "SANADA_PARTY_TP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 3A 03}精力差不多到极限了……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:42:0",
+  "message_id": "SANADA_PARTY_HP20_1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 35 03}可恶……体力……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:43:0",
+  "message_id": "SANADA_PARTY_HP20_2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 36 03}体力吃紧了……\n帮我恢复一下。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:44:0",
+  "message_id": "SANADA_PARTY_HP20_3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 37 03}唔……这样下去\n体力撑不住。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:45:0",
+  "message_id": "SANADA_FOE_NEAR1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 29 03}喂，Ｆ．Ｏ．Ｅ追过来了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:46:0",
+  "message_id": "SANADA_FOE_NEAR2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 2A 03 01 01}那只Ｆ．Ｏ．Ｅ，\n似乎把我们当成目标了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:47:0",
+  "message_id": "SANADA_FOE_NEAR3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 2B 03}被Ｆ．Ｏ．Ｅ盯上了，\n小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:48:0",
+  "message_id": "SANADA_ME_LEVEL_UP1",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4D 03}再过一会儿就升级了。\n哼……让人兴奋起来了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:49:0",
+  "message_id": "SANADA_ME_LEVEL_UP2",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4E 03}快升级了……\n一鼓作气拿下吧！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/sanada_support.bf.json:50:0",
+  "message_id": "SANADA_ME_LEVEL_UP3",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 04 01 01 01 07 01 4F 03}快升级了……\n一鼓作气拿下吧！\n{F2 26 00 00}{00}"
+ }
+]

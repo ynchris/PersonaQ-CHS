@@ -1,0 +1,127 @@
+[
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:0:0",
+  "message_id": "FCL_PERSONA_YN",
+  "translation": "{F2 05 FF FF}{F1 41}是{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:0:1",
+  "message_id": "FCL_PERSONA_YN",
+  "translation": "{F2 05 FF FF}{F1 41}否{00}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:1:0",
+  "message_id": "FCL_PERSONA_LVUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞人格面具“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”\n　升级了！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:2:0",
+  "message_id": "FCL_PERSONA_PARAMUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”提升了“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:3:0",
+  "message_id": "FCL_PERSONA_GETSKILL",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”\n　学会了“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:4:0",
+  "message_id": "FCL_PERSONA_RMSKILL",
+  "translation": "{F2 05 FF FF}{F1 41}＞技能栏已满。\n　请选择要舍弃的技能。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:5:0",
+  "message_id": "FCL_PERSONA_RMSKILL_Q",
+  "translation": "{F2 05 FF FF}{F1 41}＞要舍弃“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:6:0",
+  "message_id": "FCL_PERSONA_RMSKILL0",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”\n　遗忘了“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:7:0",
+  "message_id": "FCL_PERSONA_RMSKILL1",
+  "translation": "{F2 05 FF FF}{F1 41}＞将“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”\n　替换为“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:8:0",
+  "message_id": "FCL_PERSONA_RMSKILL2",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”\n　升级为“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”了！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:9:1",
+  "message_id": "FCL_PERSONA_SKILLSHIFT",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”似乎\n　要发生什么变化……\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:9:2",
+  "message_id": "FCL_PERSONA_SKILLSHIFT",
+  "translation": "{F2 05 FF FF}{F1 41}＞要让其继续吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:10:0",
+  "message_id": "FCL_PERSONA_SKILLSHIFTCA",
+  "translation": "{F2 05 FF FF}{F1 41}＞听到了“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”的哭声…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:11:0",
+  "message_id": "FCL_PERSONA_SKILLSHIFTCH",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”竟然\n　强化成了“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:12:0",
+  "message_id": "FCL_PERSONA_SKILLSHIFTUP",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”竟然\n　变成了“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:13:0",
+  "message_id": "FCL_PERSONA_SHIFT",
+  "translation": "{F2 05 FF FF}{F1 41}＞人格面具“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”\n　似乎即将产下什么东西…\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:13:1",
+  "message_id": "FCL_PERSONA_SHIFT",
+  "translation": "{F2 05 FF FF}{F1 41}＞要看下去吗？\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:14:0",
+  "message_id": "FCL_PERSONA_SHIFTCANCEL",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”的\n　“受胎征兆”消失了…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:15:0",
+  "message_id": "FCL_PERSONA_SHIFT1",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”竟然\n　产下了“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:16:1",
+  "message_id": "FCL_GET_SKILLCARD0",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”\n　递出了什么东西……\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:17:0",
+  "message_id": "FCL_GET_SKILLCARD1",
+  "translation": "{F2 05 FF FF}{F1 41}＞竟然从“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”那里\n　得到了技能卡“{F2 01 02 01}{F2 44 02 01}{F2 01 01 01}”！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:18:0",
+  "message_id": "FCL_SKILLCARD_TUTORIAL",
+  "translation": "{F2 05 FF FF}{F1 41}“技能卡”是\n能用在你的人格面具上的道具。\n人格面具会学到\n封在卡片里的技能。\n{F1 21}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:18:1",
+  "message_id": "FCL_SKILLCARD_TUTORIAL",
+  "translation": "{F2 05 FF FF}{F1 41}虽然使用技能卡后卡片会消失，\n但学到的技能\n能通过合体继承。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:19:0",
+  "message_id": "FCL_SKILL_FRAME",
+  "translation": "{F2 05 FF FF}{F1 41}＞“{F2 01 02 01}{F2 44 01 01}{F2 01 01 01}”的\n　技能栏位增加了！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_combine_lvup.bmd.json:20:0",
+  "message_id": "FCL_MOVIE_BONUS",
+  "translation": "{F2 05 FF FF}{F1 41}＞看过电影后，各项能力获得了额外加成！\n{F1 21}{00}"
+ }
+]

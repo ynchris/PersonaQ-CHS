@@ -1,0 +1,82 @@
+[
+ {
+  "key": "export_base/dungeon/script/dungeon11f.gsd_dungeon11f.bf.json:5:0",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}没问题{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon11f.gsd_dungeon11f.bf.json:5:1",
+  "message_id": "SEL_001",
+  "translation": "{F2 05 FF FF}{F1 41}等一下{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon11f.gsd_dungeon11f.bf.json:6:0",
+  "message_id": "MSG_GOKON_B1_BATTLE_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}＞门后传来不祥的气息…\n{F1 21}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon11f.gsd_dungeon11f.bf.json:6:1",
+  "message_id": "MSG_GOKON_B1_BATTLE_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}＞要打开门继续前进吗…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon11f.gsd_dungeon11f.bf.json:7:0",
+  "message_id": "SEL_GOKON_B1_BATTLE_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}迎接爱的试炼{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon11f.gsd_dungeon11f.bf.json:7:1",
+  "message_id": "SEL_GOKON_B1_BATTLE_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}没那个心情{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon11f.gsd_dungeon11f.bf.json:8:0",
+  "message_id": "SEL_REPLAY_G_CON",
+  "translation": "{F2 05 FF FF}{F1 41}想重新选择{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon11f.gsd_dungeon11f.bf.json:8:1",
+  "message_id": "SEL_REPLAY_G_CON",
+  "translation": "{F2 05 FF FF}{F1 41}现在算了{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon11f.gsd_dungeon11f.bf.json:9:0",
+  "message_id": "MSG_D11_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}＞门后有阴影的气息…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon11f.gsd_dungeon11f.bf.json:10:0",
+  "message_id": "MSG_D11_SEL_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}打开门{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon11f.gsd_dungeon11f.bf.json:10:1",
+  "message_id": "MSG_D11_SEL_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}暂时算了{00}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon11f.gsd_dungeon11f.bf.json:11:0",
+  "message_id": "MSG_D11_DAMAGE",
+  "translation": "{F2 05 FF FF}{F1 41}＞被小熊强行拉住了手…！\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon11f.gsd_dungeon11f.bf.json:12:0",
+  "message_id": "MSG_D11_REPLAY_G_CON",
+  "translation": "{F2 05 FF FF}{F1 41}＞要再次挑战\n　选择命中注定的对象吗…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon11f.gsd_dungeon11f.bf.json:13:0",
+  "message_id": "MSG_D11_RE_REPLAY_G_CON",
+  "translation": "{F2 05 FF FF}{F1 41}＞要重新选择命中注定的对象吗…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon11f.gsd_dungeon11f.bf.json:14:0",
+  "message_id": "SEL_RE_REPLAY_G_CON",
+  "translation": "{F2 05 FF FF}{F1 41}想从头再来{00}"
+ },
+ {
+  "key": "export_base/dungeon/script/dungeon11f.gsd_dungeon11f.bf.json:14:1",
+  "message_id": "SEL_RE_REPLAY_G_CON",
+  "translation": "{F2 05 FF FF}{F1 41}想继续下去{00}{00}"
+ }
+]

@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:0:0",
+  "message_id": "BTL_MES_H125_066_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 29 02}哥哥现在不能躲开，也不能逃跑。\n没事吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:1:0",
+  "message_id": "BTL_MES_H125_066_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 20 02}副队长被封印了！\n不能躲开，也不能逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:2:0",
+  "message_id": "BTL_MES_H125_066_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2A 02}阳介哥哥被封印了，\n现在应该不能躲开或逃跑了！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:3:0",
+  "message_id": "BTL_MES_H125_066_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2B 02}千枝姐姐现在不能躲开或逃跑！\n要小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:4:0",
+  "message_id": "BTL_MES_H125_066_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2C 02}雪子姐姐，要小心！\n现在不能躲开或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:6:0",
+  "message_id": "BTL_MES_H125_066_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2D 02}完二哥哥现在不能躲开，\n也不能逃跑！加油！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:7:0",
+  "message_id": "BTL_MES_H125_066_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2F 02}直斗姐姐，要小心！\n现在不能躲开或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:8:0",
+  "message_id": "BTL_MES_H125_066_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 2E 02}小熊先生被封印了！\n现在不能躲开或逃跑哦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:9:0",
+  "message_id": "BTL_MES_H125_066_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 21 02}由加莉姐姐现在不能躲开\n或逃跑，要小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:10:0",
+  "message_id": "BTL_MES_H125_066_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 22 02}顺平哥哥被封印了！\n不能躲开或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:11:0",
+  "message_id": "BTL_MES_H125_066_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 23 02}啊，真田哥哥，\n现在不能躲开或逃跑！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:12:0",
+  "message_id": "BTL_MES_H125_066_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 24 02}美鹤姐姐现在不能躲开\n或逃跑，要小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:14:0",
+  "message_id": "BTL_MES_H125_066_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 27 02}埃癸斯姐姐，\n现在不能躲开或逃跑哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:15:0",
+  "message_id": "BTL_MES_H125_066_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 25 02}乾现在不能躲开，也不能逃跑。\n忍耐一下！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:16:0",
+  "message_id": "BTL_MES_H125_066_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 26 02}小虎被封印了……\n这样会全部打中的……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:17:0",
+  "message_id": "BTL_MES_H125_066_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 28 02}荒垣哥哥被封印了！\n这样会全部打中的……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:18:0",
+  "message_id": "BTL_MES_H125_066_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 30 02}善哥哥，玲姐姐，\n现在不能躲开或逃跑哦！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:19:0",
+  "message_id": "BTL_MES_H125_066_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 31 02}善哥哥现在不能躲开或逃跑！\n要小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:20:0",
+  "message_id": "BTL_MES_H125_066_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1F 02}哥哥现在不能躲开，\n也不能逃跑！要小心！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0009/battle/support/bsv125.bvp_(065).BMD.json:21:0",
+  "message_id": "BTL_MES_H125_066_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 1E 02}队长现在不能躲开或逃跑，\n要小心！\n{F2 26 00 00}{00}"
+ }
+]

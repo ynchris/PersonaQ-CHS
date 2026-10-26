@@ -1,0 +1,57 @@
+[
+ {
+  "key": "export_base/facility/msg_support_skill.bmd.json:0:0",
+  "message_id": "BR_RISE_GETSKILL_TRDEYE",
+  "translation": "{F2 05 FF FF}{F1 41}＞选择目标时，\n　可以得知该攻击是否有效。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_support_skill.bmd.json:1:0",
+  "message_id": "BR_RISE_GETSKILL_ENMY_S",
+  "translation": "{F2 05 FF FF}{F1 41}＞楼层地图的未探索区域\n　也会显示敌人的位置。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_support_skill.bmd.json:2:0",
+  "message_id": "BR_RISE_GETSKILL_TRSR_S",
+  "translation": "{F2 05 FF FF}{F1 41}＞楼层地图的未探索区域\n　也会显示宝箱的位置。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_support_skill.bmd.json:3:0",
+  "message_id": "BR_RISE_GETSKILL_W_SACH",
+  "translation": "{F2 05 FF FF}{F1 41}＞战斗开始时，会告知敌人的属性。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_support_skill.bmd.json:4:0",
+  "message_id": "BR_RISE_GETSKILL_IYA_HP",
+  "translation": "{F2 05 FF FF}{F1 41}＞战斗结束时，会为所有队员\n　恢复少量ＨＰ。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_support_skill.bmd.json:5:0",
+  "message_id": "BR_RISE_GETSKILL_Z_ESCP",
+  "translation": "{F2 05 FF FF}{F1 41}＞可以立即撤离战斗，且必定成功。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_support_skill.bmd.json:6:0",
+  "message_id": "BR_RISE_GETSKILL_IYA_SP",
+  "translation": "{F2 05 FF FF}{F1 41}＞战斗结束时，会为所有队员\n　恢复少量ＳＰ。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_support_skill.bmd.json:7:0",
+  "message_id": "BR_RISE_GETSKILL_HPSONG",
+  "translation": "{F2 05 FF FF}{F1 41}＞战斗结束时的ＨＰ恢复效果增强了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_support_skill.bmd.json:8:0",
+  "message_id": "BR_RISE_GETSKILL_SPSONG",
+  "translation": "{F2 05 FF FF}{F1 41}＞战斗结束时的ＳＰ恢复效果增强了。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_support_skill.bmd.json:9:0",
+  "message_id": "BR_RISE_GETSKILL_H_ANYZ",
+  "translation": "{F2 05 FF FF}{F1 41}＞分析时，除了“已尝试攻击的属性”，\n　还能查看“敌人拥有的技能”。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/msg_support_skill.bmd.json:10:0",
+  "message_id": "BR_RISE_GETSKILL_F_ANYZ",
+  "translation": "{F2 05 FF FF}{F1 41}＞分析时，除了“敌人拥有的技能”，\n　还能查看“尚未尝试攻击的属性”。\n{F1 21}{00}"
+ }
+]

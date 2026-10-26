@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(047).BMD.json:0:0",
+  "message_id": "BTL_MES_H121_048_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 49 01}对稀有敌人发动先制攻击……\n真是千载难逢的良机！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(047).BMD.json:1:0",
+  "message_id": "BTL_MES_H121_048_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4A 01}难不成占了先机，\n却还是会放跑稀有敌人……瞥。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(047).BMD.json:2:0",
+  "message_id": "BTL_MES_H121_048_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4B 01}请做好准备！这次的对手，\n是极其稀有的金光闪闪……是也。\n{F2 26 00 00}{00}"
+ }
+]

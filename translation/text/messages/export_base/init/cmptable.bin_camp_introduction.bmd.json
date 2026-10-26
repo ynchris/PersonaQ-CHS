@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:1:0",
+  "message_id": "cmp_intro_P4HERO",
+  "translation": "{F2 05 FF FF}{F1 41}八十神高中二年级学生。\n追查杀人事件的特别搜查队队长。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:2:0",
+  "message_id": "cmp_intro_P3HERO",
+  "translation": "{F2 05 FF FF}{F1 41}月光馆学园高中部二年级学生。\n讨伐暗影的特别课外活动部队长。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:3:0",
+  "message_id": "cmp_intro_YOSUKE",
+  "translation": "{F2 05 FF FF}{F1 41}八十神高中二年级学生。\n当地“朱尼斯”百货店店长的儿子。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:4:0",
+  "message_id": "cmp_intro_CHIE",
+  "translation": "{F2 05 FF FF}{F1 41}八十神高中二年级学生。\n热爱功夫和肉食的少女。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:5:0",
+  "message_id": "cmp_intro_YUKIKO",
+  "translation": "{F2 05 FF FF}{F1 41}八十神高中二年级学生。\n端庄文雅的少女，笑点却令人费解。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:6:0",
+  "message_id": "cmp_intro_RISE",
+  "translation": "{F2 05 FF FF}{F1 41}八十神高中一年级学生。\n拥有后援能力、暂时休业的偶像。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:7:0",
+  "message_id": "cmp_intro_KANZI",
+  "translation": "{F2 05 FF FF}{F1 41}八十神高中一年级学生。\n重情重义、充满男子气概的直性子。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:8:0",
+  "message_id": "cmp_intro_NAOTO",
+  "translation": "{F2 05 FF FF}{F1 41}八十神高中一年级学生。\n以敏锐推理协助警方的侦探王子。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:9:0",
+  "message_id": "cmp_intro_KUMA",
+  "translation": "{F2 05 FF FF}{F1 41}在电视中的世界遇到的神秘生物。\n目前寄住在阳介家的壁橱里。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:10:0",
+  "message_id": "cmp_intro_YUKARI",
+  "translation": "{F2 05 FF FF}{F1 41}月光馆学园高中部二年级学生。\n性格好强，是弓道部成员。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:11:0",
+  "message_id": "cmp_intro_JUNPEI",
+  "translation": "{F2 05 FF FF}{F1 41}月光馆学园高中部二年级学生。\n虽有些得意忘形，却是伙伴中的开心果。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:12:0",
+  "message_id": "cmp_intro_SANADA",
+  "translation": "{F2 05 FF FF}{F1 41}月光馆学园高中部三年级学生。\n拳击部主将，还拥有自己的粉丝团。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:13:0",
+  "message_id": "cmp_intro_MITSURU",
+  "translation": "{F2 05 FF FF}{F1 41}月光馆学园高中部三年级学生。\n兼任学生会长和特别课外活动部部长。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:14:0",
+  "message_id": "cmp_intro_FUKA",
+  "translation": "{F2 05 FF FF}{F1 41}月光馆学园高中部二年级学生。\n拥有后援能力、性格内敛的少女。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:15:0",
+  "message_id": "cmp_intro_AEGIS",
+  "translation": "{F2 05 FF FF}{F1 41}月光馆学园高中部二年级学生。\n被赋予人格面具能力的人形兵器。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:16:0",
+  "message_id": "cmp_intro_AMADA",
+  "translation": "{F2 05 FF FF}{F1 41}月光馆学园小学部五年级学生。\n母亲在事故中去世。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:17:0",
+  "message_id": "cmp_intro_KOROMARU",
+  "translation": "{F2 05 FF FF}{F1 41}拥有人格面具能力的柴犬。\n主人在事故中去世。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:18:0",
+  "message_id": "cmp_intro_ARAGAKI",
+  "translation": "{F2 05 FF FF}{F1 41}月光馆学园高中部三年级学生，\n正在休学。真田的青梅竹马。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:19:0",
+  "message_id": "cmp_intro_ZENREI",
+  "translation": "{F2 05 FF FF}{F1 41}在这次文化祭遇到的八十神高中学生。\n两人都失去了记忆。\n{00}"
+ },
+ {
+  "key": "export_base/init/cmptable.bin_camp_introduction.bmd.json:20:0",
+  "message_id": "cmp_intro_ZEN",
+  "translation": "{F2 05 FF FF}{F1 41}掌管死亡的存在“柯罗诺斯”的半身。\n为救出玲，与伙伴们一同赶往时钟塔。\n{00}"
+ }
+]

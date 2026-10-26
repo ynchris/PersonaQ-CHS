@@ -1,0 +1,137 @@
+[
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞这个房间里的锁链，\n　之前应该已经解开了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 02 01}{F5 C1 04 01 01 01 01 01 03 01}看来被你们发现了呢。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 11 01 0B 01 01 01 02 01}{F5 61 02 01 01 01 01 01 06 01}{F5 C1 03 01 01 01 01 01 07 01}啊，果然又是这个声音……\n{F2 23 3D 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞前方的道路再次被封锁了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 07 01}{F5 C1 03 01 01 01 01 01 05 01}命运可以一次又一次地改变……吗？\n{F2 23 3D 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}{F5 C1 03 01 01 01 01 01 0A 01}把命中注定的对象全收集，\n这也太夸张了吧……\n{F2 23 79 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 03 01}{F5 C1 04 01 01 01 01 01 03 01}你已踏入禁忌的\n“重新选择命运”之路。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:6:1",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 04 01 01 01 01 01 03 01}凭感觉回答简单的问题，\n就能找到新的命定对象哦。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:6:2",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 05 01}{F5 C1 04 01 01 01 01 01 03 01}那么，马上开始第一题。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0B 01 07 01 01 01 02 01}{F5 61 02 01 01 01 01 01 09 01}{F5 C1 03 01 01 01 01 01 0A 01}话说，命中注定的对象还能变……\n这算怎么回事啊。\n{F2 23 79 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:8:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 01 01}世上并不存在所谓命运，\n一切都是自己一次次选择\n累积而成的结果……\n{F2 23 B5 01}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:8:1",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}……尽量往好的方向想，\n也可以这样理解。\n{F2 23 79 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 04 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0A 01}{F5 C1 03 01 01 01 01 01 08 01}终于来了熊！\n轮到小熊了！！\n{F2 23 79 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}……很遗憾，小熊。\n这次的选择，\n也继续交给{F1 81}来做。\n{F2 23 B5 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0B 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0C 01}{F5 C1 03 01 01 01 01 01 02 01}晴天霹雳！\n小美，这是为什么！？\n{F2 23 79 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:12:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}选出命定对象之后，\n队伍编成就会受到限制。\n{F2 23 79 01}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:12:1",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}即使守卫已经不在，\n没有队长在场，两人独处仍然危险。\n{F2 23 79 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:13:0",
+  "message_id": "MSG_0122",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 86 0E 01 01 01 01 01 04 01}{F5 61 02 01 01 01 01 01 01 01}……明白了吗，队长。\n{F2 23 3D 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:14:0",
+  "message_id": "SEL_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}真期待{F5 47 02 01 01 01 0D 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:14:1",
+  "message_id": "SEL_013",
+  "translation": "{F2 05 FF FF}{F1 41}还要再来啊……{F5 47 02 01 01 01 0B 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:14:2",
+  "message_id": "SEL_013",
+  "translation": "{F2 05 FF FF}{F1 41}呵呵……{F5 47 02 01 01 01 07 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:15:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}哦，怎么了？\n你还挺来劲的嘛。\n{F2 23 79 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:16:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 03 01 05 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}……嘴上这么说，\n心里其实跃跃欲试吧？\n{F2 23 79 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:17:0",
+  "message_id": "MSG_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 04 01 11 01 03 01 01 01}{F5 61 02 01 01 01 01 01 0E 01}{F5 C1 03 01 01 01 01 01 07 01}喂，等等！\n你刚才那笑容是什么意思！？\n{F2 23 79 01}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:18:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞似乎可以再次\n　选择命中注定的对象……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e722_101.bf.json:18:1",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞试试看吧……\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

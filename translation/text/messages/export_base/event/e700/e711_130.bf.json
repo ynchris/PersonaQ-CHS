@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/event/e700/e711_130.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞和之前一样的空白卡片，\n　有３张掉在脚边……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e700/e711_130.bf.json:1:0",
+  "message_id": "MSG_0002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞获得了３张{F4 84 04 01 01 01 04 07}！\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

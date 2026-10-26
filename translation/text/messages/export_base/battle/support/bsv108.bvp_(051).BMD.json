@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(051).BMD.json:0:0",
+  "message_id": "BTL_MES_H108_052_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 9A 02}ＦＯＥ就在附近。请注意！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(051).BMD.json:1:0",
+  "message_id": "BTL_MES_H108_052_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 9B 02}附近有ＦＯＥ！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(051).BMD.json:2:0",
+  "message_id": "BTL_MES_H108_052_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 9C 02}ＦＯＥ接近，请小心！\n{F2 26 00 00}{00}"
+ }
+]

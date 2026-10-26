@@ -1,0 +1,42 @@
+[
+ {
+  "key": "export_base/init/gsobserver.bin_mission_00.gsd_mission_00.bf.json:1:0",
+  "message_id": "MSG_ALICE_NOKEY",
+  "translation": "{F2 05 FF FF}{F1 41}＞门锁着。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/gsobserver.bin_mission_00.gsd_mission_00.bf.json:2:0",
+  "message_id": "MSG_ALICE_IHAVEKEY",
+  "translation": "{F2 05 FF FF}{F1 41}＞打开了门锁。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/gsobserver.bin_mission_00.gsd_mission_00.bf.json:3:0",
+  "message_id": "MSG_ALICE_B4_BOSS_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}＞感觉到门后有\n　大型阴影的气息…\n{F1 21}"
+ },
+ {
+  "key": "export_base/init/gsobserver.bin_mission_00.gsd_mission_00.bf.json:3:1",
+  "message_id": "MSG_ALICE_B4_BOSS_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}＞要打开门继续前进吗…\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/init/gsobserver.bin_mission_00.gsd_mission_00.bf.json:4:0",
+  "message_id": "SEL_ALICE_B4_BOSS_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}打开门{00}"
+ },
+ {
+  "key": "export_base/init/gsobserver.bin_mission_00.gsd_mission_00.bf.json:4:1",
+  "message_id": "SEL_ALICE_B4_BOSS_DOOR",
+  "translation": "{F2 05 FF FF}{F1 41}暂时算了{00}{00}"
+ },
+ {
+  "key": "export_base/init/gsobserver.bin_mission_00.gsd_mission_00.bf.json:5:0",
+  "message_id": "MSG_ALICE_GOT_KEY",
+  "translation": "{F2 05 FF FF}{F1 41}＞总之，\n　这样就拿到钥匙了。\n{F1 21}"
+ },
+ {
+  "key": "export_base/init/gsobserver.bin_mission_00.gsd_mission_00.bf.json:5:1",
+  "message_id": "MSG_ALICE_GOT_KEY",
+  "translation": "{F2 05 FF FF}{F1 41}＞去那扇挂着锁的门\n　看看吧…\n{F1 21}{00}"
+ }
+]

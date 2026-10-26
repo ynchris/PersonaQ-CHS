@@ -1,0 +1,112 @@
+[
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞眼前有一扇被锁链封住的门……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0C 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}这什么啊？\n根本过不去嘛。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 01 01 03 01 01 01}{F5 61 02 01 01 01 01 01 03 01}或许有什么机关，\n但也可能是敌人的陷阱……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0B 01}{F5 C1 04 01 01 01 01 01 03 01}欢迎，迷途的小羊们。\n这里是“命运的选择之屋”。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:4:0",
+  "message_id": "MSG_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0D 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 04 01}{F5 C1 03 01 01 01 01 01 07 01}又是你啊。\n这么说，这就是能找到\n“命中注定的另一半”的东西？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0C 01}{F5 C1 04 01 01 01 01 01 03 01}接下来将提出命运的问题。\n请凭感觉或直觉作答。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:5:1",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0D 01}{F5 C1 04 01 01 01 01 01 03 01}问题有好几个。\n全部答完，就能找到\n你命中注定的另一半。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:5:2",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0E 01}{F5 C1 04 01 01 01 01 01 03 01}那么，马上开始第一题。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:6:0",
+  "message_id": "MSG_Q_001",
+  "translation": "{F2 05 FF FF}{F1 41}对你而言，最好的伙伴是什么？\n※预定使用专用界面\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:7:0",
+  "message_id": "SEL_Q_002",
+  "translation": "{F2 05 FF FF}{F1 41}当然是恋人{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:7:1",
+  "message_id": "SEL_Q_002",
+  "translation": "{F2 05 FF FF}{F1 41}肯定是朋友{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:7:2",
+  "message_id": "SEL_Q_002",
+  "translation": "{F2 05 FF FF}{F1 41}家人才是第一位{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:8:0",
+  "message_id": "MSG_Q_003",
+  "translation": "{F2 05 FF FF}{F1 41}※开门演出\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:9:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 12 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 05 01}汪！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:10:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 02 01 03 01 01 01}{F5 61 02 01 01 01 01 01 06 01}回答问题，门就会打开……\n原来如此。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:11:0",
+  "message_id": "MSG_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 07 01}哦哦，也就是说，只要这样前进，\n最终就能选出小熊的命定公主了吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:12:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0E 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}分头前进并不明智。\n接下来的问题，\n就全部交给队长决定吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:13:0",
+  "message_id": "SEL_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}{F4 87 0C 01 01 01 01 01}{F5 86 01 01 02 01 01 01 02 01}明白了{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:13:1",
+  "message_id": "SEL_TALK010",
+  "translation": "{F2 05 FF FF}{F1 41}开始有意思了{F5 47 02 01 01 01 03 01 01 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:14:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 0A 01 08 01 01 01 02 01}{F5 61 02 01 01 01 01 01 09 01}{F5 C1 03 01 01 01 01 01 01 01}那小熊呢！？\n小熊的命定伴侣怎么办！？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e200/e220_032.bf.json:15:0",
+  "message_id": "MSG_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 09 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}总之，路已经打开了，\n我们小心往里面走吧。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

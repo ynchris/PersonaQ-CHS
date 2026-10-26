@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(062).BMD.json:0:0",
+  "message_id": "BTL_MES_H121_063_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E5 01}这……这是玲的？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(062).BMD.json:1:0",
+  "message_id": "BTL_MES_H121_063_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E6 01}嗯，得先让它安静下来！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(062).BMD.json:2:0",
+  "message_id": "BTL_MES_H121_063_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E7 01}拜托了！救救玲！！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0006/battle/support/bsv121.bvp_(062).BMD.json:3:0",
+  "message_id": "BTL_MES_H121_063_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 E8 01}一定！一定一定！\n要救出玲！\n{F2 26 00 00}{00}"
+ }
+]

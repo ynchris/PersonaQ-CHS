@@ -1,0 +1,387 @@
+[
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞再次来到摊位街……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:1:0",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 25 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 02 01}记住东西是你的任务。\n感受事物是我的使命。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:1:1",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 03 01}我给提示，你去买。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:1:2",
+  "message_id": "MSG_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 04 01}没买错的话，\n委托报酬就给好一点。\n刚决定的。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:2:0",
+  "message_id": "MSG_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玛丽似乎完全没打算自己买……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:3:0",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 05 01}第一题。\n锵锵——。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:3:1",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 06 01}夺回被折断的翅膀！\n向远方，向高处……！\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:3:2",
+  "message_id": "MSG_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 07 01}Fry, Do…POTATO！\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:4:0",
+  "message_id": "SEL_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}好提示{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:4:1",
+  "message_id": "SEL_004",
+  "translation": "{F2 05 FF FF}{F1 41}……完了？{F5 47 02 01 01 01 09 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:5:0",
+  "message_id": "MSG_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 04 01 01 01 01 01}{F5 61 02 01 01 01 01 01 08 01}对吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:6:0",
+  "message_id": "MSG_006",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 09 01}都说到这份上了还不懂？\n就是薯条啊。\n你没事吧？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:7:0",
+  "message_id": "MSG_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0A 01}好像说过什么酱料……\n是什么来着？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:8:0",
+  "message_id": "SEL_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}烧烤酱{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:8:1",
+  "message_id": "SEL_008",
+  "translation": "{F2 05 FF FF}{F1 41}番茄酱{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:8:2",
+  "message_id": "SEL_008",
+  "translation": "{F2 05 FF FF}{F1 41}蛋黄酱{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:8:3",
+  "message_id": "SEL_008",
+  "translation": "{F2 05 FF FF}{F1 41}芥末酱{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:9:0",
+  "message_id": "MSG_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0B 01}啊，差不多就是这样。\n那就去吧——。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:10:0",
+  "message_id": "MSG_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞前往摊位购买薯条……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:11:0",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 86 25 01 01 01 01 01 02 01}{F5 61 02 01 01 01 01 01 0C 01}第二题。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:11:1",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0D 01}肉桂和蜂蜜一直很要好。\n焦糖爱撒娇。\n苹果爱生气。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:11:2",
+  "message_id": "MSG_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 0E 01}这是什么呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:12:0",
+  "message_id": "SEL_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}猜谜？{F5 47 02 01 01 01 09 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:12:1",
+  "message_id": "SEL_012",
+  "translation": "{F2 05 FF FF}{F1 41}这就是提示？{F5 47 02 01 01 01 09 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:13:0",
+  "message_id": "MSG_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 0F 01}才不是猜谜。\n都说了是提示。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:14:0",
+  "message_id": "MSG_014",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 05 01 01 01 01 01}{F5 61 02 01 01 01 01 01 10 01}你真迟钝。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:15:0",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 11 01}理世和埃癸斯让我们买饮料。\n想起来了吗？\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:15:1",
+  "message_id": "MSG_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 12 01}那个，理世要的是什么来着？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:16:0",
+  "message_id": "SEL_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}蜂蜜焦糖拿铁{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:16:1",
+  "message_id": "SEL_016",
+  "translation": "{F2 05 FF FF}{F1 41}肉桂焦糖拿铁{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:16:2",
+  "message_id": "SEL_016",
+  "translation": "{F2 05 FF FF}{F1 41}蜂蜜苹果茶{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:16:3",
+  "message_id": "SEL_016",
+  "translation": "{F2 05 FF FF}{F1 41}肉桂苹果茶{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:16:4",
+  "message_id": "SEL_016",
+  "translation": "{F2 05 FF FF}{F1 41}蜂蜜肉桂拿铁{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:16:5",
+  "message_id": "SEL_016",
+  "translation": "{F2 05 FF FF}{F1 41}肉桂焦糖茶{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:17:0",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 13 01}啊，对对。\n差不多就是这样。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:17:1",
+  "message_id": "MSG_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 14 01}埃癸斯呢？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:18:0",
+  "message_id": "SEL_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}冰宇治抹茶拿铁{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:18:1",
+  "message_id": "SEL_018",
+  "translation": "{F2 05 FF FF}{F1 41}热宇治抹茶拿铁{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:18:2",
+  "message_id": "SEL_018",
+  "translation": "{F2 05 FF FF}{F1 41}抹茶冰淇淋漂浮饮{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:19:0",
+  "message_id": "MSG_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0D 01 01 01 02 01}{F5 61 02 01 01 01 01 01 15 01}大概就是这样。\n去买吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:20:0",
+  "message_id": "MSG_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞前往摊位购买两人的饮料……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:21:0",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 04 01}{F5 C1 1A 01 01 01 01 01 05 01}{F5 86 25 01 02 01 01 01 02 01}{F5 61 02 01 01 01 01 01 16 01}……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:21:1",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 07 01 01 01 01 01}{F5 61 02 01 01 01 01 01 17 01}{F5 C1 03 01 01 01 01 01 04 01}……提示给腻了。\n应该说，采购已经腻了。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:21:2",
+  "message_id": "MSG_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 18 01}反正是迪奥，\n给他水不就好了？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:22:0",
+  "message_id": "SEL_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 02 01 01 01 01 01}那不行{F5 47 02 01 01 01 01 01 21 01}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:22:1",
+  "message_id": "SEL_022",
+  "translation": "{F2 05 FF FF}{F1 41}那不错{F5 47 02 01 01 01 01 01 21 01}{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:23:0",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 19 01}哦。\n你真认真。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:23:1",
+  "message_id": "MSG_023",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 04 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1A 01}……不过，是个好人。\n这已经定了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:24:0",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1B 01}刚才那话不像你会说的。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:24:1",
+  "message_id": "MSG_024",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1C 01}你是个好人。\n这已经定了。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:25:0",
+  "message_id": "MSG_025",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1D 01}那赶快买冰淇淋吧。\n然后回去。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:26:0",
+  "message_id": "MSG_026",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞迪奥点的冰淇淋，\n　最上面是什么口味呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:27:0",
+  "message_id": "SEL_027",
+  "translation": "{F2 05 FF FF}{F1 41}榴莲{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:27:1",
+  "message_id": "SEL_027",
+  "translation": "{F2 05 FF FF}{F1 41}芒果{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:27:2",
+  "message_id": "SEL_027",
+  "translation": "{F2 05 FF FF}{F1 41}苹果{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:27:3",
+  "message_id": "SEL_027",
+  "translation": "{F2 05 FF FF}{F1 41}焦糖{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:28:0",
+  "message_id": "MSG_0262",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞迪奥点的冰淇淋，\n　中间是什么口味呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:29:0",
+  "message_id": "SEL_0272",
+  "translation": "{F2 05 FF FF}{F1 41}芒果{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:29:1",
+  "message_id": "SEL_0272",
+  "translation": "{F2 05 FF FF}{F1 41}榴莲{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:29:2",
+  "message_id": "SEL_0272",
+  "translation": "{F2 05 FF FF}{F1 41}石榴{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:29:3",
+  "message_id": "SEL_0272",
+  "translation": "{F2 05 FF FF}{F1 41}李子{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:30:0",
+  "message_id": "MSG_0263",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞迪奥点的冰淇淋，\n　最下面是什么口味呢……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:31:0",
+  "message_id": "SEL_0273",
+  "translation": "{F2 05 FF FF}{F1 41}焦糖{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:31:1",
+  "message_id": "SEL_0273",
+  "translation": "{F2 05 FF FF}{F1 41}抹茶{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:31:2",
+  "message_id": "SEL_0273",
+  "translation": "{F2 05 FF FF}{F1 41}桃子{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:31:3",
+  "message_id": "SEL_0273",
+  "translation": "{F2 05 FF FF}{F1 41}李子{00}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:32:0",
+  "message_id": "MSG_028",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 01 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 01 01}＞把答案一起告诉了玛丽……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:33:0",
+  "message_id": "MSG_029",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1E 01}对迪奥来说，哪个都一样。\n走吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:34:0",
+  "message_id": "MSG_030",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞可是，已经拿不下了……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:35:0",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 01 01 01 01 01 01}{F5 61 02 01 01 01 01 01 1F 01}……拿不了？\n分一半给我。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:35:1",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 0D 01 01 01 01 01}{F5 61 02 01 01 01 01 01 20 01}呵呵，心怀感激吧。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:35:2",
+  "message_id": "MSG_031",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 86 25 01 04 01 01 01 01 01}{F5 61 02 01 01 01 01 01 21 01}……刚才是在模仿玛格丽特。\n像吗？\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:36:0",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞……。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:36:1",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞玛丽的心情似乎完全好转了……\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:36:2",
+  "message_id": "MSG_032",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞看来，\n她之前真的只是无聊吧……\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:37:0",
+  "message_id": "MSG_033",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 22 01}{F5 C1 04 01 01 01 01 01 02 01}那回去吧。\n{F2 23 00 00}{F1 21}{00}"
+ },
+ {
+  "key": "export_base/event/e800/e811_140.bf.json:38:0",
+  "message_id": "MSG_034",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞和玛丽有说有笑地回到了美食广场。\n{F2 23 00 00}{F1 21}{00}"
+ }
+]

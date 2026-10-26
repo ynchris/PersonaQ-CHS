@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(028).BMD.json:0:0",
+  "message_id": "BTL_MES_H108_029_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 22 01}敌人３名。虽有没资料的敌人，\n但应该能轻松获胜。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv108.bvp_(028).BMD.json:1:0",
+  "message_id": "BTL_MES_H108_029_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 23 01}敌人３名。\n威胁程度应该较低。\n{F2 26 00 00}{00}"
+ }
+]

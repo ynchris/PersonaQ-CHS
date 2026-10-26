@@ -1,0 +1,17 @@
+[
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(048).BMD.json:0:0",
+  "message_id": "BTL_MES_H123_049_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 53 01}麻烦的对手加入进来了呢……\n恐怕不得不改变作战计划了吧？\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(048).BMD.json:1:0",
+  "message_id": "BTL_MES_H123_049_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 54 01}哦……竟然闯进来了……\n这下可麻烦了呢……\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_dlc/0005/battle/support/bsv123.bvp_(048).BMD.json:2:0",
+  "message_id": "BTL_MES_H123_049_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 55 01}讨厌的对手出现了呢……\n这下……该如何是好……\n{F2 26 00 00}{00}"
+ }
+]

@@ -1,0 +1,22 @@
+[
+ {
+  "key": "export_base/facility/scrpartyedit.bf.json:0:0",
+  "message_id": "PARTY_EDIT_SCR_MSG",
+  "translation": "{F2 05 FF FF}{F1 41}欢迎。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/scrpartyedit.bf.json:1:0",
+  "message_id": "PARTY_EDIT_TUTORIAL_NAVI",
+  "translation": "{F2 05 FF FF}{F1 41}随着新成员加入，\n现在可以将导航分为战斗和迷宫，\n分别交给两个人负责。\n　\n可在队伍编成菜单的\n{F2 01 03 01}“导航设置”{F2 01 01 01}中\n进行设置。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/scrpartyedit.bf.json:2:0",
+  "message_id": "PARTY_EDIT_TUTORIAL_NAVI",
+  "translation": "{F2 05 FF FF}{F1 41}若将战斗和迷宫的导航分别交给两人，\n{F2 01 03 01}就只能使用在各自负责的场合\n有效的技能{F2 01 01 01}，\n请注意。\n{F1 21}{00}"
+ },
+ {
+  "key": "export_base/facility/scrpartyedit.bf.json:3:0",
+  "message_id": "PARTY_EDIT_TUTORIAL_PRES",
+  "translation": "{F2 05 FF FF}{F1 41}已经为您登记了推荐队伍。\n　\n可以通过\n{F2 01 03 01}“调用已登记队伍”{F2 01 01 01}进行调用，\n不知如何编队时，请使用此功能。\n{F1 21}{00}"
+ }
+]

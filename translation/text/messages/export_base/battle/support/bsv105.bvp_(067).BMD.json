@@ -1,0 +1,102 @@
+[
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:0:0",
+  "message_id": "BTL_MES_H105_068_001",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 50 02}前辈的防御力被降低了。\n小心受到的伤害。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:1:0",
+  "message_id": "BTL_MES_H105_068_002",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 47 02}副队长的\n防御力被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:2:0",
+  "message_id": "BTL_MES_H105_068_003",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 51 02}花村前辈的防御力被降低了。\n要小心哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:3:0",
+  "message_id": "BTL_MES_H105_068_004",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 52 02}千枝前辈，防御力被降低了，\n要小心哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:4:0",
+  "message_id": "BTL_MES_H105_068_005",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 53 02}雪子前辈的防御力被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:6:0",
+  "message_id": "BTL_MES_H105_068_007",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 54 02}完二的防御力被降低了。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:7:0",
+  "message_id": "BTL_MES_H105_068_008",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 56 02}直斗的防御力下降了。\n小心受到的伤害！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:8:0",
+  "message_id": "BTL_MES_H105_068_009",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 55 02}小熊的防御力被降低了。\n受到的伤害会增加哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:9:0",
+  "message_id": "BTL_MES_H105_068_010",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 48 02}由加莉的防御力\n被降低了。要小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:10:0",
+  "message_id": "BTL_MES_H105_068_011",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 49 02}顺平先生的防御力下降了。\n要小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:11:0",
+  "message_id": "BTL_MES_H105_068_012",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4A 02}真田先生的防御力被降低了。\n要小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:12:0",
+  "message_id": "BTL_MES_H105_068_013",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4B 02}美鹤女士的防御力被降低了。\n小心受到的伤害。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:14:0",
+  "message_id": "BTL_MES_H105_068_015",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4E 02}埃癸斯的防御力被降低了。\n不能勉强哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:15:0",
+  "message_id": "BTL_MES_H105_068_016",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4C 02}乾的防御力被降低了。\n小心受到的伤害。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:16:0",
+  "message_id": "BTL_MES_H105_068_017",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4D 02}小虎的防御力被降低了。\n多照应一下它。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:17:0",
+  "message_id": "BTL_MES_H105_068_018",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 4F 02}荒垣先生的防御力被降低了。\n要小心哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:18:0",
+  "message_id": "BTL_MES_H105_068_019",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 57 02}善和玲的\n防御力被降低了。要小心。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:19:0",
+  "message_id": "BTL_MES_H105_068_020",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 58 02}善的防御力下降了。\n别勉强哦。\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:20:0",
+  "message_id": "BTL_MES_H105_068_021",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 46 02}前辈，防御力被降低了。\n小心受到的伤害！\n{F2 26 00 00}{00}"
+ },
+ {
+  "key": "export_base/battle/support/bsv105.bvp_(067).BMD.json:21:0",
+  "message_id": "BTL_MES_H105_068_022",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 05 01 01 01 05 01 45 02}队长，防御力被降低了。\n小心受到的伤害。\n{F2 26 00 00}{00}"
+ }
+]

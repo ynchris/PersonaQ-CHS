@@ -1,0 +1,12 @@
+[
+ {
+  "key": "export_base/event/e700/e723_111.bf.json:0:0",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞地上掉着一张\n　写有红字的纸片。\n{F2 23 00 00}{F1 21}"
+ },
+ {
+  "key": "export_base/event/e700/e723_111.bf.json:0:1",
+  "message_id": "MSG_000",
+  "translation": "{F2 05 FF FF}{F1 41}{F5 61 02 01 01 01 01 01 01 01}＞上面只写着，\n　{F2 01 03 01}“技术之后是美术。\n　数学之前是理科。”{F2 01 01 01}\n{F2 23 00 00}{F1 21}{00}"
+ }
+]
